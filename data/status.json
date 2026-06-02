@@ -1,0 +1,26 @@
+{
+  "updated_at": "2026-06-01",
+  "_README": "HAND-EDITED FILE. This holds the manual judgement fields the auto-fetchers must not touch. Edit the 'stage' / 'tension_level' values (keep them spelled exactly as one of the items in the matching 'stages'/'levels' list) and the 'note' text, then commit. The news feeds are fetched into separate files and merged in the UI.",
+
+  "concession": {
+    "brasilia": {
+      "stage": "docs pending",
+      "stages": ["docs pending", "auction dated", "auction held", "result"],
+      "note": "JK/Brasília re-concession. TCU approved a variable concession-fee model; auction expected by end-2026; bundled with regional airports; operated by CAAP's Inframerica.",
+      "expected": "auction by end-2026"
+    },
+    "aa2000": {
+      "stage": "rebalancing in negotiation",
+      "stages": ["stable", "rebalancing in negotiation", "agreement reached", "buyout exercised"],
+      "note": "NOT a renewal — AA2000 concession runs to 2038. Tracking the economic-equilibrium rebalancing with ORSNA and the government's buyout right.",
+      "expected": "ongoing"
+    }
+  },
+
+  "armenia": {
+    "tension_level": "elevated",
+    "levels": ["calm", "watch", "elevated", "high", "critical"],
+    "note": "Armenia–Azerbaijan peace deal initialed Aug 2025 but not yet signed. Escalation triggers to watch: June 2026 parliamentary elections, the TRIPP / Zangezur corridor arrangements, and Russia/Iran interference. Zvartnots (Yerevan) is CAAP's Armenia asset.",
+    "as_of": "2026-06-01"
+  }
+}

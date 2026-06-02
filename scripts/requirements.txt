@@ -1,0 +1,11 @@
+# CAAPWATCH fetch scripts use the Python STANDARD LIBRARY ONLY.
+#
+# There are intentionally no third-party dependencies:
+#   - urllib.request   -> HTTP (with a real User-Agent)
+#   - html.parser      -> parse the EDGAR release tables
+#   - xml.etree        -> parse Google News RSS (concession / fuel / armenia feeds)
+#   - json             -> everything else
+#
+# This means the GitHub Action never runs `pip install` and can never break on a
+# dependency resolution or wheel-build failure. If you ever add a package here,
+# also add a `pip install -r scripts/requirements.txt` step to refresh.yml.

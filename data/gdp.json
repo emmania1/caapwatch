@@ -1,0 +1,285 @@
+{
+  "updated_at": "2026-06-02T03:05:29Z",
+  "status": "ok",
+  "source": "World Bank — World Development Indicators",
+  "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG",
+  "indicator": "Real GDP growth (annual %)",
+  "countries": [
+    {
+      "name": "Argentina",
+      "iso3": "ARG",
+      "latest": -1.34,
+      "year": "2024",
+      "series": [
+        {
+          "year": "2015",
+          "value": 2.73
+        },
+        {
+          "year": "2016",
+          "value": -2.08
+        },
+        {
+          "year": "2017",
+          "value": 2.82
+        },
+        {
+          "year": "2018",
+          "value": -2.62
+        },
+        {
+          "year": "2019",
+          "value": -2.0
+        },
+        {
+          "year": "2020",
+          "value": -9.9
+        },
+        {
+          "year": "2021",
+          "value": 10.44
+        },
+        {
+          "year": "2022",
+          "value": 6.02
+        },
+        {
+          "year": "2023",
+          "value": -1.86
+        },
+        {
+          "year": "2024",
+          "value": -1.34
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "iso3": "BRA",
+      "latest": 3.42,
+      "year": "2024",
+      "series": [
+        {
+          "year": "2015",
+          "value": -3.55
+        },
+        {
+          "year": "2016",
+          "value": -3.28
+        },
+        {
+          "year": "2017",
+          "value": 1.32
+        },
+        {
+          "year": "2018",
+          "value": 1.78
+        },
+        {
+          "year": "2019",
+          "value": 1.22
+        },
+        {
+          "year": "2020",
+          "value": -3.28
+        },
+        {
+          "year": "2021",
+          "value": 4.76
+        },
+        {
+          "year": "2022",
+          "value": 3.02
+        },
+        {
+          "year": "2023",
+          "value": 3.24
+        },
+        {
+          "year": "2024",
+          "value": 3.42
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "iso3": "ITA",
+      "latest": 0.69,
+      "year": "2024",
+      "series": [
+        {
+          "year": "2015",
+          "value": 0.89
+        },
+        {
+          "year": "2016",
+          "value": 1.24
+        },
+        {
+          "year": "2017",
+          "value": 1.6
+        },
+        {
+          "year": "2018",
+          "value": 0.83
+        },
+        {
+          "year": "2019",
+          "value": 0.43
+        },
+        {
+          "year": "2020",
+          "value": -8.87
+        },
+        {
+          "year": "2021",
+          "value": 8.93
+        },
+        {
+          "year": "2022",
+          "value": 4.82
+        },
+        {
+          "year": "2023",
+          "value": 0.98
+        },
+        {
+          "year": "2024",
+          "value": 0.69
+        }
+      ]
+    },
+    {
+      "name": "Armenia",
+      "iso3": "ARM",
+      "latest": 5.9,
+      "year": "2024",
+      "series": [
+        {
+          "year": "2015",
+          "value": 3.2
+        },
+        {
+          "year": "2016",
+          "value": 0.2
+        },
+        {
+          "year": "2017",
+          "value": 7.5
+        },
+        {
+          "year": "2018",
+          "value": 5.2
+        },
+        {
+          "year": "2019",
+          "value": 7.6
+        },
+        {
+          "year": "2020",
+          "value": -7.2
+        },
+        {
+          "year": "2021",
+          "value": 5.8
+        },
+        {
+          "year": "2022",
+          "value": 12.6
+        },
+        {
+          "year": "2023",
+          "value": 8.3
+        },
+        {
+          "year": "2024",
+          "value": 5.9
+        }
+      ]
+    }
+  ],
+  "argentina": {
+    "inflation": {
+      "label": "Inflation (CPI, annual %)",
+      "latest": 219.88,
+      "year": "2024",
+      "series": [
+        {
+          "year": "2018",
+          "value": 34.28
+        },
+        {
+          "year": "2019",
+          "value": 53.55
+        },
+        {
+          "year": "2020",
+          "value": 42.02
+        },
+        {
+          "year": "2021",
+          "value": 48.41
+        },
+        {
+          "year": "2022",
+          "value": 72.43
+        },
+        {
+          "year": "2023",
+          "value": 133.49
+        },
+        {
+          "year": "2024",
+          "value": 219.88
+        }
+      ]
+    },
+    "fx": {
+      "label": "ARS / USD (official, annual avg)",
+      "latest": 914.69,
+      "year": "2024",
+      "series": [
+        {
+          "year": "2015",
+          "value": 9.23
+        },
+        {
+          "year": "2016",
+          "value": 14.76
+        },
+        {
+          "year": "2017",
+          "value": 16.56
+        },
+        {
+          "year": "2018",
+          "value": 28.09
+        },
+        {
+          "year": "2019",
+          "value": 48.15
+        },
+        {
+          "year": "2020",
+          "value": 70.54
+        },
+        {
+          "year": "2021",
+          "value": 94.99
+        },
+        {
+          "year": "2022",
+          "value": 130.62
+        },
+        {
+          "year": "2023",
+          "value": 296.26
+        },
+        {
+          "year": "2024",
+          "value": 914.69
+        }
+      ]
+    }
+  }
+}

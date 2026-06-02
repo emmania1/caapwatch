@@ -1,0 +1,88 @@
+{
+  "updated_at": "2026-06-02T04:02:43Z",
+  "status": "ok",
+  "source": "Stooq (oil) · Google News (capacity)",
+  "oil_source_url": "https://stooq.com/q/?s=cb.f",
+  "news_source_url": "https://news.google.com/search?q=airline%20capacity%20cut",
+  "oil": [
+    {
+      "name": "Brent",
+      "symbol": "cb.f",
+      "unit": "$/bbl",
+      "price": 94.38,
+      "open": 94.78,
+      "change_pct": -0.42,
+      "as_of": "2026-06-02"
+    },
+    {
+      "name": "WTI",
+      "symbol": "cl.f",
+      "unit": "$/bbl",
+      "price": 91.47,
+      "open": 92.5,
+      "change_pct": -1.11,
+      "as_of": "2026-06-02"
+    },
+    {
+      "name": "Jet fuel (NY ULSD proxy)",
+      "symbol": "ho.f",
+      "unit": "$/gal",
+      "price": 3.611,
+      "open": 3.6467,
+      "change_pct": -0.98,
+      "as_of": "2026-06-02"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-06-02",
+      "brent": 94.38,
+      "wti": 91.47
+    }
+  ],
+  "risk": {
+    "level": "high",
+    "oil_trend": "flat",
+    "avg_change_pct": -0.84,
+    "headline_count": 14,
+    "rule": "elevated if ≥3 recent capacity headlines or avg oil +2%; high if ≥6 or +4%."
+  },
+  "headlines": [
+    {
+      "title": "United Airlines, SAS, and Delta Trigger Massive Flight Cancellations at Newark Liberty, Unleashing New York Travel Chaos: Latest Airline News - Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0V2Sk5CemRXaDRrbjFNaGs5cUtNdEpBeks1ZzRjbFpydFhRbkRIZmNuOWFHV05sZHVpZjlHdGJJY2ctT0FKbmtiSnFzVDZxUHBDTG94RTBSWTRDRmVhV1BZY0ZDb18zbU40ZHJjZVNjTm1QSmpKNHA2c2F5bTFXODBCbXZ4ZFdMNDJnX1FtVVBwc0xtZ19senFnR215MkdZdUpNeU9haDNCZw?oc=5",
+      "source": "Nomad Lawyer",
+      "published_iso": "2026-05-27T11:51:42Z"
+    },
+    {
+      "title": "Lufthansa Joins KLM, Air China, United, Delta, British Airways and Other Global Carriers in Struggle to Stay Afloat Amid the Devastating 2026 Jet Fuel Crisis, What Passengers Must Know to Avoid Travel Nightmares - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPTVpoRW1xSFFyb3NtMGNVN21NTERJTWQyc09ZTXZkdl96UUJRUEdjbjZLT3RvU1NSXzlxZDhyT2szb3ZySnhENkJrOU5oa3hrTklIb19aNkNSNFZYUzJkeW9jRmFYZjQwZzhDdWU3dWdWcmVMTXdsR19pZHRMU2VETXRDM2RmOXQxUHJDMGZBLW54T0tUTUp0VFUzWkwwMGxOMlhzbU4yUzczSDhQby1MekhXOVEyUHY0c0Y5OEJVdC0xM2MxektrQU1XeFRKdHJjMzdpM09QczRFX1NQWFlBQnlmMl9HaHcxV2h5VXVKTWhXU1N1RC04bnVIUGo0QnlLNmpqTFhRM0pMOHprSENFWHk5RE5Ud05uem9ZeEZwTlpHaXdfT0NnWWVkVFJXSjNDWi02aDRjR0RnVkF3TEw2UDVWczQyM1YxSEpPSFNGNUVhekhWTUx1amZQTmJhNTNUMWc?oc=5",
+      "source": "Travel And Tour World",
+      "published_iso": "2026-05-06T07:00:00Z"
+    },
+    {
+      "title": "Two million airline seats cut amid soaring jet fuel prices - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1hpZUhEc2tFWnZSdklHU05XRkk3eVVhcm9HTERKX2tRRFczdzV3d04zazJKWkVXcDlZMW9xa3Vpb3J4bC1rVnkweG55QjBGeUJLNzRwOXpISHlISmdEQXBzMDBoT1ZTeFlnZlZHVnY4OWNPcnA4a29fUURISFU0bEdBX1JPcm9TWkE?oc=5",
+      "source": "The Guardian",
+      "published_iso": "2026-05-05T07:00:00Z"
+    },
+    {
+      "title": "Budget airlines first to cut flights as jet fuel prices soar - France 24",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmxaWGlOUmtkSE9LRGVLV3VxdGdBWlVpbGtZTlBWRUZzWDFyVWZTMnpfcEd3cEhKTFYyTld4YnZGeW9CLWx0QmVZcTFzdFluTUhwUlF5WDN2MjRaZVB1blBIQ3VFNmlxSlVfekhWSi1vSTAtQjF6eWlUNTJDZFQxb1VNMm5IV3dFY0gxaVZyaG9HM3pLSWhScmF6RVVkVmNKU09YWmRiaTBDQlE?oc=5",
+      "source": "France 24",
+      "published_iso": "2026-04-28T07:00:00Z"
+    },
+    {
+      "title": "Lufthansa Cuts 20,000 Flights As Fuel Crisis Deepens (Full List) - Live and Let's Fly",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTYnhOSzhXTXVPWHM0OFNWbV8tbWhhbUsydmI0bmtickpnT21PeTVxa25LRnhNQ1BselNsSmpLNzhOSWhqYmh5alpERmtiMWNIUlg3eWVlNlQ5anhpVFhDcXRnVkU4QnVIRGp6R1o5dnZWNm83?oc=5",
+      "source": "Live and Let's Fly",
+      "published_iso": "2026-04-22T07:00:00Z"
+    },
+    {
+      "title": "Lufthansa Group pulls over short haul 20,000 flights, with 120 daily flights cancelled - Economy Class & Beyond -",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOREUzRTBuOFVQTHMxOWF4QUQySmd6Y3BHUGZyNVMwb2hHVUp1czhSNm5kWEtOMGtfakUyOHJLNnJYSmFLc0l2VkM1aWU5WldwbEJOLXhBMjBnNVFYb1B1ckRjZGt0SFBtLUR2VkcxUC1KNWtJb3RFZEoxUWNKQ280enlRN1RqSlIzSUJ5NmlJVjF3M1lRaTdabGpjdzVnY2xlVG1rcEhPa1lHV3JaUFU4SFdoTDFhZmx3OTdwTnFhRXNWVGczSy1DWHJiOGNkOVY1OUwwY3pKcnhBSDQ?oc=5",
+      "source": "Economy Class & Beyond -",
+      "published_iso": "2026-04-22T07:00:00Z"
+    }
+  ]
+}

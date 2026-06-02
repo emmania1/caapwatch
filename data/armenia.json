@@ -1,0 +1,44 @@
+{
+  "updated_at": "2026-06-02T04:02:45Z",
+  "status": "ok",
+  "source": "Google News RSS",
+  "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
+  "headlines": [
+    {
+      "title": "Putin issues ‘Ukrainian scenario’ warning as Russia ramps up pressure on Armenia before elections - Meduza",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHliNHMtNHk0c0dOMHFZZW5mNkx5NTZVNHppckVWRHNpaG9ndkMzTG1HQmQ0X25rU01oTndLQTlGckt2Q0o3NE52Vl9fY0k3VXNvX3ZsV1NoWmJaYW11Vy1jSVZMWE1aQm5ERWtKVmY1WnlCY2VfVzR5YXJrZG10Yl9rNms4d1MzS25mV1dLVHd0ZGIzSTl1WHB3eHRhTTdIaFdtNFRvbDJybFEtcXo0MXdrN0s1ZHFseko0c2RNMm1FWGFNb01MdFdTX3FaZkFP0gHWAUFVX3lxTE0tMDRGSWdxdExHZmtpVElhcEc5V01nSFl6YWRDd3hfRm1wVEp6eFRNdUpLQnFTZkVvMVh0VnFwb2dtbjFONEhGN2pra2RLaFNGVzQwWVB5WEVMLWltWnNJX3FFVXAwODF6NV9Ycm5uTWRqYTZIRFJ3QjZsanJPUk9qc2VGU0dCQ2xGbzdHMUhRaDVUNjFQd2hxMDRQVEpZNWIyakNrYzFjRDF1dGNqQ1NVRC1LS3pIcGpRTE5rZnBZaTRoY3RwbmRHMjJOblhQVEI1cE9ubmc?oc=5",
+      "source": "Meduza",
+      "published_iso": "2026-06-01T23:30:00Z"
+    },
+    {
+      "title": "Zangezur Corridor Set to Become Reality, President Aliyev Says - Caspian News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXZtT0dvY09JbVpuLVpUSlQ3U2llcTNEQUJIaEtiM0JqQWFQNEZzV0kyNEpWc095OEc3Q215aTkwS21yUlpLYVUxNTdVbllDWjFGOUNyMjlmMFpiR01Cb01xT1B2M2hyWWdURWZyQ1FYSzlVbDZDclNWU0t0U0xJNnJrTWhVYmlEM2tLUkI1WW9UZTRJLUF6Vi0wNUNsWmk0aDZKZk10OGNET1pyWXVV?oc=5",
+      "source": "Caspian News",
+      "published_iso": "2026-06-01T20:30:55Z"
+    },
+    {
+      "title": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV19jMVFSYm1CZjN5dGxXQ1JScG9uR0FPN0I3OFA0djI3bkhudlBlMkJXQUlUU1dBUHlMR0RLMEJPVE83QTlnMEhrcE5UOW1TeWs3eFRhNEdFcFRYQjhzMGE1TmhmRWx5dU14MS1YNnVyQVdNZHFDZ0Y3OUZRY2lheVV6aGk2UlluSTFiRnhKTGVqUXB0YXI1UWozeEw2VU1PdnBLOWtUVGpVcVRGdDVQZ2x1djbSAboBQVVfeXFMTkJabkVjMktfNkwxMk0wSDZHVlRnUlNSamNNcy1lblpQQ2U5WmVhM1dqaXduSU5QMHBFbTRwTnRtU2hFQmladzIwRmhtaEloWXJvczdWREJaTDgzZEhFX2ZVd1oybnRBdHRFREpscXJPM0RVeFRQdmtkOGUwX0JOcWZudFRnVTBvQWZObE82ZVN3UjAwZHp3bGlNOEFMS09yc2pWc1pSYWVtNmprZEI1ZjNhLV9DbmxDTXBB?oc=5",
+      "source": "Al Jazeera",
+      "published_iso": "2026-06-01T20:17:42Z"
+    },
+    {
+      "title": "Armenia–Azerbaijan peace still fragile, requires international backing, says UPEACE envoy - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YajRfbDBVOHVRNzlic1JZRGJMM0ZkZFVYY21wQlNCWDI1NzNCM0phQ09yNUpTOTgzdXQ4TERSaDR2RENleFFIWEhMbU9wdHBzZWfSAVdBVV95cUxQUDBMUkxnLWZmYlEzMFRiRHlMaWZUc0wwQ1R2RnZhWDFNLVF3NFF1OXNjNEVBWk9qT2N5U01KWG1IVng0U3lLWUVWR3ZKUTJoS0FUeUItaW8?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-06-01T05:59:00Z"
+    },
+    {
+      "title": "“Zangezur Corridor” will definitely be built, Azerbaijan’s Aliyev says - NEWS.am",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBydDdNUEtkN0VhWWV1d05vVWNMcndyQWt4TEV2ZU9hUjlqMHUtd0ZiXzN1T2pWT2gyMy11MnhQbHM2MUNNdGc?oc=5",
+      "source": "NEWS.am",
+      "published_iso": "2026-05-31T20:42:00Z"
+    },
+    {
+      "title": "Pashinyan on course for landslide win in Armenia vote, new poll shows - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFVWRjlaYnEwOE0zSnJIRGxMTm01TFV5STljXzJscTVzVzRyYjBKMHZfdTMtSnZUQ2xfSm9sNXdReDJYZDZRY3E2U19jQ3VZY001YlpENWJra3d2dEpkYXJQQU9jZms5dk9nRnh4WnhRTkJnMDZCUWt0cGRSdkE0UXdDd0hCUGJLUFNpV2hVUVNsUEJ1b0JsQWZJLURQZXBPM2NoZVJaUWQtNXMxaXl4UWlHaXZMZmtEY3ppVkkyM01nd2lj?oc=5",
+      "source": "Euronews.com",
+      "published_iso": "2026-05-31T06:00:01Z"
+    }
+  ]
+}

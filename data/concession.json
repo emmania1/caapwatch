@@ -1,0 +1,72 @@
+{
+  "updated_at": "2026-06-02T04:02:41Z",
+  "status": "ok",
+  "source": "Google News RSS",
+  "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
+  "topics": {
+    "brasilia": [
+      {
+        "title": "Anac discute repactuação da concessão do Aeroporto de Brasília após crise financeira da Inframerica - Times Brasil | CNBC",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOUVpSTJsekdjaW9NWXJIOEFPd2RQUmpOeGQ1RjdLSkc3NkZWZ3poQ2Y5dk5oWE1EeV8xV2tXaXRONFVFamE3UEdjb3BhblBGaWE4ZVdoaVJZNFBudXUtV0dVNzRBOTNoYjhLb19SamdlYlhkbDM2NkhXOEpJNXlGSThyZFh2TU84cVdFcHdwTkNuSFRuUkloX19kNWFhMTZraFBiUEF5dmdsSkI5bjdsSmdYd3ZmUUh3c0tHQnJqNmR3NUNKSy1rb1lhNE4zb0E?oc=5",
+        "source": "Times Brasil | CNBC",
+        "published_iso": "2026-05-25T23:46:00Z"
+      },
+      {
+        "title": "Anac pode abrir consulta pública para repactuação do Aeroporto de Brasília - Tribuna do Agreste",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVk1VNkNWM3FJMExZb0h3UjN1akM3eHZsWm1STlJXclh1VVhORzZGNHFiQkRldUJ2dUtkY213TjllNGJ2SHJnOGJlTmZyTWpIb3pVZkJDNzJfdE0zZjM0Z1VPeURkVjNnUlZGY2JldFFVR09YdDVwbkFHeUtmQzI2QlE4dGFEUktUOEUwbVNoOXNNakZoeUREenl3R2tJaUtLR2ktRy1tSWxFbnE0RkRWbzV2bVM3aGU0THpsLUZGdmdTMHVZY2U2SEx4SFpGWDA?oc=5",
+        "source": "Tribuna do Agreste",
+        "published_iso": "2026-05-25T19:52:00Z"
+      },
+      {
+        "title": "Teste de mercado do aeroporto de Brasília deve ocorrer em dezembro - Agência iNFRA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2tUR2xZdElZcS0xS042cTl6c3BIZTFuMXEtWUctbHJ3VEpySWtNRGpXLTlTRHNkZlM2OXhTSHhxaFFLYmlOaG05bnBCMjFEMjB1OVNqMVhDUU1fRVhzZnhvc2JMTXNaTU13T3BLLTg1QThkN2plMWsyRjhDSHFBMXhBQmRyYkVxTERJODBzcVVkRUxaM01GaVY5eXNJUQ?oc=5",
+        "source": "Agência iNFRA",
+        "published_iso": "2026-05-18T12:24:44Z"
+      },
+      {
+        "title": "Mercado vê com receio condições para concessão do Aeroporto de Brasília - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2kxaFRJNWo0d25mYUhYdGt4LU9ydnA2eWlnVW5VMHg0eG5sbl9wOHJqWHV1TC0xX0ZNd0g3Q0hwT1ZZV0RxbDBCTDQtdTQ4a0c3OXhLOUFZVXY1S2lDcF8zaVhYVnROVXJ3Zld3OFNvNDBBci1rcEx3dlF2aGtBR3NhSEdxb3A4bDBDdWxkNnJLdXZXTUMyZmdVbTJFbzk5SDdCT09vc2dzeFU?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-05-18T07:00:00Z"
+      },
+      {
+        "title": "Aeroporto de Brasília vai a leilão em dezembro com inclusão de terminais regionais no pacote - Brasil 247",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeERybFU2ZTRUZmlhQ3JjRXRIaFhPdUpsYktQbEk1X0dCMXZPNm1sT1hXdHNTSGE0dnIzOE1hRjk2RW02VXZpLV9JajBzVXZKUU9sLVJNaHZOVEN3YXBjNkNsWGpVQUJTSW9pVTZYVW5IbVhydy10NTQxc1hFWTRBVHFMYm5kQ0lWTlVmOVpWT05sU3ctODltNDVWanBXMk4zM1F2Tk41TG5iaW82cHlTRXBDR3dOOTFoRDQ5bDJWdlFVT3ltb1E?oc=5",
+        "source": "Brasil 247",
+        "published_iso": "2026-04-10T07:00:00Z"
+      }
+    ],
+    "aa2000": [
+      {
+        "title": "Una prórroga con turbulencias: el contrato con Aeropuertos Argentina 2000 fue \"poco riguroso\" - elauditor.info",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTTNnVUk2eGVEZUVlQVNOb2p4YTcxNmRIc3BWS1ZiSHBtVTdYUkdGa2p6OVBMdkhicTRBc2M0NmsyNkROSm9KNVJ1ckZ3QWhSMFFZNWloRHVUUHlnWEdQbEU1RGNfQWNmZWM3c3VFQWhRRjhCRWdkT2xmMzZFUkx3Wks2SURhNUl2dlJsZDdwVXM0cEpNTGkxZUtHWG5hSU0yS1p6TlZMX3pQckp1UnhYdmpDSElQNVdYRXFSZzVLdWxzbzRlcXk1S1FSUmdLOWJGdEREMVlFaF9KNC0tQnRjblN2Q2dhOG5mQXlpZlpoQjdoZWxQcXpj0gGGAkFVX3lxTE1Ha1lUb0YxUDdDVXdVczllaTF3MkRhaTUtcFlSWnRjSkg1Q0xxVmpGQ0xKVGpfYThHRWxCeVBDS1F3OUpjbXU5ZTI3NEphaEFXVG1CZURWcjVyOU8yNzd2NlhCMnFQRDlwcWNfVGloWlp4OWRSYmRTdngwSFpkZTZzazdXRGR0azZ1V01XY280MnNmaGljZG1MTm55ak5sRVdjN2QtUUZuYk0zb19zS1pHX3E3TUhjTndpdlZaSE4zaUVPNmdjZF9MQmZSLWtiMjJBMnlEdHRYU2hmZ0tHVElSYjUyM3kweFlHVG90NGNma1N1YmZTUTJ0TDFPR3F3dVNOQ014aXc?oc=5",
+        "source": "elauditor.info",
+        "published_iso": "2025-05-14T07:00:00Z"
+      },
+      {
+        "title": "El Ministerio de Transporte inauguró nuevas obras en el Aeropuerto Internacional de Bariloche - Argentina.gob.ar",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTVpejFIWkdoTGJvaU9rMTBtNXNZR2xmTVR2Vkg2ajVEVWFTcndjSHo1RVpYQnJiT09mazBleVRLMWJXa2dVcDBGZFlQYXRnR2U5WXBTQTdBbHItQlZiUlBOQVVQLUVCa3plczJVbFNYbkQxSXgwSWVxYUQ2S1BvVExYOVVWOWJydmk3cHNtNVY5YmlfcUxtNFFfb2lWV2xPRmg1dXZIbzJEYlBNYUVsRy1ZUzZkOG16YVlSY1FB?oc=5",
+        "source": "Argentina.gob.ar",
+        "published_iso": "2022-07-11T07:00:00Z"
+      },
+      {
+        "title": "Daniel-Ketchibachian-de-AA2000-y-Martín-Rodriguez-de-ORSNA-reciben-el-premio - Aviación en Argentina",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeWUycThhUkZmRUJLa2R2ZWR3OWhrb2ltT21SUlpDd0ZzSXRidDJySDNqRVg2S2RnZks1WlZ1bXRKRHQ0YkZQNlhwWFJOdXZkT0RvZEl5UGM1UVBiS005QThQMmc3WXlnVTRsX3J0Uk5SbkNLU2RIYnZOY2ZEQ3J1RkhWdDB5M3NyOF9zRnA3YVlBU3h5Zy1CYm9mU3ZqRm1NMjE5eXdEbnFsUzEyX1FLUWhldlRtbGtEbEplTzhrTkN0X0pmemtqLTdwT2JEeldyaWNSbEpJcjJVeE5Wc0puQU04OEpQUlkwU0dobXJfWU1XWDJkZ1lZZktqUUhrZEdhZHkxWGp3djlpUDNtTVE?oc=5",
+        "source": "Aviación en Argentina",
+        "published_iso": "2021-10-18T07:00:00Z"
+      },
+      {
+        "title": "AA2000: el Gobierno oficializó prórroga por 10 años de la concesión - El Economista: Últimas noticias económicas y financieras",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHNWU2dvM0kzUFRoaTNNNVpRZlhTaXV0WjFTaEQ0LThveV9kYzQxYlVLc1dMcklCS0JLNEg0alVTNkJfNy1GeklwQVNGY2hGZ1M1R3N3VVhhTUx6R1RwbG5ITFljMnFuUk1HVWFPbU8xUllyc0s2czJBckplTGhCZF9YR2hyR2tZeEJSWS1ybGhSUjBfVEp3MVhvMnBsUdIBowFBVV95cUxOMlNPbVVoQTFnVGludkdfeld0ZEtXSkVJdEEwUXRhcWRTcEZrQ1B2Rk9DZWJaQkYwX2dVa3VQWW9GRjhEQ2xtdGE3TklaeEM3a3dsVTdlSTJ0elV1UDF1LXhvaXZoamJmcDVzRmNyTXhmZzlGRjBMMFFqb1pZY01LbWNsQmVFdW42djBvUmFsTlFlZHVxX3V1OXBnYkJqRmtFN2dj?oc=5",
+        "source": "El Economista: Últimas noticias económicas y financieras",
+        "published_iso": "2021-10-01T00:37:03Z"
+      },
+      {
+        "title": "Insólito: Alberto Fernández extendió la concesión de los aeropuertos para Eurnekian hasta 2038 - La Izquierda Diario",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaWZhT0tHQ1Z6THRhc21fbmZ1NmNfUVlnR2oxWmdQM25fNlJ5LWNqeWJEbGxNX1pFN1FtN0d6ZmN4S2FUSGVOYmpTMDY5NmxvazZPNnVyWGVUQjZYblVOeklCY3Z0WExEcDlOd2FsRzBOUjZYaXZndVYzQmpTNVNXQk9BLXZrZUdSaHN1SkhrUThtaHRPbV9wYU5La0xBbmVaWThlWjNIWC1TbkJPWi1DeVZHb0Z1Y2pwdWthVnZTMmRuWHUzLVHSAc4BQVVfeXFMUGRqV2RJZXNiVmNTbWpUN1FWcG1uX3hkeTFxSDluVXRSMi1ZRTF6YmgxU3Y4bW44RWsxTjV5S0NRZkE2YnJnSm44ai1OaTJveFlaang4bS0yd1dueVpJWU1MYW1vc0RMc2xMSGNCRGI2VzVDcVpMWFBReTlUVHVtY3pvVlNSbUVEWHY0Q05BM29XMXhjQW4xQmJrdUJ1TU1tMDh1eWltcjh2LVoxY1B3R1lNX2l2am1ZYUxkWDk1ZUF1WW5WZ1R5N1JDajNwUVE?oc=5",
+        "source": "La Izquierda Diario",
+        "published_iso": "2020-12-17T08:00:00Z"
+      }
+    ]
+  }
+}

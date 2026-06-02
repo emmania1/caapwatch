@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor cruft
+.DS_Store
+
+# Local dev tooling (preview launch config etc.)
+.claude/
+
+# Atomic-write temp files (normally cleaned up automatically)
+data/.tmp_*.json
+
+# Logs
+*.log
+
+# NOTE: data/*.json is intentionally NOT ignored — those files are the
+# pre-fetched data the dashboard serves, and the GitHub Action commits them.

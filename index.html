@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CAAPWATCH — Corporación América Airports (NYSE: CAAP)</title>
+  <meta name="description" content="Static demand-watch dashboard for Corporación América Airports (CAAP): passenger traffic by market, concession catalysts, GDP, fuel risk, Armenia political watch." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-grid">
+      <div class="brand">
+        <h1>CAAP<span>WATCH</span></h1>
+        <p class="tagline">Corporación América Airports · NYSE: CAAP · 52 airports across 6 countries</p>
+      </div>
+      <p class="thesis">Is the traffic &amp; concession story holding up across these markets?</p>
+    </div>
+  </header>
+
+  <!-- Panel 4 — Fuel / capacity risk ribbon (tied to traffic) -->
+  <section id="ribbon" class="ribbon" aria-label="Fuel and capacity risk ribbon">
+    <div class="wrap ribbon-inner"><span class="muted">Loading fuel &amp; capacity risk…</span></div>
+  </section>
+
+  <main class="wrap">
+    <!-- Panel 1 — Traffic by market (hero) -->
+    <section id="traffic" class="panel hero" aria-label="Passenger traffic by market">
+      <div class="loading">Loading traffic…</div>
+    </section>
+
+    <!-- Panels 3 & 5 — Catalyst cards -->
+    <div class="catalysts">
+      <section id="concession" class="panel card" aria-label="Concession tracker">
+        <div class="loading">Loading concession tracker…</div>
+      </section>
+      <section id="armenia" class="panel card" aria-label="Armenia political watch">
+        <div class="loading">Loading Armenia watch…</div>
+      </section>
+    </div>
+
+    <!-- Panel 2 — GDP footer -->
+    <section id="gdp" class="panel" aria-label="GDP growth by market">
+      <div class="loading">Loading GDP…</div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>CAAPWATCH · static dashboard · data refreshed daily by GitHub Actions · the page only reads pre-fetched JSON in <code>/data</code>, never a live API.</p>
+      <p class="sources">Sources: SEC EDGAR · World Bank · Google News · public oil-price feed. Not investment advice.</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
