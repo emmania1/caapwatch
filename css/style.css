@@ -51,6 +51,25 @@ html, body {
   margin: 0; font-size: 14px; font-style: italic; color: #e8f2fb;
   max-width: 360px; text-align: right;
 }
+.header-right { display: flex; flex-direction: column; align-items: flex-end; gap: 9px; }
+
+/* CAAP share-price chip (market context, not advice) */
+.quote { font-size: 13px; font-variant-numeric: tabular-nums; }
+.quote a {
+  display: inline-flex; align-items: center; gap: 8px; text-decoration: none;
+  color: #fff; background: rgba(255, 255, 255, .10);
+  border: 1px solid rgba(255, 255, 255, .20); border-radius: 999px; padding: 5px 12px;
+}
+.quote a:hover { background: rgba(255, 255, 255, .16); }
+.quote .q-sym { font-weight: 800; letter-spacing: .5px; }
+.quote .q-price { font-weight: 700; }
+.quote .q-chg { font-weight: 700; }
+.quote .q-chg.pos { color: #8be0ab; }
+.quote .q-chg.neg { color: #f3b2a8; }
+.quote .q-chg.flat { color: #cfe2f1; }
+.quote .q-as, .quote .q-na { font-size: 11px; color: #b9d2e6; }
+.q-spark { width: 60px; height: 20px; display: inline-block; line-height: 0; }
+.q-spark .spark { height: 20px; margin-top: 0; }
 
 /* ---------- ribbon (Panel 4) ---------- */
 .ribbon { background: var(--warn-soft); border-bottom: 1px solid #f0e2c4; }
@@ -213,7 +232,7 @@ main { padding: 22px 0 8px; display: block; }
 .feed-foot { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line); display: flex; gap: 10px; align-items: baseline; }
 
 /* ---------- GDP (Panel 2) ---------- */
-.gdp-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+.gdp-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
 .gdp-tile { border: 1px solid var(--line); border-radius: 10px; padding: 13px 15px; background: #f8fafc; }
 .gdp-tile .g-country { font-size: 13px; font-weight: 700; }
 .gdp-tile .g-val { font-size: 26px; font-weight: 800; margin: 3px 0; font-variant-numeric: tabular-nums; }
@@ -248,6 +267,7 @@ a.src-link:hover { text-decoration: underline; }
 /* ---------- responsive ---------- */
 @media (max-width: 860px) {
   .header-grid { flex-direction: column; align-items: flex-start; gap: 10px; }
+  .header-right { align-items: flex-start; }
   .thesis { text-align: left; max-width: none; }
   .hero .hero-top { grid-template-columns: 1fr; gap: 18px; }
   .catalysts { grid-template-columns: 1fr; }

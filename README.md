@@ -56,6 +56,7 @@ caapwatch/
 │   ├── concession.json        #   Panel 3 — auto headlines (Google News)
 │   ├── fuel.json              #   Panel 4 — auto (Stooq oil + Google News)
 │   ├── armenia.json           #   Panel 5 — auto headlines (Google News)
+│   ├── price.json             #   Header chip — auto CAAP share price (Stooq)
 │   └── status.json            #   Panels 3 & 5 — HAND-EDITED manual fields
 ├── scripts/                   # the fetchers — the only code that hits the network
 │   ├── common.py              #   shared helpers (HTTP, RSS, atomic resilient writes, table parsing)
@@ -64,6 +65,7 @@ caapwatch/
 │   ├── fetch_concession.py    #   Panel 3 — Brasília (pt-BR) + AA2000 (es-419) news
 │   ├── fetch_fuel.py          #   Panel 4 — Stooq oil + airline-capacity news + risk
 │   ├── fetch_armenia.py       #   Panel 5 — Armenia peace-process news
+│   ├── fetch_price.py         #   Header chip — CAAP share price (Stooq)
 │   └── requirements.txt       #   (documents that there are no dependencies)
 └── .github/workflows/refresh.yml   # the daily refresh + commit Action
 ```
@@ -75,10 +77,11 @@ caapwatch/
 | # | Panel | Data | Source | Status |
 |---|-------|------|--------|--------|
 | 1 | **Traffic by Market** (hero) | auto | CAAP monthly traffic release, via **SEC EDGAR** 6-K `EX-99.1` (CIK 1717393) | ✅ live |
-| 2 | GDP Growth (+ Argentina inflation/FX) | auto | World Bank API (`NY.GDP.MKTP.KD.ZG`, `FP.CPI.TOTL.ZG`, `PA.NUS.FCRF`; ARG/BRA/ITA/ARM) | ✅ live |
+| 2 | GDP Growth (+ Argentina inflation/FX) | auto | World Bank API (`NY.GDP.MKTP.KD.ZG`, `FP.CPI.TOTL.ZG`, `PA.NUS.FCRF`; ARG/BRA/ITA/ARM/URY/ECU) | ✅ live |
 | 3 | Concession Tracker | feed + manual | Google News RSS (pt-BR + es-419); stage in `status.json` | ✅ live |
 | 4 | Fuel / Capacity Risk (ribbon) | auto + feed | Stooq oil prices (Brent/WTI/jet-proxy) + Google News RSS (airline capacity) | ✅ live |
 | 5 | Armenia Political Watch | feed + manual | Google News RSS; tension level in `status.json` | ✅ live |
+| — | Share-price chip (header) | auto | Stooq live quote (`caap.us`); self-built price history | ✅ live |
 
 **Panel 1 note.** CAAP furnishes each monthly passenger-traffic press release to
 the SEC as a 6-K. The release text (identical numbers to the PDF on the IR site)
@@ -194,6 +197,7 @@ python3 scripts/fetch_gdp.py          # Panel 2 — GDP / inflation / FX
 python3 scripts/fetch_concession.py   # Panel 3 — concession headlines
 python3 scripts/fetch_fuel.py         # Panel 4 — oil + capacity headlines
 python3 scripts/fetch_armenia.py      # Panel 5 — Armenia headlines
+python3 scripts/fetch_price.py        # Header chip — CAAP share price
 ```
 
 Each is independent and resilient — if one fails it leaves its last-known JSON

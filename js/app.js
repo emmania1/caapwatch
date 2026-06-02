@@ -13,6 +13,7 @@ const DATA_FILES = {
   concession: "data/concession.json",
   fuel: "data/fuel.json",
   armenia: "data/armenia.json",
+  price: "data/price.json",
   status: "data/status.json",
 };
 
@@ -350,7 +351,7 @@ function macroTile(m, color) {
 }
 function renderGDP(el, d) {
   if (!d || !d.countries) {
-    const markets = ["Argentina", "Brazil", "Italy", "Armenia"];
+    const markets = ["Argentina", "Brazil", "Italy", "Armenia", "Uruguay", "Ecuador"];
     const tiles = markets.map((m) => `
       <div class="gdp-tile">
         <div class="g-country">${FLAGS[m] || ""} ${esc(m)}</div>
@@ -387,17 +388,45 @@ function renderGDP(el, d) {
     <div style="margin-top:14px">${srcLink(d.source_url, d.source || "World Bank")}</div>`;
 }
 
+/* ======================================================================
+ * Header quote — CAAP share price (market context, not advice)
+ * ==================================================================== */
+function renderQuote(el, d) {
+  if (!d || d.price == null) {
+    // Quiet placeholder — never a broken box if the feed is missing.
+    el.innerHTML = `<span class="q-sym">CAAP</span><span class="q-na">NYSE</span>`;
+    return;
+  }
+  const cp = d.change_pct;
+  const cls = pctClass(cp);                          // stock: up = green
+  const arrow = cp > 0 ? "▲" : cp < 0 ? "▼" : "·";
+  const chg = (cp == null || isNaN(cp)) ? ""
+    : `<span class="q-chg ${cls}">${arrow} ${Math.abs(Number(cp)).toFixed(1)}%</span>`;
+  const spark = (d.history && d.history.length > 1)
+    ? `<span class="q-spark">${sparkline(d.history.map((p) => ({ value: p.close })), "#cfe2f1")}</span>`
+    : "";
+  const asOf = d.as_of ? `<span class="q-as" title="${esc(d.change_basis || "")}">${esc(d.as_of)}</span>` : "";
+  el.innerHTML = `
+    <a href="${esc(d.source_url || "#")}" target="_blank" rel="noopener" title="CAAP on Stooq ↗">
+      <span class="q-sym">CAAP</span>
+      <span class="q-price">$${Number(d.price).toFixed(2)}</span>
+      ${chg}${spark}${asOf}
+    </a>`;
+}
+
 /* ---------- boot ---------- */
 async function boot() {
-  const [traffic, gdp, concession, fuel, armenia, status] = await Promise.all([
+  const [traffic, gdp, concession, fuel, armenia, price, status] = await Promise.all([
     loadJSON(DATA_FILES.traffic),
     loadJSON(DATA_FILES.gdp),
     loadJSON(DATA_FILES.concession),
     loadJSON(DATA_FILES.fuel),
     loadJSON(DATA_FILES.armenia),
+    loadJSON(DATA_FILES.price),
     loadJSON(DATA_FILES.status),
   ]);
 
+  safeRender("quote", renderQuote, price);
   safeRender("traffic", renderTraffic, traffic);
   safeRender("ribbon", renderRibbon, fuel);
   safeRender("concession", renderConcession, { status, news: concession });

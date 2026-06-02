@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T03:05:29Z",
+  "updated_at": "2026-06-02T07:12:45Z",
   "status": "ok",
   "source": "World Bank — World Development Indicators",
   "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG",
@@ -194,6 +194,102 @@
         {
           "year": "2024",
           "value": 5.9
+        }
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "iso3": "URY",
+      "latest": 3.11,
+      "year": "2024",
+      "series": [
+        {
+          "year": "2015",
+          "value": 0.37
+        },
+        {
+          "year": "2016",
+          "value": 1.69
+        },
+        {
+          "year": "2017",
+          "value": 1.74
+        },
+        {
+          "year": "2018",
+          "value": 0.16
+        },
+        {
+          "year": "2019",
+          "value": 0.93
+        },
+        {
+          "year": "2020",
+          "value": -7.36
+        },
+        {
+          "year": "2021",
+          "value": 5.84
+        },
+        {
+          "year": "2022",
+          "value": 4.49
+        },
+        {
+          "year": "2023",
+          "value": 0.74
+        },
+        {
+          "year": "2024",
+          "value": 3.11
+        }
+      ]
+    },
+    {
+      "name": "Ecuador",
+      "iso3": "ECU",
+      "latest": -2.0,
+      "year": "2024",
+      "series": [
+        {
+          "year": "2015",
+          "value": 0.12
+        },
+        {
+          "year": "2016",
+          "value": -0.69
+        },
+        {
+          "year": "2017",
+          "value": 5.97
+        },
+        {
+          "year": "2018",
+          "value": 1.04
+        },
+        {
+          "year": "2019",
+          "value": 0.17
+        },
+        {
+          "year": "2020",
+          "value": -9.25
+        },
+        {
+          "year": "2021",
+          "value": 9.42
+        },
+        {
+          "year": "2022",
+          "value": 5.87
+        },
+        {
+          "year": "2023",
+          "value": 1.99
+        },
+        {
+          "year": "2024",
+          "value": -2.0
         }
       ]
     }

@@ -39,7 +39,7 @@ jobs:
         run: |
           set +e
           status=0
-          for feed in traffic gdp concession fuel armenia; do
+          for feed in traffic gdp concession fuel armenia price; do
             script="scripts/fetch_${feed}.py"
             if [ -f "$script" ]; then
               echo "::group::${script}"

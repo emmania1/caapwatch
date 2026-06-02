@@ -3,8 +3,8 @@
 Panel 2 — GDP growth (+ Argentina inflation / FX).
 
 Source: World Bank "World Development Indicators" JSON API. Free, no key, no
-bot-challenge. We pull real GDP growth for CAAP's four GDP-relevant markets
-(Argentina, Brazil, Italy, Armenia) plus two Argentina-specific macro series —
+bot-challenge. We pull real GDP growth for CAAP's markets (Argentina, Brazil,
+Italy, Armenia, Uruguay, Ecuador) plus two Argentina-specific macro series —
 consumer-price inflation and the official ARS/USD exchange rate — because
 Argentina is CAAP's largest market and its macro is the dominant swing factor.
 
@@ -25,7 +25,10 @@ CPI_INDICATOR = "FP.CPI.TOTL.ZG"           # inflation, consumer prices, annual 
 FX_INDICATOR = "PA.NUS.FCRF"               # official exchange rate, LCU/US$, period avg
 
 # Ordered by CAAP traffic weight (largest market first).
-MARKETS = [("ARG", "Argentina"), ("BRA", "Brazil"), ("ITA", "Italy"), ("ARM", "Armenia")]
+MARKETS = [
+    ("ARG", "Argentina"), ("BRA", "Brazil"), ("ITA", "Italy"),
+    ("ARM", "Armenia"), ("URY", "Uruguay"), ("ECU", "Ecuador"),
+]
 
 # How many trailing years of points to keep for each sparkline.
 TAIL = 10
