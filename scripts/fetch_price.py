@@ -3,28 +3,41 @@
 Header quote — CAAP share price (NYSE: CAAP).
 
 Market context for the demand panels: where is the stock while the traffic /
-concession story plays out. Free, no key — Stooq's live-quote CSV, the same
-source and parser the fuel ribbon already uses (symbol caap.us).
+concession story plays out. Free, no key — Stooq's live-quote CSV gives the
+headline price (symbol caap.us), the same source/parser the fuel ribbon uses.
 
-Like the fuel panel we keep our OWN short price history — one close per day,
-deduped by date, capped — so the header sparkline grows a real trend straight
-from the daily Action (Stooq's bulk history download is blocked to robots).
+For the header sparkline we keep ~90 trading days of daily closes. Stooq's bulk
+history download is now apikey-gated (captcha), so we BACKFILL the history from
+Yahoo Finance's free v8 chart JSON (range=6mo, no key) and merge the live Stooq
+quote in as the latest point — so the sparkline renders immediately and stays
+rolling. If the backfill ever fails we fall back to the stored history plus
+today's quote (self-building forward), so the panel still works.
 
-Day-over-day change is computed against the previous *distinct-date* close we
-stored; on the very first run (no prior day yet) we fall back to the intraday
-open→close move so the chip is never blank. This is market context only — NOT a
-recommendation; the dashboard is not investment advice.
+Day-over-day change is computed against the previous *distinct-date* close in
+that history; only on a true cold start (no history and no backfill) do we fall
+back to the intraday open→close move so the chip is never blank. This is market
+context only — NOT a recommendation; the dashboard is not investment advice.
 
 Resilient: on any fetch/parse failure we keep the last-known price.json.
 """
 
 import sys
+from datetime import datetime, timezone
 
-from common import http_get_text, now_iso, read_existing, to_number, write_json
+from common import (
+    http_get_json,
+    http_get_text,
+    now_iso,
+    read_existing,
+    to_number,
+    write_json,
+)
 
 STOOQ_QUOTE = "https://stooq.com/q/l/?s={sym}&f=sd2t2ohlcv&h&e=csv"
-SYMBOL = "caap.us"
-HISTORY_CAP = 90
+SYMBOL = "caap.us"               # Stooq live-quote symbol
+YH_SYMBOL = "CAAP"               # Yahoo Finance ticker (NYSE)
+YAHOO_CHART = "https://query1.finance.yahoo.com/v8/finance/chart/{sym}?range=6mo&interval=1d"
+HISTORY_CAP = 90                 # trading days kept for the sparkline
 
 
 def fetch_quote(symbol):
@@ -46,55 +59,103 @@ def fetch_quote(symbol):
     return {"as_of": date, "open": op, "close": close}
 
 
-def update_history(prev, as_of, close):
-    hist = list((prev or {}).get("history") or [])
-    point = {"date": as_of, "close": close}
-    if hist and hist[-1].get("date") == as_of:
-        hist[-1] = point          # same session — refresh in place
-    else:
-        hist.append(point)
-    return hist[-HISTORY_CAP:]
+def fetch_history(symbol, days=HISTORY_CAP):
+    """Return [{date, close}, ...] oldest→newest from Yahoo's v8 chart JSON, or None.
+
+    Free, no key. We use the raw `close` series (not adjclose) so the points line
+    up with Stooq's quote close. Null closes (holidays/halts) are skipped.
+    """
+    data = http_get_json(YAHOO_CHART.format(sym=symbol))
+    result = (((data or {}).get("chart") or {}).get("result") or [None])[0]
+    if not result:
+        return None
+    stamps = result.get("timestamp") or []
+    quote = ((result.get("indicators") or {}).get("quote") or [{}])[0]
+    closes = quote.get("close") or []
+    by_date = {}
+    for ts, close in zip(stamps, closes):
+        if close is None:
+            continue
+        day = datetime.fromtimestamp(ts, tz=timezone.utc).strftime("%Y-%m-%d")
+        by_date[day] = round(float(close), 2)      # last wins if a date repeats
+    points = [{"date": d, "close": by_date[d]} for d in sorted(by_date)]
+    return points[-days:] or None
 
 
-def prior_close(prev, as_of):
-    """Most recent stored close from a DIFFERENT date (for day-over-day change)."""
-    for p in reversed((prev or {}).get("history") or []):
+def merge_history(prev, yhist, q):
+    """Combine stored history + Yahoo backfill + the live Stooq quote into one
+    deduped, date-sorted, capped series.
+
+    Later sources override earlier ones for a shared date: Yahoo (authoritative
+    EOD) over stored, the live quote over Yahoo for its own session.
+    """
+    merged = {}
+    for p in (prev or {}).get("history") or []:
+        if p.get("date") and p.get("close") is not None:
+            merged[p["date"]] = round(float(p["close"]), 2)
+    for p in yhist or []:
+        merged[p["date"]] = p["close"]
+    if q and q.get("as_of") and q.get("close") is not None:
+        merged[q["as_of"]] = round(float(q["close"]), 2)
+    points = [{"date": d, "close": merged[d]} for d in sorted(merged) if d]
+    return points[-HISTORY_CAP:]
+
+
+def prior_close(history, as_of):
+    """Most recent close from a DIFFERENT date than as_of (day-over-day base)."""
+    for p in reversed(history or []):
         if p.get("date") != as_of and p.get("close"):
             return p["close"]
     return None
 
 
 def build_payload():
-    q = fetch_quote(SYMBOL)
-    if not q:
-        raise ValueError("no CAAP quote from Stooq")
-
     prev = read_existing("price.json") or {}
-    base = prior_close(prev, q["as_of"])
+
+    # Live quote (Stooq) — intraday-ish latest; also our cold-start fallback.
+    try:
+        q = fetch_quote(SYMBOL)
+    except Exception as exc:  # noqa: BLE001 - Yahoo history may still carry the panel
+        print(f"[fetch_price] live quote failed ({type(exc).__name__}); relying on history")
+        q = None
+
+    # Daily history backfill (Yahoo v8, no key) — seeds & refreshes the sparkline.
+    try:
+        yhist = fetch_history(YH_SYMBOL, days=HISTORY_CAP)
+    except Exception as exc:  # noqa: BLE001 - fall back to stored + live quote
+        print(f"[fetch_price] history backfill failed ({type(exc).__name__}); using stored history")
+        yhist = None
+
+    history = merge_history(prev, yhist, q)
+    if not history:
+        raise ValueError("no CAAP price from Stooq, Yahoo, or stored history")
+
+    latest = history[-1]
+    as_of, price = latest["date"], latest["close"]
+
+    base = prior_close(history, as_of)
     basis = "prior close" if base else "intraday"
-    if not base:
-        base = q["open"]
+    if not base and q:                      # true cold start: one session only
+        base = q.get("open")
 
     change = change_pct = None
     if base:
-        change = round(q["close"] - base, 2)
-        change_pct = round((q["close"] - base) / base * 100, 2)
-
-    history = update_history(prev, q["as_of"], q["close"])
+        change = round(price - base, 2)
+        change_pct = round((price - base) / base * 100, 2)
 
     return {
         "updated_at": now_iso(),
         "status": "ok",
-        "source": "Stooq",
+        "source": "Stooq + Yahoo Finance" if yhist else "Stooq",
         "source_url": "https://stooq.com/q/?s=caap.us",
         "symbol": "CAAP",
         "exchange": "NYSE",
         "currency": "USD",
-        "price": q["close"],
+        "price": price,
         "change": change,
         "change_pct": change_pct,
         "change_basis": basis,
-        "as_of": q["as_of"],
+        "as_of": as_of,
         "history": history,
     }
 
@@ -110,7 +171,8 @@ def main():
         print("[fetch_price] no change — left existing price.json untouched")
     else:
         print(f"[fetch_price] wrote price.json (CAAP ${payload['price']} "
-              f"{payload['change_pct']}% vs {payload['change_basis']})")
+              f"{payload['change_pct']}% vs {payload['change_basis']}; "
+              f"{len(payload['history'])} history pts)")
     return 0
 
 

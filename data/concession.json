@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T14:52:44Z",
+  "updated_at": "2026-06-02T21:00:53Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -12,6 +12,18 @@
         "published_iso": "2026-05-25T23:46:00Z"
       },
       {
+        "title": "Anac pode abrir consulta pública sobre repactuação do Aeroporto de Brasília - Tribuna do Sertão",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbjhtWGFVYTNHbEtEeXBETnp4QU1zTDhiN21sNTBfY2hJRy1OUEtHSE9Gejh6Q3hGeU5UdjZLdjZpUVNEa3Rkc013b0ZXMTFNdzlLa2UzLURTTnpFelVoMmg2ZUpFMms4YVVMQ2hvbEgwLVZpYXZzUXFYWjNPUF9oSV80WUFVa2xyaThEQUFxYVQ0S2tlRkpyV3BOOVM3MUxXYnBGSnV2ZElhYzlTWTB4blBQTkNaTm56d19hVm1FS0s1enk5WC1KVUx1ZlBldjQ?oc=5",
+        "source": "Tribuna do Sertão",
+        "published_iso": "2026-05-25T19:52:00Z"
+      },
+      {
+        "title": "Anac pode abrir consulta pública para repactuação do Aeroporto de Brasília - Tribuna do Agreste",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVk1VNkNWM3FJMExZb0h3UjN1akM3eHZsWm1STlJXclh1VVhORzZGNHFiQkRldUJ2dUtkY213TjllNGJ2SHJnOGJlTmZyTWpIb3pVZkJDNzJfdE0zZjM0Z1VPeURkVjNnUlZGY2JldFFVR09YdDVwbkFHeUtmQzI2QlE4dGFEUktUOEUwbVNoOXNNakZoeUREenl3R2tJaUtLR2ktRy1tSWxFbnE0RkRWbzV2bVM3aGU0THpsLUZGdmdTMHVZY2U2SEx4SFpGWDA?oc=5",
+        "source": "Tribuna do Agreste",
+        "published_iso": "2026-05-25T19:52:00Z"
+      },
+      {
         "title": "Teste de mercado do aeroporto de Brasília deve ocorrer em dezembro - Agência iNFRA",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2tUR2xZdElZcS0xS042cTl6c3BIZTFuMXEtWUctbHJ3VEpySWtNRGpXLTlTRHNkZlM2OXhTSHhxaFFLYmlOaG05bnBCMjFEMjB1OVNqMVhDUU1fRVhzZnhvc2JMTXNaTU13T3BLLTg1QThkN2plMWsyRjhDSHFBMXhBQmRyYkVxTERJODBzcVVkRUxaM01GaVY5eXNJUQ?oc=5",
         "source": "Agência iNFRA",
@@ -22,50 +34,38 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2kxaFRJNWo0d25mYUhYdGt4LU9ydnA2eWlnVW5VMHg0eG5sbl9wOHJqWHV1TC0xX0ZNd0g3Q0hwT1ZZV0RxbDBCTDQtdTQ4a0c3OXhLOUFZVXY1S2lDcF8zaVhYVnROVXJ3Zld3OFNvNDBBci1rcEx3dlF2aGtBR3NhSEdxb3A4bDBDdWxkNnJLdXZXTUMyZmdVbTJFbzk5SDdCT09vc2dzeFU?oc=5",
         "source": "CNN Brasil",
         "published_iso": "2026-05-18T07:00:00Z"
-      },
-      {
-        "title": "Aeroporto de Brasília deve ir a leilão na primeira quinzena de dezembro, diz ministro - Valor Econômico",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONm5yWTdIeU1DNGZKU003c3U0aHdwOXJXQy16ZGkzRXR3MnVubVUxb3hQd1NrQW5RZk9paHZCTjdOeC1LU2l1U0J0a0lLWXZnYkszRFQ0bGVMM0ZJUmFGNHA2NXBTWmswalJJT3VrT3pKVlpIMDRSbTUxX25XN1VKQk9IMXhIX0I5RFRNWlB4YnRZRi1hN05hamh1RnQzZGJ0c2wyYW9sZHZvSWtBLUZueDNsUHdEcElSNmxpVWZKczRKQ2ZlUFdRXzM3ZmxsaVlCanYyMWtuQ0l5d9IB6AFBVV95cUxNcS1vbGxXOG5yLVQ5eS1Rak5IRkRSTDN5YkVrZmtod3JsZmRaTm1Pb2FuS1FKcVEwSUM3Zk4xSFFVcUNVYmdYZnNZUDNtdWxjU25RSG5GWHUwd1dXcXlobk95aXRVV1ZycW5GLVR2R0Z3NUtDTTJCbHlKbzFZa2MwbGlINGt4R1NrdVhWQjhQREdDQmc4eUtKMlZHQTNwWnp0Um40TVIycjBHRk9kNmxpUWgzY1RFR0xpMkdvdXlCRnFPelI2LUJoOUxUTTdsdU9GZXd4MERFQU1jYlhueXhkcDcxMVFUc1I5?oc=5",
-        "source": "Valor Econômico",
-        "published_iso": "2026-04-10T07:00:00Z"
-      },
-      {
-        "title": "Inframerica diz estar ‘positiva’ quanto ao novo leilão do Aeroporto de Brasília - InfoMoney",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVVzWjRybU0weGluU3FxMEJCNTVwTkpDZGtFRm9BZ0sySDh4OTNoOTRTOEFpRGEtXzBiLXdYeWtIcWR5Vjc3LUY5bUgxZC1DMWE1X3U5TVV5bnZ4VmxuYVZEamxubzAzX3RtRlRVeGNRVVgzQmNSV0lyWnRiZXBhR1V4UmtyaTgyM3RmLVJVaXFxZ0U0VmZzODlXVEpCLS16dDZaVHRNdC1KazhxQWRydnA1dnVWYlnSAbwBQVVfeXFMTkFkQjFKek1kbVIxV0lBM1dkamFCVkpDWnZlR2FWNUU1a0ZRdWtUVDBSNGVMdjVJbUlkTVdicTlSVjMyLTJGVTJGcmRwN0RWa2dhWWNoTV9mRXZRdmhRNEw5SDVrOFB4ZmF6WjJ1MGhtNUpZaldPdXZMSVpHdjNCWnY2UVpvMmREMWZnLThQTmhQV01uTkpqUDJiV2FzMXZQc0NIS3lzbDhybVpQRVlybGVlVEszdEZ6a3B2cmk?oc=5",
-        "source": "InfoMoney",
-        "published_iso": "2026-04-06T07:00:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "Una prórroga con turbulencias: el contrato con Aeropuertos Argentina 2000 fue \"poco riguroso\" - elauditor.info",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTTNnVUk2eGVEZUVlQVNOb2p4YTcxNmRIc3BWS1ZiSHBtVTdYUkdGa2p6OVBMdkhicTRBc2M0NmsyNkROSm9KNVJ1ckZ3QWhSMFFZNWloRHVUUHlnWEdQbEU1RGNfQWNmZWM3c3VFQWhRRjhCRWdkT2xmMzZFUkx3Wks2SURhNUl2dlJsZDdwVXM0cEpNTGkxZUtHWG5hSU0yS1p6TlZMX3pQckp1UnhYdmpDSElQNVdYRXFSZzVLdWxzbzRlcXk1S1FSUmdLOWJGdEREMVlFaF9KNC0tQnRjblN2Q2dhOG5mQXlpZlpoQjdoZWxQcXpj0gGGAkFVX3lxTE1Ha1lUb0YxUDdDVXdVczllaTF3MkRhaTUtcFlSWnRjSkg1Q0xxVmpGQ0xKVGpfYThHRWxCeVBDS1F3OUpjbXU5ZTI3NEphaEFXVG1CZURWcjVyOU8yNzd2NlhCMnFQRDlwcWNfVGloWlp4OWRSYmRTdngwSFpkZTZzazdXRGR0azZ1V01XY280MnNmaGljZG1MTm55ak5sRVdjN2QtUUZuYk0zb19zS1pHX3E3TUhjTndpdlZaSE4zaUVPNmdjZF9MQmZSLWtiMjJBMnlEdHRYU2hmZ0tHVElSYjUyM3kweFlHVG90NGNma1N1YmZTUTJ0TDFPR3F3dVNOQ014aXc?oc=5",
-        "source": "elauditor.info",
-        "published_iso": "2025-05-14T07:00:00Z"
+        "title": "El aeropuerto mendocino que quedó al margen del proyecto de modernización de ORSNA - Mendoza Today",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVVhTkplSjJMbl9mRnBiQUNzVmJCNm1uaUZrSVpmbUhBbDlBeE84TUdFMndoN0dxbFQ3WWpZcEhuRjBLT3ByV2x3Qmh6ZmFnU0MwU3pNN2dWUm1QdFYtLUlOZ3ppWDZtdlhmMURGXzh3cHlIRDI3ZElIajdUQ1p1NUdGeGFfY1pleU1MSXI3WWsydm1xdnkyNnM2enhYOW83cEhwNzN2RzFaLS1WT2hrbjI5UThxWlZBYnpQc3VtTQ?oc=5",
+        "source": "Mendoza Today",
+        "published_iso": "2026-05-26T21:42:38Z"
       },
       {
-        "title": "La demora del ORSNA traba las obras del nuevo aeropuerto de Tucumán - La Política Online",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTNjOUowM0phOC1xNWxrQWV6YmtHT05DczdnMWg1MVlqQnVCUzF4OUFEZlBXVHU2bm5wU0tQMmpwX2gxSUxTZUlpSTgzVUx6V3dkRVZ4b2Q3X2VFRFUtbU5pVUJaaGU3bXJRVHEtM0xvUWZkQUdVQlI1RXB3M2FaNWplMk90MGhSa0p0Qy1ZTzI4c05HWXR0U0pHMVFqbXk4dGJucDRtWHNPR21LY3hibXpSMW85ZUHSAbIBQVVfeXFMTU43a29GdS1KZEV4NklIMHphZTV2b284SnNGbTg4ZENtRlNKdGV3Tm9ZXzA3VGhUendLS3ZueE9wc0ZnRDdvZ2NFQnZoNm5Ob3BVZkxfeGx5VEkxMW5DbnR0ZHpZU2szVV9vemtZOFE3UHA2ZTVUN3pqd0JkU1V2TmZxclhCS3d5ZTZwcEZleFA5S1JaclBBR0lqdGZpbE9oVlgxbnA0OEZFNndXcTNIbV9jUQ?oc=5",
-        "source": "La Política Online",
-        "published_iso": "2025-01-28T08:00:00Z"
+        "title": "Aeropuertos Argentina sigue dejando a Madryn en lista de espera - LA17",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0VubG9OQnNhVFJndm11TEt2NnlwNk1iN3FCNi1CeUVtSzR2MW04emVZeDRhLXdyWDIwOWlOM3NPb2JPdjRBaU1JRTNjQ0ozNGo0RTVkS1RtWkxpX2pkVXAzZHljdF81V0hvQk5NS0YtRUNYYXpveHp5UUZnaHl3SnBqdnAxVVhWMmljNnBNUVBnS0wtcVh4U0NqdVoyZw?oc=5",
+        "source": "LA17",
+        "published_iso": "2026-03-20T07:00:00Z"
       },
       {
-        "title": "CAPACITACIÓN EN AA2000 PARA ASISTIR A PASAJEROS ENMARCADOS DENTRO DE LA CONDICIÓN DEL ESPECTRO AUTISTA - Aviación en Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSVNvTnpzaXhGWVdoTGlvcDdQOWYxMjIxdXVtOC1rb1IzbjZmT1BMV3JXSmZIc2RqeXBTX3RXYk82dnlrZzhNaFV0RmNtaWtnZENtTVdxMk9uTXktcmNtLXhEeGVXMkJwWkVTNVNreGRpb2dQS0s5bXVKdlZaMVpvWnBtWUdoMFAxODlmY1Bxb3ByeW5LdlpicTVWWXo4TjNqaFdpbWpZNUNsdHE2d0Y4dDlVNUdybUhURmN0ZGpUbzBERE1YMXhQaURSZjAwa3ozNjJJ?oc=5",
-        "source": "Aviación en Argentina",
-        "published_iso": "2022-08-11T07:00:00Z"
+        "title": "Aeropuertos Argentina invierte en San Fernando para triplicar su capacidad - El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFJLOXZUQ0t4S3VOdFdOOXhKZGZETHZNUFluZXFQY1lQVTFSa1ZjT2FwMVNpZXJ3MzJBa251dzVTT0lNMV9BQWUtNS1EZ09kUkV6VXZubDVaTm5mcTYwVkxoajhPeXNHbVNzaVRGcjBtMW1CemxJTGljamhZMUpHVDdPdUlJa2k4cHJmZTVNYktmM0piX0E0UEJVOFVhZE1QallCQ2dSWWtlV2E4ZkHSAcgBQVVfeXFMTURRYTFvTm15YS1WS3V6RzlYRHMyT1ZJUXdrNkNBWUZUMGM5b2VyY1hlS2pjM2hHTUdvSmZ5NC1VcWJOODFJSFZhTXhUTUhCb0M3Tl9QbEY4RFpROFFfNW9fNW4tNTJFSjkweDhoX2hSMWEtai1rQmliVWs0U21aRlRZMy1SU2tHS2lLdGladm8za0JhLWoyVzlQclhlbk1XRXdJV25pQ2JYVy10eU10YWcyLWdrQlVuSlZIcVZxdUpYLWFKbG5udk0?oc=5",
+        "source": "El Cronista",
+        "published_iso": "2026-03-19T07:00:00Z"
       },
       {
-        "title": "El Ministerio de Transporte inauguró nuevas obras en el Aeropuerto Internacional de Bariloche - Argentina.gob.ar",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQTVpejFIWkdoTGJvaU9rMTBtNXNZR2xmTVR2Vkg2ajVEVWFTcndjSHo1RVpYQnJiT09mazBleVRLMWJXa2dVcDBGZFlQYXRnR2U5WXBTQTdBbHItQlZiUlBOQVVQLUVCa3plczJVbFNYbkQxSXgwSWVxYUQ2S1BvVExYOVVWOWJydmk3cHNtNVY5YmlfcUxtNFFfb2lWV2xPRmg1dXZIbzJEYlBNYUVsRy1ZUzZkOG16YVlSY1FB?oc=5",
-        "source": "Argentina.gob.ar",
-        "published_iso": "2022-07-11T07:00:00Z"
+        "title": "Quién es Noelia Ruiz, la nueva titular del Orsna que responde a Santiago Caputo - Ladevi",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUlBrWlF1MENEZ2RabUQtNVdEam03SVJteDE5SUVmZk9WYjBlRHNhamZpSHlaczh3dm85UlRpakVRQ2xfNGlUZFBVTjYxU0xuVTgwVGhwRFVlZmtvaVFiOThZZkExSTg2WU1wRmU4MzItTHhneWRXVTZhZjExbVk3b09LTU1mWDlEWjk5cDk5X2VsQnAxUUliRGpsajBnajh4dG0zekt2ZWxoSTlDdlliV0lTdDFaNnJfaUxZazFlNmI4d9IBwgFBVV95cUxPUlBrWlF1MENEZ2RabUQtNVdEam03SVJteDE5SUVmZk9WYjBlRHNhamZpSHlaczh3dm85UlRpakVRQ2xfNGlUZFBVTjYxU0xuVTgwVGhwRFVlZmtvaVFiOThZZkExSTg2WU1wRmU4MzItTHhneWRXVTZhZjExbVk3b09LTU1mWDlEWjk5cDk5X2VsQnAxUUliRGpsajBnajh4dG0zekt2ZWxoSTlDdlliV0lTdDFaNnJfaUxZazFlNmI4dw?oc=5",
+        "source": "Ladevi",
+        "published_iso": "2026-03-17T07:00:00Z"
       },
       {
-        "title": "AA2000: el Gobierno oficializó prórroga por 10 años de la concesión - El Economista: Últimas noticias económicas y financieras",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHNWU2dvM0kzUFRoaTNNNVpRZlhTaXV0WjFTaEQ0LThveV9kYzQxYlVLc1dMcklCS0JLNEg0alVTNkJfNy1GeklwQVNGY2hGZ1M1R3N3VVhhTUx6R1RwbG5ITFljMnFuUk1HVWFPbU8xUllyc0s2czJBckplTGhCZF9YR2hyR2tZeEJSWS1ybGhSUjBfVEp3MVhvMnBsUdIBowFBVV95cUxOMlNPbVVoQTFnVGludkdfeld0ZEtXSkVJdEEwUXRhcWRTcEZrQ1B2Rk9DZWJaQkYwX2dVa3VQWW9GRjhEQ2xtdGE3TklaeEM3a3dsVTdlSTJ0elV1UDF1LXhvaXZoamJmcDVzRmNyTXhmZzlGRjBMMFFqb1pZY01LbWNsQmVFdW42djBvUmFsTlFlZHVxX3V1OXBnYkJqRmtFN2dj?oc=5",
-        "source": "El Economista: Últimas noticias económicas y financieras",
-        "published_iso": "2021-10-01T00:37:03Z"
+        "title": "Aeropuertos Argentina impulsa un plan de obras para ampliar la capacidad operativa del aeropuerto de Ezeiza - Data Portuaria",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPajN2RWZZWXAxazBlZm1NZUxBNjZuRVBXb1pZQVpCemxhTlZIeG5uNll5Qkl1anpRQklmd1lINzBRdVZ3SG0yYlJTcGpLUUliRHktQ3c4WTFQYnVRUGgyanctRllFWjlkWkFYTllMNUtDSkVLTTZOQndSUjVmMDJMUmFxaXdiQU9lZWVTelZ0STExdDBBd2c4U0NPNzZhUG5pbFlzaGE0bjZ3VzRRWlhPSEt0N0hfN1lacmdORHpMMFQxT09DS2F1VXFXUXlyOGM3WW12c245b1pzQ0RZ?oc=5",
+        "source": "Data Portuaria",
+        "published_iso": "2026-03-16T07:00:00Z"
       }
     ]
   }
