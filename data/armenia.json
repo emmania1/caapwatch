@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-06-02T04:02:45Z",
+  "updated_at": "2026-06-02T14:52:48Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Election campaign reshapes views on Armenia’s territorial losses - The Armenian Weekly",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUnRCMUVac3JTVkUyYzRxVmN2UUJPWXRYV1U1RUw5SUdEdWliS3RwU3Z2aFNFbFQwMnVIUlRuNmM2ckdEdUxSVS0tUkozYjh6c0tPT29aZjhqWkZ4M0JDY3FNclBYV3RubzJmM0tNbzdZbC1iRDdkNkpVdFZZa2Q1WWxqdnlFYUJkVVJ0NWhVUGp3SzJrbEs2a2h0c2NMVEM2bHpIZA?oc=5",
+      "source": "The Armenian Weekly",
+      "published_iso": "2026-06-02T14:32:03Z"
+    },
     {
       "title": "Putin issues ‘Ukrainian scenario’ warning as Russia ramps up pressure on Armenia before elections - Meduza",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHliNHMtNHk0c0dOMHFZZW5mNkx5NTZVNHppckVWRHNpaG9ndkMzTG1HQmQ0X25rU01oTndLQTlGckt2Q0o3NE52Vl9fY0k3VXNvX3ZsV1NoWmJaYW11Vy1jSVZMWE1aQm5ERWtKVmY1WnlCY2VfVzR5YXJrZG10Yl9rNms4d1MzS25mV1dLVHd0ZGIzSTl1WHB3eHRhTTdIaFdtNFRvbDJybFEtcXo0MXdrN0s1ZHFseko0c2RNMm1FWGFNb01MdFdTX3FaZkFP0gHWAUFVX3lxTE0tMDRGSWdxdExHZmtpVElhcEc5V01nSFl6YWRDd3hfRm1wVEp6eFRNdUpLQnFTZkVvMVh0VnFwb2dtbjFONEhGN2pra2RLaFNGVzQwWVB5WEVMLWltWnNJX3FFVXAwODF6NV9Ycm5uTWRqYTZIRFJ3QjZsanJPUk9qc2VGU0dCQ2xGbzdHMUhRaDVUNjFQd2hxMDRQVEpZNWIyakNrYzFjRDF1dGNqQ1NVRC1LS3pIcGpRTE5rZnBZaTRoY3RwbmRHMjJOblhQVEI1cE9ubmc?oc=5",
@@ -27,12 +33,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YajRfbDBVOHVRNzlic1JZRGJMM0ZkZFVYY21wQlNCWDI1NzNCM0phQ09yNUpTOTgzdXQ4TERSaDR2RENleFFIWEhMbU9wdHBzZWfSAVdBVV95cUxQUDBMUkxnLWZmYlEzMFRiRHlMaWZUc0wwQ1R2RnZhWDFNLVF3NFF1OXNjNEVBWk9qT2N5U01KWG1IVng0U3lLWUVWR3ZKUTJoS0FUeUItaW8?oc=5",
       "source": "Armenpress",
       "published_iso": "2026-06-01T05:59:00Z"
-    },
-    {
-      "title": "“Zangezur Corridor” will definitely be built, Azerbaijan’s Aliyev says - NEWS.am",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBydDdNUEtkN0VhWWV1d05vVWNMcndyQWt4TEV2ZU9hUjlqMHUtd0ZiXzN1T2pWT2gyMy11MnhQbHM2MUNNdGc?oc=5",
-      "source": "NEWS.am",
-      "published_iso": "2026-05-31T20:42:00Z"
     },
     {
       "title": "Pashinyan on course for landslide win in Armenia vote, new poll shows - Euronews.com",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T04:02:43Z",
+  "updated_at": "2026-06-02T14:52:46Z",
   "status": "ok",
   "source": "Stooq (oil) · Google News (capacity)",
   "oil_source_url": "https://stooq.com/q/?s=cb.f",
@@ -9,50 +9,50 @@
       "name": "Brent",
       "symbol": "cb.f",
       "unit": "$/bbl",
-      "price": 94.38,
+      "price": 94.97,
       "open": 94.78,
-      "change_pct": -0.42,
+      "change_pct": 0.2,
       "as_of": "2026-06-02"
     },
     {
       "name": "WTI",
       "symbol": "cl.f",
       "unit": "$/bbl",
-      "price": 91.47,
+      "price": 91.98,
       "open": 92.5,
-      "change_pct": -1.11,
+      "change_pct": -0.56,
       "as_of": "2026-06-02"
     },
     {
       "name": "Jet fuel (NY ULSD proxy)",
       "symbol": "ho.f",
       "unit": "$/gal",
-      "price": 3.611,
+      "price": 3.6754,
       "open": 3.6467,
-      "change_pct": -0.98,
+      "change_pct": 0.79,
       "as_of": "2026-06-02"
     }
   ],
   "history": [
     {
       "date": "2026-06-02",
-      "brent": 94.38,
-      "wti": 91.47
+      "brent": 94.97,
+      "wti": 91.98
     }
   ],
   "risk": {
     "level": "high",
     "oil_trend": "flat",
-    "avg_change_pct": -0.84,
-    "headline_count": 14,
+    "avg_change_pct": 0.14,
+    "headline_count": 12,
     "rule": "elevated if ≥3 recent capacity headlines or avg oil +2%; high if ≥6 or +4%."
   },
   "headlines": [
     {
-      "title": "United Airlines, SAS, and Delta Trigger Massive Flight Cancellations at Newark Liberty, Unleashing New York Travel Chaos: Latest Airline News - Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0V2Sk5CemRXaDRrbjFNaGs5cUtNdEpBeks1ZzRjbFpydFhRbkRIZmNuOWFHV05sZHVpZjlHdGJJY2ctT0FKbmtiSnFzVDZxUHBDTG94RTBSWTRDRmVhV1BZY0ZDb18zbU40ZHJjZVNjTm1QSmpKNHA2c2F5bTFXODBCbXZ4ZFdMNDJnX1FtVVBwc0xtZ19senFnR215MkdZdUpNeU9haDNCZw?oc=5",
-      "source": "Nomad Lawyer",
-      "published_iso": "2026-05-27T11:51:42Z"
+      "title": "Airlines tackle fuel cost surge with price hikes, outlook cuts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVFyT1VQMXJxcEpmZmlhSHBuVVRCQ2NNajF3SHV3R1I5Yk9TNUZScUVzZmlCYmt6dXAyREVVRzRLRklvVFVBY3J4aGo1NHUyellvZkNscFRRZlF6QkxyaDFpRVk5eEg5ZGYtTi1UTFJyeHBmdUl0Zk4xWGR5bzE1VnVxLTEzOEFFTE9wZzYyMWNXNUw5MkJRMXhRQjJtUVhMMG1HRGRMMmFJZ0NYUzloNTJOWDBSTk5CRXBVRA?oc=5",
+      "source": "Reuters",
+      "published_iso": "2026-05-15T07:00:00Z"
     },
     {
       "title": "Lufthansa Joins KLM, Air China, United, Delta, British Airways and Other Global Carriers in Struggle to Stay Afloat Amid the Devastating 2026 Jet Fuel Crisis, What Passengers Must Know to Avoid Travel Nightmares - Travel And Tour World",
@@ -73,15 +73,15 @@
       "published_iso": "2026-04-28T07:00:00Z"
     },
     {
+      "title": "Rising fuel costs, flight cuts raise concerns for troop travel in Europe - Stars and Stripes",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnlSV3p0YjhCNllVa2ZTaWE1ZUVPeDN2dnpJanlYQmZET2V0RFYyXzNrRHlReHk5ZVhiZElVYWE5Uk41Vkk2NzBqT3hHZnJ3TVpQNENuVkdMYV9Yd1doeUxncW1FOEZwSGlsaGJsSkZXZHh4bjlVTFR6SHl0bndlMnN0eno3ajQyV29DWDU3bWRwZDFYRkQwa1RkUm1TamZDWGxqOHBR?oc=5",
+      "source": "Stars and Stripes",
+      "published_iso": "2026-04-23T07:00:00Z"
+    },
+    {
       "title": "Lufthansa Cuts 20,000 Flights As Fuel Crisis Deepens (Full List) - Live and Let's Fly",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTYnhOSzhXTXVPWHM0OFNWbV8tbWhhbUsydmI0bmtickpnT21PeTVxa25LRnhNQ1BselNsSmpLNzhOSWhqYmh5alpERmtiMWNIUlg3eWVlNlQ5anhpVFhDcXRnVkU4QnVIRGp6R1o5dnZWNm83?oc=5",
       "source": "Live and Let's Fly",
-      "published_iso": "2026-04-22T07:00:00Z"
-    },
-    {
-      "title": "Lufthansa Group pulls over short haul 20,000 flights, with 120 daily flights cancelled - Economy Class & Beyond -",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOREUzRTBuOFVQTHMxOWF4QUQySmd6Y3BHUGZyNVMwb2hHVUp1czhSNm5kWEtOMGtfakUyOHJLNnJYSmFLc0l2VkM1aWU5WldwbEJOLXhBMjBnNVFYb1B1ckRjZGt0SFBtLUR2VkcxUC1KNWtJb3RFZEoxUWNKQ280enlRN1RqSlIzSUJ5NmlJVjF3M1lRaTdabGpjdzVnY2xlVG1rcEhPa1lHV3JaUFU4SFdoTDFhZmx3OTdwTnFhRXNWVGczSy1DWHJiOGNkOVY1OUwwY3pKcnhBSDQ?oc=5",
-      "source": "Economy Class & Beyond -",
       "published_iso": "2026-04-22T07:00:00Z"
     }
   ]
