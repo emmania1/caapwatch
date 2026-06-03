@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T14:52:46Z",
+  "updated_at": "2026-06-03T15:27:24Z",
   "status": "ok",
   "source": "Stooq (oil) · Google News (capacity)",
   "oil_source_url": "https://stooq.com/q/?s=cb.f",
@@ -9,28 +9,28 @@
       "name": "Brent",
       "symbol": "cb.f",
       "unit": "$/bbl",
-      "price": 94.97,
-      "open": 94.78,
-      "change_pct": 0.2,
-      "as_of": "2026-06-02"
+      "price": 97.6,
+      "open": 96.8,
+      "change_pct": 0.83,
+      "as_of": "2026-06-03"
     },
     {
       "name": "WTI",
       "symbol": "cl.f",
       "unit": "$/bbl",
-      "price": 91.98,
-      "open": 92.5,
-      "change_pct": -0.56,
-      "as_of": "2026-06-02"
+      "price": 95.58,
+      "open": 93.83,
+      "change_pct": 1.87,
+      "as_of": "2026-06-03"
     },
     {
       "name": "Jet fuel (NY ULSD proxy)",
       "symbol": "ho.f",
       "unit": "$/gal",
-      "price": 3.6754,
-      "open": 3.6467,
-      "change_pct": 0.79,
-      "as_of": "2026-06-02"
+      "price": 3.8343,
+      "open": 3.6822,
+      "change_pct": 4.13,
+      "as_of": "2026-06-03"
     }
   ],
   "history": [
@@ -38,27 +38,32 @@
       "date": "2026-06-02",
       "brent": 94.97,
       "wti": 91.98
+    },
+    {
+      "date": "2026-06-03",
+      "brent": 97.6,
+      "wti": 95.58
     }
   ],
   "risk": {
     "level": "high",
-    "oil_trend": "flat",
-    "avg_change_pct": 0.14,
-    "headline_count": 12,
+    "oil_trend": "up",
+    "avg_change_pct": 2.28,
+    "headline_count": 13,
     "rule": "elevated if ≥3 recent capacity headlines or avg oil +2%; high if ≥6 or +4%."
   },
   "headlines": [
+    {
+      "title": "Middle East flight updates: British Airways, Air France and Lufthansa delay Dubai flights - The National",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWZHdU5vZ21TeTNLOGFFdjh2c1JObjZFT3ZlTVdxeDhuZjU5NEU0akdMVklBbC02MFFfbFMzS0FXb2dSVEhHU2stOG01Ni1wLVFGVkJVSnMzM0JJZkw5LTh3M0xhaDhwZ1pWMnRHUzhqakFoLXhONDVqNzgzbGsweTdRNDVfZUJTVmlGMDh3?oc=5",
+      "source": "The National",
+      "published_iso": "2026-06-02T07:00:00Z"
+    },
     {
       "title": "Airlines tackle fuel cost surge with price hikes, outlook cuts - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVFyT1VQMXJxcEpmZmlhSHBuVVRCQ2NNajF3SHV3R1I5Yk9TNUZScUVzZmlCYmt6dXAyREVVRzRLRklvVFVBY3J4aGo1NHUyellvZkNscFRRZlF6QkxyaDFpRVk5eEg5ZGYtTi1UTFJyeHBmdUl0Zk4xWGR5bzE1VnVxLTEzOEFFTE9wZzYyMWNXNUw5MkJRMXhRQjJtUVhMMG1HRGRMMmFJZ0NYUzloNTJOWDBSTk5CRXBVRA?oc=5",
       "source": "Reuters",
       "published_iso": "2026-05-15T07:00:00Z"
-    },
-    {
-      "title": "Lufthansa Joins KLM, Air China, United, Delta, British Airways and Other Global Carriers in Struggle to Stay Afloat Amid the Devastating 2026 Jet Fuel Crisis, What Passengers Must Know to Avoid Travel Nightmares - Travel And Tour World",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPTVpoRW1xSFFyb3NtMGNVN21NTERJTWQyc09ZTXZkdl96UUJRUEdjbjZLT3RvU1NSXzlxZDhyT2szb3ZySnhENkJrOU5oa3hrTklIb19aNkNSNFZYUzJkeW9jRmFYZjQwZzhDdWU3dWdWcmVMTXdsR19pZHRMU2VETXRDM2RmOXQxUHJDMGZBLW54T0tUTUp0VFUzWkwwMGxOMlhzbU4yUzczSDhQby1MekhXOVEyUHY0c0Y5OEJVdC0xM2MxektrQU1XeFRKdHJjMzdpM09QczRFX1NQWFlBQnlmMl9HaHcxV2h5VXVKTWhXU1N1RC04bnVIUGo0QnlLNmpqTFhRM0pMOHprSENFWHk5RE5Ud05uem9ZeEZwTlpHaXdfT0NnWWVkVFJXSjNDWi02aDRjR0RnVkF3TEw2UDVWczQyM1YxSEpPSFNGNUVhekhWTUx1amZQTmJhNTNUMWc?oc=5",
-      "source": "Travel And Tour World",
-      "published_iso": "2026-05-06T07:00:00Z"
     },
     {
       "title": "Two million airline seats cut amid soaring jet fuel prices - The Guardian",
@@ -79,9 +84,9 @@
       "published_iso": "2026-04-23T07:00:00Z"
     },
     {
-      "title": "Lufthansa Cuts 20,000 Flights As Fuel Crisis Deepens (Full List) - Live and Let's Fly",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTYnhOSzhXTXVPWHM0OFNWbV8tbWhhbUsydmI0bmtickpnT21PeTVxa25LRnhNQ1BselNsSmpLNzhOSWhqYmh5alpERmtiMWNIUlg3eWVlNlQ5anhpVFhDcXRnVkU4QnVIRGp6R1o5dnZWNm83?oc=5",
-      "source": "Live and Let's Fly",
+      "title": "Lufthansa Group pulls over short haul 20,000 flights, with 120 daily flights cancelled - Economy Class & Beyond -",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOREUzRTBuOFVQTHMxOWF4QUQySmd6Y3BHUGZyNVMwb2hHVUp1czhSNm5kWEtOMGtfakUyOHJLNnJYSmFLc0l2VkM1aWU5WldwbEJOLXhBMjBnNVFYb1B1ckRjZGt0SFBtLUR2VkcxUC1KNWtJb3RFZEoxUWNKQ280enlRN1RqSlIzSUJ5NmlJVjF3M1lRaTdabGpjdzVnY2xlVG1rcEhPa1lHV3JaUFU4SFdoTDFhZmx3OTdwTnFhRXNWVGczSy1DWHJiOGNkOVY1OUwwY3pKcnhBSDQ?oc=5",
+      "source": "Economy Class & Beyond -",
       "published_iso": "2026-04-22T07:00:00Z"
     }
   ]

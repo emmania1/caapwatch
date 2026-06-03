@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-06-02T14:52:48Z",
+  "updated_at": "2026-06-03T15:27:26Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Election campaign reshapes views on Armenia’s territorial losses - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUnRCMUVac3JTVkUyYzRxVmN2UUJPWXRYV1U1RUw5SUdEdWliS3RwU3Z2aFNFbFQwMnVIUlRuNmM2ckdEdUxSVS0tUkozYjh6c0tPT29aZjhqWkZ4M0JDY3FNclBYV3RubzJmM0tNbzdZbC1iRDdkNkpVdFZZa2Q1WWxqdnlFYUJkVVJ0NWhVUGp3SzJrbEs2a2h0c2NMVEM2bHpIZA?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-06-02T14:32:03Z"
+      "title": "Is the Armenian election really about the West vs Russia? - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONURHWnZqVWRSZlhLZmZvM2FOWGRUVExGUTRrSzlyeVE1MlVvM2g1ck94NHFLYTBWSGhNa1pVM2o4eDZWSk1XLUhJUXlWQzIxS2swUk4xSkhYWExTM01PWXNwYXJoMFlHUEp3RkQzUGpRUEZ4ak9IM1ktQ0E3NDcya3gzanM?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-06-03T10:18:48Z"
     },
     {
-      "title": "Putin issues ‘Ukrainian scenario’ warning as Russia ramps up pressure on Armenia before elections - Meduza",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHliNHMtNHk0c0dOMHFZZW5mNkx5NTZVNHppckVWRHNpaG9ndkMzTG1HQmQ0X25rU01oTndLQTlGckt2Q0o3NE52Vl9fY0k3VXNvX3ZsV1NoWmJaYW11Vy1jSVZMWE1aQm5ERWtKVmY1WnlCY2VfVzR5YXJrZG10Yl9rNms4d1MzS25mV1dLVHd0ZGIzSTl1WHB3eHRhTTdIaFdtNFRvbDJybFEtcXo0MXdrN0s1ZHFseko0c2RNMm1FWGFNb01MdFdTX3FaZkFP0gHWAUFVX3lxTE0tMDRGSWdxdExHZmtpVElhcEc5V01nSFl6YWRDd3hfRm1wVEp6eFRNdUpLQnFTZkVvMVh0VnFwb2dtbjFONEhGN2pra2RLaFNGVzQwWVB5WEVMLWltWnNJX3FFVXAwODF6NV9Ycm5uTWRqYTZIRFJ3QjZsanJPUk9qc2VGU0dCQ2xGbzdHMUhRaDVUNjFQd2hxMDRQVEpZNWIyakNrYzFjRDF1dGNqQ1NVRC1LS3pIcGpRTE5rZnBZaTRoY3RwbmRHMjJOblhQVEI1cE9ubmc?oc=5",
-      "source": "Meduza",
-      "published_iso": "2026-06-01T23:30:00Z"
+      "title": "Armenia, Azerbaijan and the unfinished peace - Engelsberg Ideas",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVR6enloRlV6Mi1sMzZ6b2NtSHNnMGhLOEFhQVZOSkwtSTRjblMxSnM5UmoxZUVQQjg5cV84RDBvWEhGNHl1eTROZzlSQTY5ZDdCVURjYVNVaTVNTGpnM0RKMXowRHU2b1QwSEVMd0xoRVhmeFVqOV9RbUZzQjFDVTlXY3BmZw?oc=5",
+      "source": "Engelsberg Ideas",
+      "published_iso": "2026-06-03T09:23:50Z"
     },
     {
-      "title": "Zangezur Corridor Set to Become Reality, President Aliyev Says - Caspian News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdXZtT0dvY09JbVpuLVpUSlQ3U2llcTNEQUJIaEtiM0JqQWFQNEZzV0kyNEpWc095OEc3Q215aTkwS21yUlpLYVUxNTdVbllDWjFGOUNyMjlmMFpiR01Cb01xT1B2M2hyWWdURWZyQ1FYSzlVbDZDclNWU0t0U0xJNnJrTWhVYmlEM2tLUkI1WW9UZTRJLUF6Vi0wNUNsWmk0aDZKZk10OGNET1pyWXVV?oc=5",
-      "source": "Caspian News",
-      "published_iso": "2026-06-01T20:30:55Z"
+      "title": "Turkish minister says only 40 km of Zangezur Corridor left to complete - Apa.az",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWs3SkFWWDBITkg0ZXNFMmVlenJUUWY1OVRHRmxKUEpSekJCUWJrXzFjelJTS3FtSVlGMmJHV2RVbDBReElNbDFONVk1Qk1vU0ZSXzBHcWRJa0xxMTFkY09Mek5nSG9GeHRXaVZEQTB2ZmRzU2RrTHp3cTJRTmFqNkVCYm41NXdVM1lvZHY4Wl9hZi1SbjJYc0o0OWhzbE5Wc21LRGFtZWQ?oc=5",
+      "source": "Apa.az",
+      "published_iso": "2026-06-03T08:11:00Z"
     },
     {
-      "title": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV19jMVFSYm1CZjN5dGxXQ1JScG9uR0FPN0I3OFA0djI3bkhudlBlMkJXQUlUU1dBUHlMR0RLMEJPVE83QTlnMEhrcE5UOW1TeWs3eFRhNEdFcFRYQjhzMGE1TmhmRWx5dU14MS1YNnVyQVdNZHFDZ0Y3OUZRY2lheVV6aGk2UlluSTFiRnhKTGVqUXB0YXI1UWozeEw2VU1PdnBLOWtUVGpVcVRGdDVQZ2x1djbSAboBQVVfeXFMTkJabkVjMktfNkwxMk0wSDZHVlRnUlNSamNNcy1lblpQQ2U5WmVhM1dqaXduSU5QMHBFbTRwTnRtU2hFQmladzIwRmhtaEloWXJvczdWREJaTDgzZEhFX2ZVd1oybnRBdHRFREpscXJPM0RVeFRQdmtkOGUwX0JOcWZudFRnVTBvQWZObE82ZVN3UjAwZHp3bGlNOEFMS09yc2pWc1pSYWVtNmprZEI1ZjNhLV9DbmxDTXBB?oc=5",
-      "source": "Al Jazeera",
-      "published_iso": "2026-06-01T20:17:42Z"
+      "title": "Mobile - PanARMENIAN.Net",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hdktSbzF0TlBKZFNERDRVN1pKanU2VXJNa1dkWVY1ZEpOcXdCbnZuQXVwZXNvR0Z5Zk5ZWkdnTnJ0QzNpUExXekRrUHdja3oyeXlfRXRnVQ?oc=5",
+      "source": "PanARMENIAN.Net",
+      "published_iso": "2026-06-03T07:38:00Z"
     },
     {
-      "title": "Armenia–Azerbaijan peace still fragile, requires international backing, says UPEACE envoy - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YajRfbDBVOHVRNzlic1JZRGJMM0ZkZFVYY21wQlNCWDI1NzNCM0phQ09yNUpTOTgzdXQ4TERSaDR2RENleFFIWEhMbU9wdHBzZWfSAVdBVV95cUxQUDBMUkxnLWZmYlEzMFRiRHlMaWZUc0wwQ1R2RnZhWDFNLVF3NFF1OXNjNEVBWk9qT2N5U01KWG1IVng0U3lLWUVWR3ZKUTJoS0FUeUItaW8?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-06-01T05:59:00Z"
+      "title": "How the Armenian election could reshape South Caucasus peace and regional alliances - AnewZ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUtkM0xweDc1dTJkc1lxZTZqUzBaUlFVbmU4cnpQdUlQX241TGJWLUtaU2pqWVFiNzRwSzZHSWlnYW0xMUQ0U1RubHBuSW1PRngtVGVkWG5nWWR0b1h2YlRDcXpEVTFKTk1oQ0Y4R3hmSUN6VVJSWHFlQ2RuV3N3cEVZNTRDVXl2a2gzNVU4T04wNUxhdFJGSXl5THFGMTdXVmYwbEVrMGRZZGdydmM4?oc=5",
+      "source": "AnewZ",
+      "published_iso": "2026-06-03T06:24:00Z"
     },
     {
-      "title": "Pashinyan on course for landslide win in Armenia vote, new poll shows - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFVWRjlaYnEwOE0zSnJIRGxMTm01TFV5STljXzJscTVzVzRyYjBKMHZfdTMtSnZUQ2xfSm9sNXdReDJYZDZRY3E2U19jQ3VZY001YlpENWJra3d2dEpkYXJQQU9jZms5dk9nRnh4WnhRTkJnMDZCUWt0cGRSdkE0UXdDd0hCUGJLUFNpV2hVUVNsUEJ1b0JsQWZJLURQZXBPM2NoZVJaUWQtNXMxaXl4UWlHaXZMZmtEY3ppVkkyM01nd2lj?oc=5",
-      "source": "Euronews.com",
-      "published_iso": "2026-05-31T06:00:01Z"
+      "title": "2026 Election Results: In CA-30, D-Laura Friedman holds a lead over 6 challengers - Los Angeles Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTl9ud3lMV2dvSXZzVFZ4WFo5TXA5RE1pSXhlLXU4dXNFX21SSlV4VlBWdURGbXhHMnc1UkQydE5PMi1fVjByZXUwQnZyT0VocHNwb09vb3AyZFY1aGdFVTQ5aVUtd1dNZU0zN2dYQXdldzdWZHlrUVl3ZThQUU56WnVKejVUbWJfT1J3dkJXc2hpc1VnaW41SkxRT0RUSHdlVmwxWGc4eEo?oc=5",
+      "source": "Los Angeles Daily News",
+      "published_iso": "2026-06-03T05:45:29Z"
     }
   ]
 }
