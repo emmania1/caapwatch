@@ -363,6 +363,17 @@ def network_intl_thousands(rows):
     return None
 
 
+def _quarter_label_from_date(iso):
+    """Map a quarter-end report date to a human label: '2026-03-31' -> 'Q1 2026'.
+    Derived from the release date so the panel always names the actual quarter."""
+    try:
+        y, m, _ = str(iso).split("-")
+        q = (int(m) - 1) // 3 + 1
+        return f"Q{q} {int(y)}"
+    except Exception:
+        return None
+
+
 def build_intl_by_market(sub):
     """Fetch the latest quarterly release and return the per-country international
     block, reconciled against that filing's network total.
@@ -389,6 +400,9 @@ def build_intl_by_market(sub):
                 f"vs network {net_m:.3f}M")
 
     markets.sort(key=lambda m: m["intl_current"], reverse=True)
+    # Name the quarter from the release date (e.g. "Q1 2026"); fall back to the
+    # raw column token only if the date is unparseable.
+    period_label = _quarter_label_from_date(rdate) or period_label
     return {
         "source_url": url,
         "report_date": rdate,

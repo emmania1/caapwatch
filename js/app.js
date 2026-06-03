@@ -149,6 +149,12 @@ function safeRender(id, fn, data) {
 /* ======================================================================
  * Panel 1 — Traffic by market (hero)
  * ==================================================================== */
+function niceQuarter(s) {
+  // "1Q25" -> "Q1 2025"; an already-nice "Q1 2025" passes through; falsy -> "".
+  if (!s) return "";
+  const m = /^([1-4])Q(\d{2})$/i.exec(String(s).trim());
+  return m ? `Q${m[1]} 20${m[2]}` : String(s).trim();
+}
 function renderTraffic(el, d) {
   if (!d || !d.headline || !d.by_country) {
     el.innerHTML = `
@@ -209,8 +215,8 @@ function renderTraffic(el, d) {
           <div class="cval"><span class="v">${v}</span>${pill(m.intl_yoy_pct)}</div>
         </div>`;
     }).join("");
-    const periodTxt = ibm.period_label || "latest quarter";
-    const priorTxt = ibm.prior_label || "prior-year quarter";
+    const periodTxt = niceQuarter(ibm.period_label) || "latest quarter";
+    const priorTxt = niceQuarter(ibm.prior_label) || "prior-year quarter";
     const r = ibm.reconciliation || {};
     const reconLine = (r.intl_sum_millions != null && r.network_intl_thousands != null)
       ? `Reconciles: per-country international sums to ${r.intl_sum_millions}M ≈ ${(r.network_intl_thousands / 1000).toFixed(1)}M network total for ${periodTxt}.`
@@ -232,7 +238,7 @@ function renderTraffic(el, d) {
       <h2>Traffic by Market <span class="period">· ${esc(period)}</span></h2>
       ${stamp(d.updated_at, 45)}
     </div>
-    <p class="subhead">International passengers is the headline; domestic is the secondary line. Figures in millions of passengers, year-over-year.</p>
+    <p class="subhead">Monthly passenger traffic across CAAP's six markets, with international passengers — the higher-yield demand — broken out by country from the quarterly release. The core read on whether demand is holding up.</p>
     <div class="hero-top">
       <div class="headline">
         <div class="metric-label">${esc(h.metric || "International Passengers")}</div>
@@ -272,7 +278,7 @@ function renderFuel(el, d) {
       <h2>Fuel &amp; Flight-Capacity Risk <span class="period">· LatAm / Europe</span></h2>
       ${d && d.updated_at ? stamp(d.updated_at, 4) : ""}
     </div>
-    <p class="subhead">Oil prices and the fuel-driven airline capacity cuts / cancellations that are a leading headwind for the passenger traffic above.</p>`;
+    <p class="subhead">Oil and jet-fuel prices alongside airline capacity-cut and cancellation headlines across Latin America and Europe — the cost pressure that can pull down the traffic above. The badge summarizes the current risk level.</p>`;
 
   if (!d || !d.oil || !d.oil.length) {
     el.innerHTML = `${head}${nodata("Brent · WTI · jet-fuel prices and airline capacity-cut headlines — awaiting first refresh.")}`;
@@ -337,7 +343,7 @@ function renderConcession(el, d) {
       <h2>Concession Tracker</h2>
       ${stamp(status.updated_at, 120)}
     </div>
-    <p class="subhead">Stage is hand-set in <code>data/status.json</code>; headlines auto-update from Google News (local-language).</p>
+    <p class="subhead">Live status and local-language news on CAAP's two open concession questions: Brazil's Brasília (JK) re-concession and Argentina's AA2000 economic-equilibrium rebalancing.</p>
     ${subCardConcession("Brazil · Brasília / JK re-concession", c.brasilia, topics.brasilia)}
     ${subCardConcession("Argentina · AA2000 (runs to 2038 — rebalancing, not renewal)", c.aa2000, topics.aa2000)}
     <div class="feed-foot">${srcLink(news.source_url, "Google News")} ${feedStamp}</div>`;
@@ -367,7 +373,7 @@ function renderArmenia(el, d) {
       <h2>Armenia Political Watch</h2>
       ${stamp(status.updated_at, 120)}
     </div>
-    <p class="subhead">Escalation risk around the Armenia–Azerbaijan peace process. Tension level is hand-set in <code>data/status.json</code>.</p>
+    <p class="subhead">Escalation signals around Armenia's politics — current tension level plus the latest headlines — that bear on the Yerevan (Zvartnots) concession.</p>
     ${tensionIndicator(a.tension_level, a.levels)}
     <div class="sub-card"><p>${esc(a.note || "")}${a.as_of ? ` <strong>· as of ${esc(a.as_of)}</strong>` : ""}</p></div>
     ${headlinesList(news.headlines, "No recent headlines.")}
@@ -433,7 +439,7 @@ function renderGDP(el, d) {
       <h2>GDP Growth <span class="period">· latest ${esc(d.countries[0].year || "")}</span></h2>
       ${stamp(d.updated_at, 400)}
     </div>
-    <p class="subhead">Real GDP growth across CAAP's GDP-relevant markets (World Bank). Sparklines show the last decade.</p>
+    <p class="subhead">Real GDP growth across CAAP's markets plus Argentina's inflation and FX — the macro backdrop for air-travel demand. Annual figures, so they move slowly.</p>
     <div class="gdp-grid">${tiles}</div>
     ${macro}
     <div style="margin-top:14px">${srcLink(d.source_url, d.source || "World Bank")}</div>`;

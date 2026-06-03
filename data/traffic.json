@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T22:15:59Z",
+  "updated_at": "2026-06-03T19:04:01Z",
   "status": "ok",
   "source": "SEC EDGAR 6-K EX-99.1 (CIK 1717393)",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1717393/000110465926064567/tm2615227d1_ex99-1.htm",
@@ -126,7 +126,7 @@
   "intl_by_market": {
     "source_url": "https://www.sec.gov/Archives/edgar/data/1717393/000110465926059836/tm2614453d1_ex99-1.htm",
     "report_date": "2026-03-31",
-    "period_label": "1Q26",
+    "period_label": "Q1 2026",
     "prior_label": "1Q25",
     "units": "millions",
     "metric": "International Passengers",
