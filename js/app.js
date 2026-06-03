@@ -254,40 +254,51 @@ function renderTraffic(el, d) {
 }
 
 /* ======================================================================
- * Panel 4 — Fuel / capacity risk ribbon
+ * Panel 4 — Fuel & flight-capacity risk (full panel, after traffic)
+ *
+ * Tracks oil prices (Brent / WTI / jet-fuel proxy) and the fuel-driven airline
+ * capacity-cut / cancellation headlines that are a leading headwind for the
+ * passenger traffic above. The headlines render EXPANDED by default as a normal
+ * visible list (same style as the concession / armenia feeds), not collapsed.
  * ==================================================================== */
 function oilTile(o) {
   const price = o.price == null ? "–"
     : "$" + Number(o.price).toFixed(2) + (o.unit && o.unit.includes("gal") ? "/gal" : "");
   return `<span class="oil"><b>${esc(o.name)}</b> ${price} ${fuelPill(o.change_pct)}</span>`;
 }
-function renderRibbon(el, d) {
+function renderFuel(el, d) {
+  const head = `
+    <div class="panel-head">
+      <h2>Fuel &amp; Flight-Capacity Risk <span class="period">· LatAm / Europe</span></h2>
+      ${d && d.updated_at ? stamp(d.updated_at, 4) : ""}
+    </div>
+    <p class="subhead">Oil prices and the fuel-driven airline capacity cuts / cancellations that are a leading headwind for the passenger traffic above.</p>`;
+
   if (!d || !d.oil || !d.oil.length) {
-    el.innerHTML = `<div class="wrap ribbon-inner">
-      <span class="tag">Fuel / capacity risk</span>
-      <span class="muted">Brent · WTI · jet fuel and airline capacity-cut headlines — awaiting first refresh.</span></div>`;
+    el.innerHTML = `${head}${nodata("Brent · WTI · jet-fuel prices and airline capacity-cut headlines — awaiting first refresh.")}`;
     return;
   }
+
   const risk = d.risk || {};
   const level = (risk.level || "watch").toLowerCase();
   const tiles = d.oil.map(oilTile).join("");
-  const heads = (d.headlines || []);
-  const news = heads.length ? `
-    <details class="cap-news">
-      <summary>${risk.headline_count || heads.length} capacity-cut headlines ▾</summary>
-      <ul>${heads.map((h) => `
-        <li><a href="${esc(h.link)}" target="_blank" rel="noopener">${esc(cleanTitle(h.title))}</a>
-        <span class="src">${esc(h.source || "")}${h.published_iso ? " · " + esc(relTime(h.published_iso)) : ""}</span></li>`).join("")}
-      </ul>
-    </details>` : `<span class="muted">no capacity headlines</span>`;
+  const heads = d.headlines || [];
+  const n = heads.length;
 
-  el.innerHTML = `<div class="wrap ribbon-inner">
-    <span class="tag">Fuel / capacity risk</span>
-    <span class="risk-badge ${level}" title="${esc(risk.rule || "")}">${esc(level)}</span>
-    <span class="oil-tiles">${tiles}</span>
-    ${news}
-    <span class="stamp ribbon-stamp">${stamp(d.updated_at, 4).replace(/^<span[^>]*>|<\/span>$/g, "")}</span>
-  </div>`;
+  el.innerHTML = `
+    ${head}
+    <div class="fuel-top">
+      <span class="oil-tiles">${tiles}</span>
+      <span class="fuel-risk">Capacity risk
+        <span class="risk-badge ${level}" title="${esc(risk.rule || "")}">${esc(level)}</span>
+      </span>
+    </div>
+    ${risk.rule ? `<p class="fuel-rule">${esc(risk.rule)}</p>` : ""}
+    <div class="fuel-news">
+      <h3>Capacity cuts &amp; cancellations${n ? ` <span class="muted">· ${n} recent headline${n === 1 ? "" : "s"}</span>` : ""}</h3>
+      ${headlinesList(heads, "No capacity-cut headlines in the recent window.")}
+    </div>
+    <div style="margin-top:14px">${srcLink(d.news_source_url || d.oil_source_url, d.source || "Stooq · Google News")}</div>`;
 }
 
 /* ======================================================================
@@ -468,7 +479,7 @@ async function boot() {
 
   safeRender("quote", renderQuote, price);
   safeRender("traffic", renderTraffic, traffic);
-  safeRender("ribbon", renderRibbon, fuel);
+  safeRender("fuel", renderFuel, fuel);
   safeRender("concession", renderConcession, { status, news: concession });
   safeRender("armenia", renderArmenia, { status, news: armenia });
   safeRender("gdp", renderGDP, gdp);

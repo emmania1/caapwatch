@@ -71,15 +71,20 @@ html, body {
 .q-spark { width: 60px; height: 20px; display: inline-block; line-height: 0; }
 .q-spark .spark { height: 20px; margin-top: 0; }
 
-/* ---------- ribbon (Panel 4) ---------- */
-.ribbon { background: var(--warn-soft); border-bottom: 1px solid #f0e2c4; }
-.ribbon-inner {
+/* ---------- Panel 4 — fuel & flight-capacity risk ---------- */
+.fuel-top {
   display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
-  padding: 10px 20px; font-size: 13px;
+  background: var(--warn-soft); border: 1px solid #f0e2c4; border-radius: 10px;
+  padding: 12px 15px;
 }
-.ribbon .tag {
-  font-weight: 700; color: var(--warn); text-transform: uppercase;
-  letter-spacing: .5px; font-size: 11px;
+.oil-tiles { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.oil { font-size: 13px; color: var(--ink); }
+.oil b { font-weight: 700; }
+.oil .pill { font-size: 11px; margin-left: 2px; }
+.fuel-risk {
+  margin-left: auto; display: inline-flex; align-items: center; gap: 7px;
+  font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .5px;
+  color: var(--muted);
 }
 .risk-badge {
   font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .5px;
@@ -88,27 +93,10 @@ html, body {
 .risk-badge.watch { background: var(--accent-soft); color: var(--accent); }
 .risk-badge.elevated { background: #fbf0d8; color: var(--warn); }
 .risk-badge.high { background: #f7d9d4; color: var(--neg); }
-.oil-tiles { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
-.oil { font-size: 13px; color: var(--ink); }
-.oil b { font-weight: 700; }
-.oil .pill { font-size: 11px; margin-left: 2px; }
-.cap-news { font-size: 12.5px; }
-.cap-news summary {
-  cursor: pointer; color: var(--accent); font-weight: 600; list-style: none;
-  user-select: none;
-}
-.cap-news summary::-webkit-details-marker { display: none; }
-.cap-news summary:hover { text-decoration: underline; }
-.cap-news[open] summary { margin-bottom: 6px; }
-.cap-news ul {
-  list-style: none; margin: 0; padding: 8px 0 4px; max-width: 640px;
-  border-top: 1px solid #efe4c8;
-}
-.cap-news li { padding: 4px 0; line-height: 1.35; }
-.cap-news li a { color: var(--ink); text-decoration: none; font-weight: 600; }
-.cap-news li a:hover { text-decoration: underline; color: var(--accent); }
-.cap-news li .src { color: var(--faint); font-size: 11px; display: block; }
-.ribbon-stamp { margin-left: auto; }
+.fuel-rule { margin: 9px 0 0; font-size: 12px; color: var(--faint); }
+.fuel-news { margin-top: 14px; }
+.fuel-news h3 { margin: 0; font-size: 13px; font-weight: 700; color: var(--ink); }
+.fuel-news h3 .muted { font-weight: 500; }
 
 /* ---------- panels ---------- */
 main { padding: 22px 0 8px; display: block; }
