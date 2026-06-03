@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T01:41:17Z",
+  "updated_at": "2026-06-02T22:15:59Z",
   "status": "ok",
   "source": "SEC EDGAR 6-K EX-99.1 (CIK 1717393)",
   "source_url": "https://www.sec.gov/Archives/edgar/data/1717393/000110465926064567/tm2615227d1_ex99-1.htm",
@@ -122,5 +122,74 @@
       "ytd_prior": 844.0,
       "ytd_yoy_pct": 2.5
     }
-  ]
+  ],
+  "intl_by_market": {
+    "source_url": "https://www.sec.gov/Archives/edgar/data/1717393/000110465926059836/tm2614453d1_ex99-1.htm",
+    "report_date": "2026-03-31",
+    "period_label": "1Q26",
+    "prior_label": "1Q25",
+    "units": "millions",
+    "metric": "International Passengers",
+    "markets": [
+      {
+        "name": "Argentina",
+        "intl_current": 4.9,
+        "intl_prior": 4.2,
+        "intl_yoy_pct": 18.5,
+        "dom_current": 7.5,
+        "transit_current": 0.4,
+        "total_current": 12.8
+      },
+      {
+        "name": "Italy",
+        "intl_current": 1.4,
+        "intl_prior": 1.2,
+        "intl_yoy_pct": 10.3,
+        "dom_current": 0.4,
+        "transit_current": null,
+        "total_current": 1.7
+      },
+      {
+        "name": "Armenia",
+        "intl_current": 1.1,
+        "intl_prior": 1.0,
+        "intl_yoy_pct": 7.1,
+        "dom_current": null,
+        "transit_current": null,
+        "total_current": 1.1
+      },
+      {
+        "name": "Uruguay",
+        "intl_current": 0.7,
+        "intl_prior": 0.6,
+        "intl_yoy_pct": 4.2,
+        "dom_current": null,
+        "transit_current": null,
+        "total_current": 0.7
+      },
+      {
+        "name": "Ecuador",
+        "intl_current": 0.6,
+        "intl_prior": 0.5,
+        "intl_yoy_pct": 10.6,
+        "dom_current": 0.6,
+        "transit_current": 0.0,
+        "total_current": 1.2
+      },
+      {
+        "name": "Brazil",
+        "intl_current": 0.2,
+        "intl_prior": 0.2,
+        "intl_yoy_pct": 7.7,
+        "dom_current": 2.2,
+        "transit_current": 1.8,
+        "total_current": 4.2
+      }
+    ],
+    "reconciliation": {
+      "intl_sum_millions": 8.9,
+      "network_intl_thousands": 8907.0,
+      "ok": true
+    }
+  }
 }

@@ -188,6 +188,45 @@ function renderTraffic(el, d) {
     ? `<div class="ytd">YTD international ${fmtPct(h.ytd_yoy_pct)} · total pax ${fmtPct(d.total && d.total.ytd_yoy_pct)} (${fmtM(d.total && d.total.ytd_current)} YTD)</div>`
     : "";
 
+  // International passengers BY MARKET — only the QUARTERLY earnings release
+  // breaks international out per country (the monthly release does not). It is
+  // reported in millions at 0.1M precision, so this lives in its own clearly
+  // labelled block and is never conflated with the monthly hero above. Values
+  // here are already in millions — do NOT pass them through fmtM (which assumes
+  // thousands). The section is omitted entirely if the quarterly block is absent.
+  let intlSection = "";
+  const ibm = d.intl_by_market;
+  if (ibm && ibm.markets && ibm.markets.length) {
+    const maxI = Math.max(...ibm.markets.map((m) => m.intl_current || 0)) || 1;
+    const ibmRows = ibm.markets.map((m) => {
+      const w = Math.max(2, Math.round(((m.intl_current || 0) / maxI) * 100));
+      const flag = FLAGS[m.name] || "";
+      const v = m.intl_current == null ? "–" : Number(m.intl_current).toFixed(1) + "M";
+      return `
+        <div class="country-row">
+          <div class="cname"><span class="flag">${flag}</span>${esc(m.name)}</div>
+          <div class="bar-track"><div class="bar-fill intl" style="width:${w}%"></div></div>
+          <div class="cval"><span class="v">${v}</span>${pill(m.intl_yoy_pct)}</div>
+        </div>`;
+    }).join("");
+    const periodTxt = ibm.period_label || "latest quarter";
+    const priorTxt = ibm.prior_label || "prior-year quarter";
+    const r = ibm.reconciliation || {};
+    const reconLine = (r.intl_sum_millions != null && r.network_intl_thousands != null)
+      ? `Reconciles: per-country international sums to ${r.intl_sum_millions}M ≈ ${(r.network_intl_thousands / 1000).toFixed(1)}M network total for ${periodTxt}.`
+      : "";
+    intlSection = `
+      <div class="intl-market">
+        <h3>International passengers by market <span class="period">· ${esc(periodTxt)} (latest quarter)</span></h3>
+        <p class="intl-market-note">Only the <strong>quarterly</strong> earnings release breaks international out by country, reported in <strong>millions</strong> (0.1M precision; “n.m.” where negligible) vs ${esc(priorTxt)}. Refreshes quarterly, so it lags the monthly figures above.</p>
+        <div class="country-list">${ibmRows}</div>
+        <div class="intl-market-foot">
+          ${reconLine ? `<span class="recon">${esc(reconLine)}</span>` : ""}
+          ${srcLink(ibm.source_url, "Quarterly EX-99.1")}
+        </div>
+      </div>`;
+  }
+
   el.innerHTML = `
     <div class="panel-head">
       <h2>Traffic by Market <span class="period">· ${esc(period)}</span></h2>
@@ -210,6 +249,7 @@ function renderTraffic(el, d) {
       </div>
     </div>
     <div class="type-tiles">${typeTiles}${totalTile}</div>
+    ${intlSection}
     <div style="margin-top:12px">${srcLink(d.source_url, d.source || "SEC EDGAR 6-K")}</div>`;
 }
 

@@ -59,9 +59,8 @@ MONTH_NAMES = ["", "January", "February", "March", "April", "May", "June",
                "July", "August", "September", "October", "November", "December"]
 
 
-def find_latest_traffic_release(max_filings=30):
+def find_latest_traffic_release(sub, max_filings=30):
     """Return (exhibit_url, html) for the newest 6-K that is a traffic release."""
-    sub = http_get_json(SUBMISSIONS_URL)
     recent = sub["filings"]["recent"]
     forms = recent["form"]
     accs = recent["accessionNumber"]
@@ -199,8 +198,216 @@ def parse_by_country(rows, total_current):
     return ordered
 
 
+# ---------------------------------------------------------------------------
+# Quarterly per-country INTERNATIONAL split.
+#
+# The monthly release reports only the network-wide domestic/international/transit
+# split plus per-country TOTALS. International passengers BY COUNTRY appear only
+# in the QUARTERLY earnings release — a separate 6-K whose reportDate is a
+# quarter-end — inside a consolidated "operating statistics" block that lists, per
+# country, Domestic / International / Transit / Total passengers IN MILLIONS
+# (one decimal; "n.m." for negligible) under a `1Q26 | 1Q25 | % Var.` header
+# (a Q1 report has no separate YTD column — the quarter is the YTD).
+#
+# We fetch that release separately and parse ONLY the consolidated block, which
+# we isolate by anchoring on bare country-header rows (first cell a country, the
+# rest blank) that are immediately followed by an "International Passengers" row.
+# That uniquely selects the consolidated passenger table and skips both the
+# per-segment operating blocks (no bare header) and the later revenue blocks (not
+# followed by an intl-pax row). The per-country figures must reconcile with the
+# SAME filing's network International total (reported in THOUSANDS in the top
+# table) or we reject the parse and keep last-known. This block is QUARTERLY and
+# coarser (0.1M) than the monthly hero; a failure here never breaks the hero.
+# ---------------------------------------------------------------------------
+QUARTER_END = {"03-31", "06-30", "09-30", "12-31"}
+QCOL = re.compile(r"^\d[Qq]\d{2}$")
+
+
+def find_latest_quarterly_release(sub, max_filings=40):
+    """Return (url, html, report_date) for the newest 6-K earnings release that
+    carries the consolidated per-country operating-statistics block.
+
+    Quarterly releases have a quarter-end reportDate (monthly traffic releases do
+    not), so we narrow to quarter-end-dated 6-Ks and then confirm by content.
+    Submissions are newest-first, so the first content match is the latest quarter.
+    """
+    recent = sub["filings"]["recent"]
+    forms = recent["form"]
+    accs = recent["accessionNumber"]
+    primary = recent.get("primaryDocument", [""] * len(forms))
+    rdates = recent.get("reportDate", [""] * len(forms))
+
+    scanned = 0
+    for form, acc, prim, rdate in zip(forms, accs, primary, rdates):
+        if not form.startswith("6-K"):
+            continue
+        if (rdate or "")[5:] not in QUARTER_END:   # quarter-end reportDate only
+            continue
+        if scanned >= max_filings:
+            break
+        scanned += 1
+        accnodash = acc.replace("-", "")
+        base = ARCHIVE.format(cik=CIK, acc=accnodash)
+        try:
+            idx = http_get_json(base + "/index.json")
+        except Exception as exc:  # noqa: BLE001
+            print(f"  skip quarterly {acc}: index.json failed ({exc})")
+            continue
+        names = [it["name"] for it in idx["directory"]["item"]]
+        candidates = [n for n in names
+                      if n.lower().endswith((".htm", ".html"))
+                      and re.search(r"ex-?99", n, re.I)]
+        if prim and prim not in candidates:
+            candidates.append(prim)
+        for name in candidates:
+            try:
+                html = http_get_text(base + "/" + name)
+            except Exception as exc:  # noqa: BLE001
+                print(f"  skip {name}: fetch failed ({exc})")
+                continue
+            # Quarterly earnings release marker: per-country split reported in millions.
+            if ("International Passengers" in html
+                    and "in millions" in html and "Var" in html):
+                return base + "/" + name, html, rdate
+        time.sleep(0.3)  # be polite to EDGAR between filings
+    raise RuntimeError("no quarterly per-country release found in recent filings")
+
+
+def _clean_label(text):
+    return re.sub(r"\(.*?\)", "", text or "").strip()
+
+
+def _country_header(row):
+    """If row is a bare country-header row (first cell a country, rest blank),
+    return the canonical country name; else None."""
+    if not row:
+        return None
+    name = _clean_label(row[0])
+    for c in COUNTRIES:
+        if name.lower() == c.lower() and all((x or "").strip() == "" for x in row[1:4]):
+            return c
+    return None
+
+
+def parse_intl_by_market(rows):
+    """Parse the consolidated per-country block of a quarterly EX-99.1.
+
+    Returns (markets, period_label, prior_label). Each market dict carries
+    international (current/prior/yoy%) plus domestic/transit/total CURRENT levels,
+    in millions of passengers exactly as the filing reports them (no derivation).
+    """
+    n = len(rows)
+
+    def intl_follows(i, k=4):
+        for j in range(i + 1, min(i + 1 + k, n)):
+            lab = _clean_label(rows[j][0]).lower() if rows[j] else ""
+            if lab.startswith("international passenger"):
+                return True
+            if _country_header(rows[j]):
+                return False
+        return False
+
+    # Passenger consolidated block = bare country headers each followed by an
+    # International Passengers row.
+    headers = [(i, _country_header(rows[i])) for i in range(n)
+               if _country_header(rows[i]) and intl_follows(i)]
+    if not headers:
+        return [], None, None
+
+    # Period columns from the header row just above the first country header.
+    first = headers[0][0]
+    period_label = prior_label = None
+    for j in range(first - 1, max(first - 6, -1), -1):
+        toks = [c.strip() for c in rows[j]]
+        qs = [t for t in toks if QCOL.match(t)]
+        if len(qs) >= 2:
+            period_label, prior_label = qs[0].upper(), qs[1].upper()
+            break
+
+    hdr_idxs = [i for i, _ in headers]
+    markets = []
+    for k, (i, country) in enumerate(headers):
+        stop = hdr_idxs[k + 1] if k + 1 < len(hdr_idxs) else min(i + 8, n)
+        rec = {"name": country, "intl_current": None, "intl_prior": None,
+               "intl_yoy_pct": None, "dom_current": None,
+               "transit_current": None, "total_current": None}
+        for j in range(i + 1, stop):
+            row = rows[j]
+            if not row:
+                continue
+            lab = _clean_label(row[0]).lower()
+            vals = parse_row_values(row)
+            if lab.startswith("international passenger"):
+                rec["intl_current"] = vals["current"]
+                rec["intl_prior"] = vals["prior"]
+                rec["intl_yoy_pct"] = vals["yoy_pct"]
+            elif lab.startswith("domestic passenger"):
+                rec["dom_current"] = vals["current"]
+            elif lab.startswith("transit passenger"):
+                rec["transit_current"] = vals["current"]
+            elif lab.startswith("total passenger"):
+                rec["total_current"] = vals["current"]
+        markets.append(rec)
+    return markets, period_label, prior_label
+
+
+def network_intl_thousands(rows):
+    """Network International total (in thousands) from the quarterly top table —
+    the first 'International Passengers' row whose label says 'thousand'."""
+    for row in rows:
+        if not row:
+            continue
+        lab = row[0].lower()
+        if lab.startswith("international passengers") and "thousand" in lab:
+            return parse_row_values(row)["current"]
+    return None
+
+
+def build_intl_by_market(sub):
+    """Fetch the latest quarterly release and return the per-country international
+    block, reconciled against that filing's network total.
+
+    Raises on incompleteness or a failed reconciliation so the caller keeps
+    last-known rather than publishing a bad split.
+    """
+    url, html, rdate = find_latest_quarterly_release(sub)
+    rows = extract_table_rows(html)
+    markets, period_label, prior_label = parse_intl_by_market(rows)
+    markets = [m for m in markets if m["intl_current"] is not None]
+    if len(markets) < 5:
+        raise RuntimeError(f"intl-by-market parse incomplete: {[m['name'] for m in markets]}")
+
+    net_k = network_intl_thousands(rows)
+    intl_sum = round(sum(m["intl_current"] for m in markets), 1)
+    recon_ok = None
+    if net_k:
+        net_m = net_k / 1000.0
+        recon_ok = abs(intl_sum - net_m) / net_m <= 0.05
+        if not recon_ok:
+            raise RuntimeError(
+                f"intl-by-market reconciliation failed: per-country sum {intl_sum}M "
+                f"vs network {net_m:.3f}M")
+
+    markets.sort(key=lambda m: m["intl_current"], reverse=True)
+    return {
+        "source_url": url,
+        "report_date": rdate,
+        "period_label": period_label,
+        "prior_label": prior_label,
+        "units": "millions",
+        "metric": "International Passengers",
+        "markets": markets,
+        "reconciliation": {
+            "intl_sum_millions": intl_sum,
+            "network_intl_thousands": net_k,
+            "ok": recon_ok,
+        },
+    }
+
+
 def build_payload():
-    url, html = find_latest_traffic_release()
+    sub = http_get_json(SUBMISSIONS_URL)
+    url, html = find_latest_traffic_release(sub)
     rows = extract_table_rows(html)
     period = detect_period(rows, html)
     by_type = parse_by_type(rows)
@@ -233,6 +440,19 @@ def build_payload():
         "by_type": [{"name": n, **by_type[n]} for n in ("Domestic", "International", "Transit") if n in by_type],
         "by_country": by_country,
     }
+
+    # Quarterly per-country international split (separate filing, coarser cadence
+    # and precision). Resilient: never let this break the monthly hero — on any
+    # failure we carry the last-known quarterly block, or omit it on a cold start.
+    try:
+        payload["intl_by_market"] = build_intl_by_market(sub)
+    except Exception as exc:  # noqa: BLE001
+        prev = read_existing("traffic.json") or {}
+        if prev.get("intl_by_market"):
+            payload["intl_by_market"] = prev["intl_by_market"]
+            print(f"[traffic] intl-by-market refresh failed ({exc}); kept last-known quarterly block")
+        else:
+            print(f"[traffic] intl-by-market unavailable ({exc}); omitting")
     return payload
 
 
@@ -250,8 +470,11 @@ def main():
     wrote = write_json("traffic.json", payload)
     p = payload["period"]["label"]
     h = payload["headline"]
+    ibm = payload.get("intl_by_market")
+    ibm_note = (f", intl-by-market {len(ibm['markets'])}@{ibm['period_label']} "
+                f"(recon {'ok' if ibm.get('reconciliation', {}).get('ok') else 'check'})") if ibm else ""
     summary = (f"International {h['current']:,.0f}k ({h['yoy_pct']:+}% YoY), "
-               f"{len(payload['by_country'])} countries")
+               f"{len(payload['by_country'])} countries{ibm_note}")
     if wrote is None:
         print(f"[traffic] {p} unchanged; kept existing file ({summary})")
     else:

@@ -187,6 +187,20 @@ main { padding: 22px 0 8px; display: block; }
 .tile .t-val { font-size: 24px; font-weight: 800; margin: 3px 0 2px; font-variant-numeric: tabular-nums; }
 .tile.total { background: var(--accent-soft); border-color: #cfe0ee; }
 
+/* International-by-market sub-block (Panel 1) — the QUARTERLY per-country split.
+   Set apart from the monthly figures above with a divider, an explanatory note,
+   and a distinct teal bar so the coarser cadence/precision reads clearly. */
+.intl-market { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); }
+.intl-market h3 { margin: 0; font-size: 14px; font-weight: 700; letter-spacing: .2px; }
+.intl-market h3 .period { font-size: 12px; color: var(--accent); font-weight: 600; }
+.intl-market-note { margin: 4px 0 12px; font-size: 12px; color: var(--muted); line-height: 1.5; }
+.bar-fill.intl { background: linear-gradient(90deg, #17a2a2, #0e7490); }
+.intl-market-foot {
+  margin-top: 12px; display: flex; gap: 12px 18px; flex-wrap: wrap;
+  align-items: baseline; justify-content: space-between;
+}
+.intl-market-foot .recon { font-size: 12px; color: var(--faint); }
+
 /* YoY pills */
 .pill {
   display: inline-block; font-size: 12px; font-weight: 700;
