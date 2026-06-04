@@ -1,0 +1,95 @@
+{
+  "updated_at": "2026-06-04T04:38:23Z",
+  "window_days": 7,
+  "source": "OpenSky Network (ADS-B). Movements = arrivals + departures; a measured proxy for activity, not passengers.",
+  "auth": "authenticated",
+  "airports": [
+    {
+      "icao": "SAEZ",
+      "name": "Buenos Aires Ezeiza",
+      "country": "Argentina",
+      "coverage": "medium",
+      "movements_current": 55,
+      "movements_prior_year": 0,
+      "yoy_pct": null
+    },
+    {
+      "icao": "SABE",
+      "name": "Buenos Aires Aeroparque",
+      "country": "Argentina",
+      "coverage": "medium",
+      "movements_current": 151,
+      "movements_prior_year": 0,
+      "yoy_pct": null
+    },
+    {
+      "icao": "SACO",
+      "name": "C\u00f3rdoba",
+      "country": "Argentina",
+      "coverage": "medium",
+      "movements_current": 0,
+      "movements_prior_year": 0,
+      "yoy_pct": null
+    },
+    {
+      "icao": "SBBR",
+      "name": "Bras\u00edlia",
+      "country": "Brazil",
+      "coverage": "medium",
+      "movements_current": 0,
+      "movements_prior_year": 0,
+      "yoy_pct": null,
+      "carrier_split": []
+    },
+    {
+      "icao": "LIRQ",
+      "name": "Florence",
+      "country": "Italy",
+      "coverage": "high",
+      "movements_current": 0,
+      "movements_prior_year": 0,
+      "yoy_pct": null
+    },
+    {
+      "icao": "LIRP",
+      "name": "Pisa",
+      "country": "Italy",
+      "coverage": "high",
+      "movements_current": 0,
+      "movements_prior_year": 0,
+      "yoy_pct": null
+    },
+    {
+      "icao": "UDYZ",
+      "name": "Yerevan Zvartnots",
+      "country": "Armenia",
+      "coverage": "verify",
+      "movements_current": 0,
+      "movements_prior_year": 0,
+      "yoy_pct": null,
+      "russia_inflow": {
+        "current": 0,
+        "prior_year": 0,
+        "yoy_pct": null
+      }
+    },
+    {
+      "icao": "SEGU",
+      "name": "Guayaquil",
+      "country": "Ecuador",
+      "coverage": "medium",
+      "movements_current": 0,
+      "movements_prior_year": 0,
+      "yoy_pct": null
+    },
+    {
+      "icao": "SUMU",
+      "name": "Montevideo Carrasco",
+      "country": "Uruguay",
+      "coverage": "medium",
+      "movements_current": 0,
+      "movements_prior_year": 0,
+      "yoy_pct": null
+    }
+  ]
+}

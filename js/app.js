@@ -8,6 +8,7 @@
 "use strict";
 
 const DATA_FILES = {
+  flights: "data/flights.json",
   traffic: "data/traffic.json",
   gdp: "data/gdp.json",
   concession: "data/concession.json",
@@ -144,6 +145,135 @@ function safeRender(id, fn, data) {
     console.error("render error in #" + id, err);
     el.innerHTML = `<div class="panel-head"><h2>${esc(id)}</h2></div>${nodata("Could not render this panel.")}`;
   }
+}
+
+/* ======================================================================
+ * Panel 0 — Flight Activity (live ADS-B nowcast), ABOVE the traffic story.
+ *
+ * Measured aircraft movements (arrivals + departures) from OpenSky ADS-B,
+ * trailing 7 days vs the same week a year ago — a near-real-time read on
+ * activity ahead of CAAP's monthly traffic release. Movements, NOT passengers.
+ *
+ * Honesty guards:
+ *  - The whole panel gates on payload.auth. OpenSky rejects anonymous access
+ *    (HTTP 403) on the history endpoints, which zeros every airport — so unless
+ *    the feed is "authenticated" we show an "awaiting first authenticated run"
+ *    state, never a table of misleading zeros.
+ *  - When authenticated, any airport tagged verify/low — OR returning near-zero
+ *    movements — gets a coverage marker, and its noisy YoY/sub-splits are
+ *    suppressed, so we never imply false precision. Yerevan (UDYZ) is the
+ *    watched case: it ships tagged "verify" until coverage is confirmed.
+ * ==================================================================== */
+const FLIGHT_THIN = 10;   // <10 movements over 7d at a commercial airport ⇒ ADS-B coverage too thin to trust
+
+function flCount(n) {
+  if (n == null || isNaN(n)) return "–";
+  return Number(n).toLocaleString("en-US");
+}
+// Movement counts can sit on a zero prior-year base (yoy null); show a quiet
+// "n/a" rather than an empty pill.
+function flYoY(n) {
+  return (n == null || isNaN(n)) ? `<span class="pill flat">n/a</span>` : pill(n);
+}
+function coverageBadge(ap, authed) {
+  const tag = String(ap.coverage || "").toLowerCase();
+  const thin = authed && (ap.movements_current || 0) < FLIGHT_THIN;
+  if (thin) {
+    return `<span class="cov-badge thin" title="Near-zero movements over 7 days — ADS-B coverage here is too sparse to trust as a reading; treat as no-signal, not a real decline.">coverage-thin</span>`;
+  }
+  if (tag === "verify" || tag === "low") {
+    return `<span class="cov-badge verify" title="ADS-B coverage here is unverified — treat as directional until confirmed against known movements.">verify</span>`;
+  }
+  return "";
+}
+function renderFlights(el, d) {
+  const head = `
+    <div class="panel-head">
+      <h2>Flight Activity — Live Nowcast <span class="period">· trailing 7d</span></h2>
+      ${d && d.updated_at ? stamp(d.updated_at, 3) : ""}
+    </div>
+    <p class="subhead">Measured aircraft movements from ADS-B (OpenSky), trailing 7 days vs a year ago — a near-real-time read on activity ahead of CAAP's monthly release. Movements, not passengers.</p>`;
+
+  if (!d || !Array.isArray(d.airports) || !d.airports.length) {
+    el.innerHTML = `${head}${nodata("Flight nowcast not available yet — the daily refresh will populate this from OpenSky ADS-B movements.")}`;
+    return;
+  }
+
+  const authed = d.auth === "authenticated";
+  const totalMov = d.airports.reduce((s, a) => s + (a.movements_current || 0), 0);
+
+  // Honesty gate: anonymous/test (or an authed run that returned nothing) cannot
+  // be presented as a real reading. Show the configured network as quiet
+  // "awaiting" rows so the panel reads as intentionally pending, not broken.
+  if (!authed || totalMov === 0) {
+    const why = !authed
+      ? "Awaiting the first authenticated OpenSky run — anonymous API access is rejected (403), so movements can't be read yet. Once the OPENSKY_CLIENT_ID / OPENSKY_CLIENT_SECRET repo secrets are set, the daily refresh will populate this."
+      : "The authenticated run returned no movements — likely an OpenSky quota limit or outage. Counts are left untouched; the next refresh retries.";
+    const rows = d.airports.map((a) => `
+      <div class="country-row fl-pending-row">
+        <div class="cname"><span class="flag">${FLAGS[a.country] || ""}</span>${esc(a.name)} ${coverageBadge(a, false)}</div>
+        <div class="bar-track"><div class="bar-fill flight" style="width:2%"></div></div>
+        <div class="cval"><span class="v muted">–</span></div>
+      </div>`).join("");
+    el.innerHTML = `${head}
+      <div class="fl-pending-note">${esc(why)}</div>
+      <div class="country-list">${rows}</div>`;
+    return;
+  }
+
+  const maxMov = Math.max(...d.airports.map((a) => a.movements_current || 0)) || 1;
+
+  const rows = d.airports.map((a) => {
+    const thin = (a.movements_current || 0) < FLIGHT_THIN;
+    const w = Math.max(2, Math.round(((a.movements_current || 0) / maxMov) * 100));
+    const yoyCell = thin ? `<span class="pill flat">n/a</span>` : flYoY(a.yoy_pct);
+    const main = `
+      <div class="country-row">
+        <div class="cname"><span class="flag">${FLAGS[a.country] || ""}</span>${esc(a.name)} ${coverageBadge(a, true)}</div>
+        <div class="bar-track"><div class="bar-fill flight${thin ? " thin" : ""}" style="width:${w}%"></div></div>
+        <div class="cval"><span class="v">${flCount(a.movements_current)}</span>${yoyCell}</div>
+      </div>`;
+
+    // Sub-splits carry real precision only on a trustworthy count — suppress on
+    // a coverage-thin airport so we don't surface a noisy GOL/LATAM or Russia
+    // line as if it were signal.
+    let detail = "";
+    if (!thin && Array.isArray(a.carrier_split) && a.carrier_split.length) {
+      const chips = a.carrier_split.map((c) =>
+        `<span class="carrier"><b>${esc(c.carrier)}</b> ${flCount(c.current)} ${flYoY(c.yoy_pct)}</span>`
+      ).join("");
+      detail += `
+        <div class="fl-sub">
+          <span class="fl-sub-label">Carrier split <span class="muted">· Brazil volume risk</span></span>
+          <div class="carriers">${chips}</div>
+        </div>`;
+    }
+    if (!thin && a.russia_inflow) {
+      const ri = a.russia_inflow;
+      detail += `
+        <div class="fl-sub">
+          <span class="fl-sub-label">Russia-origin arrivals <span class="muted">· Armenia tailwind</span></span>
+          <div class="carriers">
+            <span class="carrier"><b>RU → EVN</b> ${flCount(ri.current)} ${flYoY(ri.yoy_pct)}</span>
+            <span class="muted">vs ${flCount(ri.prior_year)} a year ago</span>
+          </div>
+        </div>`;
+    }
+    return `<div class="fl-airport">${main}${detail ? `<div class="fl-detail">${detail}</div>` : ""}</div>`;
+  }).join("");
+
+  const anyThin = d.airports.some((a) => (a.movements_current || 0) < FLIGHT_THIN);
+  const anyVerify = d.airports.some((a) => ["verify", "low"].includes(String(a.coverage || "").toLowerCase()) && (a.movements_current || 0) >= FLIGHT_THIN);
+  const legend = (anyThin || anyVerify) ? `
+    <p class="fl-legend">
+      ${anyThin ? `<span class="cov-badge thin">coverage-thin</span> near-zero movements — ADS-B too sparse to trust here. ` : ""}
+      ${anyVerify ? `<span class="cov-badge verify">verify</span> coverage unconfirmed — directional only.` : ""}
+    </p>` : "";
+
+  el.innerHTML = `${head}
+    <div class="country-list">${rows}</div>
+    ${legend}
+    <div class="fl-foot">${srcLink("https://opensky-network.org/", "OpenSky Network (ADS-B)")}</div>`;
 }
 
 /* ======================================================================
@@ -473,7 +603,8 @@ function renderQuote(el, d) {
 
 /* ---------- boot ---------- */
 async function boot() {
-  const [traffic, gdp, concession, fuel, armenia, price, status] = await Promise.all([
+  const [flights, traffic, gdp, concession, fuel, armenia, price, status] = await Promise.all([
+    loadJSON(DATA_FILES.flights),
     loadJSON(DATA_FILES.traffic),
     loadJSON(DATA_FILES.gdp),
     loadJSON(DATA_FILES.concession),
@@ -484,6 +615,7 @@ async function boot() {
   ]);
 
   safeRender("quote", renderQuote, price);
+  safeRender("flights", renderFlights, flights);
   safeRender("traffic", renderTraffic, traffic);
   safeRender("fuel", renderFuel, fuel);
   safeRender("concession", renderConcession, { status, news: concession });

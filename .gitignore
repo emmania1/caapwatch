@@ -14,5 +14,10 @@ data/.tmp_*.json
 # Logs
 *.log
 
+# Local OpenSky credentials for running the flight engine by hand. NEVER committed —
+# the GitHub Action uses repo secrets (OPENSKY_CLIENT_ID / OPENSKY_CLIENT_SECRET)
+# instead. Copy scripts/secrets.local.sh.example -> scripts/secrets.local.sh and fill in.
+scripts/secrets.local.sh
+
 # NOTE: data/*.json is intentionally NOT ignored — those files are the
 # pre-fetched data the dashboard serves, and the GitHub Action commits them.

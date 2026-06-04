@@ -198,6 +198,44 @@ main { padding: 22px 0 8px; display: block; }
 .pill.neg { color: var(--neg); background: #fbeae8; }
 .pill.flat { color: var(--muted); background: #eef2f6; }
 
+/* ---------- Flight Activity (Panel 0) — ADS-B nowcast ---------- */
+/* Distinct indigo bar marks this as the leading nowcast layer (measured
+   movements), set apart from the blue monthly-traffic and teal intl bars. */
+.fl-airport { display: flex; flex-direction: column; }
+/* Airport names are longer than the country labels the base grid is sized for —
+   widen the name column so they don't wrap to three lines. */
+.fl-airport .country-row, .fl-pending-row { grid-template-columns: 168px 1fr 116px; }
+.bar-fill.flight { background: linear-gradient(90deg, #7c6cf0, #5a4fcf); }
+.bar-fill.flight.thin { background: repeating-linear-gradient(45deg, #d7dbe6 0 4px, #eaedf4 4px 8px); }
+.fl-pending-note {
+  border: 1px dashed var(--line); border-radius: 10px; background: #fbfcfd;
+  padding: 11px 13px; margin: 0 0 12px; font-size: 12px; color: var(--muted); line-height: 1.5;
+}
+.fl-pending-row .cval .v { color: var(--faint); }
+.cov-badge {
+  font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: .4px;
+  padding: 1px 6px; border-radius: 999px; margin-left: 6px; vertical-align: middle; cursor: help;
+}
+.cov-badge.verify { background: var(--accent-soft); color: var(--accent); }
+.cov-badge.thin { background: #fbf0d8; color: var(--warn); }
+.fl-detail { padding: 3px 0 2px 8px; }
+.fl-sub { display: flex; align-items: baseline; gap: 6px 12px; flex-wrap: wrap; padding: 3px 0; }
+.fl-sub-label {
+  font-size: 11px; font-weight: 700; color: var(--muted);
+  text-transform: uppercase; letter-spacing: .4px; min-width: 150px;
+}
+.fl-sub-label .muted { font-weight: 400; text-transform: none; letter-spacing: 0; }
+.carriers { display: flex; gap: 7px; flex-wrap: wrap; align-items: baseline; }
+.carrier {
+  font-size: 12px; background: #f5f6fb; border: 1px solid #e6e8f4; border-radius: 8px;
+  padding: 2px 8px; font-variant-numeric: tabular-nums;
+}
+.carrier b { font-weight: 700; }
+.carrier .pill { font-size: 10px; margin-left: 2px; }
+.fl-legend { margin: 11px 0 0; font-size: 11px; color: var(--faint); line-height: 1.8; }
+.fl-legend .cov-badge { margin-left: 0; margin-right: 3px; cursor: default; }
+.fl-foot { margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--line); }
+
 /* ---------- catalysts (Panels 3 & 5) ---------- */
 .catalysts { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
 .card .sub-card {
@@ -276,5 +314,7 @@ a.src-link:hover { text-decoration: underline; }
   .type-tiles { grid-template-columns: repeat(2, 1fr); }
   .gdp-grid { grid-template-columns: repeat(2, 1fr); }
   .country-row { grid-template-columns: 76px 1fr 116px; }
+  .fl-airport .country-row, .fl-pending-row { grid-template-columns: 116px 1fr 104px; }
+  .fl-sub-label { min-width: 0; }
   .headline .big { font-size: 44px; }
 }

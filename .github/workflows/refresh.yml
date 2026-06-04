@@ -36,10 +36,17 @@ jobs:
       # failure it leaves its existing JSON untouched and exits 0, so one bad
       # feed can never fail the whole refresh or blank the dashboard.
       - name: Run fetchers
+        # OpenSky OAuth2 client credentials for the flight engine (fetch_flights.py).
+        # Set these as repo secrets; if absent the engine falls back to anonymous,
+        # which OpenSky now rejects (403) for the history endpoints, so the flight
+        # panel simply shows its "pending authenticated run" state rather than zeros.
+        env:
+          OPENSKY_CLIENT_ID: ${{ secrets.OPENSKY_CLIENT_ID }}
+          OPENSKY_CLIENT_SECRET: ${{ secrets.OPENSKY_CLIENT_SECRET }}
         run: |
           set +e
           status=0
-          for feed in traffic gdp concession fuel armenia price; do
+          for feed in traffic gdp concession fuel armenia price flights; do
             script="scripts/fetch_${feed}.py"
             if [ -f "$script" ]; then
               echo "::group::${script}"
