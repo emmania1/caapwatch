@@ -148,103 +148,114 @@ function safeRender(id, fn, data) {
 }
 
 /* ======================================================================
- * Panel 0 — Flight Activity (live ADS-B nowcast), ABOVE the traffic story.
+ * Flight Activity — Developing Signal (experimental). Renders LAST, after GDP.
  *
- * Measured aircraft movements (arrivals + departures) from OpenSky ADS-B,
- * trailing 7 days vs the same week a year ago — a near-real-time read on
- * activity ahead of CAAP's monthly traffic release. Movements, NOT passengers.
+ * Measured aircraft movements (arrivals + departures) from OpenSky ADS-B over a
+ * short recent window (~24h), APPENDED to a per-airport rolling history every
+ * daily run — so a trend builds forward over time, the way the header price
+ * sparkline does. This is NOT a point-in-time reading and NOT passengers; it is
+ * an experimental signal that becomes meaningful as history accumulates. No YoY
+ * is shown — OpenSky's free tier doesn't serve year-ago history.
  *
  * Honesty guards:
- *  - The whole panel gates on payload.auth. OpenSky rejects anonymous access
- *    (HTTP 403) on the history endpoints, which zeros every airport — so unless
- *    the feed is "authenticated" we show an "awaiting first authenticated run"
- *    state, never a table of misleading zeros.
- *  - When authenticated, any airport tagged verify/low — OR returning near-zero
- *    movements — gets a coverage marker, and its noisy YoY/sub-splits are
- *    suppressed, so we never imply false precision. Yerevan (UDYZ) is the
- *    watched case: it ships tagged "verify" until coverage is confirmed.
+ *  - Gates on payload.auth: OpenSky rejects anonymous history access, so until a
+ *    run is "authenticated" we show an awaiting-first-run state, never zeros.
+ *  - Per airport, a count is shown only once it is a real positive measurement.
+ *    Zero / no-history-yet airports render a quiet "establishing baseline" chip —
+ *    never a grid of zeros, never a false reading. The trend line appears once
+ *    two-plus dated points have accumulated.
+ *  - Yerevan (UDYZ) carries a "verify" coverage marker until confirmed.
  * ==================================================================== */
-const FLIGHT_THIN = 10;   // <10 movements over 7d at a commercial airport ⇒ ADS-B coverage too thin to trust
+const FLIGHT_NOTE = "Near-real-time flight movements at CAAP's airports from ADS-B, building a trend over time. Coverage and history accumulate with each daily run — meaningful readings emerge over the coming weeks. Movements, not passengers.";
 
 function flCount(n) {
   if (n == null || isNaN(n)) return "–";
   return Number(n).toLocaleString("en-US");
 }
-// Movement counts can sit on a zero prior-year base (yoy null); show a quiet
-// "n/a" rather than an empty pill.
-function flYoY(n) {
-  return (n == null || isNaN(n)) ? `<span class="pill flat">n/a</span>` : pill(n);
+// Movements from an airport's most recent dated snapshot, or null if none yet.
+function flLatestMov(a) {
+  return (a && a.latest && a.latest.movements != null) ? a.latest.movements : null;
 }
-function coverageBadge(ap, authed) {
+// "verify" marker for airports whose ADS-B coverage isn't yet confirmed (Yerevan).
+function coverageBadge(ap) {
   const tag = String(ap.coverage || "").toLowerCase();
-  const thin = authed && (ap.reliable === false || (ap.movements_current || 0) < FLIGHT_THIN);
-  if (thin) {
-    return `<span class="cov-badge thin" title="Near-zero movements over 7 days — ADS-B coverage here is too sparse to trust as a reading; treat as no-signal, not a real decline.">coverage-thin</span>`;
-  }
   if (tag === "verify" || tag === "low") {
     return `<span class="cov-badge verify" title="ADS-B coverage here is unverified — treat as directional until confirmed against known movements.">verify</span>`;
   }
   return "";
 }
+// A quiet per-airport row that shows the airport is tracked without inventing a
+// zero count — the "establishing baseline" state for sparse/no-history airports.
+function flBaselineRow(a) {
+  return `
+    <div class="country-row baseline">
+      <div class="cname"><span class="flag">${FLAGS[a.country] || ""}</span>${esc(a.name)} ${coverageBadge(a)}</div>
+      <div class="bar-track"><div class="bar-fill flight thin" style="width:2%"></div></div>
+      <div class="cval"><span class="fl-baseline">establishing baseline</span></div>
+    </div>`;
+}
+
 function renderFlights(el, d) {
   const head = `
     <div class="panel-head">
-      <h2>Flight Activity — Live Nowcast <span class="period">· trailing 7d</span></h2>
+      <h2>Flight Activity — Developing Signal <span class="period">· experimental</span></h2>
       ${d && d.updated_at ? stamp(d.updated_at, 3) : ""}
     </div>
-    <p class="subhead">Measured aircraft movements from ADS-B (OpenSky), trailing 7 days vs a year ago — a near-real-time read on activity ahead of CAAP's monthly release. Movements, not passengers.</p>`;
+    <p class="subhead">${esc(FLIGHT_NOTE)}</p>`;
 
   if (!d || !Array.isArray(d.airports) || !d.airports.length) {
-    el.innerHTML = `${head}${nodata("Flight nowcast not available yet — the daily refresh will populate this from OpenSky ADS-B movements.")}`;
+    el.innerHTML = `${head}${nodata("Flight signal not available yet — the daily refresh will begin populating this from OpenSky ADS-B movements.")}`;
     return;
   }
 
   const authed = d.auth === "authenticated";
-  // Only count movements from airports whose pull is trustworthy. A partial or
-  // rate-limited run (reliable:false on an airport) contributes nothing here, so a
-  // run that came back entirely untrustworthy collapses to the pending state
-  // instead of rendering a fraction-of-reality count as if it were a real reading.
-  const trustedMov = d.airports.reduce((s, a) => s + (a.reliable === false ? 0 : (a.movements_current || 0)), 0);
 
-  // Honesty gate: anonymous/test, or an authed run with no trustworthy airport,
-  // cannot be presented as a real reading. Show the configured network as quiet
-  // "awaiting" rows so the panel reads as intentionally pending, not broken.
-  if (!authed || trustedMov === 0) {
-    const why = !authed
-      ? "Awaiting the first authenticated OpenSky run — anonymous API access is rejected (403), so movements can't be read yet. Once the OPENSKY_CLIENT_ID / OPENSKY_CLIENT_SECRET repo secrets are set, the daily refresh will populate this."
-      : "The latest authenticated run didn't return a trustworthy read — OpenSky's history API is rate-limited / degraded right now and ADS-B coverage of these airports is still being validated. No count is shown rather than a partial one; the daily refresh retries and fills this in once a clean run lands.";
-    const rows = d.airports.map((a) => `
-      <div class="country-row fl-pending-row">
-        <div class="cname"><span class="flag">${FLAGS[a.country] || ""}</span>${esc(a.name)} ${coverageBadge(a, false)}</div>
-        <div class="bar-track"><div class="bar-fill flight" style="width:2%"></div></div>
-        <div class="cval"><span class="v muted">–</span></div>
-      </div>`).join("");
+  // Not yet authenticated: anonymous history access is rejected, so there is
+  // nothing to accumulate. Show the tracked network as quiet baseline rows.
+  if (!authed) {
     el.innerHTML = `${head}
-      <div class="fl-pending-note">${esc(why)}</div>
-      <div class="country-list">${rows}</div>`;
+      <div class="fl-pending-note">${esc("Awaiting the first authenticated OpenSky run — anonymous API access is rejected (403), so movements can't be read yet. Once the OPENSKY_CLIENT_ID / OPENSKY_CLIENT_SECRET repo secrets are set, the daily refresh starts building this trend.")}</div>
+      <div class="country-list">${d.airports.map(flBaselineRow).join("")}</div>`;
     return;
   }
 
-  const maxMov = Math.max(...d.airports.map((a) => a.movements_current || 0)) || 1;
+  const readable = d.airports.filter((a) => (flLatestMov(a) || 0) > 0);
+
+  // Authenticated but nothing measured yet across the whole network → one clean
+  // baseline state, not a grid of zeros.
+  if (!readable.length) {
+    el.innerHTML = `${head}
+      <div class="fl-pending-note">${esc("Establishing baseline — the daily refresh is accumulating movement history for each airport. Readings appear here as coverage builds over the coming weeks.")}</div>
+      <div class="country-list">${d.airports.map(flBaselineRow).join("")}</div>`;
+    return;
+  }
+
+  const maxMov = Math.max(...readable.map((a) => flLatestMov(a))) || 1;
 
   const rows = d.airports.map((a) => {
-    const thin = a.reliable === false || (a.movements_current || 0) < FLIGHT_THIN;
-    const w = Math.max(2, Math.round(((a.movements_current || 0) / maxMov) * 100));
-    const yoyCell = thin ? `<span class="pill flat">n/a</span>` : flYoY(a.yoy_pct);
+    const m = flLatestMov(a);
+    // No positive measurement yet → establishing-baseline chip (no zero shown).
+    if (!(m > 0)) return `<div class="fl-airport">${flBaselineRow(a)}</div>`;
+
+    const w = Math.max(2, Math.round((m / maxMov) * 100));
+    const hist = Array.isArray(a.history) ? a.history : [];
+    const trend = (hist.length > 1)
+      ? `<span class="fl-trend" title="Movements per run, oldest→newest">${sparkline(hist.map((p) => ({ value: p.movements })), "#5a4fcf")}</span>`
+      : `<span class="fl-trend-soon" title="A trend line appears once two-plus daily points have accumulated.">trend building…</span>`;
     const main = `
       <div class="country-row">
-        <div class="cname"><span class="flag">${FLAGS[a.country] || ""}</span>${esc(a.name)} ${coverageBadge(a, true)}</div>
-        <div class="bar-track"><div class="bar-fill flight${thin ? " thin" : ""}" style="width:${w}%"></div></div>
-        <div class="cval"><span class="v">${flCount(a.movements_current)}</span>${yoyCell}</div>
+        <div class="cname"><span class="flag">${FLAGS[a.country] || ""}</span>${esc(a.name)} ${coverageBadge(a)}</div>
+        <div class="bar-track"><div class="bar-fill flight" style="width:${w}%"></div></div>
+        <div class="cval"><span class="v">${flCount(m)}</span>${trend}</div>
       </div>`;
 
-    // Sub-splits carry real precision only on a trustworthy count — suppress on
-    // a coverage-thin airport so we don't surface a noisy GOL/LATAM or Russia
-    // line as if it were signal.
+    // Sub-splits come from the latest snapshot — current shares only, no YoY.
+    // The trend over runs is the signal, not a vs-last-year delta.
     let detail = "";
-    if (!thin && Array.isArray(a.carrier_split) && a.carrier_split.length) {
-      const chips = a.carrier_split.map((c) =>
-        `<span class="carrier"><b>${esc(c.carrier)}</b> ${flCount(c.current)} ${flYoY(c.yoy_pct)}</span>`
+    const cs = a.latest && a.latest.carrier_split;
+    if (Array.isArray(cs) && cs.length) {
+      const chips = cs.map((c) =>
+        `<span class="carrier"><b>${esc(c.carrier)}</b> ${flCount(c.current)}</span>`
       ).join("");
       detail += `
         <div class="fl-sub">
@@ -252,31 +263,21 @@ function renderFlights(el, d) {
           <div class="carriers">${chips}</div>
         </div>`;
     }
-    if (!thin && a.russia_inflow) {
-      const ri = a.russia_inflow;
+    const ri = a.latest && a.latest.russia_inflow;
+    if (ri && ri.current != null) {
       detail += `
         <div class="fl-sub">
           <span class="fl-sub-label">Russia-origin arrivals <span class="muted">· Armenia tailwind</span></span>
-          <div class="carriers">
-            <span class="carrier"><b>RU → EVN</b> ${flCount(ri.current)} ${flYoY(ri.yoy_pct)}</span>
-            <span class="muted">vs ${flCount(ri.prior_year)} a year ago</span>
-          </div>
+          <div class="carriers"><span class="carrier"><b>RU → EVN</b> ${flCount(ri.current)}</span></div>
         </div>`;
     }
     return `<div class="fl-airport">${main}${detail ? `<div class="fl-detail">${detail}</div>` : ""}</div>`;
   }).join("");
 
-  const anyThin = d.airports.some((a) => a.reliable === false || (a.movements_current || 0) < FLIGHT_THIN);
-  const anyVerify = d.airports.some((a) => ["verify", "low"].includes(String(a.coverage || "").toLowerCase()) && a.reliable !== false && (a.movements_current || 0) >= FLIGHT_THIN);
-  const legend = (anyThin || anyVerify) ? `
-    <p class="fl-legend">
-      ${anyThin ? `<span class="cov-badge thin">coverage-thin</span> near-zero movements — ADS-B too sparse to trust here. ` : ""}
-      ${anyVerify ? `<span class="cov-badge verify">verify</span> coverage unconfirmed — directional only.` : ""}
-    </p>` : "";
-
+  const win = d.window_hours ? `last ${esc(d.window_hours)}h per run` : "a recent window";
   el.innerHTML = `${head}
     <div class="country-list">${rows}</div>
-    ${legend}
+    <p class="fl-legend"><span class="fl-baseline">establishing baseline</span> coverage still accumulating — no count shown until movements are measured. <span class="muted">Window: ${win}. Experimental; movements, not passengers.</span></p>
     <div class="fl-foot">${srcLink("https://opensky-network.org/", "OpenSky Network (ADS-B)")}</div>`;
 }
 
@@ -619,12 +620,12 @@ async function boot() {
   ]);
 
   safeRender("quote", renderQuote, price);
-  safeRender("flights", renderFlights, flights);
   safeRender("traffic", renderTraffic, traffic);
   safeRender("fuel", renderFuel, fuel);
   safeRender("concession", renderConcession, { status, news: concession });
   safeRender("armenia", renderArmenia, { status, news: armenia });
   safeRender("gdp", renderGDP, gdp);
+  safeRender("flights", renderFlights, flights);   // developing signal — renders last
 }
 
 document.addEventListener("DOMContentLoaded", boot);

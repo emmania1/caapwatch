@@ -3,12 +3,22 @@ CAAPWATCH flight engine — nowcasts CAAP traffic from ADS-B movement data
 (OpenSky Network) at the key concession airports, ahead of the company's own
 monthly release.
 
-What it produces (data/flights.json):
-  - per airport: arrivals+departures this trailing week vs the same week a year
-    ago, with YoY % (the leading read on the 6-8% the EBITDA bridge needs)
-  - Brazil (Brasília): the same movements split by carrier (GOL / LATAM / Azul)
+This is a DEVELOPING signal, built forward over time — not a point-in-time
+reading. Each daily run measures a short, recent window OpenSky's free tier
+reliably serves (last ~24h) and APPENDS that count to a per-airport rolling
+history in data/flights.json, exactly the way fetch_price.py grows its sparkline.
+A trend therefore accumulates run-over-run; meaningful readings emerge over weeks.
+
+We deliberately do NOT pull year-ago history for a YoY number: OpenSky's free
+tier doesn't serve it (every such pull came back empty), so the honest signal is
+the forward-built trend, not a vs-last-year delta.
+
+What it produces (data/flights.json), per airport:
+  - history[]: dated movement counts (arrivals+departures), oldest→newest
+  - latest: the most recent dated snapshot, plus —
+  - Brazil (Brasília): that snapshot's movements split by carrier (GOL/LATAM/Azul)
     — the volume-risk signal for ask #4
-  - Yerevan: arrivals originating in Russia, vs a year ago — the Armenia
+  - Yerevan: that snapshot's arrivals originating in Russia — the Armenia
     rerouting tailwind for ask #5
 
 Movements are real, measured counts. We deliberately do NOT convert them to a
@@ -31,31 +41,50 @@ import urllib.parse
 import urllib.error
 
 from caap_config import (
-    AIRPORTS, CARRIER_PREFIXES, RUSSIA_AIRPORTS, WINDOW_DAYS,
+    AIRPORTS, CARRIER_PREFIXES, RUSSIA_AIRPORTS,
 )
 
 OPENSKY_BASE = "https://opensky-network.org/api"
 TOKEN_URL = ("https://auth.opensky-network.org/auth/realms/opensky-network/"
              "protocol/openid-connect/token")
 
-# OpenSky's free tier rate-limits bursts with HTTP 429. A full run fires ~260
-# day-chunked calls, so we space them out to stay under the burst cap — a daily
-# batch job has no reason to sprint, and a polite ~1 req/s keeps the account from
-# rate-limiting *itself* (which empties every airport and forces the panel into
-# its pending state). Tunable via env without a code change; the 429 handler in
-# opensky_get still backs off harder if we trip the limit anyway.
+# We measure only a short recent window the free tier reliably serves, then build
+# a trend by accumulating one dated point per daily run (see analyze). ~24h keeps
+# each airport's pull tiny (a 24h span is at most two midnight-aligned day-chunks),
+# which both respects OpenSky's 2-partition limit and sips the daily request
+# budget so a full 9-airport run completes. Tunable via env without a code change.
+WINDOW_HOURS = int(os.environ.get("OPENSKY_WINDOW_HOURS", "24"))
+
+# OpenSky's free tier rate-limits bursts with HTTP 429 and has a daily request
+# budget. We pace calls two ways: a short sleep before EVERY request, and a longer
+# sleep BETWEEN airports, so the network as a whole completes a run instead of the
+# first airport draining the burst allowance. Both tunable via env; the 429 handler
+# in opensky_get backs off harder still if we trip the limit anyway.
 REQUEST_SPACING_S = float(os.environ.get("OPENSKY_REQUEST_SPACING", "1.0"))
+AIRPORT_SPACING_S = float(os.environ.get("OPENSKY_AIRPORT_SPACING", "3.0"))
+
+# Rolling history kept per airport (one dated point per run ≈ one per day), so the
+# sparkline shows roughly a quarter of trend — same idea as fetch_price's cap.
+HISTORY_CAP = int(os.environ.get("OPENSKY_HISTORY_CAP", "120"))
 
 # A pull can come back empty for two very different reasons: OpenSky genuinely saw
 # no flights (a clean 404 — real data), or the call failed / was rate-limited /
-# the airport is barely covered (no answer). The second must NOT be shown as a
+# the airport is barely covered (no answer). The second must NOT be recorded as a
 # count. opensky_get bumps this counter on every HARD failure (never on a clean
-# 404) so analyze() can flag airports whose pull was incomplete instead of
-# printing a misleadingly low number as if it were signal. Reset per run.
+# 404) so analyze() records a dated point ONLY for a pull that completed — never
+# writing a fake zero from a failed run into the trend. Reset per run.
 _HARD_FAILURES = 0
-# Need a real movement base in BOTH windows before an airport's YoY is a
-# trustworthy reading; at or below this it's coverage-thin / no-signal.
-TRUST_MIN = 10
+
+# Circuit breaker. OpenSky's free tier has a DAILY request budget; once it's spent
+# every call 429s until the quota resets next day, and no amount of backoff helps.
+# After a few hard 429-exhaustions in a run we trip this flag and stop making real
+# calls — every remaining airport then instantly carries its prior history forward
+# instead of grinding through minutes of dead backoff (a full run would otherwise
+# hang ~90 min). When the budget is healthy this never trips (calls return 200, not
+# 429). Both reset per run, in analyze().
+_RL_EXHAUSTIONS = 0
+_BUDGET_EXHAUSTED = False
+RL_TRIP_AFTER = int(os.environ.get("OPENSKY_RL_TRIP_AFTER", "3"))
 
 
 def get_token():
@@ -86,10 +115,16 @@ def opensky_get(path, params, token):
     / network errors). The hard-failure paths bump _HARD_FAILURES so the caller can
     tell the two apart and refuse to trust an airport whose pull never completed.
     """
-    global _HARD_FAILURES
+    global _HARD_FAILURES, _RL_EXHAUSTIONS, _BUDGET_EXHAUSTED
+    # Budget already spent this run — skip the call instantly (still a hard failure,
+    # so the airport stays "incomplete" and carries its prior history forward).
+    if _BUDGET_EXHAUSTED:
+        _HARD_FAILURES += 1
+        return []
     url = f"{OPENSKY_BASE}{path}?{urllib.parse.urlencode(params)}"
     headers = {"Authorization": f"Bearer {token}"} if token else {}
     time.sleep(REQUEST_SPACING_S)  # pace calls to stay under OpenSky's burst rate-limit
+    rate_limited = False
     for attempt in range(3):
         try:
             req = urllib.request.Request(url, headers=headers)
@@ -98,15 +133,22 @@ def opensky_get(path, params, token):
         except urllib.error.HTTPError as e:
             if e.code == 404:      # OpenSky returns 404 for "no flights" — a real empty
                 return []
-            if e.code == 429:      # rate limited — back off and retry
-                time.sleep(8 * (attempt + 1))
+            if e.code == 429:      # rate limited — back off progressively and retry
+                rate_limited = True
+                time.sleep(10 * (attempt + 1))   # 10s, 20s, 30s
                 continue
             print(f"  HTTP {e.code} for {path} {params.get('airport')}", file=sys.stderr)
             _HARD_FAILURES += 1
             return []
         except Exception as e:  # noqa
-            time.sleep(3)
+            time.sleep(5 * (attempt + 1))
     _HARD_FAILURES += 1   # retries exhausted (persistent 429 or network errors) — no data
+    if rate_limited:
+        _RL_EXHAUSTIONS += 1
+        if _RL_EXHAUSTIONS >= RL_TRIP_AFTER and not _BUDGET_EXHAUSTED:
+            _BUDGET_EXHAUSTED = True
+            print("  OpenSky daily budget looks exhausted (repeated 429s) — skipping "
+                  "remaining calls this run; histories carry forward.", file=sys.stderr)
     return []
 
 
@@ -131,6 +173,30 @@ def dedup(flights):
         seen.add(key)
         out.append(f)
     return out
+
+
+def carrier_split_of(flights):
+    """Count this window's movements by carrier group (GOL / LATAM / Azul / …),
+    largest first. No YoY — the trend lives in the per-day history, not a delta."""
+    split = {}
+    for f in flights:
+        grp = carrier_of(f.get("callsign"))
+        split[grp] = split.get(grp, 0) + 1
+    return [{"carrier": g, "current": split[g]}
+            for g in sorted(split, key=lambda g: -split[g])]
+
+
+def append_point(history, point, cap=None):
+    """Append a dated snapshot to a rolling history: dedup by date (a same-day
+    re-run overwrites that day's point), keep oldest→newest, cap the length.
+
+    This is the same merge fetch_price.py uses for its daily closes, so the panel
+    can grow a movement trend run-over-run exactly like the price sparkline.
+    """
+    cap = HISTORY_CAP if cap is None else cap
+    by_date = {p["date"]: p for p in history if p.get("date")}
+    by_date[point["date"]] = point
+    return [by_date[d] for d in sorted(by_date)][-cap:]
 
 
 def day_chunks(begin, end):
@@ -173,89 +239,110 @@ def collect_airport(icao, begin, end, token, fetch=opensky_get):
     return dedup(movements), arrivals
 
 
-def analyze(fetch=opensky_get, now=None):
-    """Build the flights.json payload. `fetch` is injectable for testing."""
-    global _HARD_FAILURES
+def analyze(fetch=opensky_get, now=None, prev=None):
+    """Append this run's measured movement counts to each airport's rolling
+    history and return the full flights.json payload.
+
+    `fetch` is injectable for testing. `prev` is the previously-stored payload
+    (read from data/flights.json) whose per-airport history we EXTEND; pass None
+    on a cold start. We deliberately pull only ONE recent window — no year-ago
+    comparison, which OpenSky's free tier doesn't serve — so the signal is the
+    forward-built trend, not a YoY delta.
+    """
+    global _HARD_FAILURES, _RL_EXHAUSTIONS, _BUDGET_EXHAUSTED
     _HARD_FAILURES = 0
+    _RL_EXHAUSTIONS = 0
+    _BUDGET_EXHAUSTED = False
     token = get_token() if fetch is opensky_get else "TEST"
     now = now or dt.datetime.now(dt.timezone.utc)
     end = int(now.timestamp())
-    begin = int((now - dt.timedelta(days=WINDOW_DAYS)).timestamp())
-    # same window one year earlier
-    py_end = int((now - dt.timedelta(days=365)).timestamp())
-    py_begin = int((now - dt.timedelta(days=365 + WINDOW_DAYS)).timestamp())
+    begin = int((now - dt.timedelta(hours=WINDOW_HOURS)).timestamp())
+    today = now.strftime("%Y-%m-%d")
+
+    prev_by_icao = {a.get("icao"): a for a in (prev or {}).get("airports", [])}
 
     out_airports = []
     for ap in AIRPORTS:
-        # Re-mint the OAuth token at the top of each airport. The day-chunked
-        # pulls make ~32 calls per airport and a full run is ~290 calls over many
-        # minutes against OpenSky's (currently slow) backend — long enough that a
-        # single token minted once up front expires partway through, 401-ing the
-        # final airports. One fresh token per airport keeps every token young
-        # (≈32 calls) without touching the request logic. Gated to live runs so
-        # the injected-fetch test path keeps its "TEST" sentinel untouched.
-        if fetch is opensky_get:
+        # Re-mint the OAuth token per airport so a long run never 401s partway
+        # through on a token that expired mid-run. Gated to live runs, and skipped
+        # once the budget is exhausted (no point minting tokens for calls we won't
+        # make). The injected-fetch test path keeps its "TEST" sentinel untouched.
+        if fetch is opensky_get and not _BUDGET_EXHAUSTED:
             token = get_token() or token
         icao = ap["icao"]
         fails_before = _HARD_FAILURES
-        cur, cur_arrivals = collect_airport(icao, begin, end, token, fetch)
-        prior, prior_arrivals = collect_airport(icao, py_begin, py_end, token, fetch)
-        cur_n, prior_n = len(cur), len(prior)
-        yoy = round((cur_n - prior_n) / prior_n * 100, 1) if prior_n else None
-        # Trust this airport only if every call for it completed AND both windows
-        # carry a real movement base. A rate-limited/degraded pull, or an airport
-        # OpenSky barely sees, is flagged reliable=False so the panel shows it as
-        # coverage-pending rather than treating a fraction-of-reality count as signal.
-        reliable = (_HARD_FAILURES == fails_before) and cur_n >= TRUST_MIN and prior_n >= TRUST_MIN
+        movements, arrivals = collect_airport(icao, begin, end, token, fetch)
+        cur_n = len(movements)
+        # A pull "completed" only if NO call for this airport hard-failed. We
+        # record a dated point only for a completed pull — never writing a fake
+        # zero from a rate-limited/failed run into the trend (which would invent
+        # a dip). A failed airport simply carries its prior history forward.
+        completed = (_HARD_FAILURES == fails_before)
 
-        rec = {
+        history = list((prev_by_icao.get(icao) or {}).get("history") or [])
+        if completed:
+            point = {"date": today, "movements": cur_n}
+            # Brazil: split by carrier (ask #4 — GOL/LATAM/Azul volume risk)
+            if ap.get("brazil_carrier_split"):
+                point["carrier_split"] = carrier_split_of(movements)
+            # Yerevan: arrivals originating in Russia (ask #5 — the tailwind)
+            if ap.get("track_russia_inflow"):
+                point["russia_inflow"] = {
+                    "current": sum(1 for f in arrivals
+                                   if f.get("estDepartureAirport") in RUSSIA_AIRPORTS),
+                }
+            history = append_point(history, point)
+
+        out_airports.append({
             "icao": icao, "name": ap["name"], "country": ap["country"],
             "coverage": ap["coverage"],
-            "movements_current": cur_n,
-            "movements_prior_year": prior_n,
-            "yoy_pct": yoy,
-            "reliable": reliable,
-        }
+            "latest": history[-1] if history else None,
+            "history": history,
+            "last_complete": completed,
+        })
 
-        # Brazil: split by carrier (ask #4 — GOL/LATAM volume risk)
-        if ap.get("brazil_carrier_split"):
-            split_cur, split_py = {}, {}
-            for f in cur:
-                split_cur[carrier_of(f.get("callsign"))] = split_cur.get(carrier_of(f.get("callsign")), 0) + 1
-            for f in prior:
-                split_py[carrier_of(f.get("callsign"))] = split_py.get(carrier_of(f.get("callsign")), 0) + 1
-            carriers = []
-            for grp in sorted(set(split_cur) | set(split_py), key=lambda g: -split_cur.get(g, 0)):
-                c, p = split_cur.get(grp, 0), split_py.get(grp, 0)
-                carriers.append({
-                    "carrier": grp, "current": c, "prior_year": p,
-                    "yoy_pct": round((c - p) / p * 100, 1) if p else None,
-                })
-            rec["carrier_split"] = carriers
+        # Space airports out so the whole network completes a run under OpenSky's
+        # burst limit, rather than the first airport eating the allowance. Skipped
+        # once the budget is exhausted — the remaining airports make no real calls.
+        if fetch is opensky_get and not _BUDGET_EXHAUSTED and ap is not AIRPORTS[-1]:
+            time.sleep(AIRPORT_SPACING_S)
 
-        # Yerevan: arrivals originating in Russia (ask #5 — the tailwind)
-        if ap.get("track_russia_inflow"):
-            ru_cur = sum(1 for f in cur_arrivals if f.get("estDepartureAirport") in RUSSIA_AIRPORTS)
-            ru_py = sum(1 for f in prior_arrivals if f.get("estDepartureAirport") in RUSSIA_AIRPORTS)
-            rec["russia_inflow"] = {
-                "current": ru_cur, "prior_year": ru_py,
-                "yoy_pct": round((ru_cur - ru_py) / ru_py * 100, 1) if ru_py else None,
-            }
-        out_airports.append(rec)
-
+    any_reading = any((a["latest"] or {}).get("movements", 0) > 0 for a in out_airports)
     return {
         "updated_at": now.replace(microsecond=0).isoformat().replace("+00:00", "Z"),
-        "window_days": WINDOW_DAYS,
-        "source": "OpenSky Network (ADS-B). Movements = arrivals + departures; a measured proxy for activity, not passengers.",
+        "window_hours": WINDOW_HOURS,
+        "history_days": HISTORY_CAP,
+        "developing": True,
+        "any_reading": any_reading,
+        "source": ("OpenSky Network (ADS-B). Movements = arrivals + departures over "
+                   "a recent window; a measured proxy for activity, not passengers. "
+                   "Trend builds with each daily run."),
         "auth": "authenticated" if token and token != "TEST" else ("test" if token == "TEST" else "anonymous"),
-        "reliable": any(a["reliable"] for a in out_airports),
         "airports": out_airports,
     }
 
 
 if __name__ == "__main__":
-    payload = analyze()
     out = os.path.join(os.path.dirname(__file__), "..", "data", "flights.json")
+    try:
+        with open(out) as f:
+            prev = json.load(f)
+    except (FileNotFoundError, ValueError):
+        prev = None   # cold start — history begins now
+
+    payload = analyze(prev=prev)
+
     with open(out, "w") as f:
         json.dump(payload, f, indent=2)
-    print(f"wrote {out}: {len(payload['airports'])} airports, auth={payload['auth']}")
+        f.write("\n")
+
+    airports = payload["airports"]
+    n_read = sum(1 for a in airports if (a.get("latest") or {}).get("movements", 0) > 0)
+    print(f"wrote {out}: {len(airports)} airports, auth={payload['auth']}, "
+          f"{n_read}/{len(airports)} returning a non-zero reading this run")
+    for a in airports:
+        mv = (a.get("latest") or {}).get("movements")
+        flag = "" if a.get("last_complete") else "  (pull incomplete — carried prior history)"
+        print(f"  {a['icao']:5} {a['name']:26} "
+              f"movements={('-' if mv is None else mv):>5}  "
+              f"history={len(a.get('history') or [])}pt{flag}")

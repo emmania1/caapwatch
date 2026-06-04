@@ -22,11 +22,6 @@
   </header>
 
   <main class="wrap">
-    <!-- Panel 0 — Flight Activity (live ADS-B nowcast, above the monthly traffic story) -->
-    <section id="flights" class="panel" aria-label="Flight activity live nowcast">
-      <div class="loading">Loading flight activity…</div>
-    </section>
-
     <!-- Panel 1 — Traffic by market (hero) -->
     <section id="traffic" class="panel hero" aria-label="Passenger traffic by market">
       <div class="loading">Loading traffic…</div>
@@ -47,9 +42,16 @@
       </section>
     </div>
 
-    <!-- Panel 2 — GDP footer -->
+    <!-- Panel 2 — GDP -->
     <section id="gdp" class="panel" aria-label="GDP growth by market">
       <div class="loading">Loading GDP…</div>
+    </section>
+
+    <!-- Flight Activity — Developing Signal (experimental). LAST section: an
+         accumulating ADS-B movement trend, framed as developing, sitting below
+         the established traffic / concession / GDP story rather than above it. -->
+    <section id="flights" class="panel" aria-label="Flight activity developing signal">
+      <div class="loading">Loading flight activity…</div>
     </section>
   </main>
 
