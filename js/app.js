@@ -177,7 +177,7 @@ function flYoY(n) {
 }
 function coverageBadge(ap, authed) {
   const tag = String(ap.coverage || "").toLowerCase();
-  const thin = authed && (ap.movements_current || 0) < FLIGHT_THIN;
+  const thin = authed && (ap.reliable === false || (ap.movements_current || 0) < FLIGHT_THIN);
   if (thin) {
     return `<span class="cov-badge thin" title="Near-zero movements over 7 days — ADS-B coverage here is too sparse to trust as a reading; treat as no-signal, not a real decline.">coverage-thin</span>`;
   }
@@ -200,15 +200,19 @@ function renderFlights(el, d) {
   }
 
   const authed = d.auth === "authenticated";
-  const totalMov = d.airports.reduce((s, a) => s + (a.movements_current || 0), 0);
+  // Only count movements from airports whose pull is trustworthy. A partial or
+  // rate-limited run (reliable:false on an airport) contributes nothing here, so a
+  // run that came back entirely untrustworthy collapses to the pending state
+  // instead of rendering a fraction-of-reality count as if it were a real reading.
+  const trustedMov = d.airports.reduce((s, a) => s + (a.reliable === false ? 0 : (a.movements_current || 0)), 0);
 
-  // Honesty gate: anonymous/test (or an authed run that returned nothing) cannot
-  // be presented as a real reading. Show the configured network as quiet
+  // Honesty gate: anonymous/test, or an authed run with no trustworthy airport,
+  // cannot be presented as a real reading. Show the configured network as quiet
   // "awaiting" rows so the panel reads as intentionally pending, not broken.
-  if (!authed || totalMov === 0) {
+  if (!authed || trustedMov === 0) {
     const why = !authed
       ? "Awaiting the first authenticated OpenSky run — anonymous API access is rejected (403), so movements can't be read yet. Once the OPENSKY_CLIENT_ID / OPENSKY_CLIENT_SECRET repo secrets are set, the daily refresh will populate this."
-      : "The authenticated run returned no movements — likely an OpenSky quota limit or outage. Counts are left untouched; the next refresh retries.";
+      : "The latest authenticated run didn't return a trustworthy read — OpenSky's history API is rate-limited / degraded right now and ADS-B coverage of these airports is still being validated. No count is shown rather than a partial one; the daily refresh retries and fills this in once a clean run lands.";
     const rows = d.airports.map((a) => `
       <div class="country-row fl-pending-row">
         <div class="cname"><span class="flag">${FLAGS[a.country] || ""}</span>${esc(a.name)} ${coverageBadge(a, false)}</div>
@@ -224,7 +228,7 @@ function renderFlights(el, d) {
   const maxMov = Math.max(...d.airports.map((a) => a.movements_current || 0)) || 1;
 
   const rows = d.airports.map((a) => {
-    const thin = (a.movements_current || 0) < FLIGHT_THIN;
+    const thin = a.reliable === false || (a.movements_current || 0) < FLIGHT_THIN;
     const w = Math.max(2, Math.round(((a.movements_current || 0) / maxMov) * 100));
     const yoyCell = thin ? `<span class="pill flat">n/a</span>` : flYoY(a.yoy_pct);
     const main = `
@@ -262,8 +266,8 @@ function renderFlights(el, d) {
     return `<div class="fl-airport">${main}${detail ? `<div class="fl-detail">${detail}</div>` : ""}</div>`;
   }).join("");
 
-  const anyThin = d.airports.some((a) => (a.movements_current || 0) < FLIGHT_THIN);
-  const anyVerify = d.airports.some((a) => ["verify", "low"].includes(String(a.coverage || "").toLowerCase()) && (a.movements_current || 0) >= FLIGHT_THIN);
+  const anyThin = d.airports.some((a) => a.reliable === false || (a.movements_current || 0) < FLIGHT_THIN);
+  const anyVerify = d.airports.some((a) => ["verify", "low"].includes(String(a.coverage || "").toLowerCase()) && a.reliable !== false && (a.movements_current || 0) >= FLIGHT_THIN);
   const legend = (anyThin || anyVerify) ? `
     <p class="fl-legend">
       ${anyThin ? `<span class="cov-badge thin">coverage-thin</span> near-zero movements — ADS-B too sparse to trust here. ` : ""}

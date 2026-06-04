@@ -82,5 +82,13 @@ print("Yerevan russia_inflow:", udyz["russia_inflow"], "| total movements:", udy
 # Florence simple YoY 50 vs 44 -> +13.6
 assert byicao["LIRQ"]["yoy_pct"] == 13.6
 print("Florence yoy:", byicao["LIRQ"]["yoy_pct"])
-print("auth field:", payload["auth"])
+
+# Reliability: airports with a real base in both windows are trustworthy; a
+# barely-covered airport (DEFAULT → 1 movement after dedup, below TRUST_MIN) is
+# flagged so the panel never presents a fraction-of-reality count as signal.
+assert bbr["reliable"] is True, bbr
+assert byicao["SACO"]["reliable"] is False, byicao["SACO"]   # default low-coverage airport
+assert payload["reliable"] is True   # at least one airport is trustworthy
+print("reliable flags:", {a["icao"]: a["reliable"] for a in payload["airports"]})
+print("auth field:", payload["auth"], "| payload reliable:", payload["reliable"])
 print("\nALL ASSERTIONS PASSED")

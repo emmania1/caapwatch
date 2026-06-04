@@ -3,6 +3,7 @@
   "window_days": 7,
   "source": "OpenSky Network (ADS-B). Movements = arrivals + departures; a measured proxy for activity, not passengers.",
   "auth": "authenticated",
+  "reliable": false,
   "airports": [
     {
       "icao": "SAEZ",
@@ -11,7 +12,8 @@
       "coverage": "medium",
       "movements_current": 55,
       "movements_prior_year": 0,
-      "yoy_pct": null
+      "yoy_pct": null,
+      "reliable": false
     },
     {
       "icao": "SABE",
@@ -20,26 +22,29 @@
       "coverage": "medium",
       "movements_current": 151,
       "movements_prior_year": 0,
-      "yoy_pct": null
+      "yoy_pct": null,
+      "reliable": false
     },
     {
       "icao": "SACO",
-      "name": "C\u00f3rdoba",
+      "name": "Córdoba",
       "country": "Argentina",
       "coverage": "medium",
       "movements_current": 0,
       "movements_prior_year": 0,
-      "yoy_pct": null
+      "yoy_pct": null,
+      "reliable": false
     },
     {
       "icao": "SBBR",
-      "name": "Bras\u00edlia",
+      "name": "Brasília",
       "country": "Brazil",
       "coverage": "medium",
       "movements_current": 0,
       "movements_prior_year": 0,
       "yoy_pct": null,
-      "carrier_split": []
+      "carrier_split": [],
+      "reliable": false
     },
     {
       "icao": "LIRQ",
@@ -48,7 +53,8 @@
       "coverage": "high",
       "movements_current": 0,
       "movements_prior_year": 0,
-      "yoy_pct": null
+      "yoy_pct": null,
+      "reliable": false
     },
     {
       "icao": "LIRP",
@@ -57,7 +63,8 @@
       "coverage": "high",
       "movements_current": 0,
       "movements_prior_year": 0,
-      "yoy_pct": null
+      "yoy_pct": null,
+      "reliable": false
     },
     {
       "icao": "UDYZ",
@@ -71,7 +78,8 @@
         "current": 0,
         "prior_year": 0,
         "yoy_pct": null
-      }
+      },
+      "reliable": false
     },
     {
       "icao": "SEGU",
@@ -80,7 +88,8 @@
       "coverage": "medium",
       "movements_current": 0,
       "movements_prior_year": 0,
-      "yoy_pct": null
+      "yoy_pct": null,
+      "reliable": false
     },
     {
       "icao": "SUMU",
@@ -89,7 +98,8 @@
       "coverage": "medium",
       "movements_current": 0,
       "movements_prior_year": 0,
-      "yoy_pct": null
+      "yoy_pct": null,
+      "reliable": false
     }
   ]
 }

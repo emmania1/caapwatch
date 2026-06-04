@@ -46,6 +46,17 @@ TOKEN_URL = ("https://auth.opensky-network.org/auth/realms/opensky-network/"
 # opensky_get still backs off harder if we trip the limit anyway.
 REQUEST_SPACING_S = float(os.environ.get("OPENSKY_REQUEST_SPACING", "1.0"))
 
+# A pull can come back empty for two very different reasons: OpenSky genuinely saw
+# no flights (a clean 404 — real data), or the call failed / was rate-limited /
+# the airport is barely covered (no answer). The second must NOT be shown as a
+# count. opensky_get bumps this counter on every HARD failure (never on a clean
+# 404) so analyze() can flag airports whose pull was incomplete instead of
+# printing a misleadingly low number as if it were signal. Reset per run.
+_HARD_FAILURES = 0
+# Need a real movement base in BOTH windows before an airport's YoY is a
+# trustworthy reading; at or below this it's coverage-thin / no-signal.
+TRUST_MIN = 10
+
 
 def get_token():
     """OAuth2 client-credentials token, or None for anonymous access."""
@@ -68,7 +79,14 @@ def get_token():
 
 
 def opensky_get(path, params, token):
-    """GET a list of flight records from OpenSky. Returns [] on any failure."""
+    """GET a list of flight records from OpenSky.
+
+    Returns [] both for a clean 404 ("no flights that day" — a real, empty result)
+    and for a hard failure (non-404 HTTP, or retries exhausted on persistent 429s
+    / network errors). The hard-failure paths bump _HARD_FAILURES so the caller can
+    tell the two apart and refuse to trust an airport whose pull never completed.
+    """
+    global _HARD_FAILURES
     url = f"{OPENSKY_BASE}{path}?{urllib.parse.urlencode(params)}"
     headers = {"Authorization": f"Bearer {token}"} if token else {}
     time.sleep(REQUEST_SPACING_S)  # pace calls to stay under OpenSky's burst rate-limit
@@ -78,15 +96,17 @@ def opensky_get(path, params, token):
             with urllib.request.urlopen(req, timeout=45) as r:
                 return json.load(r) or []
         except urllib.error.HTTPError as e:
-            if e.code == 404:      # OpenSky returns 404 for "no flights"
+            if e.code == 404:      # OpenSky returns 404 for "no flights" — a real empty
                 return []
-            if e.code == 429:      # rate limited — back off
+            if e.code == 429:      # rate limited — back off and retry
                 time.sleep(8 * (attempt + 1))
                 continue
             print(f"  HTTP {e.code} for {path} {params.get('airport')}", file=sys.stderr)
+            _HARD_FAILURES += 1
             return []
         except Exception as e:  # noqa
             time.sleep(3)
+    _HARD_FAILURES += 1   # retries exhausted (persistent 429 or network errors) — no data
     return []
 
 
@@ -155,6 +175,8 @@ def collect_airport(icao, begin, end, token, fetch=opensky_get):
 
 def analyze(fetch=opensky_get, now=None):
     """Build the flights.json payload. `fetch` is injectable for testing."""
+    global _HARD_FAILURES
+    _HARD_FAILURES = 0
     token = get_token() if fetch is opensky_get else "TEST"
     now = now or dt.datetime.now(dt.timezone.utc)
     end = int(now.timestamp())
@@ -175,10 +197,16 @@ def analyze(fetch=opensky_get, now=None):
         if fetch is opensky_get:
             token = get_token() or token
         icao = ap["icao"]
+        fails_before = _HARD_FAILURES
         cur, cur_arrivals = collect_airport(icao, begin, end, token, fetch)
         prior, prior_arrivals = collect_airport(icao, py_begin, py_end, token, fetch)
         cur_n, prior_n = len(cur), len(prior)
         yoy = round((cur_n - prior_n) / prior_n * 100, 1) if prior_n else None
+        # Trust this airport only if every call for it completed AND both windows
+        # carry a real movement base. A rate-limited/degraded pull, or an airport
+        # OpenSky barely sees, is flagged reliable=False so the panel shows it as
+        # coverage-pending rather than treating a fraction-of-reality count as signal.
+        reliable = (_HARD_FAILURES == fails_before) and cur_n >= TRUST_MIN and prior_n >= TRUST_MIN
 
         rec = {
             "icao": icao, "name": ap["name"], "country": ap["country"],
@@ -186,6 +214,7 @@ def analyze(fetch=opensky_get, now=None):
             "movements_current": cur_n,
             "movements_prior_year": prior_n,
             "yoy_pct": yoy,
+            "reliable": reliable,
         }
 
         # Brazil: split by carrier (ask #4 — GOL/LATAM volume risk)
@@ -219,6 +248,7 @@ def analyze(fetch=opensky_get, now=None):
         "window_days": WINDOW_DAYS,
         "source": "OpenSky Network (ADS-B). Movements = arrivals + departures; a measured proxy for activity, not passengers.",
         "auth": "authenticated" if token and token != "TEST" else ("test" if token == "TEST" else "anonymous"),
+        "reliable": any(a["reliable"] for a in out_airports),
         "airports": out_airports,
     }
 
