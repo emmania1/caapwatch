@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-06-04T13:58:44Z",
+  "updated_at": "2026-06-05T13:51:44Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Anac adia negociação com concessionária em aeroporto de Campinas até abril - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEstMERGVDhvamxBcW9KRjJZMVpyV3l4ZmdBWmg3RXNZYWhVdXNOd29uRTQtV3UyQnlEcWpoaGg3aGlndDZtX0NRY2JRR2tldkNnZjNGdjJhcFc5TlJmaFU3aU9ZQngtRVBGTjhWMjVSUjZfRmJMZy05cWlYd180MnF1RnhSMzVwS3dWRExiRVVBcUhxazBGa2Q3bFVPd1hkbTNUNEMzQTJraUNKQlp0MEpTS2tQWXl6RHhWaUdPRQ?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-06-03T07:00:00Z"
+      },
       {
         "title": "Anac discute nesta semana concessão do Aeroporto de Brasília - - Misto Brasil",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmk4cDU4dWZ2VzdpUG9GVFBFZDM0bXlfd0RFYjRWNWlGLWFEb2RtR0ZRZzRZcnFqX0FwTm1IOVREeEFMdllCcGRLX2dUSGFsQW5TX2xWWEdQeFo5TXdMaDBTWF9zTmR2US03WEZ5ZEZnMHc2S2paSTFRZkdYR0REbUxuMHR1aWU1QlNIejM1SGhuaFJjSk5KcEVVVFLSAaQBQVVfeXFMT2R4M1lBTUdocURVa3dGdFBKRDdMR29qenBOcFFPYWpuNW5wSnc0MDVjcl8wb1B0Y193cFAyaFNxZFNweGFMbEdJY3VDZUEwYzFFdFg2X3Iyb1EwN0dxSlZqN0xoNVZBZFFNMGZpZHNDME1Rdks2SlNsRGo0QUFNN1hOalpMdTh2SGZ6cW5TN2Z2cXlxZnluRTY0cDNXaWppT0tTNko?oc=5",
@@ -27,12 +33,6 @@
         "title": "Inframerica diz estar ‘positiva’ quanto ao novo leilão do Aeroporto de Brasília - InfoMoney",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVVzWjRybU0weGluU3FxMEJCNTVwTkpDZGtFRm9BZ0sySDh4OTNoOTRTOEFpRGEtXzBiLXdYeWtIcWR5Vjc3LUY5bUgxZC1DMWE1X3U5TVV5bnZ4VmxuYVZEamxubzAzX3RtRlRVeGNRVVgzQmNSV0lyWnRiZXBhR1V4UmtyaTgyM3RmLVJVaXFxZ0U0VmZzODlXVEpCLS16dDZaVHRNdC1KazhxQWRydnA1dnVWYlnSAbwBQVVfeXFMTkFkQjFKek1kbVIxV0lBM1dkamFCVkpDWnZlR2FWNUU1a0ZRdWtUVDBSNGVMdjVJbUlkTVdicTlSVjMyLTJGVTJGcmRwN0RWa2dhWWNoTV9mRXZRdmhRNEw5SDVrOFB4ZmF6WjJ1MGhtNUpZaldPdXZMSVpHdjNCWnY2UVpvMmREMWZnLThQTmhQV01uTkpqUDJiV2FzMXZQc0NIS3lzbDhybVpQRVlybGVlVEszdEZ6a3B2cmk?oc=5",
         "source": "InfoMoney",
-        "published_iso": "2026-04-06T07:00:00Z"
-      },
-      {
-        "title": "Novo leilão do Aeroporto de Brasília avança em 2026 e Inframerica reage ao futuro da concessão - Mercado e Eventos",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejNUanBBS25VcFpia0dRbExFRmIzcGpycXZ2d1pnMEhpMlEyY1d0ZG9zTms3NFNvaEJVdlFZdGhDSEZrdER5d2NzNVJNUDY3S2djM0xVMEpOUXU3Y0xxME9RVV9zMzc1cEFscnpFVzVDX0hkZ3Yyb05LX2llSjBLT2RRd04taVVOUjloME8wRVdPejM4V2xmRzE1ZFVzM2YtWEFDemN2clFfa0xJZE5wSWN6YklPOEJ1Z1Jia3YzUG8tLVBPUkl2WnYtRUR4cnowOXRVdkFn?oc=5",
-        "source": "Mercado e Eventos",
         "published_iso": "2026-04-06T07:00:00Z"
       }
     ],

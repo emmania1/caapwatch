@@ -1,38 +1,62 @@
 {
-  "updated_at": "2026-06-04T22:57:47Z",
+  "updated_at": "2026-06-05T13:51:48Z",
   "window_hours": 24,
   "history_days": 120,
   "developing": true,
-  "any_reading": false,
+  "any_reading": true,
   "source": "OpenSky Network (ADS-B). Movements = arrivals + departures over a recent window; a measured proxy for activity, not passengers. Trend builds with each daily run.",
-  "auth": "authenticated",
+  "auth": "anonymous",
   "airports": [
     {
       "icao": "SAEZ",
       "name": "Buenos Aires Ezeiza",
       "country": "Argentina",
       "coverage": "medium",
-      "latest": null,
-      "history": [],
-      "last_complete": false
+      "latest": {
+        "date": "2026-06-05",
+        "movements": 15
+      },
+      "history": [
+        {
+          "date": "2026-06-05",
+          "movements": 15
+        }
+      ],
+      "last_complete": true
     },
     {
       "icao": "SABE",
       "name": "Buenos Aires Aeroparque",
       "country": "Argentina",
       "coverage": "medium",
-      "latest": null,
-      "history": [],
-      "last_complete": false
+      "latest": {
+        "date": "2026-06-05",
+        "movements": 71
+      },
+      "history": [
+        {
+          "date": "2026-06-05",
+          "movements": 71
+        }
+      ],
+      "last_complete": true
     },
     {
       "icao": "SACO",
       "name": "C\u00f3rdoba",
       "country": "Argentina",
       "coverage": "medium",
-      "latest": null,
-      "history": [],
-      "last_complete": false
+      "latest": {
+        "date": "2026-06-05",
+        "movements": 0
+      },
+      "history": [
+        {
+          "date": "2026-06-05",
+          "movements": 0
+        }
+      ],
+      "last_complete": true
     },
     {
       "icao": "SBBR",
