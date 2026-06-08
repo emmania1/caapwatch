@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-06-07T12:19:58Z",
+  "updated_at": "2026-06-08T14:48:17Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenia, caught in Trump-Putin power contest, eyes E.U. and draws Russia’s fury - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0V0RlUzQTZ0cE1vRlNoak5DT3l5c180S1RMdEQ0YzFwSFR3TFJEWTJLSEZaUjZZQ1lBMEZ6ZVNSM24wMWNNRVdpemhQdkYwT2pVbjNvZzFieFI1UWRqR216NmY3RzJYbnNjaVNtRERhMVREb29tVE5UMEgxeEVaaGlnNndxbENKQVFUclRpVWdILUFUR2w3UnBnbkZLaXhGbEFXREdfOWM4dnVCdk5RYUtvODk?oc=5",
-      "source": "The Washington Post",
-      "published_iso": "2026-06-07T11:38:33Z"
+      "title": "Armenia's Pashinyan wins election, observers allege Russian interference - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWdLZ05iLU1DR2dKc29IWTEyU21zN3pwYnlzVFRnMlQxc0pVWmlfWndfYmRkZTBubDVYbWx0SFhaVTVETmdLSzNUUUplaFdiRkxIcEpNd2FuLThVbkFueXZUY3JtQUtfOUpscGNLNWJmU2ZDVGJDWE1IRy14Ukt5UFh1WXoxV2JwUUx6UzhnNTJrM0NuQXRvX1BuWGxTZlU?oc=5",
+      "source": "Yahoo",
+      "published_iso": "2026-06-08T13:53:50Z"
     },
     {
-      "title": "Pashinyan administration to work toward speedy formalization and ratification of peace treaty with Azerbaijan, says official - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhOWd1Mk02TlMtaDlCLVZOMGpJd3E0RVZGR0daei1RcE9jX2sxTXJpdExXX2Q0bVZneXVYOVdWZE1WYVA3cG1PRl9mNzdWeWxKb1HSAVdBVV95cUxOT0tZRmRkTWZpenJ6N0tfY0oxZl82eDljSDZXckJWREZQRk44aWRkdFBSOWlVWVQ3NTBOcnZKMHdwRFNrR05yX2N4NkVtVk1XOVUxelZRclU?oc=5",
+      "title": "PM Pashinyan’s party wins Armenia election, preliminary results show - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFlkRUstME5ocGtKN05LTmtzRkpqWnF6SXA1N2ZTOVFobXY0VG9TRFQ4Ui1JckRlVHg1TDI4Y2lEbkxfcnpUUko5Wl95MVdGQmJQRlg5Q210Rzd4LV8xbk1LeEhCWmdHVElCUTFia0RzVDBadFpMMDlBYUt4TlVRbDFzQkVKTUNCeGh5T2h3LUx0OGlZMkVjQUM3Tmx3b2tLQnN4dnh1cHdaQdIBrwFBVV95cUxPMzZkU3VLaVM5N0sxZjFUSkJSM2VGdG1Qa0FKWnVIYkRXSUI3NmhLQlcwWHMwMW1IRU1yeTJSUTdFb2d3VkNtT1YteWlMS3UxWk1mOW9CcjlZc3B1aFpNWVRnUXIwVGlYR0hSeklicmNZMXFDeF91cFY4MWlIaVVYa3VJZHYwcm1WdmZEemNXUGJoRHFhUmNIR0NEbk84Skg4cjVrTXV4VU9FUVc2STI4?oc=5",
+      "source": "Al Jazeera",
+      "published_iso": "2026-06-08T13:52:30Z"
+    },
+    {
+      "title": "Armenia’s prime minister seeks peace with Azerbaijan, open border with Turkey after election win - Turkish Minute",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhBaWF0SVpEY3dKZldsZ1QyZVRXUV9FOE8yaURXamVIVmJUcnp4aktsQ0dEcEV0UXNLQldsbGNjczJxM3dDMWhQRXZiLV9WblU5Y01EZVhjYkJrVzlyQ0RDU0dSc3hqZUE2MGJGU1Zaa2VxVld2NE96ZV8xRXMzR2dyOE9XN1N4bjJYMWxuMVFDY0xzSFNzMzlXOHFRRDZ2UmdGMlk1cmJnS0Z3ZEJZUnZIb0d4RmlvNmFxdUlCU1RONUN6SERzSWZnUkRSWG9EMUHSAdcBQVVfeXFMTnZWNGNWM2hzcDRERkttOUZBNS01enVqNVlXLVB3emp6YWdncmNFY2I3YUphcktqaWVaaHZ1T0c5Z2RYcFA5TVNBOWk4aUZ5SUk2LWp5QkVITVpRU1dkVnZqZUhCamVXWDg3UXBSNzFoTUU0MXZ1UmJNelJMVWFlVmtieHMyZmFHbGMxcnhLRDdJamhVOFFWd0N2OF9tNjE4NFZxMGJGREJZdDFUei0tM1ZpY1FtYUhseFRscThJUFYzdExGc09GLWdZa2FlUXN2MGttbC13ZkE?oc=5",
+      "source": "Turkish Minute",
+      "published_iso": "2026-06-08T13:12:28Z"
+    },
+    {
+      "title": "Türkiye hopes for swift formalization of Armenia–Azerbaijan peace deal - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55Z3V6a3cxZDZ0aTJtczZwelExVm9PZmhTQUJtVDNnaXR4WnlGZU9SVTRqUzBPSVFmeTRTd3ZYWE1HY2lzSFBMNXRjbVotYWhVeHfSAVdBVV95cUxNaVNZQ0xzOXVNVHc2MXNRWF9zQko0Ykhkem1BMXJpRWdOV3lHUVZIREFHd0ljTURTSXVVU0VfVU40MmNMR0JBYW9Nd0RtSEN4Z2I5eVJXS2s?oc=5",
       "source": "Armenpress",
-      "published_iso": "2026-06-07T10:58:00Z"
+      "published_iso": "2026-06-08T12:54:00Z"
     },
     {
-      "title": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeVlOQ0NyZzNCeTVDYUZvT2xzbmFUN0c4cm43MTZzLWVNZ0xRYXZQd2FEVXdEalNweGs2SE5RVjhlMXVXWGRiQ0d0TzFSWnRHVUhobDdEbi0tdzExclgweFdUR19qS0tqaWF4a1QyX1JKM05BRWZyWGpVRnAzYjlZV0Rzc0JkNzVsOW9ETnItdU5VRVlKaXJFbA?oc=5",
+      "title": "Papuashvili Says Azerbaijan–Armenia Peace Path Vital for Georgia - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3pmQ0lZZDhWZ3NVUV9yRTVBZEVBX1dybWpueGJ2UThBbFhNNVFxVDg3NXFWZ1B5ZDQ1aS1pdWxFWEpXRkNQWndWVWVOZ2tfaTZKSDRNb1E0ZFZuNHRXUFpidXBTZEZtZFd0MFBTMm55WU5CTy1KY0Z2aXpUekhqbmtzSm9ETmR4UC1kVDNtNllOM0VrZi1YNXFBeU4?oc=5",
+      "source": "Caspian Post",
+      "published_iso": "2026-06-08T11:12:08Z"
+    },
+    {
+      "title": "Pro-western but populist: how Nikol Pashinyan retained power in Armenia - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmp2aDNnQS1CR0xCMUxPTWYxdDg0NUtkQk9aYkFyNTlRb3gxcVA4RFpwQWtUcndnRm1JQTVNSU14Z2JjV2xPMlBCNThZOXJrNFM4LVhvakhFOGtNOWhVZm94WlVTOE5aWmpqT1N6VDl5QkFheTA1Yk8wRkt3MUlHQmY2eWdXLWxzRnJObnEzcm9ERkJDVmhiRmhDVVNTc1RSTXFicEx2NXc?oc=5",
       "source": "The Guardian",
-      "published_iso": "2026-06-07T10:39:00Z"
-    },
-    {
-      "title": "LIVE: Armenia heads to polls in high-stakes 2026 parliamentary election. Photos and video - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MME9pRm9lenhta2p5Mi1sNlQ3bHQ5dF9PM1RsXzZMMHZqNk42UWRWWDNkVFpZNVpHemxGa3Rsbm9sWjdZLS1IYTF2aHozQ2pNZnlxaTJQVUs0X3o4NXZQZ3F1TFgtSEpQckh4a1Fn?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-06-07T10:16:53Z"
-    },
-    {
-      "title": "Armenians vote with peace efforts and Russia in focus - Forth.News",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXQmh6Z1JqNzB3SG5FalVKQmplMkNEZUl2VXFRRXJSNWpJaTZIZGFNaHB3cVN6amg3SEhmQWttaXNqM0ZDLXd4VlZYMmJQYVpwdEt4YkhwMEZPRkd6U0Nfbmx2UQ?oc=5",
-      "source": "Forth.News",
-      "published_iso": "2026-06-07T09:18:19Z"
-    },
-    {
-      "title": "Armenians to vote in pivotal legislative elections for their country's future, regional peace - Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQalhiZE5NNEN5cE1UNUNEbGZxc0w3dU40WmVUS3NpVHp6RGdsc3dySk9JWkQ4dDFMaEVnMGY3Yy1fWGIxTHBQZThpTmxic0d2azU5azRUV0dYOERKX25WTHR0OGJ6S3EzcWx0LXZEZWVsRkF5dGVTVkM0RzJrN2VQUHdVdkpaQVNJVC1rb2NGOW1rRTZaUkhBYVJzS2U4d3NHR3JzLTBQcHlQNHQxTXA3NkFNVEdPQkhTalBpbzFJckZBaFp0eXpkSmFSQ0dGVG5vejYzUHhlemhHdXpZNzRuRGdkWTlEMExsUTktay0zenp1dENYZExyUkZn?oc=5",
-      "source": "Le Monde.fr",
-      "published_iso": "2026-06-07T08:59:03Z"
+      "published_iso": "2026-06-08T10:59:00Z"
     }
   ]
 }
