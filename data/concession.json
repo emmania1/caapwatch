@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-06-08T14:47:58Z",
+  "updated_at": "2026-06-09T13:44:33Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
-      {
-        "title": "Anac e Viracopos vivem histórico de conflitos e ações judiciais desde 2014 - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnhXb1NVNVJhRjZWNXFkOUpaTnlQMGVwLWhTYXUtS3haVVZUY1JRS0lGTnpMYllHRVBBRUZwYnllME1pWFppb2pJMTBwMnN2bXVfQ0lSLUxESVFkbm5mMnpVWE1fcHNIak5EOHhIdDg0dV9MMHJfTmMzNmRJNTRKWDFEaEJJSkUtOEdmQm13bC1od2hhRTdSaUstNEtXOTlGZnp6VmpMamZseW96X2Qw?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-06-08T07:00:22Z"
-      },
       {
         "title": "Novela da concessão do Aeroporto de Viracopos está perto do capítulo final - CNN Brasil",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzNyS3JuSjB6Qk9yV2Ytd2pPSkVtMnViOXJuOEI0TGxLS1c5di0xVGNydU0xV0F4Szg3MzYxZHN1b3NBWnRnY0NoS0tTbEE1UWItZ3BIUXZicVgweXRYREpJRlg0Yk9Ja29pVml4R1Zyb2lvUzBGM2traWVObU5FallhSDFpY1FSYTNTck5CaFY5c2VSWnNvYkJkUjFIbERPWHBiQkRDcHlTMVo2bHFB?oc=5",
@@ -18,31 +12,31 @@
         "published_iso": "2026-06-08T07:00:22Z"
       },
       {
-        "title": "Anac adia negociação com concessionária em aeroporto de Campinas até abril - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNEstMERGVDhvamxBcW9KRjJZMVpyV3l4ZmdBWmg3RXNZYWhVdXNOd29uRTQtV3UyQnlEcWpoaGg3aGlndDZtX0NRY2JRR2tldkNnZjNGdjJhcFc5TlJmaFU3aU9ZQngtRVBGTjhWMjVSUjZfRmJMZy05cWlYd180MnF1RnhSMzVwS3dWRExiRVVBcUhxazBGa2Q3bFVPd1hkbTNUNEMzQTJraUNKQlp0MEpTS2tQWXl6RHhWaUdPRQ?oc=5",
+        "title": "Anac e Viracopos vivem histórico de conflitos e ações judiciais desde 2014 - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnhXb1NVNVJhRjZWNXFkOUpaTnlQMGVwLWhTYXUtS3haVVZUY1JRS0lGTnpMYllHRVBBRUZwYnllME1pWFppb2pJMTBwMnN2bXVfQ0lSLUxESVFkbm5mMnpVWE1fcHNIak5EOHhIdDg0dV9MMHJfTmMzNmRJNTRKWDFEaEJJSkUtOEdmQm13bC1od2hhRTdSaUstNEtXOTlGZnp6VmpMamZseW96X2Qw?oc=5",
         "source": "CNN Brasil",
-        "published_iso": "2026-06-03T07:00:00Z"
+        "published_iso": "2026-06-08T07:00:22Z"
       },
       {
-        "title": "Anac discute nesta semana concessão do Aeroporto de Brasília - - Misto Brasil",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmk4cDU4dWZ2VzdpUG9GVFBFZDM0bXlfd0RFYjRWNWlGLWFEb2RtR0ZRZzRZcnFqX0FwTm1IOVREeEFMdllCcGRLX2dUSGFsQW5TX2xWWEdQeFo5TXdMaDBTWF9zTmR2US03WEZ5ZEZnMHc2S2paSTFRZkdYR0REbUxuMHR1aWU1QlNIejM1SGhuaFJjSk5KcEVVVFLSAaQBQVVfeXFMT2R4M1lBTUdocURVa3dGdFBKRDdMR29qenBOcFFPYWpuNW5wSnc0MDVjcl8wb1B0Y193cFAyaFNxZFNweGFMbEdJY3VDZUEwYzFFdFg2X3Iyb1EwN0dxSlZqN0xoNVZBZFFNMGZpZHNDME1Rdks2SlNsRGo0QUFNN1hOalpMdTh2SGZ6cW5TN2Z2cXlxZnluRTY0cDNXaWppT0tTNko?oc=5",
-        "source": "- Misto Brasil",
-        "published_iso": "2026-05-26T09:16:35Z"
+        "title": "Anac discute repactuação da concessão do Aeroporto de Brasília após crise financeira da Inframerica - Times Brasil | CNBC",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOUVpSTJsekdjaW9NWXJIOEFPd2RQUmpOeGQ1RjdLSkc3NkZWZ3poQ2Y5dk5oWE1EeV8xV2tXaXRONFVFamE3UEdjb3BhblBGaWE4ZVdoaVJZNFBudXUtV0dVNzRBOTNoYjhLb19SamdlYlhkbDM2NkhXOEpJNXlGSThyZFh2TU84cVdFcHdwTkNuSFRuUkloX19kNWFhMTZraFBiUEF5dmdsSkI5bjdsSmdYd3ZmUUh3c0tHQnJqNmR3NUNKSy1rb1lhNE4zb0E?oc=5",
+        "source": "Times Brasil | CNBC",
+        "published_iso": "2026-05-25T07:00:00Z"
       },
       {
         "title": "Anac pode abrir consulta pública sobre repactuação do Aeroporto de Brasília - Tribuna do Sertão",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbjhtWGFVYTNHbEtEeXBETnp4QU1zTDhiN21sNTBfY2hJRy1OUEtHSE9Gejh6Q3hGeU5UdjZLdjZpUVNEa3Rkc013b0ZXMTFNdzlLa2UzLURTTnpFelVoMmg2ZUpFMms4YVVMQ2hvbEgwLVZpYXZzUXFYWjNPUF9oSV80WUFVa2xyaThEQUFxYVQ0S2tlRkpyV3BOOVM3MUxXYnBGSnV2ZElhYzlTWTB4blBQTkNaTm56d19hVm1FS0s1enk5WC1KVUx1ZlBldjQ?oc=5",
         "source": "Tribuna do Sertão",
         "published_iso": "2026-05-25T07:00:00Z"
+      },
+      {
+        "title": "Teste de mercado do aeroporto de Brasília deve ocorrer em dezembro - Agência iNFRA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2tUR2xZdElZcS0xS042cTl6c3BIZTFuMXEtWUctbHJ3VEpySWtNRGpXLTlTRHNkZlM2OXhTSHhxaFFLYmlOaG05bnBCMjFEMjB1OVNqMVhDUU1fRVhzZnhvc2JMTXNaTU13T3BLLTg1QThkN2plMWsyRjhDSHFBMXhBQmRyYkVxTERJODBzcVVkRUxaM01GaVY5eXNJUQ?oc=5",
+        "source": "Agência iNFRA",
+        "published_iso": "2026-05-18T12:24:44Z"
       }
     ],
     "aa2000": [
-      {
-        "title": "Aeropuertos Argentina invertirá USD 85 millones en Aeroparque: qué va a pasar con los vuelos - Jujuy Al Momento",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMF9jUlF0MTktMlFubEJXeDdPLVRHNVlBX0pUOHMxblFqWGMtVHpPNE9GNDFXUW9mNVlMNUM2RFM0ZkhuTDNUMk5HS1FRa0JfV2VpRVZ5OXgyZU5rT2NhT25aOHQ2NU1va1RvR3FvZHZkVm50M1Z0NnNPZ3FFQ3IwLURRSm5zY2VUVmdOajNjT3d6Ym9kak0yd3hnZ0JMeVExMUxtV00tVTZJOTFjeWZzbkR4SmpUWXFnVUNnVVVzX19fRHVyLVBXRjJFTjBhdlFPekMw0gHTAUFVX3lxTE0wX2NSUXQxOS0yUW5sQld4N08tVEc1WUFfSlQ4czFuUWpYYy1Uek80T0Y0MVdRb2Y1WUw1QzZEUzRmSG5MM1QyTkdLUVFrQl9XZWlFVnk5eDJlTmtPY2FPblo4dDY1TW9rVG9HcW9kdmRWbnQzVnQ2c09ncUVDcjAtRFFKbnNjZVRWZ05qM2NPd3pib2RqTTJ3eGdnQkx5UTExTG1XTS1VNkk5MWN5ZnNuRHhKalRZcWdVQ2dVVXNfX19EdXItUFdGMkVOMGF2UU96QzA?oc=5",
-        "source": "Jujuy Al Momento",
-        "published_iso": "2026-06-05T20:28:00Z"
-      },
       {
         "title": "Con una inversión de u$s85 millones, Aeropuertos Argentina avanza en un plan de obras para renovar Aeroparque - Ambito",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdkpRbFdHcFlkTmEtTzl0a0kzTk5vSGxkYWZPS3VIcnJfUUdFZ1JlWGR3V2xrcEFaMXBNTHN0Qlo4eGNXRjBMY2ZheE1CSlItS2pqd0xyOF9nZlVIRFVmSEdYQVJpVXlfeU1vN0tRTW5lbW5jTW5EcFBtTnlIclFOWW9oX3pmTVpNRXVNMVByejZ4X1Brc3BTMVhpRWtNdlhodDB2VHBUQTczOVdRUEFPQW40RjBoWUV4YzlLdkI4SDg5VU52OWpDbGhSRmlzdm_SAdQBQVVfeXFMUGUzYnZLU1FjcVloUVNBMVE2UWV2S1JqdDBOTFJmbEFzU1RIQU9MSjJDT05UaUJaZ2lQTWpXUWREY0w2VGRIOTBPQTVvNmlVeWk4cGs2MW81UGt0bDRPbkRIc2pSNDZCeHREVVo4WG1BbDZCR2JRTlFlN0Zpc2NIeFVVR3pOMEdMZGdYWVY3V2tTUlBnVGhYLUI1MGpzWVZhaDdyVk1OektKcXZ4d2txNlJjeTNtVEtoVURuQ2ppX0F4UmlFUWZyUTlHMFhUaEx2azlPd0U?oc=5",
@@ -66,6 +60,12 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaW1hMDMyeUxRX2FBdmJUbHp6c05jT3dGZDFQUTlnMUprU0FLb0t2YzhBVFQ3M0c3YlRMd09DX01SZUpKUXE1eDBKVnNDdENzOTJVelA5cXFZWlVoUXZCRjEwV2tweHNZdl85ajhyZmhjbUloeFJWcjFBbVc2aHlmaEw4V3V6WExNaTdnWi1TV1p3T2lncWdFYkE0ZTl2dFZhSzNuSTNIdlE2a1MtREZ0Z25sZG9wRGt6c1p6ZGxEd1MzZjZ1Ti12UkdZZUF2eGRaSEdKRDlMNVJBTUhzQ0doQg?oc=5",
         "source": "Hecho en Quilmes",
         "published_iso": "2026-06-03T21:44:32Z"
+      },
+      {
+        "title": "Aeropuertos Argentina ofrece hasta 75 % off en el parking - Mensajero Turístico",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWl5dkRISE9oYkl5Q3AwSGxiVEs5ZUQxMDh4YjhheV80VmVZampuZ0hyd29kTWpUWWFITW9VRnRwamVXcEVUUFd2Rm1WYUhvcF93eTVoaTJuTlJOMHhmWklHZkpfMnFpdW9OVERvUFZQeHFWSVNEd19xY2ZaaU5PUy1ZZXRSSjZoU1dnQXZYMUFVLVJqbWJrX3B6dFFzeEFpZkN5dkJsZzZFSC13VjNPb25DeGh0ZTB0RDVrQdIBywFBVV95cUxPU3dtamk5NUxRb1htTDMtanNWY3NVU0o2MUtBOHJTQUNpdEdhNC1mOVNBc08tVktqZFlLXzY3VEk1TEJoQldWdE5fZXZMbjgxYUlQWi1FeXlKUkhReVZjZS1MU1Z4OUhXcmkxSk00TVRXUlItTXRHZkIyU2V2SEJLVGdhOGd2Zk9neUNTU2lUbklLWTVKYVh3NFctYk5wZTVpU0tSWXVWd0FwanVYczlrSDl0dWZqTnNDQWJQTHlucnJoRkFBWXZBX1ZIWQ?oc=5",
+        "source": "Mensajero Turístico",
+        "published_iso": "2026-06-03T19:20:33Z"
       }
     ]
   }

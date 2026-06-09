@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-06-08T14:48:17Z",
+  "updated_at": "2026-06-09T13:44:54Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenia's Pashinyan wins election, observers allege Russian interference - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWdLZ05iLU1DR2dKc29IWTEyU21zN3pwYnlzVFRnMlQxc0pVWmlfWndfYmRkZTBubDVYbWx0SFhaVTVETmdLSzNUUUplaFdiRkxIcEpNd2FuLThVbkFueXZUY3JtQUtfOUpscGNLNWJmU2ZDVGJDWE1IRy14Ukt5UFh1WXoxV2JwUUx6UzhnNTJrM0NuQXRvX1BuWGxTZlU?oc=5",
-      "source": "Yahoo",
-      "published_iso": "2026-06-08T13:53:50Z"
+      "title": "LIVE: Key morning headlines from Armenia, Azerbaijan and Georgia - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhdDV4M0pnOXNEeWpHbU1aT3haeVBGTWFaRjBNbFBYRl9fUlE5c2ljbV9wX19GaXFVUDJjVGJhbXVaZTktWkp0WVRvaDdYSVAzcVI5a3pyY3FaaldrNGcyMFQ1XzltaUhlX2VXS2FFeU9CVXVpazljeEdRMA?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-06-09T09:25:59Z"
     },
     {
-      "title": "PM Pashinyan’s party wins Armenia election, preliminary results show - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONFlkRUstME5ocGtKN05LTmtzRkpqWnF6SXA1N2ZTOVFobXY0VG9TRFQ4Ui1JckRlVHg1TDI4Y2lEbkxfcnpUUko5Wl95MVdGQmJQRlg5Q210Rzd4LV8xbk1LeEhCWmdHVElCUTFia0RzVDBadFpMMDlBYUt4TlVRbDFzQkVKTUNCeGh5T2h3LUx0OGlZMkVjQUM3Tmx3b2tLQnN4dnh1cHdaQdIBrwFBVV95cUxPMzZkU3VLaVM5N0sxZjFUSkJSM2VGdG1Qa0FKWnVIYkRXSUI3NmhLQlcwWHMwMW1IRU1yeTJSUTdFb2d3VkNtT1YteWlMS3UxWk1mOW9CcjlZc3B1aFpNWVRnUXIwVGlYR0hSeklicmNZMXFDeF91cFY4MWlIaVVYa3VJZHYwcm1WdmZEemNXUGJoRHFhUmNIR0NEbk84Skg4cjVrTXV4VU9FUVc2STI4?oc=5",
-      "source": "Al Jazeera",
-      "published_iso": "2026-06-08T13:52:30Z"
-    },
-    {
-      "title": "Armenia’s prime minister seeks peace with Azerbaijan, open border with Turkey after election win - Turkish Minute",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGhBaWF0SVpEY3dKZldsZ1QyZVRXUV9FOE8yaURXamVIVmJUcnp4aktsQ0dEcEV0UXNLQldsbGNjczJxM3dDMWhQRXZiLV9WblU5Y01EZVhjYkJrVzlyQ0RDU0dSc3hqZUE2MGJGU1Zaa2VxVld2NE96ZV8xRXMzR2dyOE9XN1N4bjJYMWxuMVFDY0xzSFNzMzlXOHFRRDZ2UmdGMlk1cmJnS0Z3ZEJZUnZIb0d4RmlvNmFxdUlCU1RONUN6SERzSWZnUkRSWG9EMUHSAdcBQVVfeXFMTnZWNGNWM2hzcDRERkttOUZBNS01enVqNVlXLVB3emp6YWdncmNFY2I3YUphcktqaWVaaHZ1T0c5Z2RYcFA5TVNBOWk4aUZ5SUk2LWp5QkVITVpRU1dkVnZqZUhCamVXWDg3UXBSNzFoTUU0MXZ1UmJNelJMVWFlVmtieHMyZmFHbGMxcnhLRDdJamhVOFFWd0N2OF9tNjE4NFZxMGJGREJZdDFUei0tM1ZpY1FtYUhseFRscThJUFYzdExGc09GLWdZa2FlUXN2MGttbC13ZkE?oc=5",
-      "source": "Turkish Minute",
-      "published_iso": "2026-06-08T13:12:28Z"
-    },
-    {
-      "title": "Türkiye hopes for swift formalization of Armenia–Azerbaijan peace deal - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55Z3V6a3cxZDZ0aTJtczZwelExVm9PZmhTQUJtVDNnaXR4WnlGZU9SVTRqUzBPSVFmeTRTd3ZYWE1HY2lzSFBMNXRjbVotYWhVeHfSAVdBVV95cUxNaVNZQ0xzOXVNVHc2MXNRWF9zQko0Ykhkem1BMXJpRWdOV3lHUVZIREFHd0ljTURTSXVVU0VfVU40MmNMR0JBYW9Nd0RtSEN4Z2I5eVJXS2s?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-06-08T12:54:00Z"
-    },
-    {
-      "title": "Papuashvili Says Azerbaijan–Armenia Peace Path Vital for Georgia - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3pmQ0lZZDhWZ3NVUV9yRTVBZEVBX1dybWpueGJ2UThBbFhNNVFxVDg3NXFWZ1B5ZDQ1aS1pdWxFWEpXRkNQWndWVWVOZ2tfaTZKSDRNb1E0ZFZuNHRXUFpidXBTZEZtZFd0MFBTMm55WU5CTy1KY0Z2aXpUekhqbmtzSm9ETmR4UC1kVDNtNllOM0VrZi1YNXFBeU4?oc=5",
+      "title": "Pashinyan Urges Peace with Azerbaijan, Türkiye Border Reopening – VIDEO - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1RwaEZGbUFzWmVWNXhCYXFPU2lJWmhabmNNQ0NhUlljaGgwZVUyNUNMdnNmQlJhNDY4YzNQUVdKS0YzRFhKUHprX0ViYlFCREE5cEpic0NhUmZCM0tqM0M5Vlg1UEtwZmVPd1NSV25BVUFPZTZENXlOdEt6cjBqUlY5TVd4Y1RySHVaYXVZbVRmamtZVy0tbU5BZ2J2YWNhaVE?oc=5",
       "source": "Caspian Post",
-      "published_iso": "2026-06-08T11:12:08Z"
+      "published_iso": "2026-06-09T08:21:02Z"
     },
     {
-      "title": "Pro-western but populist: how Nikol Pashinyan retained power in Armenia - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmp2aDNnQS1CR0xCMUxPTWYxdDg0NUtkQk9aYkFyNTlRb3gxcVA4RFpwQWtUcndnRm1JQTVNSU14Z2JjV2xPMlBCNThZOXJrNFM4LVhvakhFOGtNOWhVZm94WlVTOE5aWmpqT1N6VDl5QkFheTA1Yk8wRkt3MUlHQmY2eWdXLWxzRnJObnEzcm9ERkJDVmhiRmhDVVNTc1RSTXFicEx2NXc?oc=5",
-      "source": "The Guardian",
-      "published_iso": "2026-06-08T10:59:00Z"
+      "title": "Preliminary Analysis – Parliamentary Elections in Armenia (June 7th, 2026) - edmo.eu",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2E2Ty1WR2pnMnRfeTdmZnRnajJjVV82OXd1Z3hpTnIycVczRGV1NXNpTzNnM3pBQmxKRE8zZUhXZXVDMDBIbi1HaU5WamxNd25HZlR3U1ZobThJQ25DR0dvQzdlckI3RzdqbmhYTm5VMlZYemRXUEhoeGZ5NzljS29KQkZIWGNETlE?oc=5",
+      "source": "edmo.eu",
+      "published_iso": "2026-06-09T08:13:35Z"
+    },
+    {
+      "title": "Nikol Pashinyan Wins Re-election in Armenia - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjhlZHJqRGVzd3V4NFFYTUgtX01rUG5JaFdyTFh1dllYaTY5My11Wi04Szdhd2N6N1RFQS1DNE1xLXVndVBQQjVFS1hXdHJUY1pHdVQ4Y1FiZldqS19lR2dyekl2djVWVS1ycHhiellQeG9ha0liSlJPZTFwQVJhZ19KNA?oc=5",
+      "source": "The New York Times",
+      "published_iso": "2026-06-09T08:02:52Z"
+    },
+    {
+      "title": "Pashinyan wins strong mandate as Armenia faces constitutional limits on peace process - AnewZ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzMxbHRBWThWUDZhU3huNEI3OE1UdFo2ck9WVm1zWmRzYmg0VUgzWExrSkFlNENIVDMtSWE1VXdZcms1aEN6aG1udWtxVGhQQXpwQlpNWFM0czR3OEVXci1RWmlSZ2F0OEN5bkxVbW90bzdvMk5yUVZVdDlQV083VjFOTVB3NTZNdnV1bTVRU0ZiV094aG5TaFowMWQwSm15V0x3aFNvd1U3Zw?oc=5",
+      "source": "AnewZ",
+      "published_iso": "2026-06-09T07:14:14Z"
+    },
+    {
+      "title": "OPINION: Armenia’s Pashinyan Won Enough to Stay in Power, but Not Enough to Secure Peace With Azerbaijan - Kyiv Post",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUThYMFZiakRVRzQzeWZhbW5ub2F4eTV2alp1c0g5d0RuQVlmYl9wT0tZWFBDRXZSMW9ydU1pUEh2LXRaSEtDaEQxb29kWGs?oc=5",
+      "source": "Kyiv Post",
+      "published_iso": "2026-06-09T07:08:49Z"
     }
   ]
 }
