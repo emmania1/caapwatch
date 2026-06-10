@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-06-09T13:44:54Z",
+  "updated_at": "2026-06-10T14:22:42Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "LIVE: Key morning headlines from Armenia, Azerbaijan and Georgia - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhdDV4M0pnOXNEeWpHbU1aT3haeVBGTWFaRjBNbFBYRl9fUlE5c2ljbV9wX19GaXFVUDJjVGJhbXVaZTktWkp0WVRvaDdYSVAzcVI5a3pyY3FaaldrNGcyMFQ1XzltaUhlX2VXS2FFeU9CVXVpazljeEdRMA?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-06-09T09:25:59Z"
+      "title": "Armenia's Pashinyan wins election, observers allege Russian interference - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWdLZ05iLU1DR2dKc29IWTEyU21zN3pwYnlzVFRnMlQxc0pVWmlfWndfYmRkZTBubDVYbWx0SFhaVTVETmdLSzNUUUplaFdiRkxIcEpNd2FuLThVbkFueXZUY3JtQUtfOUpscGNLNWJmU2ZDVGJDWE1IRy14Ukt5UFh1WXoxV2JwUUx6UzhnNTJrM0NuQXRvX1BuWGxTZlU?oc=5",
+      "source": "Yahoo",
+      "published_iso": "2026-06-10T12:25:52Z"
     },
     {
-      "title": "Pashinyan Urges Peace with Azerbaijan, Türkiye Border Reopening – VIDEO - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1RwaEZGbUFzWmVWNXhCYXFPU2lJWmhabmNNQ0NhUlljaGgwZVUyNUNMdnNmQlJhNDY4YzNQUVdKS0YzRFhKUHprX0ViYlFCREE5cEpic0NhUmZCM0tqM0M5Vlg1UEtwZmVPd1NSV25BVUFPZTZENXlOdEt6cjBqUlY5TVd4Y1RySHVaYXVZbVRmamtZVy0tbU5BZ2J2YWNhaVE?oc=5",
-      "source": "Caspian Post",
-      "published_iso": "2026-06-09T08:21:02Z"
+      "title": "If Trump believes in Azerbaijan-Armenia peace, why does Baku want weapons? - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOVVSU0dHRDA2UGRsOXZpUXNnZ1U5Y1RWc1Q5RGNLYzV4WFhoLWtHMkx1Rmhhcjl4d09WUVNiR3BiRkdIR1hvalFSa3d6b2l4RGxyV2JQcDB4MExrMG9HZk84NlA2WFBhZUZWQWhfamNBZzlBNTFHZVRMRjBkZ1hfX2lhSDluQUVId1RidFMtNVNVZVd0andQMkwtMzFwbHYwbkNYRmNlcF8zWV9FRW5CbEk0em5RUUhlSTY5Z2xR?oc=5",
+      "source": "Washington Examiner",
+      "published_iso": "2026-06-10T12:00:00Z"
     },
     {
-      "title": "Preliminary Analysis – Parliamentary Elections in Armenia (June 7th, 2026) - edmo.eu",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2E2Ty1WR2pnMnRfeTdmZnRnajJjVV82OXd1Z3hpTnIycVczRGV1NXNpTzNnM3pBQmxKRE8zZUhXZXVDMDBIbi1HaU5WamxNd25HZlR3U1ZobThJQ25DR0dvQzdlckI3RzdqbmhYTm5VMlZYemRXUEhoeGZ5NzljS29KQkZIWGNETlE?oc=5",
-      "source": "edmo.eu",
-      "published_iso": "2026-06-09T08:13:35Z"
-    },
-    {
-      "title": "Nikol Pashinyan Wins Re-election in Armenia - The New York Times",
+      "title": "Armenia’s Prime Minister Declares Victory in Race Shadowed by Russia - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjhlZHJqRGVzd3V4NFFYTUgtX01rUG5JaFdyTFh1dllYaTY5My11Wi04Szdhd2N6N1RFQS1DNE1xLXVndVBQQjVFS1hXdHJUY1pHdVQ4Y1FiZldqS19lR2dyekl2djVWVS1ycHhiellQeG9ha0liSlJPZTFwQVJhZ19KNA?oc=5",
       "source": "The New York Times",
-      "published_iso": "2026-06-09T08:02:52Z"
+      "published_iso": "2026-06-09T13:56:57Z"
     },
     {
-      "title": "Pashinyan wins strong mandate as Armenia faces constitutional limits on peace process - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzMxbHRBWThWUDZhU3huNEI3OE1UdFo2ck9WVm1zWmRzYmg0VUgzWExrSkFlNENIVDMtSWE1VXdZcms1aEN6aG1udWtxVGhQQXpwQlpNWFM0czR3OEVXci1RWmlSZ2F0OEN5bkxVbW90bzdvMk5yUVZVdDlQV083VjFOTVB3NTZNdnV1bTVRU0ZiV094aG5TaFowMWQwSm15V0x3aFNvd1U3Zw?oc=5",
-      "source": "AnewZ",
-      "published_iso": "2026-06-09T07:14:14Z"
+      "title": "'Russia's Plan B has been activated': analysis of Armenia's preliminary election results - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oOFVNVHZwRkcyRmhIX2NKRDhQd1U3bUgyQzcwS3R2M25FU0VFUUxXZHhna2VMdHRLQ2hlZ3JfNDVjbUNaQVE3SF9VNWZtdVM5a051WlVwWFpNdEQtQ1NmdjRqMDBUZ1FCNmdVeDJR?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-06-09T10:57:47Z"
     },
     {
       "title": "OPINION: Armenia’s Pashinyan Won Enough to Stay in Power, but Not Enough to Secure Peace With Azerbaijan - Kyiv Post",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUThYMFZiakRVRzQzeWZhbW5ub2F4eTV2alp1c0g5d0RuQVlmYl9wT0tZWFBDRXZSMW9ydU1pUEh2LXRaSEtDaEQxb29kWGs?oc=5",
       "source": "Kyiv Post",
       "published_iso": "2026-06-09T07:08:49Z"
+    },
+    {
+      "title": "Pro-western but populist: how Nikol Pashinyan retained power in Armenia - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmp2aDNnQS1CR0xCMUxPTWYxdDg0NUtkQk9aYkFyNTlRb3gxcVA4RFpwQWtUcndnRm1JQTVNSU14Z2JjV2xPMlBCNThZOXJrNFM4LVhvakhFOGtNOWhVZm94WlVTOE5aWmpqT1N6VDl5QkFheTA1Yk8wRkt3MUlHQmY2eWdXLWxzRnJObnEzcm9ERkJDVmhiRmhDVVNTc1RSTXFicEx2NXc?oc=5",
+      "source": "The Guardian",
+      "published_iso": "2026-06-09T01:30:00Z"
     }
   ]
 }
