@@ -1,32 +1,26 @@
 {
-  "updated_at": "2026-06-11T14:35:51Z",
+  "updated_at": "2026-06-12T14:10:13Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Spanish legislators express support for Armenia–Azerbaijan peace process - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2ZVVkam5hQmJkYjZTYU04ZDdYcVFnR29SSUt1aW1COVFpenpFUF8wRUpoMjkzVEx6V2k2R05ISFJDVWxJamlRZlQyY2VucktSRlHSAVdBVV95cUxNYmdQMzdsZnprODUyelE1c3hOSzNQcFk3NGFPM1Fnek9teDl2czFNNmFCOHNHRUlwNDV0VUtwaE53bzNwTnFHcTRmeHBEZzQtZWp0QlpIbjQ?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-06-11T12:15:00Z"
+      "title": "Social media usage and Armenia's 2026 election - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcG1vSy1pMEdTVGZWVFN3aVVtdWhLVnpNZEo3Yk1kTnhsUkl6UU85MEZzTHhkU3lmMGJVbGtPQW4ySElra2JGOEZFRklpU1lSdkVCZ0d6cVRnZ28yZllMbHJvOHAwWVdTcEVGcUpDYzJfSjdvb01pbk90U0I0TFFfeHV6WW51N3FqRnIw?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-06-12T10:06:54Z"
     },
     {
-      "title": "Pashinyan calls for joint work with Azerbaijan on missing persons issue - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjMGZaUVZpdVh0d2RQQXlKWVF3QVRCR00yMDYxcDR6dEJDMnhZdlY5aGxpZC1jLWtoT3ZCSUtqMDZYbkZONllheVhuZ3ZUOWZxMXpGZF9VOA?oc=5",
-      "source": "AzerNews",
-      "published_iso": "2026-06-11T11:31:00Z"
+      "title": "Armenian election results boost Pashinyan’s engagement with West, complicate new constitution - Eurasianet",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUJ3RUxqRUdrZ0wtczUtRlhwSFNyTnVrQ1lHS1l2S3lETURSZ2ItYW5PU09pMnVFMVNGZE55WXhYXzloOGJiQXlDQXdsdTFXZmxOVWR5T0wtUk43bUlfU2UxLXdVa3dCZ2xTVWswZURNU2FMbWpkbV8wbmN0bnVIV3FXQ3pfN3ZDdndBRXpFdGRjTmRDLU9UeFhPNGVGX1YyQTkya180TUhuS0NSd2FXTDFkUTM?oc=5",
+      "source": "Eurasianet",
+      "published_iso": "2026-06-11T20:45:13Z"
     },
     {
-      "title": "Armenian government faces uphill battle over new constitution following election results - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3ZpRjZGcElsaXpWYlBMdzR1V3FrZnB3SW8tMkJsdXN0Z0hneWJHVEVFX3daRVpFbENYVkwzWmhHc1ZDYzJ1QjlQS3dYek5BNXBfQ1NwUHRCUThyQlBUaXJxNU5vNXBWdFU5LWJJcFphaXZCc05aQmE5NzNGcHJqbWxqYnl3ODlWam1MMjJnb1o1UHBGQWlLYVdHNkp0TW9TM3ZpQ3JKdVNEcnBmeHBZ?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-06-11T09:46:26Z"
-    },
-    {
-      "title": "American expert: TRIPP Corridor holds real promise both for Central Asia and South Caucasus - Azərtac",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUG1objlRT3NnSUdMQndVc2xFZEhMX3BzblJjWXR6RUptcUVCTFJWemQzOWdfMXR5UlR0dDluQ3JjSW1VRTlucEQ3TmVfbGk1RUc5ZHRIS1VYcVNldUxBdkVHRkF6Z0ZLZlZaX0g4OWZtRG84VWszcXB5cG9FcUdiWGl2WDhqXzFxdnVRaDR3NXFJdW1CZDNrdVFZRXBCZ09MOGNZbFMtMTREMWsxS0haUldJYTJ6SElwLUJ4R2dLS2Zvb1BC?oc=5",
-      "source": "Azərtac",
-      "published_iso": "2026-06-11T06:57:00Z"
+      "title": "Next Steps Toward Peace After the Armenian Elections - Carnegie Endowment for International Peace",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGtNVU1sSUlVc2RtTEhXU0lyWGRQX0h0RGRZaXNGaVNoY2VlaFVPcmRUOEJpbU5rX0czdGd2dnJGMlItSXZtOFdLV3dLNXp3QjZzcTNEVjROUTVsSUpHbUNlRjN0aTV1MEgxSFRIME1zRjJGUFpaN1BjeTZUTE1MNnFaaXVFT3Y5TVRXYzJWNTVXWF9EQVJPMHBB?oc=5",
+      "source": "Carnegie Endowment for International Peace",
+      "published_iso": "2026-06-11T18:32:21Z"
     },
     {
       "title": "Armenia signals swift move toward peace treaty with Azerbaijan - Muslim Network TV",
@@ -35,10 +29,16 @@
       "published_iso": "2026-06-11T03:44:43Z"
     },
     {
-      "title": "Armenia’s Parliamentary Elections: A View From Azerbaijan - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWlJ6dFBPVG1qUmJuLWxiVWQ4YndyLWxCNFNOYXZ2anl4T24yN2xLNVVtSld4SnM0X041emJJU3U4Q2w3aVZWbUZ5REhXV1ZRcEtna1lzZXBpVDQzX05YTUxlZHNjRi1qU0o0SzhFd0FVRExlZGNUd2xUdDVmamNPc3hZMkJvY2FISFpJcy04MzYxX24y?oc=5",
-      "source": "Caspian Post",
-      "published_iso": "2026-06-10T19:40:04Z"
+      "title": "If Trump believes in Azerbaijan-Armenia peace, why does Baku want weapons? - American Enterprise Institute - AEI",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHFjNUVTeTFxay04c3JfZlpxM0NyNkZhRllCRDRMVEduVjVpc182ZE5BX1BJZDhPcWJScEl0SldUNW8tbXNac1VtQWhhaG5vYVFRNzVLZ1pBZXBMVHpoOS1ubVFhSk5MVDlmdGI1dGN3Z3FnanAxcVl2TlN3NkpKUUl5bkNibFhSd0ZIallYU2lGWHRJb3JyRnhoTFhUM3I1Wmc?oc=5",
+      "source": "American Enterprise Institute - AEI",
+      "published_iso": "2026-06-10T21:31:58Z"
+    },
+    {
+      "title": "Armenia's Pashinyan wins election, observers allege Russian interference - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0k3VGoxVUhIemw0Vkdpb2ZHeHQxcUdLQ05GY0ZxcjhrWWNXRVY0RFNTVFZqcTA1QXVRV2ctMjAwMktJZDBpZHdoQnpNZ1Q2TEdzcjh3WUdlUmZ5dGRKbHNZdzE5d1FjZjBfdmEzVG00bGFhYkhhTzdEa1JLY1B4QmFCSEpMMllQdWZXNnFBcjMwaUpYNktUZjJ5N3VxTXdBZ0xReTNqMmZKeVphd1FN?oc=5",
+      "source": "Reuters",
+      "published_iso": "2026-06-10T07:00:00Z"
     }
   ]
 }
