@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-06-12T14:10:13Z",
+  "updated_at": "2026-06-13T12:24:15Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Social media usage and Armenia's 2026 election - commonspace.eu",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcG1vSy1pMEdTVGZWVFN3aVVtdWhLVnpNZEo3Yk1kTnhsUkl6UU85MEZzTHhkU3lmMGJVbGtPQW4ySElra2JGOEZFRklpU1lSdkVCZ0d6cVRnZ28yZllMbHJvOHAwWVdTcEVGcUpDYzJfSjdvb01pbk90U0I0TFFfeHV6WW51N3FqRnIw?oc=5",
-      "source": "commonspace.eu",
-      "published_iso": "2026-06-12T10:06:54Z"
+      "title": "Why Peace in Armenia Matters—And Why Trump Deserves Some Credit - freebeacon.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUm43NU9hRnZkRGFscEhGOFdOM2UtdWF6WjRjR0t2c1JVNDVwWW5ndl9hNjdUbGdLZW5leHphcWl3R2xtbHJTeDJpSWU1aUo3UmNmeWNsQmRaQ3lQUW9CcWxUS2NmOHFweXhSUFVpa1Bkd2NieTZKRm1nWmI5b3dkcW1YRlBpcXVydldyOUpSTm9jTjRVOGhGbUtvdw?oc=5",
+      "source": "freebeacon.com",
+      "published_iso": "2026-06-13T09:00:23Z"
+    },
+    {
+      "title": "International report - Armenia election result revives hopes of reopening border with Turkey - RFI",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZE5pR1BYeEg4Um9tOGl5UTJoVl9ZMXdQYVRqd1FINkR0RDRONEZOSUxGU2FfOEZ6UVlXZGp0R1FrVF9ZclZZQ0NDVVVhNkNHa09leGlaWTMyRlpPTVFVZWdGcmdkeC1ob2Q4Z3FqdXI2TWU3cnhFVGZZeWItREJaSXNOeDRSV2t5bldjWEdhNS1uZjhLbzBIU25EbVp0Q2dneVhzZ0F4UUhQVW5ZeUZUdV9Ob19pTVZxSDlxM3pyOGJBRkdNVU1aRnFR?oc=5",
+      "source": "RFI",
+      "published_iso": "2026-06-13T05:24:42Z"
     },
     {
       "title": "Armenian election results boost Pashinyan’s engagement with West, complicate new constitution - Eurasianet",
@@ -23,22 +29,16 @@
       "published_iso": "2026-06-11T18:32:21Z"
     },
     {
-      "title": "Armenia signals swift move toward peace treaty with Azerbaijan - Muslim Network TV",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkU4d19Jd1lfYWZVRlZETmtoX1NhbnE4d2xsZlNkRVVFclp6dGF4R3RxM05aTGpISDRHMlVGRWc5ZUhWaWtEdGRKSno2VTVYekVYNm9fUFZRaVFxVkdsS0xlZlY0YXdkb0lCcXd5alZObU9CYjJ6ZDlTOFY1bWxEeXVOUGhqRkJJcXduUjhFTEZ0N3ZGM3VV?oc=5",
-      "source": "Muslim Network TV",
-      "published_iso": "2026-06-11T03:44:43Z"
-    },
-    {
       "title": "If Trump believes in Azerbaijan-Armenia peace, why does Baku want weapons? - American Enterprise Institute - AEI",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHFjNUVTeTFxay04c3JfZlpxM0NyNkZhRllCRDRMVEduVjVpc182ZE5BX1BJZDhPcWJScEl0SldUNW8tbXNac1VtQWhhaG5vYVFRNzVLZ1pBZXBMVHpoOS1ubVFhSk5MVDlmdGI1dGN3Z3FnanAxcVl2TlN3NkpKUUl5bkNibFhSd0ZIallYU2lGWHRJb3JyRnhoTFhUM3I1Wmc?oc=5",
       "source": "American Enterprise Institute - AEI",
       "published_iso": "2026-06-10T21:31:58Z"
     },
     {
-      "title": "Armenia's Pashinyan wins election, observers allege Russian interference - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON0k3VGoxVUhIemw0Vkdpb2ZHeHQxcUdLQ05GY0ZxcjhrWWNXRVY0RFNTVFZqcTA1QXVRV2ctMjAwMktJZDBpZHdoQnpNZ1Q2TEdzcjh3WUdlUmZ5dGRKbHNZdzE5d1FjZjBfdmEzVG00bGFhYkhhTzdEa1JLY1B4QmFCSEpMMllQdWZXNnFBcjMwaUpYNktUZjJ5N3VxTXdBZ0xReTNqMmZKeVphd1FN?oc=5",
-      "source": "Reuters",
-      "published_iso": "2026-06-10T07:00:00Z"
+      "title": "How should we define peace? - The Armenian Weekly",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jZW5wZ0lyQ2prWEhERnYzcXNaQmxkN2p6UDVBc3JVMXh4UUloclRBR3pkVk5lOGNvMm9WcjcxUXhYX3pScS1NbWlEenBrMmRZR25nWi1raDhqdTJUUy0yOWR0ZUlrbVRCd0Ftb29iS3U3MWs?oc=5",
+      "source": "The Armenian Weekly",
+      "published_iso": "2026-06-10T15:29:15Z"
     }
   ]
 }
