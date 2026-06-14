@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T12:23:56Z",
+  "updated_at": "2026-06-14T13:00:18Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -12,10 +12,10 @@
         "published_iso": "2026-06-08T07:00:22Z"
       },
       {
-        "title": "Anac e Viracopos vivem histórico de conflitos e ações judiciais desde 2014 - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnhXb1NVNVJhRjZWNXFkOUpaTnlQMGVwLWhTYXUtS3haVVZUY1JRS0lGTnpMYllHRVBBRUZwYnllME1pWFppb2pJMTBwMnN2bXVfQ0lSLUxESVFkbm5mMnpVWE1fcHNIak5EOHhIdDg0dV9MMHJfTmMzNmRJNTRKWDFEaEJJSkUtOEdmQm13bC1od2hhRTdSaUstNEtXOTlGZnp6VmpMamZseW96X2Qw?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-06-08T07:00:22Z"
+        "title": "Brasil prepara leilão de concessão do terceiro aeroporto mais movimentado do país - BNamericas",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVB1eko5eUNFWW1mdzB1amg2ejJka1dyUjlIVENXbzd6SWRDeHlTeVJzd1diNG9PenJNZHZ0T1hrZC01d2xpSHV5XzlUNjdpZXhjaVJZRXBEWlYzVU5vWkZNNWt4TWluejl6dHVodUtsOF9qYVg3NHVVemJBLWFwRXZ4aGxLTkZGVmFqanNxejVIVDVReHdZTW9CVmxFU2JLT0ZfeXpfenNueGI2Y29OTW9xVGprSGV3VXNBaQ?oc=5",
+        "source": "BNamericas",
+        "published_iso": "2026-05-27T07:00:00Z"
       },
       {
         "title": "Anac discute repactuação da concessão do Aeroporto de Brasília após crise financeira da Inframerica - Times Brasil | CNBC",
@@ -38,16 +38,16 @@
     ],
     "aa2000": [
       {
-        "title": "Con una inversión de u$s85 millones, Aeropuertos Argentina avanza en un plan de obras para renovar Aeroparque - Ambito",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdkpRbFdHcFlkTmEtTzl0a0kzTk5vSGxkYWZPS3VIcnJfUUdFZ1JlWGR3V2xrcEFaMXBNTHN0Qlo4eGNXRjBMY2ZheE1CSlItS2pqd0xyOF9nZlVIRFVmSEdYQVJpVXlfeU1vN0tRTW5lbW5jTW5EcFBtTnlIclFOWW9oX3pmTVpNRXVNMVByejZ4X1Brc3BTMVhpRWtNdlhodDB2VHBUQTczOVdRUEFPQW40RjBoWUV4YzlLdkI4SDg5VU52OWpDbGhSRmlzdm_SAdQBQVVfeXFMUGUzYnZLU1FjcVloUVNBMVE2UWV2S1JqdDBOTFJmbEFzU1RIQU9MSjJDT05UaUJaZ2lQTWpXUWREY0w2VGRIOTBPQTVvNmlVeWk4cGs2MW81UGt0bDRPbkRIc2pSNDZCeHREVVo4WG1BbDZCR2JRTlFlN0Zpc2NIeFVVR3pOMEdMZGdYWVY3V2tTUlBnVGhYLUI1MGpzWVZhaDdyVk1OektKcXZ4d2txNlJjeTNtVEtoVURuQ2ppX0F4UmlFUWZyUTlHMFhUaEx2azlPd0U?oc=5",
-        "source": "Ambito",
-        "published_iso": "2026-06-05T19:15:00Z"
-      },
-      {
         "title": "Aeropuertos Argentina invertirá USD 85 millones en Aeroparque: las mejoras previstas y qué va a pasar con el cronograma de vuelos - Infobae",
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTS00aTFxTHZhZ09HX19SN1lieC1EMUtoc3FQYkdTRGY1YTVnRGswcEc2RDl0elItX19ORjhpYnhKZjYtTHBiNDFPemhhX0RsbXMzUFctbkY0V0NpZGJCOF9JV2VxWDdhcGN3cW8tQTMyTjlRZ0ZnZnQ2dHlaWnFwNHl0WnVwSlotMHkzUXlQWDRmRnk4c0Jhemk2QjhhMDBNMWI4MkhlYmNmSGstZ2ZoN1JZc0RQSlNPSHNqN1RaMlBXMk5wMU9PTm1YbTVRRlRTbjNuZWxhT0ZvcExCNmlSZHN5SnlLLV9aNEVvcGpuUnZiSzdFQ1otdHZZaVlPMldvWDY00gGeAkFVX3lxTE5WU3ZGVjJGaEVYRDViQ0t3bTRoSlR2MHhqV2MwWGN1aHNVbE9zQnZ6eG5XOEx5N1Z5SUJrUER4RDBJQVR5T1NSNjM1Vmg5ZUc0SkFyeC1kVGFZalQ1VVg0MDhNZFcycmZzQVRVQTE5Z0RVX3V3MU9nUlRmeGlsMUJoS3NfR2NmTDh2V3otOUZSUm5DQXpEZGlfczdEd2ZXaFZvUHI1bjFLcDBPb3hvaGpGcFV4Vlo0aG5XeE0tMDJBbzVYUXoxeHVnazg3OTc4TmIydTdIa0FCby1kbEY5X0tKbWtKXzNNNXhsS3hDbHdGbnpORnR3S3R4SnpubGFzZFNid3dYbVNONmFPSGNSY09mQmQ3YW1JTVNCREJyc0E?oc=5",
         "source": "Infobae",
-        "published_iso": "2026-06-05T17:16:00Z"
+        "published_iso": "2026-06-05T07:00:00Z"
+      },
+      {
+        "title": "Con una inversión de u$s85 millones, Aeropuertos Argentina avanza en un plan de obras para renovar Aeroparque - Ambito",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdkpRbFdHcFlkTmEtTzl0a0kzTk5vSGxkYWZPS3VIcnJfUUdFZ1JlWGR3V2xrcEFaMXBNTHN0Qlo4eGNXRjBMY2ZheE1CSlItS2pqd0xyOF9nZlVIRFVmSEdYQVJpVXlfeU1vN0tRTW5lbW5jTW5EcFBtTnlIclFOWW9oX3pmTVpNRXVNMVByejZ4X1Brc3BTMVhpRWtNdlhodDB2VHBUQTczOVdRUEFPQW40RjBoWUV4YzlLdkI4SDg5VU52OWpDbGhSRmlzdm_SAdQBQVVfeXFMUGUzYnZLU1FjcVloUVNBMVE2UWV2S1JqdDBOTFJmbEFzU1RIQU9MSjJDT05UaUJaZ2lQTWpXUWREY0w2VGRIOTBPQTVvNmlVeWk4cGs2MW81UGt0bDRPbkRIc2pSNDZCeHREVVo4WG1BbDZCR2JRTlFlN0Zpc2NIeFVVR3pOMEdMZGdYWVY3V2tTUlBnVGhYLUI1MGpzWVZhaDdyVk1OektKcXZ4d2txNlJjeTNtVEtoVURuQ2ppX0F4UmlFUWZyUTlHMFhUaEx2azlPd0U?oc=5",
+        "source": "Ambito",
+        "published_iso": "2026-06-05T07:00:00Z"
       },
       {
         "title": "Aeropuertos Argentina: descuentos de hasta el 75% en estacionamientos en Ezeiza, Aeroparque, Mendoza y Bariloche - Hecho en Quilmes",
@@ -56,16 +56,16 @@
         "published_iso": "2026-06-03T21:44:32Z"
       },
       {
-        "title": "Aeropuertos Argentina lanzó descuentos para estacionar en Bariloche durante junio - Bariloche Opina",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeUNySXlWdmFsM1ZaaE40MlNZTm02VFNvcDNzWDZCOVJLZDRxazlqWkRtVzF1WmJmRlNFLTA0ak92ZFN6OU42SVhtOWxvWWlBNnA4TldBUC1CU2h3LVVzOXB1MG5UbVdnTWhSQzFtNUdESjVsNkgwTzNPZWROU1lFdVltbW5XTF9LZFFwWFNxd245MEY3aWRsb3YzZEpZVTdwT1RseDhra2ZPcG8wNTVJLURqc0FOV1hYUUJHVFJrRFE3bWdSbzVZODR5bXBqdWM4QkN0LdIB2gFBVV95cUxQYXl2dkhjNk1EbVBWZ1E2dHVoNnFLRktEZGVhdXNOeElnb3dPRUtMZTJDbUMteFM1cXEyOU80N3ExMWkweEthS0NZMDRqU1hpalQ0X0VqMXo3Vk16WGdtM0JLWTJKWDc3MUxzbWpjZ0NjUjRIblZvUGdGY25IelBfOWZNcGF1NXEwNGFURXhsbkxBS1RFTXM3ZUlGVllLRU9jbm4tdW1ra2JpUHB2UWVReFByeWtEdVVRdElSeUxDclh0dm1QWEtIWVZhME9BOC1KYUU0Vm56WmM2dw?oc=5",
-        "source": "Bariloche Opina",
-        "published_iso": "2026-06-03T19:49:02Z"
-      },
-      {
         "title": "Aeropuertos Argentina ofrece hasta 75 % off en el parking - Mensajero Turístico",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWl5dkRISE9oYkl5Q3AwSGxiVEs5ZUQxMDh4YjhheV80VmVZampuZ0hyd29kTWpUWWFITW9VRnRwamVXcEVUUFd2Rm1WYUhvcF93eTVoaTJuTlJOMHhmWklHZkpfMnFpdW9OVERvUFZQeHFWSVNEd19xY2ZaaU5PUy1ZZXRSSjZoU1dnQXZYMUFVLVJqbWJrX3B6dFFzeEFpZkN5dkJsZzZFSC13VjNPb25DeGh0ZTB0RDVrQdIBywFBVV95cUxPU3dtamk5NUxRb1htTDMtanNWY3NVU0o2MUtBOHJTQUNpdEdhNC1mOVNBc08tVktqZFlLXzY3VEk1TEJoQldWdE5fZXZMbjgxYUlQWi1FeXlKUkhReVZjZS1MU1Z4OUhXcmkxSk00TVRXUlItTXRHZkIyU2V2SEJLVGdhOGd2Zk9neUNTU2lUbklLWTVKYVh3NFctYk5wZTVpU0tSWXVWd0FwanVYczlrSDl0dWZqTnNDQWJQTHlucnJoRkFBWXZBX1ZIWQ?oc=5",
         "source": "Mensajero Turístico",
         "published_iso": "2026-06-03T19:20:33Z"
+      },
+      {
+        "title": "Aeropuertos Argentina sigue dejando a Madryn en lista de espera - LA17",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0VubG9OQnNhVFJndm11TEt2NnlwNk1iN3FCNi1CeUVtSzR2MW04emVZeDRhLXdyWDIwOWlOM3NPb2JPdjRBaU1JRTNjQ0ozNGo0RTVkS1RtWkxpX2pkVXAzZHljdF81V0hvQk5NS0YtRUNYYXpveHp5UUZnaHl3SnBqdnAxVVhWMmljNnBNUVBnS0wtcVh4U0NqdVoyZw?oc=5",
+        "source": "LA17",
+        "published_iso": "2026-03-20T07:00:00Z"
       }
     ]
   }
