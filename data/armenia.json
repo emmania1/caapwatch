@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-06-14T13:00:37Z",
+  "updated_at": "2026-06-15T16:18:17Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Why Peace in Armenia Matters—And Why Trump Deserves Some Credit - freebeacon.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUm43NU9hRnZkRGFscEhGOFdOM2UtdWF6WjRjR0t2c1JVNDVwWW5ndl9hNjdUbGdLZW5leHphcWl3R2xtbHJTeDJpSWU1aUo3UmNmeWNsQmRaQ3lQUW9CcWxUS2NmOHFweXhSUFVpa1Bkd2NieTZKRm1nWmI5b3dkcW1YRlBpcXVydldyOUpSTm9jTjRVOGhGbUtvdw?oc=5",
-      "source": "freebeacon.com",
-      "published_iso": "2026-06-13T09:00:23Z"
+      "title": "Armenia’s election and peace in the South Caucasus - The International Institute for Strategic Studies",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmc1djItWXZoWHB4UG5yUURpX2RodUxWWG45ZVYyZ0g1a25mLXJwY3k2UjJrTEZFVDEzYWk4ZmJUVm05NENLd2NKMXQ2OU5iWTUxaXZFSkNwZWRLTEpCVFl1WFlyZjJFM0lUQndOOWg3U0lwOU1jM1dfbDVzZk81Y0NMNXhrQ241ZTNhLUVOUVA2VkNTM0NjSHZYQ2Q0c1NvcGdJYUJDbm9GdlpYTlhkWQ?oc=5",
+      "source": "The International Institute for Strategic Studies",
+      "published_iso": "2026-06-15T16:03:05Z"
     },
     {
-      "title": "International report - Armenia election result revives hopes of reopening border with Turkey - RFI",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZE5pR1BYeEg4Um9tOGl5UTJoVl9ZMXdQYVRqd1FINkR0RDRONEZOSUxGU2FfOEZ6UVlXZGp0R1FrVF9ZclZZQ0NDVVVhNkNHa09leGlaWTMyRlpPTVFVZWdGcmdkeC1ob2Q4Z3FqdXI2TWU3cnhFVGZZeWItREJaSXNOeDRSV2t5bldjWEdhNS1uZjhLbzBIU25EbVp0Q2dneVhzZ0F4UUhQVW5ZeUZUdV9Ob19pTVZxSDlxM3pyOGJBRkdNVU1aRnFR?oc=5",
-      "source": "RFI",
-      "published_iso": "2026-06-13T05:24:42Z"
+      "title": "The Pashinyan paradox - The Armenian Weekly",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIVWVfWXlNY0NsVXFEdS1IRFlud2R3XzFzRFVId1c3aTg1cWtzcERfVEo2Q3l3NlFJSkQwQmE0OVM3VEJZc3F3NjVELVMyX3hPQzdLcUhUdDhLME5TR0VLZ2NIeVR5ejlKeDFheA?oc=5",
+      "source": "The Armenian Weekly",
+      "published_iso": "2026-06-15T14:15:00Z"
     },
     {
-      "title": "Armenian election results boost Pashinyan’s engagement with West, complicate new constitution - Eurasianet",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUJ3RUxqRUdrZ0wtczUtRlhwSFNyTnVrQ1lHS1l2S3lETURSZ2ItYW5PU09pMnVFMVNGZE55WXhYXzloOGJiQXlDQXdsdTFXZmxOVWR5T0wtUk43bUlfU2UxLXdVa3dCZ2xTVWswZURNU2FMbWpkbV8wbmN0bnVIV3FXQ3pfN3ZDdndBRXpFdGRjTmRDLU9UeFhPNGVGX1YyQTkya180TUhuS0NSd2FXTDFkUTM?oc=5",
-      "source": "Eurasianet",
-      "published_iso": "2026-06-11T20:45:13Z"
+      "title": "Azerbaijani presidential aide visits Armenia - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMGpoeEpnWktkMGpobGdnR1o3TC1aeUhZWUhWazFBZE1IT1NzbURqejFnQkE4NUkzTFJfNlE5ejhxZWJXREQ1bVl3WEZqc2VjQXZfQmk5ZHRILTVvdE5haUZoOE81QUNiZndGaExyUjJQNlNyU2MySDVzYkZnazVGSW9R?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-06-15T10:35:32Z"
     },
     {
-      "title": "Next Steps Toward Peace After the Armenian Elections - Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMGtNVU1sSUlVc2RtTEhXU0lyWGRQX0h0RGRZaXNGaVNoY2VlaFVPcmRUOEJpbU5rX0czdGd2dnJGMlItSXZtOFdLV3dLNXp3QjZzcTNEVjROUTVsSUpHbUNlRjN0aTV1MEgxSFRIME1zRjJGUFpaN1BjeTZUTE1MNnFaaXVFT3Y5TVRXYzJWNTVXWF9EQVJPMHBB?oc=5",
-      "source": "Carnegie Endowment for International Peace",
-      "published_iso": "2026-06-11T18:32:21Z"
+      "title": "Armenian, Azerbaijani officials meet in first post-election talks in Dilijan - CIVILNET",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CejJGMklqMThkeHM4Z0lpc3JMaUpVZ1E3UjFYWmgyUjJXY29IQnFRRHQzX04tclVqZVllUjBwaktmc05XWkl6R3FpNA?oc=5",
+      "source": "CIVILNET",
+      "published_iso": "2026-06-15T10:29:56Z"
     },
     {
-      "title": "Armenia signals swift move toward peace treaty with Azerbaijan - Muslim Network TV",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkU4d19Jd1lfYWZVRlZETmtoX1NhbnE4d2xsZlNkRVVFclp6dGF4R3RxM05aTGpISDRHMlVGRWc5ZUhWaWtEdGRKSno2VTVYekVYNm9fUFZRaVFxVkdsS0xlZlY0YXdkb0lCcXd5alZObU9CYjJ6ZDlTOFY1bWxEeXVOUGhqRkJJcXduUjhFTEZ0N3ZGM3VV?oc=5",
-      "source": "Muslim Network TV",
-      "published_iso": "2026-06-11T03:44:43Z"
+      "title": "Armenian opposition groups hinted at ‘further escalation’ as final election results announced - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT2pzTE1iTlJXQ1JJdE90RGNMRzRnNXVLamh3RmozUHB3ZlRGemZPbUF5c29aRmpYVkNpZjdDVnRHVFh2N0FmZml0QXZ3S2E0M00zcU1uZ0tRLXhDUFlhcFRya3lsNWRPdzJ4ZmR3MTc0SDE4a2ZNaDlqSVFBX25aME1YaWpjdVNvTXY5d1YxRG5mQVh1Z3VhdXVyTG1ZclFkSVp0UHNQYnR4Z0IyS04tY0xXOTdxcjA?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-06-15T09:59:41Z"
     },
     {
-      "title": "If Trump believes in Azerbaijan-Armenia peace, why does Baku want weapons? - American Enterprise Institute - AEI",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHFjNUVTeTFxay04c3JfZlpxM0NyNkZhRllCRDRMVEduVjVpc182ZE5BX1BJZDhPcWJScEl0SldUNW8tbXNac1VtQWhhaG5vYVFRNzVLZ1pBZXBMVHpoOS1ubVFhSk5MVDlmdGI1dGN3Z3FnanAxcVl2TlN3NkpKUUl5bkNibFhSd0ZIallYU2lGWHRJb3JyRnhoTFhUM3I1Wmc?oc=5",
-      "source": "American Enterprise Institute - AEI",
-      "published_iso": "2026-06-10T21:31:58Z"
+      "title": "Aliyev praises Trump, calls TRIPP contribution to regional peace - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc19lMks0OFJkZnMxWVhUMU5HS0E0eDlaVHBVaHZJVHhXY1VqMkFDX0EzZ3NwMlhERVI4TkxPdE9FQXFodnhOU20yemEwejRQemfSAVdBVV95cUxNc0ZZN3BkVXRhWGNRUEhhNllGNVktMW15UjZxTmNDMmRERzZzemgzY1hCVnEyOXVGYnB4UU5OSG5PVkVVT2dZVzNCbkpSVFZfYnY0ellvOEk?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-06-15T06:45:00Z"
     }
   ]
 }
