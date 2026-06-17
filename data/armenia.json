@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-06-16T15:52:29Z",
+  "updated_at": "2026-06-17T14:28:16Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Lavrov and Fidan discuss Armenia-Azerbaijan peace process - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Mb3REQS1xUC1nRVdvamVGdlNxbjFYM1UxSFNDZm1pUld4M0c0a0FKZlE5QmxxcGxXOE5CTVQxY0p3bE9KNFhidnNmUDBDOWhmR1HSAVdBVV95cUxQUDZYMFZtWDZQbnlReG0zbTJqMDJmOTlJNWh6Z1htWlIwNVp1U2pwNTl1Z0xERGVqVW13aU1Ddk1lZ3NyZkhEZWZOdC1kQzA3cEF0ZlBVT2s?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-06-16T14:55:00Z"
+      "title": "Azerbaijan leader, US congressman discuss TRIPP “corridor” - NEWS.am",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoR043eXJNWkRFT0piN283Y2x3TjZvVzRYTXJ0cEJiMkVjc284VlVxUEVyanlzUVNxRXdGX0czTWlvZzBUeGc?oc=5",
+      "source": "NEWS.am",
+      "published_iso": "2026-06-17T09:51:00Z"
+    },
+    {
+      "title": "Without a mediator in sight, Azerbaijan and Armenia walk into a new chapter - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jRmJYc0hQU3hRZm5vcWx6ZmJ1YjFoaDJPd3haYlhYaXczOFl2LVpmVllfYWRYME05RjNqbVB3QWk5U05mbmJiNVV6WndtQVR2ajA0cFg0TQ?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-06-17T04:30:00Z"
+    },
+    {
+      "title": "Azerbaijan, Armenia Hold Direct Talks as Peace Efforts Continue - Caspian News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ29UV2RLMXFDLXQtaEVZS0VoVHNIVjdWeUgzYkVXMmd6eWtWWnV3VjRGNXRJZ0NkOFBaRC16R2VWem16dzFzclBOOC1wSXc4OHJ3MHhsRkZVU2gzQ2xvWFdTYTI2anZZcndWaDYyWkxmRE0xWW02aVQ4c196UEpNem8yZzVRTlN2LWpyNjM3eG8zNEFhVGhEbmhEcF9jYkkyNTRublBaaU0yTUtITTF3eA?oc=5",
+      "source": "Caspian News",
+      "published_iso": "2026-06-16T21:53:19Z"
+    },
+    {
+      "title": "Azerbaijani Presidential Aide Hajiyev Visits Armenia in Historic First - The Armenian Mirror-Spectator",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnZXR20xWmd3TkpDbUVIWkFLSnpLTGpqeFd1aWpnX1c2NjB3QUNiRm9iZTB5OE1MV3FwRE96T1FRTnltUURsVmtvdjFpcmpodDBnWE5sMjBKeWljYjlIeW5mdEtoNmdpX0cxTHVZbzQ0MUNFWEpzVC1rMGIzcVhRb2dTalAzaTJUMjVOVVU0YXUxMEczb09CT21vdG1fcHFuQWlQYWlmcVRxQVBqTFVJ?oc=5",
+      "source": "The Armenian Mirror-Spectator",
+      "published_iso": "2026-06-16T16:44:37Z"
     },
     {
       "title": "Democracy hijacked: Armenia’s rigged parliamentary elections - The Armenian Weekly",
@@ -17,28 +35,10 @@
       "published_iso": "2026-06-16T14:46:32Z"
     },
     {
-      "title": "Armenian PM says peace deal with Azerbaijan already boosting economy - Caliber.Az",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjZJNTlFQUgxNXp4R0FmWmlPaEU4cDE0VVZ2amZBbzl0Z0Y5TVZZejJIQzdFa1k3N3p4eFVkY1ZwUU5ocnNreWVBQTh2VW9pc1Vvei1NQjRVcElKZnJBbmxGQ3UydGZQc3FxSVlTemZuTTl5SDUtYW9NRmRGeDRMUF9zSm12QVNPWDljbUFMS3ZZT2hyS0RfWEUwNA?oc=5",
-      "source": "Caliber.Az",
-      "published_iso": "2026-06-16T12:08:13Z"
-    },
-    {
-      "title": "Aliyev praises Trump peace efforts as Armenia faces parliament hurdle - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNejlzQmpLNi02WFFseG9oRGw0OWljY1ZKanNBYjNMTkp6X3VQWmdpaXY2NXpUV0duUFJWeUh5dWtEenBlX0dScE55elhHZFNRZmE5WmdzMHRuVDRDdmRDN0ZwVTQxczBKVGtGX2laWktHRGx3U3Z6VkY1VkRsWFpLX2twMkZIS2Z1TFlzeFJiblljQjdYQzFvcTBEOVZ4RE5aVjVXSE85ZjI?oc=5",
-      "source": "AnewZ",
-      "published_iso": "2026-06-16T09:38:00Z"
-    },
-    {
       "title": "Armenian Activist Explains Why Pashinyan Won and What Comes Next for Peace with Azerbaijan – EXCLUSIVE - Caspian Post",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNXJGNW85NEdndzA2R0RrMTA3MzBLa28xQnhlNEpOUHpDUU9SUUFRLW1VdzB5ak5CSDNWRzdva1dXYUx6ZXh2V3M4S2lDb3RoSHl0ZmJXeWF2dWJOT1lJbDloQVg4QWxjY1haaXdneUEzYklKa2VPZTl4SUJCVjlKT3NVV1FZdENGYm5PSjdqMDZ6WGZ1OS1BQ0QzUXppVU9GZDFubkRVbVMtNkw5VXpuU05Mdnp4WDYwVVZHU0NTQ2VQRV9STWMxdm44dURRUUU?oc=5",
       "source": "Caspian Post",
       "published_iso": "2026-06-16T07:28:24Z"
-    },
-    {
-      "title": "LIVE: Key morning headlines from Armenia, Azerbaijan and Georgia - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aZXgtUGdTTGRjLTRpeHhKSnZEQ0NxNFVjc3BteFh1R0VzallpWGxXYlJnaWo5TWtpY1hDdnNIdURtNndhNEdHa19TZWV5NktIVDRTa0tWanNnT21KWjEtaW9SMWtIbmJaczIyclF6VldjeDR3aU10dHJxNEo?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-06-16T03:39:53Z"
     }
   ]
 }
