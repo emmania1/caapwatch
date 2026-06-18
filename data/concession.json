@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-06-17T14:27:57Z",
+  "updated_at": "2026-06-18T14:09:57Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
-      {
-        "title": "Novela da concessão do Aeroporto de Viracopos está perto do capítulo final - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzNyS3JuSjB6Qk9yV2Ytd2pPSkVtMnViOXJuOEI0TGxLS1c5di0xVGNydU0xV0F4Szg3MzYxZHN1b3NBWnRnY0NoS0tTbEE1UWItZ3BIUXZicVgweXRYREpJRlg0Yk9Ja29pVml4R1Zyb2lvUzBGM2traWVObU5FallhSDFpY1FSYTNTck5CaFY5c2VSWnNvYkJkUjFIbERPWHBiQkRDcHlTMVo2bHFB?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-06-08T07:00:00Z"
-      },
       {
         "title": "Anac discute repactuação da concessão do Aeroporto de Brasília após crise financeira da Inframerica - Times Brasil | CNBC",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOUVpSTJsekdjaW9NWXJIOEFPd2RQUmpOeGQ1RjdLSkc3NkZWZ3poQ2Y5dk5oWE1EeV8xV2tXaXRONFVFamE3UEdjb3BhblBGaWE4ZVdoaVJZNFBudXUtV0dVNzRBOTNoYjhLb19SamdlYlhkbDM2NkhXOEpJNXlGSThyZFh2TU84cVdFcHdwTkNuSFRuUkloX19kNWFhMTZraFBiUEF5dmdsSkI5bjdsSmdYd3ZmUUh3c0tHQnJqNmR3NUNKSy1rb1lhNE4zb0E?oc=5",
@@ -34,9 +28,21 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVVzWjRybU0weGluU3FxMEJCNTVwTkpDZGtFRm9BZ0sySDh4OTNoOTRTOEFpRGEtXzBiLXdYeWtIcWR5Vjc3LUY5bUgxZC1DMWE1X3U5TVV5bnZ4VmxuYVZEamxubzAzX3RtRlRVeGNRVVgzQmNSV0lyWnRiZXBhR1V4UmtyaTgyM3RmLVJVaXFxZ0U0VmZzODlXVEpCLS16dDZaVHRNdC1KazhxQWRydnA1dnVWYlnSAbwBQVVfeXFMTkFkQjFKek1kbVIxV0lBM1dkamFCVkpDWnZlR2FWNUU1a0ZRdWtUVDBSNGVMdjVJbUlkTVdicTlSVjMyLTJGVTJGcmRwN0RWa2dhWWNoTV9mRXZRdmhRNEw5SDVrOFB4ZmF6WjJ1MGhtNUpZaldPdXZMSVpHdjNCWnY2UVpvMmREMWZnLThQTmhQV01uTkpqUDJiV2FzMXZQc0NIS3lzbDhybVpQRVlybGVlVEszdEZ6a3B2cmk?oc=5",
         "source": "InfoMoney",
         "published_iso": "2026-04-06T07:00:00Z"
+      },
+      {
+        "title": "Novo leilão do Aeroporto de Brasília avança em 2026 e Inframerica reage ao futuro da concessão - Mercado e Eventos",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQejNUanBBS25VcFpia0dRbExFRmIzcGpycXZ2d1pnMEhpMlEyY1d0ZG9zTms3NFNvaEJVdlFZdGhDSEZrdER5d2NzNVJNUDY3S2djM0xVMEpOUXU3Y0xxME9RVV9zMzc1cEFscnpFVzVDX0hkZ3Yyb05LX2llSjBLT2RRd04taVVOUjloME8wRVdPejM4V2xmRzE1ZFVzM2YtWEFDemN2clFfa0xJZE5wSWN6YklPOEJ1Z1Jia3YzUG8tLVBPUkl2WnYtRUR4cnowOXRVdkFn?oc=5",
+        "source": "Mercado e Eventos",
+        "published_iso": "2026-04-06T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Aeropuertos Argentina invierte u$s 500 millones y pone a Ezeiza en el centro del plan - El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUFRmcGNEd0JCdzRieUpxaWlyQlNVMWU0d2pkb2s2ZFF4RDF3UHhOQzZGNFp5WjZhcHl5ajMxV0ozNU5ON21MbzVlQkFwVUttZTRoeUNwcFhfVzJubVV3em45RnNJRUtES2F2bDFrX3BCZFJaTTNwVzdVM19sbjFIbTBlRmlTSl9ZZEh0azJROEl3RUp6Z0cyam4za0NlYXM1WGQ3cFA1OGxva1RDcjlHZF9EcnhEdFlvYW1GYm96aWRSUGozcnZYZzMxNnB0SFROQTJvb05n0gHWAUFVX3lxTE9QVGZwY0R3QkJ3NGJ5SnFpaXJCU1UxZTR3amRvazZkUXhEMXdQeE5DNkY0WnlaNmFweXlqMzFXSjM1Tk43bUxvNWVCQXBVS21lNGh5Q3BwWF9XMm5tVXd6bjlGc0lFS0RLYXZsMWtfcEJkUlpNM3BXN1UzX2xuMUhtMGVGaVNKX1lkSHRrMlE4SXdFSnpnRzJqbjNrQ2VhczVYZDdwUDU4bG9rVENyOUdkX0RyeER0WW9hbUZib3ppZFJQajNydlhnMzE2cHRIVE5BMm9vTmc?oc=5",
+        "source": "El Cronista",
+        "published_iso": "2026-06-17T22:00:00Z"
+      },
       {
         "title": "Cierre de Aeroparque: Aeropuertos Argentina anunció qué días no estará operativo - Mensajero Turístico",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT0taZ1l5TEt2ZXpPd2J3Tk4teENWa0tlbjlPQ1dsRlpHQ25xSlFzeTNTaDllMmZQWVEwbGN3QWRkN0hxLWw5cEtFUUtSTXNWaEhoVW15b1BnVXJZMVhwUGhybE96cXUwbVFCVTJZUFhUMXhIQ1RxUGthVnM2ZldaSmZGNXhXWEVKb1lIVm4yVk1zampvcmJwVzVJWWhoYWhrU2hBSVF3WG0tYU5RZGx6cGU5OVN3WVB0azczN09vRGZLaEM5ZXZNcmh1dElXeHN3bk54S2REaHZuUdIB6AFBVV95cUxQdl9TUEZOWllmRC1GT0VDVDZhcExQQTNRa2hkcnhJZFlJMXlnNHJWM2ZrZXJEVjBPUGdBdTg0X0ZrbGZHYzhXcWtpaFdwSXV3VFZUWU5qMkY2MXRKUG5UaDIxUTNFSXZ0d09tVTJZaTc4UmhGVU1lT3F2U3JfSi1mSGFvWTRXZGVaaUdJVDAwR3hXREVFLW83aUctSXRCZlMwS19nTVZZcHhkQmRFUzlIZXN3MHNCNFpnX3FwbGtNYTExeHpXNWFST0ZxMjdGdGhTVjZtYm1BdkFudGhOQ3RLTXVVWHVWTFBR?oc=5",
@@ -45,7 +51,7 @@
       },
       {
         "title": "Aeropuertos Argentina invertirá USD 85 millones en Aeroparque: las mejoras previstas y qué va a pasar con el cronograma de vuelos - Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTS00aTFxTHZhZ09HX19SN1lieC1EMUtoc3FQYkdTRGY1YTVnRGswcEc2RDl0elItX19ORjhpYnhKZjYtTHBiNDFPemhhX0RsbXMzUFctbkY0V0NpZGJCOF9JV2VxWDdhcGN3cW8tQTMyTjlRZ0ZnZnQ2dHlaWnFwNHl0WnVwSlotMHkzUXlQWDRmRnk4c0Jhemk2QjhhMDBNMWI4MkhlYmNmSGstZ2ZoN1JZc0RQSlNPSHNqN1RaMlBXMk5wMU9PTm1YbTVRRlRTbjNuZWxhT0ZvcExCNmlSZHN5SnlLLV9aNEVvcGpuUnZiSzdFQ1otdHZZaVlPMldvWDY00gGeAkFVX3lxTE5WU3ZGVjJGaEVYRDViQ0t3bTRoSlR2MHhqV2MwWGN1aHNVbE9zQnZ6eG5XOEx5N1Z5SUJrUER4RDBJQVR5T1NSNjM1Vmg5ZUc0SkFyeC1kVGFZalQ1VVg0MDhNZFcycmZzQVRVQTE5Z0RVX3V3MU9nUlRmeGlsMUJoS3NfR2NmTDh2V3otOUZSUm5DQXpEZGlfczdEd2ZXaFZvUHI1bjFLcDBPb3hvaGpGcFV4Vlo0aG5XeE0tMDJBbzVYUXoxeHVnazg3OTc4TmIydTdIa0FCby1kbEY5X0tKbWtKXzNNNXhsS3hDbHdGbnpORnR3S3R4SnpubGFzZFNid3dYbVNONmFPSGNSY09mQmQ3YW1JTVNCREJyc0E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTS00aTFxTHZhZ09HX19SN1lieC1EMUtoc3FQYkdTRGY1YTVnRGswcEc2RDl0elItX19ORjhpYnhKZjYtTHBiNDFPemhhX0RsbXMzUFctbkY0V0NpZGJCOF9JV2VxWDdhcGN3cW8tQTMyTjlRZ0ZnZnQ2dHlaWnFwNHl0WnVwSlotMHkzUXlQWDRmRnk4c0Jhemk2QjhhMDBNMWI4MkhlYmNmSGstZ2ZoN1JZc0RQSlNPSHNqN1RaMlBXMk5wMU9PTm1YbTVRRlRTbjNuZWxhT0ZvcExCNmlSZHN5SnlLLV9aNEVvcGpuUnZiSzdFQ1otdHZZaVlPMldvWDY0?oc=5",
         "source": "Infobae",
         "published_iso": "2026-06-05T07:00:00Z"
       },
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaW1hMDMyeUxRX2FBdmJUbHp6c05jT3dGZDFQUTlnMUprU0FLb0t2YzhBVFQ3M0c3YlRMd09DX01SZUpKUXE1eDBKVnNDdENzOTJVelA5cXFZWlVoUXZCRjEwV2tweHNZdl85ajhyZmhjbUloeFJWcjFBbVc2aHlmaEw4V3V6WExNaTdnWi1TV1p3T2lncWdFYkE0ZTl2dFZhSzNuSTNIdlE2a1MtREZ0Z25sZG9wRGt6c1p6ZGxEd1MzZjZ1Ti12UkdZZUF2eGRaSEdKRDlMNVJBTUhzQ0doQg?oc=5",
         "source": "Hecho en Quilmes",
         "published_iso": "2026-06-03T21:44:32Z"
-      },
-      {
-        "title": "Aeropuertos Argentina ofrece hasta 75 % off en el parking - Mensajero Turístico",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWl5dkRISE9oYkl5Q3AwSGxiVEs5ZUQxMDh4YjhheV80VmVZampuZ0hyd29kTWpUWWFITW9VRnRwamVXcEVUUFd2Rm1WYUhvcF93eTVoaTJuTlJOMHhmWklHZkpfMnFpdW9OVERvUFZQeHFWSVNEd19xY2ZaaU5PUy1ZZXRSSjZoU1dnQXZYMUFVLVJqbWJrX3B6dFFzeEFpZkN5dkJsZzZFSC13VjNPb25DeGh0ZTB0RDVrQdIBywFBVV95cUxPU3dtamk5NUxRb1htTDMtanNWY3NVU0o2MUtBOHJTQUNpdEdhNC1mOVNBc08tVktqZFlLXzY3VEk1TEJoQldWdE5fZXZMbjgxYUlQWi1FeXlKUkhReVZjZS1MU1Z4OUhXcmkxSk00TVRXUlItTXRHZkIyU2V2SEJLVGdhOGd2Zk9neUNTU2lUbklLWTVKYVh3NFctYk5wZTVpU0tSWXVWd0FwanVYczlrSDl0dWZqTnNDQWJQTHlucnJoRkFBWXZBX1ZIWQ?oc=5",
-        "source": "Mensajero Turístico",
-        "published_iso": "2026-06-03T19:20:33Z"
       }
     ]
   }
