@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-06-18T14:10:17Z",
+  "updated_at": "2026-06-19T14:13:07Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Pashinyan says Hajiyev's Armenia visit helped preserve momentum in peace process - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVQUJWTENsLXpGT2g0T3lzOEJZanQwZHlRYU1PUzRJRnZJT0xqSWNiYTg0NnVkYlRMcDdMcHgzM05uUFR2dEdMT0FmTFo5UnZfQnZnUHBzYw?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-06-19T08:04:00Z"
+    },
+    {
+      "title": "The South Caucasus is closer to peace, but the momentum must be protected - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEFVTVNwVEhQMkY1dHJjNy1NZXRaVktYNFJPNWhPQUhONmJwaEN1R0tacUNibmt6RGM4YlB6aUJGbW5CNl9rYVpXdmJpYnpXU2pCaDlIWDlWYno2eG0zUFRab0xubGs1MTFKSnNSZkJBaXZPUHo1cmJNazc4Z1FsWTZ4Sk1EYlNjS1B1Zk9NR0xQbEtMTm1n?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-06-19T07:35:38Z"
+    },
+    {
+      "title": "'Managing threat of war': Pashinyan on Grigoryan-Hajiyev meeting - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wN0tqak5iYURlWk5JMi1nd1NTMTFPVUIxRTZ3Rm14Uld1T2tLb09NNWpKb2ZZLTdUbXNGWmFGem5vcF9FekFhc3VaUFpXUHByRUtFRHFJTkdONjhpVF9GbzhmalZ1X1U2VVE?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-06-18T18:36:14Z"
+    },
+    {
+      "title": "Armenia's 2026 Election: Between Geopolitical Rivalry, Domestic Fear, and the Search for an Armenian Strategy - Asbarez",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3llbjJFOGhERThpRHJ3UUJlSWdPd21PNGJ2Y3A5eVMzSHVRTzQ0eDdfMjJhOU9IaXJ6LXI5QmpBcXIwY3puc1NSdUpPeTdsNnpBaVhLSXdlWVBwend0NTZ4NHFjaXMwSUFsalFkQ3NtQ3NnWjRyY1ZxZWcxclY1NVJmMTk0c3RHTXQ3aEpzRlUyWkh0d3BoQWhuemJZbzcxenhZUHB4RjJlQ09YZ2V2b0ZKZTl1aXJ1SnYxLTNncUFlTm8x?oc=5",
+      "source": "Asbarez",
+      "published_iso": "2026-06-18T17:35:47Z"
+    },
     {
       "title": "Bahçeli’s ‘Turan Corridor’ reveals pan-Turkic ambitions behind Zangezur and TRIPP - The Armenian Weekly",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1p2U01JWVlnTEwycmZocDh2R2VlTElXd2xMU1gtNEZPVWtBYjRSejN4OXJwSzNrZnBrQkdQS0wyazZnTXQxWUZ6M2NacGgwbE85dnQtSFVrY2tJZU1iQzFqd1RyaW5fckFKZnhfZmhKdVNkWDFWV1RXUjRHMGZEOVBkVl92aU9LUlVKVk1Fa0JFUGtTbUZwOVRPQlZGWHhrbEJkN2lKdkZfWHBkclp4UUkwYnplbkxn?oc=5",
@@ -15,30 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlpPdGtrMVFIUDRuNDhZUHB3WkktVy1LdEFsNHc1WmUxUE4wRHJQRXRfa2EyWUZocktpeTQ4aHd6WVc2QVNmM2ljMVB1OUgzUkgwM3RJQll2d3J2WFFHMkNTTTRBU0o0UWNnZVQzRG56N0kwdWlCOTR1UDFhNmhUWk9GUXFHTTVTSUtPS1FyVE52UnRrNjBMMlY4eWhMVGFyODhXemxSQTRoTGlyNHY4Mkx0NA?oc=5",
       "source": "The National Interest",
       "published_iso": "2026-06-18T12:04:21Z"
-    },
-    {
-      "title": "From TMTM to the Zangezur Corridor, all roads lead through Azerbaijan - Today.Az",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KUFI5OFBzT0lqTlpSWnFEaVZ4Q3Z4Y2lROXRscXNmNTFwVlVhT0Q0dG9HaTBkVm9lalBxdTYxLVVCOVNqbTNGcEZHOGJhTFVxUlR4MQ?oc=5",
-      "source": "Today.Az",
-      "published_iso": "2026-06-18T10:13:28Z"
-    },
-    {
-      "title": "Armenia After the Election: Diversification Without Decoupling from Russia - International Centre for Defence and Security",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVmJVSWdRUGpLaHF1MlV0UFBxTEJXc0dyYVU3d0M4R2YxY2MzZ25MU0VZbTUwWFVBam5nSlZkd0xGWHBoVXFZTjhITGJrWU9oVzZaYjBVU0ZGR3V3UGp3d1pKUkE1d2h6dzNqNGdZUTQ4S2x3Vy03UmViSHdUTzRjakRhUVg4SDBfU0FYT09CbllFaTlNb2Rvdw?oc=5",
-      "source": "International Centre for Defence and Security",
-      "published_iso": "2026-06-18T08:49:24Z"
-    },
-    {
-      "title": "Pashinyan Wins Again — But Armenia’s Real Test Starts Now - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMFpRTFM2bmQ0UGxON3Z5dGhuTHNTVF9Td3YyVWRWLVlEOHVkamMzVTNUbXVNNEhfYWlfcEdxd3ZuczQ2WUJ6bUNPWF9MQlJvUTRLLUo0aUhmQU93bkV2MW9IUml4TTQtR1RGSWY3QjZDeFd4blBHTHE2eDhMb0wyNGc1V1Jacm03MEN2U0tCRHVSbGM?oc=5",
-      "source": "Caspian Post",
-      "published_iso": "2026-06-18T07:52:29Z"
-    },
-    {
-      "title": "Former Armenian President Kocharyan’s parliamentary immunity revoked - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUJMMlVOYjVxQktEZUhCMlhCQS1KamRJdVpLSkJFWlhrUWVEdmF6YXJoNDBXUUpmMENzNERPOGNudk13UkUyNWZldGxOWnQxSGUxVjNyYTVJRzNqdGkyQ25PZDhubnJ6eUx4TUoyenMwOWRTNHRkWmJrckpud1dlSk13WUhONE11enhHQ2VEUEFUcEE?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-06-18T07:07:14Z"
     }
   ]
 }
