@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T15:50:45Z",
+  "updated_at": "2026-06-23T13:43:21Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -18,25 +18,31 @@
         "published_iso": "2026-06-18T22:45:50Z"
       },
       {
+        "title": "Novela da concessão do Aeroporto de Viracopos está perto do capítulo final - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzNyS3JuSjB6Qk9yV2Ytd2pPSkVtMnViOXJuOEI0TGxLS1c5di0xVGNydU0xV0F4Szg3MzYxZHN1b3NBWnRnY0NoS0tTbEE1UWItZ3BIUXZicVgweXRYREpJRlg0Yk9Ja29pVml4R1Zyb2lvUzBGM2traWVObU5FallhSDFpY1FSYTNTck5CaFY5c2VSWnNvYkJkUjFIbERPWHBiQkRDcHlTMVo2bHFB?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-06-08T07:00:00Z"
+      },
+      {
         "title": "Anac discute repactuação da concessão do Aeroporto de Brasília após crise financeira da Inframerica - Times Brasil | CNBC",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOUVpSTJsekdjaW9NWXJIOEFPd2RQUmpOeGQ1RjdLSkc3NkZWZ3poQ2Y5dk5oWE1EeV8xV2tXaXRONFVFamE3UEdjb3BhblBGaWE4ZVdoaVJZNFBudXUtV0dVNzRBOTNoYjhLb19SamdlYlhkbDM2NkhXOEpJNXlGSThyZFh2TU84cVdFcHdwTkNuSFRuUkloX19kNWFhMTZraFBiUEF5dmdsSkI5bjdsSmdYd3ZmUUh3c0tHQnJqNmR3NUNKSy1rb1lhNE4zb0E?oc=5",
         "source": "Times Brasil | CNBC",
         "published_iso": "2026-05-25T07:00:00Z"
       },
       {
-        "title": "Mercado vê com receio condições para concessão do Aeroporto de Brasília - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2kxaFRJNWo0d25mYUhYdGt4LU9ydnA2eWlnVW5VMHg0eG5sbl9wOHJqWHV1TC0xX0ZNd0g3Q0hwT1ZZV0RxbDBCTDQtdTQ4a0c3OXhLOUFZVXY1S2lDcF8zaVhYVnROVXJ3Zld3OFNvNDBBci1rcEx3dlF2aGtBR3NhSEdxb3A4bDBDdWxkNnJLdXZXTUMyZmdVbTJFbzk5SDdCT09vc2dzeFU?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-05-18T07:00:00Z"
-      },
-      {
-        "title": "Atual concessionária participará de novo leilão do aeroporto de Brasília - Folha de S.Paulo",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMWUxa2hfLVZWMWtvY01Ub1FKTTg3NHktM1NHTlBmYzNadlNDeDB1dlBHdXdrb3BjTnREcVU2UHpCSEVlYUxzQVdmcWJvUFVBNm5BMGE3bHpabndyQm51QmxHYVRXM3VjcVhfWVF4RkN6Z2ZQZkZOTnk1SlNrYllEb1lkZVRYM01YLUhEM0lDOWJWSndRQ3BrWUVYYkhCang1aTVUcG5ueUdqa25ZZ0haamVyemRnbFNUQk5DZW8wTWZCQQ?oc=5",
-        "source": "Folha de S.Paulo",
-        "published_iso": "2026-04-07T07:00:00Z"
+        "title": "Teste de mercado do aeroporto de Brasília deve ocorrer em dezembro - Agência iNFRA",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2tUR2xZdElZcS0xS042cTl6c3BIZTFuMXEtWUctbHJ3VEpySWtNRGpXLTlTRHNkZlM2OXhTSHhxaFFLYmlOaG05bnBCMjFEMjB1OVNqMVhDUU1fRVhzZnhvc2JMTXNaTU13T3BLLTg1QThkN2plMWsyRjhDSHFBMXhBQmRyYkVxTERJODBzcVVkRUxaM01GaVY5eXNJUQ?oc=5",
+        "source": "Agência iNFRA",
+        "published_iso": "2026-05-19T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
+        "source": "Perfil",
+        "published_iso": "2026-06-20T07:00:00Z"
+      },
       {
         "title": "Aeropuertos Argentina invierte u$s 500 millones y pone a Ezeiza en el centro del plan - El Cronista",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEtPNEdPUW9Pa09QRHdoS1p1SGhaOFNLWU1QSTRtTTlDZERCQlhuR21EbVpPYnloNmtjTUd5VlMwQkZERWZqWHNGN0k5R0F3MFlCUVhDYmpJdzZidDBQQVRBLTdUNGpCUWV2WmExcERNUUxwMlN0Nmd2TmlORUhlcng4cWVoc0k3MmlGYkJRTXZUbXFVWUcxM2lhRmY5WlJXOGQzZ3pPM09tY1hOdmRzVHR2eFY4V21raG930gHWAUFVX3lxTE9QVGZwY0R3QkJ3NGJ5SnFpaXJCU1UxZTR3amRvazZkUXhEMXdQeE5DNkY0WnlaNmFweXlqMzFXSjM1Tk43bUxvNWVCQXBVS21lNGh5Q3BwWF9XMm5tVXd6bjlGc0lFS0RLYXZsMWtfcEJkUlpNM3BXN1UzX2xuMUhtMGVGaVNKX1lkSHRrMlE4SXdFSnpnRzJqbjNrQ2VhczVYZDdwUDU4bG9rVENyOUdkX0RyeER0WW9hbUZib3ppZFJQajNydlhnMzE2cHRIVE5BMm9vTmc?oc=5",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT0taZ1l5TEt2ZXpPd2J3Tk4teENWa0tlbjlPQ1dsRlpHQ25xSlFzeTNTaDllMmZQWVEwbGN3QWRkN0hxLWw5cEtFUUtSTXNWaEhoVW15b1BnVXJZMVhwUGhybE96cXUwbVFCVTJZUFhUMXhIQ1RxUGthVnM2ZldaSmZGNXhXWEVKb1lIVm4yVk1zampvcmJwVzVJWWhoYWhrU2hBSVF3WG0tYU5RZGx6cGU5OVN3WVB0azczN09vRGZLaEM5ZXZNcmh1dElXeHN3bk54S2REaHZuUdIB6AFBVV95cUxQdl9TUEZOWllmRC1GT0VDVDZhcExQQTNRa2hkcnhJZFlJMXlnNHJWM2ZrZXJEVjBPUGdBdTg0X0ZrbGZHYzhXcWtpaFdwSXV3VFZUWU5qMkY2MXRKUG5UaDIxUTNFSXZ0d09tVTJZaTc4UmhGVU1lT3F2U3JfSi1mSGFvWTRXZGVaaUdJVDAwR3hXREVFLW83aUctSXRCZlMwS19nTVZZcHhkQmRFUzlIZXN3MHNCNFpnX3FwbGtNYTExeHpXNWFST0ZxMjdGdGhTVjZtYm1BdkFudGhOQ3RLTXVVWHVWTFBR?oc=5",
         "source": "Mensajero Turístico",
         "published_iso": "2026-06-05T07:00:00Z"
-      },
-      {
-        "title": "Aeropuertos Argentina ofrece hasta 75 % off en el parking - Mensajero Turístico",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWl5dkRISE9oYkl5Q3AwSGxiVEs5ZUQxMDh4YjhheV80VmVZampuZ0hyd29kTWpUWWFITW9VRnRwamVXcEVUUFd2Rm1WYUhvcF93eTVoaTJuTlJOMHhmWklHZkpfMnFpdW9OVERvUFZQeHFWSVNEd19xY2ZaaU5PUy1ZZXRSSjZoU1dnQXZYMUFVLVJqbWJrX3B6dFFzeEFpZkN5dkJsZzZFSC13VjNPb25DeGh0ZTB0RDVrQdIBywFBVV95cUxPU3dtamk5NUxRb1htTDMtanNWY3NVU0o2MUtBOHJTQUNpdEdhNC1mOVNBc08tVktqZFlLXzY3VEk1TEJoQldWdE5fZXZMbjgxYUlQWi1FeXlKUkhReVZjZS1MU1Z4OUhXcmkxSk00TVRXUlItTXRHZkIyU2V2SEJLVGdhOGd2Zk9neUNTU2lUbklLWTVKYVh3NFctYk5wZTVpU0tSWXVWd0FwanVYczlrSDl0dWZqTnNDQWJQTHlucnJoRkFBWXZBX1ZIWQ?oc=5",
-        "source": "Mensajero Turístico",
-        "published_iso": "2026-06-03T19:20:33Z"
       }
     ]
   }
