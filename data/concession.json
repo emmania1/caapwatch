@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T13:14:31Z",
+  "updated_at": "2026-06-26T13:10:05Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -18,25 +18,31 @@
         "published_iso": "2026-06-24T20:57:00Z"
       },
       {
-        "title": "Anac abre consulta pública para concessão do Aeroporto de Dourados à inciativa privada - tanamidianavirai.com.br",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WTTlMTWNVNjloWllVWTctX3BwZ3lnMzg2UHRPQmlxVjdTRDE0UDhPS0VPeHE2OUtWODhyYkgzZEl3UjFkVEFfTnhfVXRydFdDZ1hHSTVBTktIckVKNTdJVkFR?oc=5",
-        "source": "tanamidianavirai.com.br",
-        "published_iso": "2026-06-24T13:05:41Z"
-      },
-      {
         "title": "Concessão do Aeroporto de Dourados avança e Anac abre consulta pública para receber sugestões - RCN 67",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0lPUnJNMnlhWWRUQ280Q2pCRGU0dV9wVk93SVJrR0FMckJzUUpFdTNROE9POFRTRXNhOXo4S2s2OHVnY0NHeGx3ZUptZnpicmVwdFlXTVE2YkZzd092emlqNThDU01TcHFBejFpelZWcFBMY2dYckpyMXpyaG5MLUJRejRUaWlucDhNbWJqTXR5aFBOUVNsRjdtdEprbHdDd0lsVGsxS0thdXZOVE5sWEVKRU9keXdoN2JkVHZabzJQTVk?oc=5",
         "source": "RCN 67",
         "published_iso": "2026-06-24T11:07:59Z"
       },
       {
-        "title": "Edital de repactuação do Aeroporto Internacional de Brasília (DF) entra em consulta pública - Tribuna do Agreste",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc0I4U3M4eFc2em9Ca0ZOd3VEOVVqTmw4Zm5UWFc0b2h0RzJnZlcwR0oyVGdabTNMNHVRclR3OGZnd1k3ZkVSd2QwVkJTcGg0RzRjVHJlNDRTMms5SEUya0xMTzVfV2N2ZU9sbGJCOHFsWW9zczVQZkVLSS1vRmM4c3BldjJTdThabXlOUkhBVkNscTVaNTlDckNfRF9OeU5ta0hYa010endrTDRhdEJqTHdCb0hvaHo5ODdLUGVpQktKQm5hNnBqeFYwOXdFcGZ1NkkyZmpPaFIxWjRfZkRkaHNDdw?oc=5",
-        "source": "Tribuna do Agreste",
+        "title": "Edital de repactuação do Aeroporto Internacional de Brasília (DF) entra em consulta pública - Tribuna do Sertão",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTHhlZXNFdWs3UmdMVUpKMHBsUXNXSkdrcHdEY1ZXTTgyZ2E2STRJVnptWFFCQTh6VDg1Ny0zbjBEWjJKLWR3S3hfRnczWWF2N0xOY0hGdno3N2s3WTlPbmhMVkd1cFRuSGlkWGtCdzd2MUV3X04tWEtucHZOWE9udVREcF94UGlIV19qcmstVVg1SUVJVklsZ1plbkJwenhPbTF3cVdxcGJYZG92YzhmQWRQMlg5UmlPQ0gwRFd5TEhHOHN4TWQyaVZKRklUYURMZXJId1RBVDMyOThLalgyMVdR?oc=5",
+        "source": "Tribuna do Sertão",
         "published_iso": "2026-06-23T23:40:00Z"
+      },
+      {
+        "title": "Anac abre consulta pública para repactuação do aeroporto de Brasília - Campo Grande News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUW5SeG9uQ0dLcldDYlo4NHlvNDJRSy1NYzdwRVpvckFtX1h3NVlXM1JXLVdtVDVsZnozUXUyZWRvUUpvcHlwejhadFVPSlRzdmoxdi1GS3dLVVNXcGtvYUdwdkptNFRDQjFZVThOTGVaaE9EV1hwWGdlYWRoNVlkbzBvUkxCSzF0cFNOekR4RlR6bXM3dFdNdFJtYWxqR1pmcmJjbG1NM0k5MmRCNTBn0gGvAUFVX3lxTE9KX0t4djJHemdZSEljZHE1UmNpZnhkVVRWU3pCX0k0SGlUdEJIbXVPazAzaEVmV3p2Zk51U1dNeDhmRlNZTXFrY2RwRkk2RER1SmlhcEZEN1R1MGQ4VU5zV2VsbHNxLUx0ckw4V2U1Ty0zTHRSQ1hYNFFwVFR4ZmIzaWw2NGRTTHFrVUlBSU03U3VDZDFxSGtrZFNYUTVPUWRaM3E5MWdpb2lzMDdLTUU?oc=5",
+        "source": "Campo Grande News",
+        "published_iso": "2026-06-23T21:40:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "El gobierno de Milei pactó con los Eurnekian prorrogar la concesión de aeropuertos hasta 2056, pero ahora renegocian - elDiarioAR.com",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Z9IB2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Zw?oc=5",
+        "source": "elDiarioAR.com",
+        "published_iso": "2026-06-26T09:02:44Z"
+      },
       {
         "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
@@ -44,10 +50,10 @@
         "published_iso": "2026-06-20T07:00:00Z"
       },
       {
-        "title": "Aeropuertos Argentina invertirá USD 85 millones en Aeroparque: las mejoras previstas y qué va a pasar con el cronograma de vuelos - Infobae",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTS00aTFxTHZhZ09HX19SN1lieC1EMUtoc3FQYkdTRGY1YTVnRGswcEc2RDl0elItX19ORjhpYnhKZjYtTHBiNDFPemhhX0RsbXMzUFctbkY0V0NpZGJCOF9JV2VxWDdhcGN3cW8tQTMyTjlRZ0ZnZnQ2dHlaWnFwNHl0WnVwSlotMHkzUXlQWDRmRnk4c0Jhemk2QjhhMDBNMWI4MkhlYmNmSGstZ2ZoN1JZc0RQSlNPSHNqN1RaMlBXMk5wMU9PTm1YbTVRRlRTbjNuZWxhT0ZvcExCNmlSZHN5SnlLLV9aNEVvcGpuUnZiSzdFQ1otdHZZaVlPMldvWDY00gGeAkFVX3lxTE5WU3ZGVjJGaEVYRDViQ0t3bTRoSlR2MHhqV2MwWGN1aHNVbE9zQnZ6eG5XOEx5N1Z5SUJrUER4RDBJQVR5T1NSNjM1Vmg5ZUc0SkFyeC1kVGFZalQ1VVg0MDhNZFcycmZzQVRVQTE5Z0RVX3V3MU9nUlRmeGlsMUJoS3NfR2NmTDh2V3otOUZSUm5DQXpEZGlfczdEd2ZXaFZvUHI1bjFLcDBPb3hvaGpGcFV4Vlo0aG5XeE0tMDJBbzVYUXoxeHVnazg3OTc4TmIydTdIa0FCby1kbEY5X0tKbWtKXzNNNXhsS3hDbHdGbnpORnR3S3R4SnpubGFzZFNid3dYbVNONmFPSGNSY09mQmQ3YW1JTVNCREJyc0E?oc=5",
-        "source": "Infobae",
-        "published_iso": "2026-06-05T07:00:00Z"
+        "title": "Aeropuertos Argentina invierte u$s 500 millones y pone a Ezeiza en el centro del plan - El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEtPNEdPUW9Pa09QRHdoS1p1SGhaOFNLWU1QSTRtTTlDZERCQlhuR21EbVpPYnloNmtjTUd5VlMwQkZERWZqWHNGN0k5R0F3MFlCUVhDYmpJdzZidDBQQVRBLTdUNGpCUWV2WmExcERNUUxwMlN0Nmd2TmlORUhlcng4cWVoc0k3MmlGYkJRTXZUbXFVWUcxM2lhRmY5WlJXOGQzZ3pPM09tY1hOdmRzVHR2eFY4V21raG930gHWAUFVX3lxTE9QVGZwY0R3QkJ3NGJ5SnFpaXJCU1UxZTR3amRvazZkUXhEMXdQeE5DNkY0WnlaNmFweXlqMzFXSjM1Tk43bUxvNWVCQXBVS21lNGh5Q3BwWF9XMm5tVXd6bjlGc0lFS0RLYXZsMWtfcEJkUlpNM3BXN1UzX2xuMUhtMGVGaVNKX1lkSHRrMlE4SXdFSnpnRzJqbjNrQ2VhczVYZDdwUDU4bG9rVENyOUdkX0RyeER0WW9hbUZib3ppZFJQajNydlhnMzE2cHRIVE5BMm9vTmc?oc=5",
+        "source": "El Cronista",
+        "published_iso": "2026-06-17T07:00:00Z"
       },
       {
         "title": "Con una inversión de u$s85 millones, Aeropuertos Argentina avanza en un plan de obras para renovar Aeroparque - Ambito",
@@ -56,16 +62,10 @@
         "published_iso": "2026-06-05T07:00:00Z"
       },
       {
-        "title": "Aeropuertos Argentina ofrece hasta 75 % off en el parking - Mensajero Turístico",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWl5dkRISE9oYkl5Q3AwSGxiVEs5ZUQxMDh4YjhheV80VmVZampuZ0hyd29kTWpUWWFITW9VRnRwamVXcEVUUFd2Rm1WYUhvcF93eTVoaTJuTlJOMHhmWklHZkpfMnFpdW9OVERvUFZQeHFWSVNEd19xY2ZaaU5PUy1ZZXRSSjZoU1dnQXZYMUFVLVJqbWJrX3B6dFFzeEFpZkN5dkJsZzZFSC13VjNPb25DeGh0ZTB0RDVrQdIBywFBVV95cUxPU3dtamk5NUxRb1htTDMtanNWY3NVU0o2MUtBOHJTQUNpdEdhNC1mOVNBc08tVktqZFlLXzY3VEk1TEJoQldWdE5fZXZMbjgxYUlQWi1FeXlKUkhReVZjZS1MU1Z4OUhXcmkxSk00TVRXUlItTXRHZkIyU2V2SEJLVGdhOGd2Zk9neUNTU2lUbklLWTVKYVh3NFctYk5wZTVpU0tSWXVWd0FwanVYczlrSDl0dWZqTnNDQWJQTHlucnJoRkFBWXZBX1ZIWQ?oc=5",
-        "source": "Mensajero Turístico",
-        "published_iso": "2026-06-03T19:20:33Z"
-      },
-      {
-        "title": "Don Facundo. El ex titular del ORSNA que debió anunciar las obras en Ezeiza quedo detenido. Se le secuestraron 2.5 millones de USD, drogas y equipos electrónicos - Aviación en Argentina",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPZXdWQkhVUV9tZ2dnS3VfZzRPR1ktSWtXT3Fpa2VlbFFoR1I2VHRFNjRlRHl3eUJkSmRheHNRZnRYQlNNWGliRTNKV3FNbjllbG5kcklscEhSdzRKWWg4N3phSTkyQ2d5WF85OHl0TC10Z1BndmxuZmY1ZnNGRjRieU1pWExjYjN5WERHRFIwVzFQamJBUUZ1X1FvMDRhRE9xSXlNc25abVNnZVR3RlVnSVBxRHpEZGFOcmQ1NmgwSlpMN3ZmNzl6clVOTVZFUnktWThYRWFyZG1IT1JWZmp0dl9McnBIeDY4Z3BwancwaFlySFNrZXFLd28xOWE1MUx2ZUNnUjRHajZLZXlHS0huaG04TUZVMmdMeWs0cW9B?oc=5",
-        "source": "Aviación en Argentina",
-        "published_iso": "2026-05-31T07:00:00Z"
+        "title": "Aeropuertos Argentina invertirá USD 85 millones en Aeroparque: las mejoras previstas y qué va a pasar con el cronograma de vuelos - Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTS00aTFxTHZhZ09HX19SN1lieC1EMUtoc3FQYkdTRGY1YTVnRGswcEc2RDl0elItX19ORjhpYnhKZjYtTHBiNDFPemhhX0RsbXMzUFctbkY0V0NpZGJCOF9JV2VxWDdhcGN3cW8tQTMyTjlRZ0ZnZnQ2dHlaWnFwNHl0WnVwSlotMHkzUXlQWDRmRnk4c0Jhemk2QjhhMDBNMWI4MkhlYmNmSGstZ2ZoN1JZc0RQSlNPSHNqN1RaMlBXMk5wMU9PTm1YbTVRRlRTbjNuZWxhT0ZvcExCNmlSZHN5SnlLLV9aNEVvcGpuUnZiSzdFQ1otdHZZaVlPMldvWDY00gGeAkFVX3lxTE5WU3ZGVjJGaEVYRDViQ0t3bTRoSlR2MHhqV2MwWGN1aHNVbE9zQnZ6eG5XOEx5N1Z5SUJrUER4RDBJQVR5T1NSNjM1Vmg5ZUc0SkFyeC1kVGFZalQ1VVg0MDhNZFcycmZzQVRVQTE5Z0RVX3V3MU9nUlRmeGlsMUJoS3NfR2NmTDh2V3otOUZSUm5DQXpEZGlfczdEd2ZXaFZvUHI1bjFLcDBPb3hvaGpGcFV4Vlo0aG5XeE0tMDJBbzVYUXoxeHVnazg3OTc4TmIydTdIa0FCby1kbEY5X0tKbWtKXzNNNXhsS3hDbHdGbnpORnR3S3R4SnpubGFzZFNid3dYbVNONmFPSGNSY09mQmQ3YW1JTVNCREJyc0E?oc=5",
+        "source": "Infobae",
+        "published_iso": "2026-06-05T07:00:00Z"
       }
     ]
   }
