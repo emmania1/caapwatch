@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-06-26T13:10:05Z",
+  "updated_at": "2026-06-27T12:08:25Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Anac inicia consulta pública para repactuação da concessão do Aeroporto Internacional de Brasília - Brasília in Foco",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVJFb3dsM1J3ZnNSYWs0YmtTWlNWc2VsSFFQZ19DVTQ4OF9RLTNoaV80MU9HcWI3b2JIZngyU0I1bjdTdEN0eEJtRzZLZncxVVVTLWlCaHF6WFdZVWxkUXNkdlFyRWswMGROVnNZYWRGckNndi1SOVFQQmZqS0JhQmRNRjh2UUhlRzBZdmx4a3Ntc1lnZ3ZpSTVQekxkeU53a09vR3VLcUVJUTZFVjdsTWx0V00wRGppaG1UNGJNWG1MQzQ?oc=5",
+        "source": "Brasília in Foco",
+        "published_iso": "2026-06-27T10:26:26Z"
+      },
       {
         "title": "Venda de participação da Infraero na concessão do Aeroporto de Brasília é determinada por edital - blogdosilvalima.com.br",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSzBTTzRGVWMtYXA5ZUp1VnF0cmg0QlJHNWpDaUd0Mzd0b1ZZSGVobVR2S19NY2dCbktmVEgwMDJGTU1nNENhMU5BQnZNUExQWTVEMG9jSkk1ZjFMSnF0ek1tbWNBTHh6ZmQ3OEs5ckw0eWRWMkZVLUxOQThQekhSX1RPNmoyZ211OHRMTnRXeDVuczNtVWM5R1lyeExZbXdJNnRUanFOU1lHTFpMRkUzM2hyaUtIWFlWdFc1SDRJU0dGSmZuU01r?oc=5",
@@ -28,18 +34,12 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTHhlZXNFdWs3UmdMVUpKMHBsUXNXSkdrcHdEY1ZXTTgyZ2E2STRJVnptWFFCQTh6VDg1Ny0zbjBEWjJKLWR3S3hfRnczWWF2N0xOY0hGdno3N2s3WTlPbmhMVkd1cFRuSGlkWGtCdzd2MUV3X04tWEtucHZOWE9udVREcF94UGlIV19qcmstVVg1SUVJVklsZ1plbkJwenhPbTF3cVdxcGJYZG92YzhmQWRQMlg5UmlPQ0gwRFd5TEhHOHN4TWQyaVZKRklUYURMZXJId1RBVDMyOThLalgyMVdR?oc=5",
         "source": "Tribuna do Sertão",
         "published_iso": "2026-06-23T23:40:00Z"
-      },
-      {
-        "title": "Anac abre consulta pública para repactuação do aeroporto de Brasília - Campo Grande News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUW5SeG9uQ0dLcldDYlo4NHlvNDJRSy1NYzdwRVpvckFtX1h3NVlXM1JXLVdtVDVsZnozUXUyZWRvUUpvcHlwejhadFVPSlRzdmoxdi1GS3dLVVNXcGtvYUdwdkptNFRDQjFZVThOTGVaaE9EV1hwWGdlYWRoNVlkbzBvUkxCSzF0cFNOekR4RlR6bXM3dFdNdFJtYWxqR1pmcmJjbG1NM0k5MmRCNTBn0gGvAUFVX3lxTE9KX0t4djJHemdZSEljZHE1UmNpZnhkVVRWU3pCX0k0SGlUdEJIbXVPazAzaEVmV3p2Zk51U1dNeDhmRlNZTXFrY2RwRkk2RER1SmlhcEZEN1R1MGQ4VU5zV2VsbHNxLUx0ckw4V2U1Ty0zTHRSQ1hYNFFwVFR4ZmIzaWw2NGRTTHFrVUlBSU03U3VDZDFxSGtrZFNYUTVPUWRaM3E5MWdpb2lzMDdLTUU?oc=5",
-        "source": "Campo Grande News",
-        "published_iso": "2026-06-23T21:40:00Z"
       }
     ],
     "aa2000": [
       {
         "title": "El gobierno de Milei pactó con los Eurnekian prorrogar la concesión de aeropuertos hasta 2056, pero ahora renegocian - elDiarioAR.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Z9IB2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Zw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVFCLVJCMTY3M3A3X2JsOS1wNS04Xzg1LUo4UEhTQXZRMlZyQ004VlFVY2lkYjFIVldaUTk2YlA4aXlQT0E0N281TzR6RS1kM3VVVFBzUFhmXzR5ZjA0Z1JhMmpSaHREVmVPSENkN3FPLW43SHhBTmpqRklubTk3MUVlaW1jVUFYNUt0OHlWV3B0UHhlelVSdzJtb0loVEdyb0ZwOXFCWmZYcG5LZXR6d2lhR0hvLUx2ODF2SEhPQUJaallqUlZPVHlLeXJUQlU0bzlLcNIB2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Zw?oc=5",
         "source": "elDiarioAR.com",
         "published_iso": "2026-06-26T09:02:44Z"
       },

@@ -1,26 +1,20 @@
 {
-  "updated_at": "2026-06-26T13:10:23Z",
+  "updated_at": "2026-06-27T12:08:44Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenia’s Constitutional Court begins hearing challenges to parliamentary election results - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV09jUnBBZnB0RHpsOEhLTGlwbjN5ME9LNkxhYjlGeFVuM1dCV0VVM0lEN09HTXBaSmloWWFUSV92R1Nlb21pM0hZMmQzbVc2N1dqNXVISG1tVFFnU1RTSktlNG9uZlVmY0R2Wmw2cjVLOUYwZ2NHeV9MMnlST1FEb043TnRwaE1sc0N6SXI0QlFIcHMxWVBNU04zMXJDOEFpQ0hOaTdvc1YtanFGUzlHNVdta0JmMl8tZXlQdlZ5eWpnQQ?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-06-26T08:33:35Z"
+      "title": "Armenia Election - Bluefield Daily Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXpwb0M4NVZyRU5UMEtUcmJJcHhHalpXWnJqVWEyOE1IXzJqcVdwQ2szYkxEM2RETG9seG9mUV9pQ2UyaGxZLTgzVWoxS0tDQjNiamNmTUUyYXhxRDhZeFZKSjlZS0Fka1JjN1I1RFF6ZkJuRU5YeHBoZnVnTmdDQjVZbFB4V3pBSHV0d2FFUEZHTVJFLTFsVHp4NTdhV3k2OEdJZzRhRlMyWWczTy1pS1lB?oc=5",
+      "source": "Bluefield Daily Telegraph",
+      "published_iso": "2026-06-27T04:02:04Z"
     },
     {
-      "title": "Analyst Warns of Threat From Azerbaijan’s ‘Western Azerbaijan’ Narrative; Pashinyan Downplays It - The Armenian Report",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUlVwUzA4bmJrMWJwZUlaTG5hRjBPWWVGWEI1VmRIRDVMd2NLbUFoRmJFdXl3XzdMZnIycmR0VTJ1UFc1dXgzTlpGTGhOR0g0ZS11OWEzRVZxMWpvb3Rxc0FUTWZhYktBb2puMUNZRVFKSFMwX2FhcmxodWpsZmhpajB4ZDFMY0xfVUFtZFlCendPdThoT2tvZEVTdGZ4c2FiZlltUm9oeEhTbkQxQkgxVS1vYUZJTmxNbVZ6eHFtSkRjbWxlTWdNTVBEbFk?oc=5",
-      "source": "The Armenian Report",
-      "published_iso": "2026-06-25T20:04:34Z"
-    },
-    {
-      "title": "Internet transit between Armenia and Azerbaijan: Interdependence and prospects. Views from Baku - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUdVel96ckZ6TUtLU2h0U3RxU0czenFscy1EREQ5QUd6WXlWQ1hVMVlNWC12c1BOdHBkTHhpUnNrakxaWjV5eEdUWHp6Y1YwVXZlbEhaUWVBaDY1d1lEemhvRjRKZ0E3S2E0SVNyQ1hzY2doQWN1dVJ4Z2JfQVFjWDFDS2taQ2xZVGxOZWIzSWczRGU4aHhYUTdkN2lzaFRv?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-06-25T11:39:27Z"
+      "title": "Von der Leyen’s South Caucasus Visit: Energy, Peace, and Middle Corridor on Agenda - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWhiUTdFNi1va0FISGtkS3Jra2ljUDZRbDgzZUM0cDZJd3JQUFlnbFNkTmRWU2FlSldxRDV6R2s0MkhkQnJfSEVOX3dyVDctVVBtekYwMmJ2QTMzRkFlb2kzNGhqV0s4R3VIOVpRS0pUODRoU1RrSmlkeDZyd3VrSmxUZlBCMHBYZ0V2VmRuaXVZejk2dmdMNzlQME5oZHlOWGF6SExxbjkxWUo5ZFE?oc=5",
+      "source": "IndexBox",
+      "published_iso": "2026-06-26T15:01:00Z"
     },
     {
       "title": "Baku Renews Demands For ‘Return Of Western Azeris’ - The Armenian Mirror-Spectator",
@@ -29,16 +23,22 @@
       "published_iso": "2026-06-25T11:25:05Z"
     },
     {
-      "title": "Armenia and Azerbaijan agree landmark internet deal as peace process continues - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVTdYNEd5dVBRbjU3OWd5WFdMSkVNUmI2TzJvNi05TkhGU1pGOHI2MXh1TjFrX1VmUUd3dnJXZDZYcTlYaVI0cWx5M2pxMzkyT1pFck02bVhxWEhYNE1zd25zdmRPM1lQa0lnb2dDU0ZIeHhtMFVrUkswOGdyeTlydWdxcnlPckM1MF8xT3BTVWVxcktEei04WUduSHlMb05Bc0Z5WXJGbURVWjB1bVdrbEtNcmw?oc=5",
-      "source": "Euronews.com",
-      "published_iso": "2026-06-23T15:06:25Z"
+      "title": "Azerbaijani Lawmaker Wants ‘Western Azerbaijan’ Claims Included in Armenia Peace Talks - The Armenian Report",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWozSi16YjFVWUlxY1FVUEFjcS1SdFJ6Zk8zNFNyUE85Y3UtLVB4S2ZmQ2NTZUN0TFNCTEdvOGpyamhvQVhxUE1OQW8zaThfTmJHQVY1WWJtMHZiV1g3czVDVS03Y1FITHdSdXdGMzZXUGg1RnVna2J3UGRkSkdXMFJfSEdPN2ZobFdDQTBZckV2R1BOdkxlZ0hTTFpYczJXQnh4SkpMa0hzaVBQaWFNV0oxRnA2WU1YMFdGYl9rc28?oc=5",
+      "source": "The Armenian Report",
+      "published_iso": "2026-06-24T20:33:38Z"
     },
     {
-      "title": "Pashinyan may strip the citizenship of Armenians who didn’t vote for him - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTVhVVHExYlpnZ1BsQm1yRl9SZW9XMWVPcjRpSHZFYV9wS0FTbEpnZ1lxZUF2VGxOYUZrMnZ4dWZ5d3BBanBrQ3lWSGU1ZXJ0aU8ybXh1bm5sSnIwRFlVak5yRmRra3d6Z2liSWZqN3pCdUl6ZTZ0aXhPOWtvaVNYN2NTVlFITElpR21HVWZVdGFaM1dVUkR3SmgwQ2NPdmZCZXF2S2ZEZ3NsREhheGNj?oc=5",
+      "title": "Congressional leaders demand release of Armenian hostages - The Armenian Weekly",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFhqMHl1T2owLTlvbm1RTURKRy1BQjNMNFJINE1lTEsyR2V0N0puczB4ZVBVdEkzdm5XRXV3UUxrWVhKVTEwMEpPTzFjZG1Ra0lJOWUzaFNPa29kQjMzeTNWWmc3dW5LdzVmMk83ZFZjY3ZNNlBpXzlUMHFhSjNFUEdtbWh1bFdnVlVPVVBLTmd6Y3loMHJzZjJGaXc?oc=5",
       "source": "The Armenian Weekly",
-      "published_iso": "2026-06-23T14:17:32Z"
+      "published_iso": "2026-06-24T15:33:35Z"
+    },
+    {
+      "title": "Armenia and Azerbaijan agree internet transit deal: opportunities and risks - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnVEQXh5Nk1DaVhYVW4zWGdPdDhFNnIwbmRZZVF5Yk1jS0lvYlZhOHBGSmEtSGtMNjdBRHl0WUhnajFVOW01aWQxTUlCbXNSekxmRG5mU3JQa2NCWHVPMkV5VktXd3FyMmRFbDJJSkZHdWVhMjQ3dEFIMkN4R2o1U0NTNDJEMl9WUzZfUVI3YVJHT0lIU01RNUFlMWM?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-06-23T17:09:19Z"
     }
   ]
 }
