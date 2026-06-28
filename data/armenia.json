@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-06-27T12:08:44Z",
+  "updated_at": "2026-06-28T12:15:47Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenia Election - Bluefield Daily Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXpwb0M4NVZyRU5UMEtUcmJJcHhHalpXWnJqVWEyOE1IXzJqcVdwQ2szYkxEM2RETG9seG9mUV9pQ2UyaGxZLTgzVWoxS0tDQjNiamNmTUUyYXhxRDhZeFZKSjlZS0Fka1JjN1I1RFF6ZkJuRU5YeHBoZnVnTmdDQjVZbFB4V3pBSHV0d2FFUEZHTVJFLTFsVHp4NTdhV3k2OEdJZzRhRlMyWWczTy1pS1lB?oc=5",
-      "source": "Bluefield Daily Telegraph",
-      "published_iso": "2026-06-27T04:02:04Z"
+      "title": "'Never too late': Israeli gov't unilaterally votes to recognize Armenian Genocide - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSNG05emRocHBIRnZTaEFNVUN5ZnppVjVFUC1jbnh5WjR2bFBzc2xFTnJFakk0bDB5VmdidXFhZU9aWnVCN1IyQlhLb1kxYkQ3SnJydlFod1VhR2lW?oc=5",
+      "source": "The Jerusalem Post",
+      "published_iso": "2026-06-28T09:31:54Z"
     },
     {
       "title": "Von der Leyen’s South Caucasus Visit: Energy, Peace, and Middle Corridor on Agenda - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWhiUTdFNi1va0FISGtkS3Jra2ljUDZRbDgzZUM0cDZJd3JQUFlnbFNkTmRWU2FlSldxRDV6R2s0MkhkQnJfSEVOX3dyVDctVVBtekYwMmJ2QTMzRkFlb2kzNGhqV0s4R3VIOVpRS0pUODRoU1RrSmlkeDZyd3VrSmxUZlBCMHBYZ0V2VmRuaXVZejk2dmdMNzlQME5oZHlOWGF6SExxbjkxWUo5ZFE?oc=5",
       "source": "IndexBox",
       "published_iso": "2026-06-26T15:01:00Z"
+    },
+    {
+      "title": "Internet transit between Armenia and Azerbaijan: Interdependence and prospects. Views from Baku - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUdVel96ckZ6TUtLU2h0U3RxU0czenFscy1EREQ5QUd6WXlWQ1hVMVlNWC12c1BOdHBkTHhpUnNrakxaWjV5eEdUWHp6Y1YwVXZlbEhaUWVBaDY1d1lEemhvRjRKZ0E3S2E0SVNyQ1hzY2doQWN1dVJ4Z2JfQVFjWDFDS2taQ2xZVGxOZWIzSWczRGU4aHhYUTdkN2lzaFRv?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-06-25T11:39:27Z"
     },
     {
       "title": "Baku Renews Demands For ‘Return Of Western Azeris’ - The Armenian Mirror-Spectator",
@@ -27,12 +33,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWozSi16YjFVWUlxY1FVUEFjcS1SdFJ6Zk8zNFNyUE85Y3UtLVB4S2ZmQ2NTZUN0TFNCTEdvOGpyamhvQVhxUE1OQW8zaThfTmJHQVY1WWJtMHZiV1g3czVDVS03Y1FITHdSdXdGMzZXUGg1RnVna2J3UGRkSkdXMFJfSEdPN2ZobFdDQTBZckV2R1BOdkxlZ0hTTFpYczJXQnh4SkpMa0hzaVBQaWFNV0oxRnA2WU1YMFdGYl9rc28?oc=5",
       "source": "The Armenian Report",
       "published_iso": "2026-06-24T20:33:38Z"
-    },
-    {
-      "title": "Congressional leaders demand release of Armenian hostages - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFhqMHl1T2owLTlvbm1RTURKRy1BQjNMNFJINE1lTEsyR2V0N0puczB4ZVBVdEkzdm5XRXV3UUxrWVhKVTEwMEpPTzFjZG1Ra0lJOWUzaFNPa29kQjMzeTNWWmc3dW5LdzVmMk83ZFZjY3ZNNlBpXzlUMHFhSjNFUEdtbWh1bFdnVlVPVVBLTmd6Y3loMHJzZjJGaXc?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-06-24T15:33:35Z"
     },
     {
       "title": "Armenia and Azerbaijan agree internet transit deal: opportunities and risks - JAMnews",

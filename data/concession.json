@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-06-27T12:08:25Z",
+  "updated_at": "2026-06-28T12:15:29Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Infraero deve vender sua participação de 49% na concessão do Aeroporto Internacional de Brasília - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUJNTTNsNUgtUU5hQVFxbGVlRmF6S09IcFZzdnhRRVR2R1VHUDJBanNvbnluTVV3dzBMSHdvR1lDbVc3a19uY2N4Y0x1Qkk2cW5VTk16N2dKZzhEenJTOFJJNzF6N2d2cVc2Z283aDliQU1KZm8tOGNfWW1taXNZb0VzazFLYU1JdnRnMjFJSUxhWklSXzhwUHZSYzUtQUxnSlVJOXUySkdpSFkwRGVLbGZNbjdrdkpiWDhKS2R30gG-AUFVX3lxTE1pQk1NM2w1SC1RTmFBUXFsZWVGYXpLT0hwVnN2eFFFVHZHVUdQMkFqc29ueW5NVXd3MExId29HWUNtVzdrX25jY3hjTHVCSTZxblVOTXo3Z0pnOER6clM4Ukk3MXo3Z3ZxVzZnbzdoOWJBTUpmby04Y19ZbW1pc1lvRXNrMUthTUl2dGcyMUlJTGFaSVJfOHBQdlJjNS1BTGdKVUk5dTJKR2lIWTBEZUtsZk1uN2t2SmJYOEpLZHc?oc=5",
+        "source": "AEROIN",
+        "published_iso": "2026-06-27T17:20:46Z"
+      },
+      {
+        "title": "Consulta da Anac abre debate sobre concessão do aeroporto de Três Lagoas - RCN 67",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVXhqX0FValBoVEc4MjVzY1YtTGFQVy1IY2dCeUFsOXNDTkNfWHRfQkV2dmVfS1A4NkNZeU54QXlqazlWU3Y4SkRINFhRb0xqY0s4dXltaUd3UDA3dXdSUEFuZFFGemtRblFKMnpIcTlDZlFBTmxGQXFFX2RPTTVCc0R1cFVHMWlQVHVzczFYNFB0Q3pyVXBPU2ZNdkdYX0lhc25TZzRmeE9JaGdYVzZYdEItQTdnSEhW?oc=5",
+        "source": "RCN 67",
+        "published_iso": "2026-06-27T14:03:00Z"
+      },
+      {
+        "title": "Infraero terá de vender participação no Aeroporto de Brasília em nova fase da concessão - AeroJota",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wNDdRVFYySmdsSE5fMk90cUpPUHhhUm4wYU5wYzA5WjBhRDdRa1E0WlBtUVB1WFhEemNoN0R1MnVRTGNKcHdCTTNETnNqUmdxQ3JQdVEzcmllQi1UWmRxR1IzSExNdG13OTkzMXFQdFlpVURJTlFHZXlKbmM?oc=5",
+        "source": "AeroJota",
+        "published_iso": "2026-06-27T12:41:25Z"
+      },
       {
         "title": "Anac inicia consulta pública para repactuação da concessão do Aeroporto Internacional de Brasília - Brasília in Foco",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVJFb3dsM1J3ZnNSYWs0YmtTWlNWc2VsSFFQZ19DVTQ4OF9RLTNoaV80MU9HcWI3b2JIZngyU0I1bjdTdEN0eEJtRzZLZncxVVVTLWlCaHF6WFdZVWxkUXNkdlFyRWswMGROVnNZYWRGckNndi1SOVFQQmZqS0JhQmRNRjh2UUhlRzBZdmx4a3Ntc1lnZ3ZpSTVQekxkeU53a09vR3VLcUVJUTZFVjdsTWx0V00wRGppaG1UNGJNWG1MQzQ?oc=5",
@@ -16,24 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSzBTTzRGVWMtYXA5ZUp1VnF0cmg0QlJHNWpDaUd0Mzd0b1ZZSGVobVR2S19NY2dCbktmVEgwMDJGTU1nNENhMU5BQnZNUExQWTVEMG9jSkk1ZjFMSnF0ek1tbWNBTHh6ZmQ3OEs5ckw0eWRWMkZVLUxOQThQekhSX1RPNmoyZ211OHRMTnRXeDVuczNtVWM5R1lyeExZbXdJNnRUanFOU1lHTFpMRkUzM2hyaUtIWFlWdFc1SDRJU0dGSmZuU01r?oc=5",
         "source": "blogdosilvalima.com.br",
         "published_iso": "2026-06-25T13:12:08Z"
-      },
-      {
-        "title": "Infraero terá de vender participação na concessão do Aeroporto Internacional de Brasília - Metrópoles",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGVzTmtwbHZOYUFiVFdsdkpwVVowRk9fV3daaV90bGFpRjYzVmhOV1hJWnhURnVxMktmNmp5MXNsaUpobFlLazc5cjUwSG5PTmQ5VjdGU1V3bnBlbk5HZXdlY1pPUVFmR1VITmVuaFA1MFF5dnVMUnVEei1ZelNLcTg1WFpXZ2F6WG9wUV9BLThrSVJhTzdvN0NaekNya19oaVZBN1NyWFMzZ1F4SDVWOUhVXzB0YUJWeE5BeEVwSXZldk9YeXhTTHhXZGphWlJOQ21taQ?oc=5",
-        "source": "Metrópoles",
-        "published_iso": "2026-06-24T20:57:00Z"
-      },
-      {
-        "title": "Concessão do Aeroporto de Dourados avança e Anac abre consulta pública para receber sugestões - RCN 67",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0lPUnJNMnlhWWRUQ280Q2pCRGU0dV9wVk93SVJrR0FMckJzUUpFdTNROE9POFRTRXNhOXo4S2s2OHVnY0NHeGx3ZUptZnpicmVwdFlXTVE2YkZzd092emlqNThDU01TcHFBejFpelZWcFBMY2dYckpyMXpyaG5MLUJRejRUaWlucDhNbWJqTXR5aFBOUVNsRjdtdEprbHdDd0lsVGsxS0thdXZOVE5sWEVKRU9keXdoN2JkVHZabzJQTVk?oc=5",
-        "source": "RCN 67",
-        "published_iso": "2026-06-24T11:07:59Z"
-      },
-      {
-        "title": "Edital de repactuação do Aeroporto Internacional de Brasília (DF) entra em consulta pública - Tribuna do Sertão",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTHhlZXNFdWs3UmdMVUpKMHBsUXNXSkdrcHdEY1ZXTTgyZ2E2STRJVnptWFFCQTh6VDg1Ny0zbjBEWjJKLWR3S3hfRnczWWF2N0xOY0hGdno3N2s3WTlPbmhMVkd1cFRuSGlkWGtCdzd2MUV3X04tWEtucHZOWE9udVREcF94UGlIV19qcmstVVg1SUVJVklsZ1plbkJwenhPbTF3cVdxcGJYZG92YzhmQWRQMlg5UmlPQ0gwRFd5TEhHOHN4TWQyaVZKRklUYURMZXJId1RBVDMyOThLalgyMVdR?oc=5",
-        "source": "Tribuna do Sertão",
-        "published_iso": "2026-06-23T23:40:00Z"
       }
     ],
     "aa2000": [
