@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-06-28T12:15:47Z",
+  "updated_at": "2026-06-29T14:48:47Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "'Never too late': Israeli gov't unilaterally votes to recognize Armenian Genocide - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSNG05emRocHBIRnZTaEFNVUN5ZnppVjVFUC1jbnh5WjR2bFBzc2xFTnJFakk0bDB5VmdidXFhZU9aWnVCN1IyQlhLb1kxYkQ3SnJydlFod1VhR2lW?oc=5",
-      "source": "The Jerusalem Post",
-      "published_iso": "2026-06-28T09:31:54Z"
+      "title": "Moscow still has leverage after Armenian election defeat - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1hmQ3RpSnVVM2NtbGd6Q3Npc003ekZGM2pESlkyNzhGUkZ0TWlaMVpCZVpnQ1k3R2lWQzhGa3FHOUs4ZVlqRy0xcDZCV0p6V0tGcWN0X1lGeGJsN1hVZW9HVUF0alZ6ZnNtVm5CTXVPNlJpZnNtR2t2R1g2N2ZGMXdqWGxpRXREcXRsaGFxci0tX01nRWc?oc=5",
+      "source": "Washington Examiner",
+      "published_iso": "2026-06-29T13:00:00Z"
     },
     {
-      "title": "Von der Leyen’s South Caucasus Visit: Energy, Peace, and Middle Corridor on Agenda - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWhiUTdFNi1va0FISGtkS3Jra2ljUDZRbDgzZUM0cDZJd3JQUFlnbFNkTmRWU2FlSldxRDV6R2s0MkhkQnJfSEVOX3dyVDctVVBtekYwMmJ2QTMzRkFlb2kzNGhqV0s4R3VIOVpRS0pUODRoU1RrSmlkeDZyd3VrSmxUZlBCMHBYZ0V2VmRuaXVZejk2dmdMNzlQME5oZHlOWGF6SExxbjkxWUo5ZFE?oc=5",
-      "source": "IndexBox",
-      "published_iso": "2026-06-26T15:01:00Z"
+      "title": "High court questions parties as Armenia election challenge hearings continue - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdjFkZ2pScWgzMURfS1hpMXVuaER0eDdXa1BUVlRRMUE2UTRzVExXOFlRV203Y0ZZOGtvalpBWllMVFc5Ui1QWWZ2S1RUVFpvU1HSAVdBVV95cUxQeFNhRlZZRzdQWmNKYnBNekdFVi11WkxYM0xkNW1GdGdLWkJpbERxaUdEQWtva2hZd2FDQmJZOS1yMHA0ZTcxTGpKWUh4dllLamZBVjBXLXc?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-06-29T11:50:00Z"
+    },
+    {
+      "title": "Stratfor: Turkey will try to push Azerbaijan to make progress on signing peace treaty with Armenia - NEWS.am",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wYWd2LXV3T2FQREtUVVpwUmZscXpqaXVERWdDdHplVG1vWGlZUGZwcUhCS1hBYk9heTNTVlN2MVBoOFduWUE?oc=5",
+      "source": "NEWS.am",
+      "published_iso": "2026-06-29T06:43:00Z"
     },
     {
       "title": "Internet transit between Armenia and Azerbaijan: Interdependence and prospects. Views from Baku - JAMnews",
@@ -29,13 +35,7 @@
       "published_iso": "2026-06-25T11:25:05Z"
     },
     {
-      "title": "Azerbaijani Lawmaker Wants ‘Western Azerbaijan’ Claims Included in Armenia Peace Talks - The Armenian Report",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWWozSi16YjFVWUlxY1FVUEFjcS1SdFJ6Zk8zNFNyUE85Y3UtLVB4S2ZmQ2NTZUN0TFNCTEdvOGpyamhvQVhxUE1OQW8zaThfTmJHQVY1WWJtMHZiV1g3czVDVS03Y1FITHdSdXdGMzZXUGg1RnVna2J3UGRkSkdXMFJfSEdPN2ZobFdDQTBZckV2R1BOdkxlZ0hTTFpYczJXQnh4SkpMa0hzaVBQaWFNV0oxRnA2WU1YMFdGYl9rc28?oc=5",
-      "source": "The Armenian Report",
-      "published_iso": "2026-06-24T20:33:38Z"
-    },
-    {
-      "title": "Armenia and Azerbaijan agree internet transit deal: opportunities and risks - JAMnews",
+      "title": "Armenia and Azerbaijan agree internet transit deal: opportunities and risks. View from Yerevan - JAMnews",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdnVEQXh5Nk1DaVhYVW4zWGdPdDhFNnIwbmRZZVF5Yk1jS0lvYlZhOHBGSmEtSGtMNjdBRHl0WUhnajFVOW01aWQxTUlCbXNSekxmRG5mU3JQa2NCWHVPMkV5VktXd3FyMmRFbDJJSkZHdWVhMjQ3dEFIMkN4R2o1U0NTNDJEMl9WUzZfUVI3YVJHT0lIU01RNUFlMWM?oc=5",
       "source": "JAMnews",
       "published_iso": "2026-06-23T17:09:19Z"
