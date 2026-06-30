@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-06-29T14:48:47Z",
+  "updated_at": "2026-06-30T13:09:06Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Von der Leyen visits Baku and Yerevan to deepen South Caucasus ties - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWx3LUF1SFF4dEMtNXBMcmVfNE1OZjFCcXVBcDc5NExCOHJNRHZfbW1Bc1BlLUpOTVA3YzBEcEFBUjcySGNkNHpza1NpV3l0VHdHSUVDOXZwQlRRVFpzZ014bkhUMENxdWRrV0VuYTBBUTZEZnhHV1A2QmxnY0RNaUU0eUsyQlRQa3o3RjlxRnNjbHVTeFVveWdISHF4bGxZQnhmS2RkS3BUQ2ZtbVE?oc=5",
+      "source": "Euronews.com",
+      "published_iso": "2026-06-30T12:51:08Z"
+    },
+    {
+      "title": "EU to help Armenia replace TRIPP with the \"Crossroads of Peace\"? - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOTMwZ2dNN0hNRzZwemRjbW5ob0hjWmtKTHBYWklLaGlPbndsSDNBQ21ad2hXX3c3d3ZhOTdfY1NReTV2a1FSZ2haNXJTQ0o4dXh5c0JpeTZVd1EyWmd6M2NycHVZNjFLaXlNMDNudU5JZFlJZms1ekN6YUYtekZIWWg3OVVucHdBX3c?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_iso": "2026-06-30T06:45:47Z"
+    },
+    {
+      "title": "Russia Says Moscow Must Be Involved in Trump’s TRIPP Corridor in Armenia, Citing Security Concerns - The Armenian Report",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYUZPYlNtaHNsdUs3VUZlT0l6SUVMYXBpb3hkWDlNaDFsWDZSUUM4Q3ZSRDl5OUxqQkxRNEo1eklYejFvenRudmF4OFBPczgtcmRzRkxxc29QMXhlVU9xSGZ4dldJREpxUHBxblFZd0RXYi1TS0xYdXlSbGRIZEhzY1BpY1dNNXFkSHVMZzNHa3RQM3lEUE9fQ1dYcmFndjlNc0dKcmJSTEtFLU9ESVBkU0hKaFZPWjQ0cTkwVE5vLU1GRG1ScURYemkyLU5Dd2p6ZUE?oc=5",
+      "source": "The Armenian Report",
+      "published_iso": "2026-06-30T00:22:56Z"
+    },
     {
       "title": "Moscow still has leverage after Armenian election defeat - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1hmQ3RpSnVVM2NtbGd6Q3Npc003ekZGM2pESlkyNzhGUkZ0TWlaMVpCZVpnQ1k3R2lWQzhGa3FHOUs4ZVlqRy0xcDZCV0p6V0tGcWN0X1lGeGJsN1hVZW9HVUF0alZ6ZnNtVm5CTXVPNlJpZnNtR2t2R1g2N2ZGMXdqWGxpRXREcXRsaGFxci0tX01nRWc?oc=5",
@@ -11,28 +29,10 @@
       "published_iso": "2026-06-29T13:00:00Z"
     },
     {
-      "title": "High court questions parties as Armenia election challenge hearings continue - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdjFkZ2pScWgzMURfS1hpMXVuaER0eDdXa1BUVlRRMUE2UTRzVExXOFlRV203Y0ZZOGtvalpBWllMVFc5Ui1QWWZ2S1RUVFpvU1HSAVdBVV95cUxQeFNhRlZZRzdQWmNKYnBNekdFVi11WkxYM0xkNW1GdGdLWkJpbERxaUdEQWtva2hZd2FDQmJZOS1yMHA0ZTcxTGpKWUh4dllLamZBVjBXLXc?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-06-29T11:50:00Z"
-    },
-    {
-      "title": "Stratfor: Turkey will try to push Azerbaijan to make progress on signing peace treaty with Armenia - NEWS.am",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wYWd2LXV3T2FQREtUVVpwUmZscXpqaXVERWdDdHplVG1vWGlZUGZwcUhCS1hBYk9heTNTVlN2MVBoOFduWUE?oc=5",
-      "source": "NEWS.am",
-      "published_iso": "2026-06-29T06:43:00Z"
-    },
-    {
       "title": "Internet transit between Armenia and Azerbaijan: Interdependence and prospects. Views from Baku - JAMnews",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUdVel96ckZ6TUtLU2h0U3RxU0czenFscy1EREQ5QUd6WXlWQ1hVMVlNWC12c1BOdHBkTHhpUnNrakxaWjV5eEdUWHp6Y1YwVXZlbEhaUWVBaDY1d1lEemhvRjRKZ0E3S2E0SVNyQ1hzY2doQWN1dVJ4Z2JfQVFjWDFDS2taQ2xZVGxOZWIzSWczRGU4aHhYUTdkN2lzaFRv?oc=5",
       "source": "JAMnews",
       "published_iso": "2026-06-25T11:39:27Z"
-    },
-    {
-      "title": "Baku Renews Demands For ‘Return Of Western Azeris’ - The Armenian Mirror-Spectator",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVg0ZnFJMHEtZHVYZlUyWGl3R1Q2VE84SFFMWmVZNGVaUTBpWHFuR1ZYeDlNWXcwcUZLMzh6cENSZDZFSGhKUGxvcGFOT1NaRlVwV3lkcHNwVkNxOHllRFZuU0RRVUxMemZNUVNzOVBGMDNXS3U3MUhrU0RjaFk1cG5xWXNEOUFiYlpJSUdQOEFlUQ?oc=5",
-      "source": "The Armenian Mirror-Spectator",
-      "published_iso": "2026-06-25T11:25:05Z"
     },
     {
       "title": "Armenia and Azerbaijan agree internet transit deal: opportunities and risks. View from Yerevan - JAMnews",
