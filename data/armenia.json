@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-07-01T13:33:52Z",
+  "updated_at": "2026-07-02T12:56:56Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Important statement regarding Zangezur corridor - Modern.az",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQnhRZGQwYTFBX1g2UVY5NE9paTNMN19oNjVxSTFKZ2RhVjBINEZLdTZTYzVyUXRZTFdRWXB3UU5BRkRXN25NaTZmNlctVllNLXBrSFcwUlQ5RUhOOURSOGxXNDMwSjdabTI4R2NDLXRIemhUdmxJYmlBS3gwWmV6MWRjN2l0SnlVN2E0cFVILU94YU1UZlhZcw?oc=5",
-      "source": "Modern.az",
-      "published_iso": "2026-07-01T09:51:24Z"
+      "title": "Von der Leyen backs South Caucasus peace with €2 bln connectivity vision - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwMWVHdUFuNU42eE41X0wwOEdxcWs1ZHl1MDBrYnA3cXNLcmgySUl1Q09ueGtmRUhMN0lPWElaSHRpUFRVWFBHQ0dEQUVabVlPX0plQVBrcw?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-07-02T11:34:00Z"
     },
     {
-      "title": "Armenia and Azerbaijan to Create Shared Database for Missing Persons - The Armenian Report",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmh4enBidUs1T2lzTkdCREtBMXBmVzRKbXpZbV9QY3dZV1VlZ0ZqbVJFbGNqcUZjZDU1UjI0YkpoczhNMUU0WTFaTGFBQ091UDJ6bHBjZXBVRmV5U3J5ME5Od2F3S2hjanpCZTUxYkxncnRKMnJUNVI2YlJsX0ZZNWJSeFRQNDJ4Rlk3d1FRa01OcFNIM29sc2wwSmJkY1dJZzVwVXpTUWZKWjA?oc=5",
-      "source": "The Armenian Report",
-      "published_iso": "2026-06-30T18:14:37Z"
+      "title": "Azerbaijan and the European Union find a common language - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXhxRy1WcTNiZ1k3RDRQRHdvZTFweklEUFFDb3AwdFRWQWw2Mms3TGFTcnN1am9rb0RKYVFNZUFjSWdzRjRCdk9saExLYXBOSy1XTUVUZUFnbEdIbGt0bWNVYnhQa2tTZnpsQ0pfeW96T2xZa2J2M3hkTEg0S2tpT2FqNFJWRlVKbUE?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-07-02T11:19:33Z"
     },
     {
-      "title": "Aliyev escalated to the U.N., his demand to resettle 300,000 Azerbaijanis in Armenia - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdU5ZMlR3bTFnR2lCcXRGVmQ1RVRxMW1pa3diVlc5MWxrdV9KZWdkMlI1QkMya1N4X2J4QVZKTjhMbGRydGMxajJNcndYTE8tV3Etdk5aZjBIYUd1TDJqMFFIVHN3T3QzSnZ5QURBS3pMV0dyay1odnI5RVNpQ1ZDNm4yY3FyUkJqaXlJOFpVaXVRMWlVRFpBS3Jnc1k0LU0zM1ByejJLRm5ZX0RWQ0VIQU1IajEtNERXVDNrZQ?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-06-30T13:23:56Z"
+      "title": "EU launches connectivity and communities support programmes for peace in the South Caucasus - The European Sting",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcXFrYzZOWTB2c1FoeEFJWnBNNnA3RDZaR1R5SXhZeXY4LTlpZHZWc0FIU1RYQmU0Q000aVFtRUk4d2ozbThveVBuSExaYmlZVnBiZkxPd1J5Y0Q0WV9yTXJ3VTktdS1kaXd1NlliTmo5S1MxYzJCSm5qZXQ2dHZ3YmtteGlKZ3hqczVFTEZDRVMzZE1CQkdHY0xoWWFIcXdCS2VTYnJONGh4Qy1hNUc1dlhwSXdfeFI1bFNuTHFWTGVxWC1NN2k1bA?oc=5",
+      "source": "The European Sting",
+      "published_iso": "2026-07-02T11:16:32Z"
     },
     {
-      "title": "Hundreds More Human Remains Discovered in Azerbaijan Mass Graves - Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN2JoZUlPRVVjRWpZb1F5b2k0REhWZVIzbXlzanFCcDJRT0VkYlctNGlqWUJONXdtcGR2eVE1STB4aExpVEZEYm5EQ0txaUIzUFFVLWpLbzlMb1lNRHZDZlN3dmt4aU5JdFNLWlFENlJlSzctaXZXNTJ4amZzQkhFbXFfZHZNQlNCM0x0dUtkX0g2UG1ZSjdMRGVyQQ?oc=5",
-      "source": "Newsweek",
-      "published_iso": "2026-06-30T13:23:00Z"
+      "title": "Open borders will transform Armenia's economic future, EU is ready to help make that vision a reality, says European Commission president - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYOVZDVEliV0g3UW1wWF9KblkxZzl0aG1CckhaUVlWcU43QzVXWE1DcURwOUZhYlUza19SeFpRUEdVcFNvTlB5NU1xaDFPMTlNX0HSAVdBVV95cUxNOHZhdlA3NktXbkIyM3liaXlxRUkxOXpfeTFlZEI5YkhKMGZxUjZWUWhhMVUxVmxvSmkxZVhUTlhxS25ZbGtfS21jcHJWZC1OeWVOaUU4dDg?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-07-02T09:35:00Z"
     },
     {
-      "title": "Von der Leyen visits Baku and Yerevan to deepen South Caucasus ties - Euronews",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWx3LUF1SFF4dEMtNXBMcmVfNE1OZjFCcXVBcDc5NExCOHJNRHZfbW1Bc1BlLUpOTVA3YzBEcEFBUjcySGNkNHpza1NpV3l0VHdHSUVDOXZwQlRRVFpzZ014bkhUMENxdWRrV0VuYTBBUTZEZnhHV1A2QmxnY0RNaUU0eUsyQlRQa3o3RjlxRnNjbHVTeFVveWdISHF4bGxZQnhmS2RkS3BUQ2ZtbVE?oc=5",
-      "source": "Euronews",
-      "published_iso": "2026-06-30T12:51:08Z"
+      "title": "EU chief on Armenia's normalization with Azerbaijan and Türkiye: The reward will be very great - Apa.az",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSS1qZl9Odnkxd0Z2RlFRMnB0UzYyQTZaYXdKSHliTDJHeVBya2ZCalRlOXVUVTdKM3JnamMydWtwVTRxc0Z5NXFEQkQyUDlNNDJTa0htejU1RS1FLXZ5b1NCVHdISWN6d2ZNZEl6WjZTMWxFazJiVURlTGgzTXBvb2JjcnVmbnNrRXBib1NnbkNlT29kRVJIbllUTnB2WFRSb2tpM0RlUjZ5UE5uSzRWZkVMbjNxYkhOUmwxMmdsOHZhdw?oc=5",
+      "source": "Apa.az",
+      "published_iso": "2026-07-02T08:43:40Z"
     },
     {
-      "title": "EU to help Armenia replace TRIPP with the \"Crossroads of Peace\"? - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOTMwZ2dNN0hNRzZwemRjbW5ob0hjWmtKTHBYWklLaGlPbndsSDNBQ21ad2hXX3c3d3ZhOTdfY1NReTV2a1FSZ2haNXJTQ0o4dXh5c0JpeTZVd1EyWmd6M2NycHVZNjFLaXlNMDNudU5JZFlJZms1ekN6YUYtekZIWWg3OVVucHdBX3c?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "published_iso": "2026-06-30T06:45:47Z"
+      "title": "EU Looks to South Caucasus for Solutions as Von der Leyen Holds Talks with President Aliyev - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3RPT1Bpd3ZGSHhPdUZmVV9tRUR5ZzRkN2V0Q18zX29hd0ZvNTZhRGlEajMwWVp5bEVycFhZejNOV1gtUWhxTmlfWWI2S3J5SjFfbWlyQmlSN3NHdzdkYXUxMmUwcUp6aE1VZmlXWFE4OGVCLWJBbmtSaEJXQWhwUl9EQUxWc3FsaTdYVlhtcVhETUdiNXkyMGxiMmw3NHdlVHkyVmpWUGdmZGUwdnh6VzBHemR0MW8wdkk2RWVRZ2JOQQ?oc=5",
+      "source": "Caspian Post",
+      "published_iso": "2026-07-02T08:10:00Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T07:12:45Z",
+  "updated_at": "2026-07-02T12:56:32Z",
   "status": "ok",
   "source": "World Bank — World Development Indicators",
   "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG",
@@ -8,13 +8,9 @@
     {
       "name": "Argentina",
       "iso3": "ARG",
-      "latest": -1.34,
-      "year": "2024",
+      "latest": 4.37,
+      "year": "2025",
       "series": [
-        {
-          "year": "2015",
-          "value": 2.73
-        },
         {
           "year": "2016",
           "value": -2.08
@@ -50,19 +46,19 @@
         {
           "year": "2024",
           "value": -1.34
+        },
+        {
+          "year": "2025",
+          "value": 4.37
         }
       ]
     },
     {
       "name": "Brazil",
       "iso3": "BRA",
-      "latest": 3.42,
-      "year": "2024",
+      "latest": 2.29,
+      "year": "2025",
       "series": [
-        {
-          "year": "2015",
-          "value": -3.55
-        },
         {
           "year": "2016",
           "value": -3.28
@@ -98,19 +94,19 @@
         {
           "year": "2024",
           "value": 3.42
+        },
+        {
+          "year": "2025",
+          "value": 2.29
         }
       ]
     },
     {
       "name": "Italy",
       "iso3": "ITA",
-      "latest": 0.69,
-      "year": "2024",
+      "latest": 0.54,
+      "year": "2025",
       "series": [
-        {
-          "year": "2015",
-          "value": 0.89
-        },
         {
           "year": "2016",
           "value": 1.24
@@ -141,24 +137,24 @@
         },
         {
           "year": "2023",
-          "value": 0.98
+          "value": 0.92
         },
         {
           "year": "2024",
-          "value": 0.69
+          "value": 0.78
+        },
+        {
+          "year": "2025",
+          "value": 0.54
         }
       ]
     },
     {
       "name": "Armenia",
       "iso3": "ARM",
-      "latest": 5.9,
-      "year": "2024",
+      "latest": 7.2,
+      "year": "2025",
       "series": [
-        {
-          "year": "2015",
-          "value": 3.2
-        },
         {
           "year": "2016",
           "value": 0.2
@@ -194,19 +190,19 @@
         {
           "year": "2024",
           "value": 5.9
+        },
+        {
+          "year": "2025",
+          "value": 7.2
         }
       ]
     },
     {
       "name": "Uruguay",
       "iso3": "URY",
-      "latest": 3.11,
-      "year": "2024",
+      "latest": 1.78,
+      "year": "2025",
       "series": [
-        {
-          "year": "2015",
-          "value": 0.37
-        },
         {
           "year": "2016",
           "value": 1.69
@@ -233,28 +229,28 @@
         },
         {
           "year": "2022",
-          "value": 4.49
+          "value": 4.61
         },
         {
           "year": "2023",
-          "value": 0.74
+          "value": 0.76
         },
         {
           "year": "2024",
-          "value": 3.11
+          "value": 3.33
+        },
+        {
+          "year": "2025",
+          "value": 1.78
         }
       ]
     },
     {
       "name": "Ecuador",
       "iso3": "ECU",
-      "latest": -2.0,
-      "year": "2024",
+      "latest": 3.73,
+      "year": "2025",
       "series": [
-        {
-          "year": "2015",
-          "value": 0.12
-        },
         {
           "year": "2016",
           "value": -0.69
@@ -285,11 +281,15 @@
         },
         {
           "year": "2023",
-          "value": 1.99
+          "value": 1.83
         },
         {
           "year": "2024",
-          "value": -2.0
+          "value": -1.94
+        },
+        {
+          "year": "2025",
+          "value": 3.73
         }
       ]
     }
@@ -332,13 +332,9 @@
     },
     "fx": {
       "label": "ARS / USD (official, annual avg)",
-      "latest": 914.69,
-      "year": "2024",
+      "latest": 1240.85,
+      "year": "2025",
       "series": [
-        {
-          "year": "2015",
-          "value": 9.23
-        },
         {
           "year": "2016",
           "value": 14.76
@@ -374,6 +370,10 @@
         {
           "year": "2024",
           "value": 914.69
+        },
+        {
+          "year": "2025",
+          "value": 1240.85
         }
       ]
     }
