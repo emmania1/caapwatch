@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-07-02T12:56:56Z",
+  "updated_at": "2026-07-03T12:55:35Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Can Peace Deal Between Azerbaijan and Armenia Survive Without Public Reconciliation? - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHZIeWtHek1Qb2V0MlJsVG9JaTJVWmxtZE5FdE8tc2VCRDRZNkM4c1NLVW5ra2Z1a3hSdVZhZ3RlQS11OGhuQ1pKV3l1YmdnSzBnYmV0OHJBbUlNa1VRS2VHTG54dzBwSmpPZ29weWJHRG9LbjB5aUlnZk56V0otZ0lFYkpsOG5vbG5hTmZXRzdkVzhtOTA2WnFrckZCZnF1a0hxS1A1ekttMzNTbmNtcVFxdjdwQQ?oc=5",
+      "source": "Caspian Post",
+      "published_iso": "2026-07-03T12:44:07Z"
+    },
+    {
+      "title": "The Trump Effect in the South Caucasus: Can the Peace Process Survive a Changing Geopolitical Environment? - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTm1XdWY4Uk8zbnFfc0xWa3FMNkxVOVBoOHR2aHF3ZnRCaXZLVmVidEcxa3pPNWNhTHdmaXJsMTdVS1c4MkVXMFo5UElvZUdweUttSUZ1UUd2djJXRXB0dDNLdUhzaGhtWEZTUFI3bFRoOVg3RWR6TlhIWloxUExrQUFacExxTDRvLU9ObUhYQU53Q24xSmg4cVc0WGpZZ3hxMjAzTnVfUGlZSlMzeFRSVS1WOUJIbXFiTk9Kcjc1Vlk?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-07-03T05:07:11Z"
+    },
+    {
+      "title": "‘Russia failed’: Armenia looks west as Moscow loses grip - TVP World",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnBqQVVyOWVvSHZ4eUhSY1l3REJzMjUyc0JZS3BqX2xmSDNsRHFnZnlHZVdXZ2l5bFJQYWVPeXlHdnRjUWRzRXFaTFZ0YTNsZmx0MXZoQnBNVDlwMnZfNXB0dnNSal9PSDNyMkJfdWNTdHBfU3BTRzQ3bmJJUVZRcw?oc=5",
+      "source": "TVP World",
+      "published_iso": "2026-07-02T19:26:00Z"
+    },
+    {
+      "title": "Azerbaijani Jewish leaders urge Israeli lawmakers to reject Armenian Genocide recognition bill - i24NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNjlnU0Z0elVWcVhHYXFPS1FQU3dWUU1rYkg3akt3R2x5Y1dMakRyT1pwNFJleHQ3SzNSLW9TaF9COXpUMXQxMXBSM0FHeUZoUDc3d1Y1bDl5TVIyclZPQWx6bUhxQl9IaTdWcnJ1eGt5ZF9xUlczUFZ3NXEwQ2hmSWUxR1JWMndwZVhZVmJsbFM1YVQwVUdvY04xWjgyQVRveEg2YzJyMFNMSFhBM1NVbEVyQnNoLWVXZkRwc3pkYnRZWlgzOUg2Tjd5N00tOGxld2tfN0ZlcUxhUzd6RVpB?oc=5",
+      "source": "i24NEWS",
+      "published_iso": "2026-07-02T17:02:00Z"
+    },
+    {
+      "title": "Yerevan faces renewed Russian pressure ahead of EU Visit - The Armenian Weekly",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaV90QzZCcWJzVkt5QUpMQ0c5b3JBMHdFVnZQaUNtTl9aOWoxZHY4QzM3dWNzVVVoaV9VbnJWT29tbjRKUUFzSmlrdk9tRU9Nbm5DcUNURHhxU1VMOW16NjVacmhiMEstUi1BZnBja0FZVEFwNUVlTkMtYkluN3R0V29SdXFiSnBCcWhWMU80SmROb04xd3dWcURmcw?oc=5",
+      "source": "The Armenian Weekly",
+      "published_iso": "2026-07-02T14:39:08Z"
+    },
+    {
       "title": "Von der Leyen backs South Caucasus peace with €2 bln connectivity vision - AzerNews",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwMWVHdUFuNU42eE41X0wwOEdxcWs1ZHl1MDBrYnA3cXNLcmgySUl1Q09ueGtmRUhMN0lPWElaSHRpUFRVWFBHQ0dEQUVabVlPX0plQVBrcw?oc=5",
       "source": "AzerNews",
       "published_iso": "2026-07-02T11:34:00Z"
-    },
-    {
-      "title": "Azerbaijan and the European Union find a common language - commonspace.eu",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXhxRy1WcTNiZ1k3RDRQRHdvZTFweklEUFFDb3AwdFRWQWw2Mms3TGFTcnN1am9rb0RKYVFNZUFjSWdzRjRCdk9saExLYXBOSy1XTUVUZUFnbEdIbGt0bWNVYnhQa2tTZnpsQ0pfeW96T2xZa2J2M3hkTEg0S2tpT2FqNFJWRlVKbUE?oc=5",
-      "source": "commonspace.eu",
-      "published_iso": "2026-07-02T11:19:33Z"
-    },
-    {
-      "title": "EU launches connectivity and communities support programmes for peace in the South Caucasus - The European Sting",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcXFrYzZOWTB2c1FoeEFJWnBNNnA3RDZaR1R5SXhZeXY4LTlpZHZWc0FIU1RYQmU0Q000aVFtRUk4d2ozbThveVBuSExaYmlZVnBiZkxPd1J5Y0Q0WV9yTXJ3VTktdS1kaXd1NlliTmo5S1MxYzJCSm5qZXQ2dHZ3YmtteGlKZ3hqczVFTEZDRVMzZE1CQkdHY0xoWWFIcXdCS2VTYnJONGh4Qy1hNUc1dlhwSXdfeFI1bFNuTHFWTGVxWC1NN2k1bA?oc=5",
-      "source": "The European Sting",
-      "published_iso": "2026-07-02T11:16:32Z"
-    },
-    {
-      "title": "Open borders will transform Armenia's economic future, EU is ready to help make that vision a reality, says European Commission president - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYOVZDVEliV0g3UW1wWF9KblkxZzl0aG1CckhaUVlWcU43QzVXWE1DcURwOUZhYlUza19SeFpRUEdVcFNvTlB5NU1xaDFPMTlNX0HSAVdBVV95cUxNOHZhdlA3NktXbkIyM3liaXlxRUkxOXpfeTFlZEI5YkhKMGZxUjZWUWhhMVUxVmxvSmkxZVhUTlhxS25ZbGtfS21jcHJWZC1OeWVOaUU4dDg?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-07-02T09:35:00Z"
-    },
-    {
-      "title": "EU chief on Armenia's normalization with Azerbaijan and Türkiye: The reward will be very great - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSS1qZl9Odnkxd0Z2RlFRMnB0UzYyQTZaYXdKSHliTDJHeVBya2ZCalRlOXVUVTdKM3JnamMydWtwVTRxc0Z5NXFEQkQyUDlNNDJTa0htejU1RS1FLXZ5b1NCVHdISWN6d2ZNZEl6WjZTMWxFazJiVURlTGgzTXBvb2JjcnVmbnNrRXBib1NnbkNlT29kRVJIbllUTnB2WFRSb2tpM0RlUjZ5UE5uSzRWZkVMbjNxYkhOUmwxMmdsOHZhdw?oc=5",
-      "source": "Apa.az",
-      "published_iso": "2026-07-02T08:43:40Z"
-    },
-    {
-      "title": "EU Looks to South Caucasus for Solutions as Von der Leyen Holds Talks with President Aliyev - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3RPT1Bpd3ZGSHhPdUZmVV9tRUR5ZzRkN2V0Q18zX29hd0ZvNTZhRGlEajMwWVp5bEVycFhZejNOV1gtUWhxTmlfWWI2S3J5SjFfbWlyQmlSN3NHdzdkYXUxMmUwcUp6aE1VZmlXWFE4OGVCLWJBbmtSaEJXQWhwUl9EQUxWc3FsaTdYVlhtcVhETUdiNXkyMGxiMmw3NHdlVHkyVmpWUGdmZGUwdnh6VzBHemR0MW8wdkk2RWVRZ2JOQQ?oc=5",
-      "source": "Caspian Post",
-      "published_iso": "2026-07-02T08:10:00Z"
     }
   ]
 }
