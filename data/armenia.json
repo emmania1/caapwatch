@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-07-03T12:55:35Z",
+  "updated_at": "2026-07-04T12:10:10Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Armenia and the Middle Corridor: Geopolitics Reshaping Global Trade - Discovery Alert",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQVp0SzYycVdNYjFOaU1GbExUNGNMOXlkdXByOTRDcW5nWHE1cUxvY3VRTGFYRWNpZFFSV3R2VmhRbXQyVW02SXdDRHNwWDdjLVB0SVptOVFpaGpuMG9WZU9oM0lodmNXS21QM254aHp1M09pVjJCWVJkRFVZWE9OUjlEVEswR3M1QllIaWJuZw?oc=5",
+      "source": "Discovery Alert",
+      "published_iso": "2026-07-04T09:56:15Z"
+    },
     {
       "title": "Can Peace Deal Between Azerbaijan and Armenia Survive Without Public Reconciliation? - Caspian Post",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHZIeWtHek1Qb2V0MlJsVG9JaTJVWmxtZE5FdE8tc2VCRDRZNkM4c1NLVW5ra2Z1a3hSdVZhZ3RlQS11OGhuQ1pKV3l1YmdnSzBnYmV0OHJBbUlNa1VRS2VHTG54dzBwSmpPZ29weWJHRG9LbjB5aUlnZk56V0otZ0lFYkpsOG5vbG5hTmZXRzdkVzhtOTA2WnFrckZCZnF1a0hxS1A1ekttMzNTbmNtcVFxdjdwQQ?oc=5",
@@ -15,12 +21,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTm1XdWY4Uk8zbnFfc0xWa3FMNkxVOVBoOHR2aHF3ZnRCaXZLVmVidEcxa3pPNWNhTHdmaXJsMTdVS1c4MkVXMFo5UElvZUdweUttSUZ1UUd2djJXRXB0dDNLdUhzaGhtWEZTUFI3bFRoOVg3RWR6TlhIWloxUExrQUFacExxTDRvLU9ObUhYQU53Q24xSmg4cVc0WGpZZ3hxMjAzTnVfUGlZSlMzeFRSVS1WOUJIbXFiTk9Kcjc1Vlk?oc=5",
       "source": "commonspace.eu",
       "published_iso": "2026-07-03T05:07:11Z"
-    },
-    {
-      "title": "‘Russia failed’: Armenia looks west as Moscow loses grip - TVP World",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnBqQVVyOWVvSHZ4eUhSY1l3REJzMjUyc0JZS3BqX2xmSDNsRHFnZnlHZVdXZ2l5bFJQYWVPeXlHdnRjUWRzRXFaTFZ0YTNsZmx0MXZoQnBNVDlwMnZfNXB0dnNSal9PSDNyMkJfdWNTdHBfU3BTRzQ3bmJJUVZRcw?oc=5",
-      "source": "TVP World",
-      "published_iso": "2026-07-02T19:26:00Z"
     },
     {
       "title": "Azerbaijani Jewish leaders urge Israeli lawmakers to reject Armenian Genocide recognition bill - i24NEWS",

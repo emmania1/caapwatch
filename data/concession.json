@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T12:55:14Z",
+  "updated_at": "2026-07-04T12:09:49Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -21,7 +21,7 @@
         "title": "Infraero terá de vender participação na concessão do Aeroporto Internacional de Brasília - Metrópoles",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGVzTmtwbHZOYUFiVFdsdkpwVVowRk9fV3daaV90bGFpRjYzVmhOV1hJWnhURnVxMktmNmp5MXNsaUpobFlLazc5cjUwSG5PTmQ5VjdGU1V3bnBlbk5HZXdlY1pPUVFmR1VITmVuaFA1MFF5dnVMUnVEei1ZelNLcTg1WFpXZ2F6WG9wUV9BLThrSVJhTzdvN0NaekNya19oaVZBN1NyWFMzZ1F4SDVWOUhVXzB0YUJWeE5BeEVwSXZldk9YeXhTTHhXZGphWlJOQ21taQ?oc=5",
         "source": "Metrópoles",
-        "published_iso": "2026-06-24T20:57:00Z"
+        "published_iso": "2026-06-25T07:00:00Z"
       },
       {
         "title": "Edital de repactuação do Aeroporto Internacional de Brasília (DF) entra em consulta pública - www.gov.br",
@@ -37,6 +37,12 @@
       }
     ],
     "aa2000": [
+      {
+        "title": "La trama secreta del robo del siglo: Milei le entregó sin controles los aeropuertos hasta 2066 a su jefe Eurnekian - primerapagina.info",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmpQYjFWNjNrSG1iQnZfSkJpT242SGlrRTJpczRmUXZzSWR5cmlGQkE1UFV6MTJwMTU2VnN3MWk1NUlDc05CMjRsUHZRYU9pNEtWVjd1NW1pZG16SXlpVXVfSGlWWDhuMjhxZHFya28yZnVTcmZXb2dQY3B0NDVxRE5YaFJqQk1Vdm93N05hdGJXRndYY0hnZGU2c1dMTDk4TThwS2F5QmhtYjVsbVlEUkNVZmFoQXVUbk00Uy14bGVubnBFZmN0UlliQm4xQThWR2llZ3ZubU5pMHdVblptOTdxSS1fRDg?oc=5",
+        "source": "primerapagina.info",
+        "published_iso": "2026-07-03T17:25:05Z"
+      },
       {
         "title": "Inversión de US$2 millones: Aeropuertos Argentina lanzó el Operativo Nieve 2026 con drones e IA - La Nación",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnBVWUpVYndmRjFRaDl3WmxFRnNOTkJUWm04TGUtRXZPLVJCcEcxTndtM2FoSDJQQUFqWFBEVUZWeEhJS3kxMFNpN3phUGxESFhsV2JVTDlmcVJ3RDVjaUluNEE0dkJjSGVSLVlqZDRBNnRlMjMwdkdxTGRWaVYtdGdvbWhXYno5SGctMXhGSC0yS0FydUw3bG5SZTZGRThIdnFnbHRWMnczeWJWTER1Q0JIOXg3azBiYnJkMTgtcUdfZ1g2WUpacVZXZGpPdENfWi1NZnlWSEkzVHc?oc=5",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbmx0eFBkajFlZUs2LVVUMEF5VTFnNmZmdFNqM0xkYkU5RDNMU2RIYWo5VjRZQnMtR3hZNlZyMmtfVDBHVDRMZThJZWRPYUhtUUtqM2YxQmhCWExxLUY1RlpJRUZlQXRWd04wU25IcTNpbzhpZkhDbWxlbmdVVDQyY3dXcmZ4ZnhPN1NjY1g2ZnUtQXdpM3ZtaFhPbHZackVIUnMyMnVISEkwZW9PWklic3N3R3d6MTNKWEVGbl9OTFFRY3RtSF9xUjlwUkk1SGhnUjhGdFNzc0ltRW9uaEhyeU9FTndZOUhLeGFSV2tiSktsZXE0bFE?oc=5",
         "source": "Análisis Digital",
         "published_iso": "2026-06-26T10:59:51Z"
-      },
-      {
-        "title": "El gobierno de Milei pactó con los Eurnekian prorrogar la concesión de aeropuertos hasta 2056, pero ahora renegocian - elDiarioAR.com",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVFCLVJCMTY3M3A3X2JsOS1wNS04Xzg1LUo4UEhTQXZRMlZyQ004VlFVY2lkYjFIVldaUTk2YlA4aXlQT0E0N281TzR6RS1kM3VVVFBzUFhmXzR5ZjA0Z1JhMmpSaHREVmVPSENkN3FPLW43SHhBTmpqRklubTk3MUVlaW1jVUFYNUt0OHlWV3B0UHhlelVSdzJtb0loVEdyb0ZwOXFCWmZYcG5LZXR6d2lhR0hvLUx2ODF2SEhPQUJaallqUlZPVHlLeXJUQlU0bzlLcNIB2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Zw?oc=5",
-        "source": "elDiarioAR.com",
-        "published_iso": "2026-06-26T09:02:44Z"
       }
     ]
   }
