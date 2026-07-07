@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T14:23:14Z",
+  "updated_at": "2026-07-07T13:19:33Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -56,16 +56,16 @@
         "published_iso": "2026-07-02T19:54:00Z"
       },
       {
-        "title": "Argentina Ground Support también prestará servicios integrales de asistencia en tierra, pero solo para aeropuertos concesionados a Aeropuertos Argentina - Aviación News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nb0ZnQXMybGxwOXVodHdKMmt0Ynd2cWpaNGozNE9TeXdEVjNXalM5SVhMS1huU2d0bG52UkFvOUxiX0txV0M0R29rQTRVeVVualZTNzZpaTR3NTZNNm9Ldm5SSVBobllfMTJPM2Y2OA?oc=5",
-        "source": "Aviación News",
-        "published_iso": "2026-07-01T00:58:06Z"
-      },
-      {
         "title": "El gobierno de Milei pactó con los Eurnekian prorrogar la concesión de aeropuertos hasta 2056, pero ahora renegocian - elDiarioAR.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVFCLVJCMTY3M3A3X2JsOS1wNS04Xzg1LUo4UEhTQXZRMlZyQ004VlFVY2lkYjFIVldaUTk2YlA4aXlQT0E0N281TzR6RS1kM3VVVFBzUFhmXzR5ZjA0Z1JhMmpSaHREVmVPSENkN3FPLW43SHhBTmpqRklubTk3MUVlaW1jVUFYNUt0OHlWV3B0UHhlelVSdzJtb0loVEdyb0ZwOXFCWmZYcG5LZXR6d2lhR0hvLUx2ODF2SEhPQUJaallqUlZPVHlLeXJUQlU0bzlLcNIB2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Zw?oc=5",
         "source": "elDiarioAR.com",
         "published_iso": "2026-06-26T07:00:00Z"
+      },
+      {
+        "title": "Aeropuertos Argentina invierte u$s 500 millones y pone a Ezeiza en el centro del plan - El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEtPNEdPUW9Pa09QRHdoS1p1SGhaOFNLWU1QSTRtTTlDZERCQlhuR21EbVpPYnloNmtjTUd5VlMwQkZERWZqWHNGN0k5R0F3MFlCUVhDYmpJdzZidDBQQVRBLTdUNGpCUWV2WmExcERNUUxwMlN0Nmd2TmlORUhlcng4cWVoc0k3MmlGYkJRTXZUbXFVWUcxM2lhRmY5WlJXOGQzZ3pPM09tY1hOdmRzVHR2eFY4V21raG930gHWAUFVX3lxTE9QVGZwY0R3QkJ3NGJ5SnFpaXJCU1UxZTR3amRvazZkUXhEMXdQeE5DNkY0WnlaNmFweXlqMzFXSjM1Tk43bUxvNWVCQXBVS21lNGh5Q3BwWF9XMm5tVXd6bjlGc0lFS0RLYXZsMWtfcEJkUlpNM3BXN1UzX2xuMUhtMGVGaVNKX1lkSHRrMlE4SXdFSnpnRzJqbjNrQ2VhczVYZDdwUDU4bG9rVENyOUdkX0RyeER0WW9hbUZib3ppZFJQajNydlhnMzE2cHRIVE5BMm9vTmc?oc=5",
+        "source": "El Cronista",
+        "published_iso": "2026-06-17T07:00:00Z"
       }
     ]
   }
