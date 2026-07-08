@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-07-07T13:19:33Z",
+  "updated_at": "2026-07-08T12:20:16Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Infraero terá de vender participação no Aeroporto de Brasília em nova fase da concessão - AeroJota",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wNDdRVFYySmdsSE5fMk90cUpPUHhhUm4wYU5wYzA5WjBhRDdRa1E0WlBtUVB1WFhEemNoN0R1MnVRTGNKcHdCTTNETnNqUmdxQ3JQdVEzcmllQi1UWmRxR1IzSExNdG13OTkzMXFQdFlpVURJTlFHZXlKbmM?oc=5",
+        "source": "AeroJota",
+        "published_iso": "2026-06-27T12:41:25Z"
+      },
       {
         "title": "Anac inicia consulta pública para repactuação da concessão do Aeroporto Internacional de Brasília - Brasília in Foco",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVJFb3dsM1J3ZnNSYWs0YmtTWlNWc2VsSFFQZ19DVTQ4OF9RLTNoaV80MU9HcWI3b2JIZngyU0I1bjdTdEN0eEJtRzZLZncxVVVTLWlCaHF6WFdZVWxkUXNkdlFyRWswMGROVnNZYWRGckNndi1SOVFQQmZqS0JhQmRNRjh2UUhlRzBZdmx4a3Ntc1lnZ3ZpSTVQekxkeU53a09vR3VLcUVJUTZFVjdsTWx0V00wRGppaG1UNGJNWG1MQzQ?oc=5",
@@ -28,12 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0RyZkZuZEEwTFpJTTlGamkyZlhKeXBzWmRwR0RNcUFOWnFTaTlXQ3dteXlMc3pYY0QwTkpYdkZsaDRqYmlWakYwRzRCenJuWTE2Si0weXVnbEwtaHBvT21pWVBlRnVJVGREU1c2dWRrLVBBVXpkUGktTzBTNzFHLVQ3NW5ocUY5cVAwOGF2MEhsRjNveXpHWE13cmxYX3J3QVhORGVabUk1ZWY2ZE8yRVQwcTRWRFRydXhub0ZkZjRXM3h6cHhPbW9mOFd2TkJkVEVQMXR6RVUtT182QlZZU3dJSU4?oc=5",
         "source": "UOL Economia",
         "published_iso": "2026-06-23T20:46:00Z"
-      },
-      {
-        "title": "Aberta consulta pública do Procedimento Competitivo para Repactuação da concessão do Aeroporto de Brasília - www.gov.br",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWk5jNG40dS1HSVdoUkFDdHBhZE1ObHNBRDlqdEJHeWIzYVFMbVBOX1ZIZVNWOUVmVW5OOC14R2g4U29vSVJFcEJkUEp4NTlVWDI0WnZ6a1NqVG1pWXBBbGdLX0ZFLTJieHJJSFJJSTNobC14czFQU2ZocU1PNmEzcUtZdzlENkpBV21qVGN2TzFEdm0xbzlNQk8zTmU3Y1NwNkEyRjEtd2Q4ZHYyUmxPUGlQN2pPU2V4dE9SeWF3VzE1X2hLVkNUNmx1ZjAwTDYtOFhfUGctWkJLOW9IQ3dfdHEteFY?oc=5",
-        "source": "www.gov.br",
-        "published_iso": "2026-06-23T07:00:00Z"
       }
     ],
     "aa2000": [
