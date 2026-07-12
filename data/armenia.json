@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-11T11:51:08Z",
+  "updated_at": "2026-07-12T11:58:13Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Here’s Why Armenia Can’t Win an Air War Against Azerbaijan - The National Interest",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaE5HRVFZSi10akRORmVLTmhTSXhwZ2VUd01JS2Z5YjVwN245ZzVlZkZIVDFpQWgzTTZJM20wU29LNDRSWnlfc2dxR2RYWXY2T1dJZEZMc1VVc0RqRDNCdEkxTVZLcmMtSW5FQWF5SmR4ZC0xdEg2ZjB0TjBEV2prUUhHTzIyZ2h3MGJDZEhsM1c4Q0JYbzVUaDRzMHpKNW5OcXBuQw?oc=5",
+      "source": "The National Interest",
+      "published_iso": "2026-07-11T15:02:05Z"
+    },
+    {
       "title": "Peace wth Azerbaijan now hinges on Pashinyan's domestic battle - AzerNews",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YeE8tWUEwUUx1RHh3bFB3Rmw4NVZaYXg0VjQ3YkVERG5LLXY5TlNoTnBXbkVsdUxpcXY0TzNTY0V3T0ItbEFTQ25iS0Vad2VFUS1TdVNwSQ?oc=5",
       "source": "AzerNews",
       "published_iso": "2026-07-10T15:26:00Z"
-    },
-    {
-      "title": "Aliyev needs a clear reminder! - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tcG4yWDU1dmtGM1I2bDN3UVBJbHRlZnlPWVFuMWU1b3hRaVN4UjlvVTN2MmJ2dHd6cFJrOURwRW95cndjR1dESWxVV21LQl9tUnRLLWJZTTQzVGRwS1RXNl9TWDl0RC1CYlZLN0tKOExXSFl0Xzdz?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-07-10T14:52:12Z"
     },
     {
       "title": "Baku Recalls Key Obstacle to Signing Peace Agreement with Armenia - Caspian News",
