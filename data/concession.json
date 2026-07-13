@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T11:57:54Z",
+  "updated_at": "2026-07-13T13:25:13Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -18,6 +18,12 @@
         "published_iso": "2026-06-25T07:00:00Z"
       },
       {
+        "title": "Venda de participação da Infraero na concessão do Aeroporto de Brasília é determinada por edital - blogdosilvalima.com.br",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSzBTTzRGVWMtYXA5ZUp1VnF0cmg0QlJHNWpDaUd0Mzd0b1ZZSGVobVR2S19NY2dCbktmVEgwMDJGTU1nNENhMU5BQnZNUExQWTVEMG9jSkk1ZjFMSnF0ek1tbWNBTHh6ZmQ3OEs5ckw0eWRWMkZVLUxOQThQekhSX1RPNmoyZ211OHRMTnRXeDVuczNtVWM5R1lyeExZbXdJNnRUanFOU1lHTFpMRkUzM2hyaUtIWFlWdFc1SDRJU0dGSmZuU01r?oc=5",
+        "source": "blogdosilvalima.com.br",
+        "published_iso": "2026-06-25T07:00:00Z"
+      },
+      {
         "title": "Edital de repactuação do Aeroporto Internacional de Brasília (DF) entra em consulta pública - www.gov.br",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSkg0RExoU0lzaWExbWF3YjJfU1dEN2hqbDg3WnBQQkxRZWlrMEpJM0xTVWNid1N1eFpjTGN5elZCbmdXQkxiclh4T1FId3lMQkZjS180b1lyVEZBY2oyNE1tcHhJVlUxT3RTNlJQTDFwS2lkeTVwRzRhT3p3Qm51bUdEOTdqSTNYejV3Z0NiaHhMVlRjbDYyckdlNS1ZeWNxQXpSOE11aS1fVkN4UFpPaGptMWlTdjVTY0tfQ3dwbl9kNEM0Si11YWJRYU5XX2RXRmZUOXF4dkZhcDhxMkxqZVAyWjhJOVVDMWhaR1l3bC1kZw?oc=5",
         "source": "www.gov.br",
@@ -27,12 +33,6 @@
         "title": "Anac abre consulta pública para repactuação da concessão do Aeroporto de Brasília - UOL Economia",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0RyZkZuZEEwTFpJTTlGamkyZlhKeXBzWmRwR0RNcUFOWnFTaTlXQ3dteXlMc3pYY0QwTkpYdkZsaDRqYmlWakYwRzRCenJuWTE2Si0weXVnbEwtaHBvT21pWVBlRnVJVGREU1c2dWRrLVBBVXpkUGktTzBTNzFHLVQ3NW5ocUY5cVAwOGF2MEhsRjNveXpHWE13cmxYX3J3QVhORGVabUk1ZWY2ZE8yRVQwcTRWRFRydXhub0ZkZjRXM3h6cHhPbW9mOFd2TkJkVEVQMXR6RVUtT182QlZZU3dJSU4?oc=5",
         "source": "UOL Economia",
-        "published_iso": "2026-06-23T07:00:00Z"
-      },
-      {
-        "title": "Anac abre consulta pública para repactuação da concessão do Aeroporto de Brasília - R7",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTWxZaXE0RlBEckxsMm8yNGdmT0t1VHU2RnR6Wmo5SEtHVVdwdWJtNy1FUXNiMTl2Nmx0ek1rUjR1SEJrblN3RTBlXzhwdFZ6SGh4cnppQmxlOGtPNFNNTkxXeTFxcFBmeVVwbnZJQjZ6X2hJOEg4SGplemttYnBtSHZBWFU3c0Uwd0FPVjV2MXV1ZFVXOGxnOXJIcEs3S05PSFhBWEFRTTNOalVoQjRrNUMxbGN5VWVDZmloeFhIaDhyRTg3djE2RTUyYXZwaUYwSmxDTDRrOW8?oc=5",
-        "source": "R7",
         "published_iso": "2026-06-23T07:00:00Z"
       }
     ],
@@ -47,7 +47,7 @@
         "title": "Inversión de US$2 millones: Aeropuertos Argentina lanzó el Operativo Nieve 2026 con drones e IA - La Nación",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnBVWUpVYndmRjFRaDl3WmxFRnNOTkJUWm04TGUtRXZPLVJCcEcxTndtM2FoSDJQQUFqWFBEVUZWeEhJS3kxMFNpN3phUGxESFhsV2JVTDlmcVJ3RDVjaUluNEE0dkJjSGVSLVlqZDRBNnRlMjMwdkdxTGRWaVYtdGdvbWhXYno5SGctMXhGSC0yS0FydUw3bG5SZTZGRThIdnFnbHRWMnczeWJWTER1Q0JIOXg3azBiYnJkMTgtcUdfZ1g2WUpacVZXZGpPdENfWi1NZnlWSEkzVHc?oc=5",
         "source": "La Nación",
-        "published_iso": "2026-07-02T19:54:00Z"
+        "published_iso": "2026-07-02T07:00:00Z"
       },
       {
         "title": "«Contrato clandestino»: la explosiva acusación de Rodolfo Tailhade contra Milei por Aeropuertos Argentina - El Intransigente",
