@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T13:25:13Z",
+  "updated_at": "2026-07-14T12:10:02Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -30,9 +30,9 @@
         "published_iso": "2026-06-23T21:37:00Z"
       },
       {
-        "title": "Anac abre consulta pública para repactuação da concessão do Aeroporto de Brasília - UOL Economia",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR0RyZkZuZEEwTFpJTTlGamkyZlhKeXBzWmRwR0RNcUFOWnFTaTlXQ3dteXlMc3pYY0QwTkpYdkZsaDRqYmlWakYwRzRCenJuWTE2Si0weXVnbEwtaHBvT21pWVBlRnVJVGREU1c2dWRrLVBBVXpkUGktTzBTNzFHLVQ3NW5ocUY5cVAwOGF2MEhsRjNveXpHWE13cmxYX3J3QVhORGVabUk1ZWY2ZE8yRVQwcTRWRFRydXhub0ZkZjRXM3h6cHhPbW9mOFd2TkJkVEVQMXR6RVUtT182QlZZU3dJSU4?oc=5",
-        "source": "UOL Economia",
+        "title": "Anac abre consulta pública para repactuação do Aeroporto de Brasília - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGkwZXlQcDRPRVlqTFJCTmU0V0NxSWNzLVdhak5CWkdBOEFXNTE0aVZ0NkhoQThQUTU3RWxaem1WQ1E5NTlpTnM1cUpEbUNHSzRBd2hNU3FUM2JjWFVRNHRBa2FUVkRqN2VsRUJtMTJhQlVNRTVpYVVGcHlpZmg2MmRXdkFrYzVtaXppcDdBYVN0RXl5cEFqTFFydndVSS1SN2RGSC05aw?oc=5",
+        "source": "CNN Brasil",
         "published_iso": "2026-06-23T07:00:00Z"
       }
     ],
@@ -56,16 +56,16 @@
         "published_iso": "2026-07-02T07:00:00Z"
       },
       {
-        "title": "Argentina Ground Support también prestará servicios integrales de asistencia en tierra, pero solo para aeropuertos concesionados a Aeropuertos Argentina - Aviación News",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nb0ZnQXMybGxwOXVodHdKMmt0Ynd2cWpaNGozNE9TeXdEVjNXalM5SVhMS1huU2d0bG52UkFvOUxiX0txV0M0R29rQTRVeVVualZTNzZpaTR3NTZNNm9Ldm5SSVBobllfMTJPM2Y2OA?oc=5",
-        "source": "Aviación News",
-        "published_iso": "2026-07-01T00:58:06Z"
-      },
-      {
         "title": "El gobierno de Milei pactó con los Eurnekian prorrogar la concesión de aeropuertos hasta 2056, pero ahora renegocian - elDiarioAR.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVFCLVJCMTY3M3A3X2JsOS1wNS04Xzg1LUo4UEhTQXZRMlZyQ004VlFVY2lkYjFIVldaUTk2YlA4aXlQT0E0N281TzR6RS1kM3VVVFBzUFhmXzR5ZjA0Z1JhMmpSaHREVmVPSENkN3FPLW43SHhBTmpqRklubTk3MUVlaW1jVUFYNUt0OHlWV3B0UHhlelVSdzJtb0loVEdyb0ZwOXFCWmZYcG5LZXR6d2lhR0hvLUx2ODF2SEhPQUJaallqUlZPVHlLeXJUQlU0bzlLcNIB2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Zw?oc=5",
         "source": "elDiarioAR.com",
         "published_iso": "2026-06-26T07:00:00Z"
+      },
+      {
+        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
+        "source": "Perfil",
+        "published_iso": "2026-06-20T07:00:00Z"
       }
     ]
   }
