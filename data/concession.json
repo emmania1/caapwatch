@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-07-14T12:10:02Z",
+  "updated_at": "2026-07-15T12:16:09Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Anac aumenta tarifas de aeroportos em São Paulo e no programa AmpliAR - boca.com.br",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU2tBVVJ0UGlnUW50bGZEUlM1MGppV2w2U1pxbWJ2d2F6TVZ4TEdaOEVScGVLYlk2aFZ1SWFvOUFTQUVvNEFEa2RUSFNoelA4UVctOVRFdV9kR1JrTEJOZUVNMXVod0hwNmJLVFJnSTRjekdhM3VUeTFZOXpBTWQ5YnRjUVRZR0NHMjBteV95cHJvTUh5c254eVVkbHdqRVk?oc=5",
+        "source": "boca.com.br",
+        "published_iso": "2026-07-14T16:50:37Z"
+      },
+      {
+        "title": "“Falta pouco”, diz Anac sobre renegociação do Aeroporto de Viracopos - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM21YRmwyelh3SWlhWkRCanlUYi1ycHYzZEJhLWI1RVNOa1BUMEI0Xy1fdTNmMmw5c20tT2ZOUHlna1FNNzhoUzBWOE5DYVVDSXkwRVB0R0Vic3VqdnpOeXJXdnFRdEtlTkQtcmV1OFZ6MXBTX2E1aXBfdDYwcmRRTkJZSC1yZVNndFdRcWtRLU8tMzJQcktUb1JhYXBlek5SYWxF?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-07-04T07:00:00Z"
+      },
       {
         "title": "Anac inicia consulta pública para repactuação da concessão do Aeroporto Internacional de Brasília - Brasília in Foco",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVJFb3dsM1J3ZnNSYWs0YmtTWlNWc2VsSFFQZ19DVTQ4OF9RLTNoaV80MU9HcWI3b2JIZngyU0I1bjdTdEN0eEJtRzZLZncxVVVTLWlCaHF6WFdZVWxkUXNkdlFyRWswMGROVnNZYWRGckNndi1SOVFQQmZqS0JhQmRNRjh2UUhlRzBZdmx4a3Ntc1lnZ3ZpSTVQekxkeU53a09vR3VLcUVJUTZFVjdsTWx0V00wRGppaG1UNGJNWG1MQzQ?oc=5",
@@ -22,37 +34,13 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSzBTTzRGVWMtYXA5ZUp1VnF0cmg0QlJHNWpDaUd0Mzd0b1ZZSGVobVR2S19NY2dCbktmVEgwMDJGTU1nNENhMU5BQnZNUExQWTVEMG9jSkk1ZjFMSnF0ek1tbWNBTHh6ZmQ3OEs5ckw0eWRWMkZVLUxOQThQekhSX1RPNmoyZ211OHRMTnRXeDVuczNtVWM5R1lyeExZbXdJNnRUanFOU1lHTFpMRkUzM2hyaUtIWFlWdFc1SDRJU0dGSmZuU01r?oc=5",
         "source": "blogdosilvalima.com.br",
         "published_iso": "2026-06-25T07:00:00Z"
-      },
-      {
-        "title": "Edital de repactuação do Aeroporto Internacional de Brasília (DF) entra em consulta pública - www.gov.br",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSkg0RExoU0lzaWExbWF3YjJfU1dEN2hqbDg3WnBQQkxRZWlrMEpJM0xTVWNid1N1eFpjTGN5elZCbmdXQkxiclh4T1FId3lMQkZjS180b1lyVEZBY2oyNE1tcHhJVlUxT3RTNlJQTDFwS2lkeTVwRzRhT3p3Qm51bUdEOTdqSTNYejV3Z0NiaHhMVlRjbDYyckdlNS1ZeWNxQXpSOE11aS1fVkN4UFpPaGptMWlTdjVTY0tfQ3dwbl9kNEM0Si11YWJRYU5XX2RXRmZUOXF4dkZhcDhxMkxqZVAyWjhJOVVDMWhaR1l3bC1kZw?oc=5",
-        "source": "www.gov.br",
-        "published_iso": "2026-06-23T21:37:00Z"
-      },
-      {
-        "title": "Anac abre consulta pública para repactuação do Aeroporto de Brasília - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGkwZXlQcDRPRVlqTFJCTmU0V0NxSWNzLVdhak5CWkdBOEFXNTE0aVZ0NkhoQThQUTU3RWxaem1WQ1E5NTlpTnM1cUpEbUNHSzRBd2hNU3FUM2JjWFVRNHRBa2FUVkRqN2VsRUJtMTJhQlVNRTVpYVVGcHlpZmg2MmRXdkFrYzVtaXppcDdBYVN0RXl5cEFqTFFydndVSS1SN2RGSC05aw?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-06-23T07:00:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "La trama secreta del robo del siglo: Milei le entregó sin controles los aeropuertos hasta 2066 a su jefe Eurnekian - primerapagina.info",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmpQYjFWNjNrSG1iQnZfSkJpT242SGlrRTJpczRmUXZzSWR5cmlGQkE1UFV6MTJwMTU2VnN3MWk1NUlDc05CMjRsUHZRYU9pNEtWVjd1NW1pZG16SXlpVXVfSGlWWDhuMjhxZHFya28yZnVTcmZXb2dQY3B0NDVxRE5YaFJqQk1Vdm93N05hdGJXRndYY0hnZGU2c1dMTDk4TThwS2F5QmhtYjVsbVlEUkNVZmFoQXVUbk00Uy14bGVubnBFZmN0UlliQm4xQThWR2llZ3ZubU5pMHdVblptOTdxSS1fRDg?oc=5",
-        "source": "primerapagina.info",
-        "published_iso": "2026-07-03T17:25:05Z"
-      },
-      {
         "title": "Inversión de US$2 millones: Aeropuertos Argentina lanzó el Operativo Nieve 2026 con drones e IA - La Nación",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnBVWUpVYndmRjFRaDl3WmxFRnNOTkJUWm04TGUtRXZPLVJCcEcxTndtM2FoSDJQQUFqWFBEVUZWeEhJS3kxMFNpN3phUGxESFhsV2JVTDlmcVJ3RDVjaUluNEE0dkJjSGVSLVlqZDRBNnRlMjMwdkdxTGRWaVYtdGdvbWhXYno5SGctMXhGSC0yS0FydUw3bG5SZTZGRThIdnFnbHRWMnczeWJWTER1Q0JIOXg3azBiYnJkMTgtcUdfZ1g2WUpacVZXZGpPdENfWi1NZnlWSEkzVHc?oc=5",
         "source": "La Nación",
-        "published_iso": "2026-07-02T07:00:00Z"
-      },
-      {
-        "title": "«Contrato clandestino»: la explosiva acusación de Rodolfo Tailhade contra Milei por Aeropuertos Argentina - El Intransigente",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZE1FbTZycWZzQ3BNYU9Pal84S1lSa2o3emozMzBlR1E0eHlGcm4zSmRHaGtHc1RfZlRyck5MY0Q3WllWWUQ0Tm51bzBOUXFNWWsyVDh5LTcyQWU3eVRwRWcwcmtjRmN1b0UtV05iaHVvY0NMbGJucGExaUFfSFh3T2RZLWlXSktUYWJudmtGbl94V2UyNTdqRnBKOXlRYm5LZEhubHRVajQ1NEZKZW1ob1FvekhwWXhTQ0N3aThjMnJtTm82czFPaXJzY0dSUEVobkRtR013?oc=5",
-        "source": "El Intransigente",
         "published_iso": "2026-07-02T07:00:00Z"
       },
       {
@@ -62,10 +50,22 @@
         "published_iso": "2026-06-26T07:00:00Z"
       },
       {
-        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
-        "source": "Perfil",
-        "published_iso": "2026-06-20T07:00:00Z"
+        "title": "Aeropuertos Argentina invertirá USD 85 millones en Aeroparque: las mejoras previstas y qué va a pasar con el cronograma de vuelos - Infobae",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTS00aTFxTHZhZ09HX19SN1lieC1EMUtoc3FQYkdTRGY1YTVnRGswcEc2RDl0elItX19ORjhpYnhKZjYtTHBiNDFPemhhX0RsbXMzUFctbkY0V0NpZGJCOF9JV2VxWDdhcGN3cW8tQTMyTjlRZ0ZnZnQ2dHlaWnFwNHl0WnVwSlotMHkzUXlQWDRmRnk4c0Jhemk2QjhhMDBNMWI4MkhlYmNmSGstZ2ZoN1JZc0RQSlNPSHNqN1RaMlBXMk5wMU9PTm1YbTVRRlRTbjNuZWxhT0ZvcExCNmlSZHN5SnlLLV9aNEVvcGpuUnZiSzdFQ1otdHZZaVlPMldvWDY00gGeAkFVX3lxTE5WU3ZGVjJGaEVYRDViQ0t3bTRoSlR2MHhqV2MwWGN1aHNVbE9zQnZ6eG5XOEx5N1Z5SUJrUER4RDBJQVR5T1NSNjM1Vmg5ZUc0SkFyeC1kVGFZalQ1VVg0MDhNZFcycmZzQVRVQTE5Z0RVX3V3MU9nUlRmeGlsMUJoS3NfR2NmTDh2V3otOUZSUm5DQXpEZGlfczdEd2ZXaFZvUHI1bjFLcDBPb3hvaGpGcFV4Vlo0aG5XeE0tMDJBbzVYUXoxeHVnazg3OTc4TmIydTdIa0FCby1kbEY5X0tKbWtKXzNNNXhsS3hDbHdGbnpORnR3S3R4SnpubGFzZFNid3dYbVNONmFPSGNSY09mQmQ3YW1JTVNCREJyc0E?oc=5",
+        "source": "Infobae",
+        "published_iso": "2026-06-05T07:00:00Z"
+      },
+      {
+        "title": "Con una inversión de u$s85 millones, Aeropuertos Argentina avanza en un plan de obras para renovar Aeroparque - Ambito",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdkpRbFdHcFlkTmEtTzl0a0kzTk5vSGxkYWZPS3VIcnJfUUdFZ1JlWGR3V2xrcEFaMXBNTHN0Qlo4eGNXRjBMY2ZheE1CSlItS2pqd0xyOF9nZlVIRFVmSEdYQVJpVXlfeU1vN0tRTW5lbW5jTW5EcFBtTnlIclFOWW9oX3pmTVpNRXVNMVByejZ4X1Brc3BTMVhpRWtNdlhodDB2VHBUQTczOVdRUEFPQW40RjBoWUV4YzlLdkI4SDg5VU52OWpDbGhSRmlzdm_SAdQBQVVfeXFMUGUzYnZLU1FjcVloUVNBMVE2UWV2S1JqdDBOTFJmbEFzU1RIQU9MSjJDT05UaUJaZ2lQTWpXUWREY0w2VGRIOTBPQTVvNmlVeWk4cGs2MW81UGt0bDRPbkRIc2pSNDZCeHREVVo4WG1BbDZCR2JRTlFlN0Zpc2NIeFVVR3pOMEdMZGdYWVY3V2tTUlBnVGhYLUI1MGpzWVZhaDdyVk1OektKcXZ4d2txNlJjeTNtVEtoVURuQ2ppX0F4UmlFUWZyUTlHMFhUaEx2azlPd0U?oc=5",
+        "source": "Ambito",
+        "published_iso": "2026-06-05T07:00:00Z"
+      },
+      {
+        "title": "Cierre de Aeroparque: Aeropuertos Argentina anunció qué días no estará operativo - Mensajero Turístico",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT0taZ1l5TEt2ZXpPd2J3Tk4teENWa0tlbjlPQ1dsRlpHQ25xSlFzeTNTaDllMmZQWVEwbGN3QWRkN0hxLWw5cEtFUUtSTXNWaEhoVW15b1BnVXJZMVhwUGhybE96cXUwbVFCVTJZUFhUMXhIQ1RxUGthVnM2ZldaSmZGNXhXWEVKb1lIVm4yVk1zampvcmJwVzVJWWhoYWhrU2hBSVF3WG0tYU5RZGx6cGU5OVN3WVB0azczN09vRGZLaEM5ZXZNcmh1dElXeHN3bk54S2REaHZuUdIB6AFBVV95cUxQdl9TUEZOWllmRC1GT0VDVDZhcExQQTNRa2hkcnhJZFlJMXlnNHJWM2ZrZXJEVjBPUGdBdTg0X0ZrbGZHYzhXcWtpaFdwSXV3VFZUWU5qMkY2MXRKUG5UaDIxUTNFSXZ0d09tVTJZaTc4UmhGVU1lT3F2U3JfSi1mSGFvWTRXZGVaaUdJVDAwR3hXREVFLW83aUctSXRCZlMwS19nTVZZcHhkQmRFUzlIZXN3MHNCNFpnX3FwbGtNYTExeHpXNWFST0ZxMjdGdGhTVjZtYm1BdkFudGhOQ3RLTXVVWHVWTFBR?oc=5",
+        "source": "Mensajero Turístico",
+        "published_iso": "2026-06-05T07:00:00Z"
       }
     ]
   }

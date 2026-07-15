@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-07-14T12:10:21Z",
+  "updated_at": "2026-07-15T12:16:29Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenia, Albania discuss expanding parliamentary cooperation and EU integration - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQTBXcWoxdlhTMnJhSlVEMk5qSktzaWY0R25mVlcwMHpPQWpXbHZIaTNQMy1BVUg1QktjeDMxV01DZ1BJSjBrak5GZVZ2OHVoNmhxWmNXTUkydXItZnFaenZLaHhGYjVkWHFqRzdJZFlvQ1dXcDBHY2RlcE5ZelN2SVh5S0hCamI1STV2WjBvYlU5R2NDcHFCUDd3MXdEdXkwQzAwNGFQS2V6RnI5VmU4ZS01WQ?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-07-14T11:48:19Z"
+      "title": "Media: Trump donor appointed to lead $200 million US investment fund for Armenia - Caliber.Az",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHJ3VmlNREFCUGh2X1VTYUNadk45MTFpOFpmLWxXZnVnOWlRTURTSE83Rkg0bmxmdG9JVlNjZHoyLVlsNmVqLTZPeS1jVzVXbFNRVmhoaVRybWxVSmZpZlQ5VldpM3haRGJRNTRFX0FsSTYwbEhlaUh1MlJaWUZFc2dzVkxuaW9RSnFRMElyNjBKLVE5Z0J3U0M1Wjc2RWtWNWlmaXduaXI?oc=5",
+      "source": "Caliber.Az",
+      "published_iso": "2026-07-15T12:07:33Z"
+    },
+    {
+      "title": "European Commission President Visits Azerbaijan - The Jamestown Foundation",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBa1EwU2p2YnhkZnJoMW03SzhyY1FPeTFrSGFsMFZSZWtGWERaZHVTUjk5X2hIT1Q4MUFnNlE2NTYxdFRJUEV6MWFvQlJBM1RQeGlvbHhKd0Y3c2RYSmlJZGhNa3ZnbEpDSVRIYlAyWFlCRG1aOXZ4ZTl3?oc=5",
+      "source": "The Jamestown Foundation",
+      "published_iso": "2026-07-14T20:54:18Z"
+    },
+    {
+      "title": "As With Ireland, Changing Armenia’s Constitution Would Guarantee Long-Term Peace: The EU Should Give Its Support - OpEd - Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZmJ2cXVuYmd5UDJEWVhwUnU5X0pVdDhmblVKQk9yMGJLLUNfbFFvRU5IYmxFZHJPZ05SbHpGbFpOY2ljSlN1T3hjLVNESGtsWXNFZlYyUFpUVHgzdUV5SmlOQWtKN24xMUx2dk1hOFpFal9uWEJqcm83M21rMnh5dF9IVWxkdEYzeDhQdkk1bklxRWhBUEN0Z05kcmJVUjNrS2NidV9aajMwek9hSFphalFyLXNpVWZOdGo1djVLclQzNHAzRU9OWkI2Y25TME9RTkh6b3RlNVV0ZENJMmRiLXI2LWdaNFdGR0E?oc=5",
+      "source": "Eurasia Review",
+      "published_iso": "2026-07-14T17:02:57Z"
+    },
+    {
+      "title": "Trump ballroom donor to lead state department’s $200m Armenia fund - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3dJdHprdW5SNWVfRC1rQTRxVFMwZTV4REZfQTgzRV9Hbl9wSnZjelhnUU5lYnRfbTFfMGp3M201RnZjaWhObDB2aXRIU2JDOEN4aVRSaDVtR3c2aVRoaUhDd0daTEppSjBsOUx1SkdhNVVZaHFBLXlmX1lFMW1PdEhhZHAxUWF4RFRmVVdhbG8?oc=5",
+      "source": "The Guardian",
+      "published_iso": "2026-07-14T12:45:00Z"
     },
     {
       "title": "Azerbaijan's President Aliyev commends Trump for helping secure peace deal with Armenia - Latest news from Azerbaijan",
@@ -17,28 +35,10 @@
       "published_iso": "2026-07-14T07:08:52Z"
     },
     {
-      "title": "The Floridian highlights President Ilham Aliyev’s remarks on Trump’s role in peace process - trend.az",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHS19uT0dscFk0R2ZnQ3I4ZHJxT2drczlBMUFUVl9NWXBSQWMzZEF2aUQ4ZkozVWpLNmtBQzFhR3N3MHRaLXVFWjF3aDUtOG50dkNUa09fY2JTU3liai1YVXFVYw?oc=5",
-      "source": "trend.az",
-      "published_iso": "2026-07-14T06:26:07Z"
-    },
-    {
-      "title": "The Floridian: Azerbaijan President Ilham Aliyev praises President Trump for brokering peace deal with Armenia - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNnhMSDhUbHQtQ3VQVnNkMVhjX1M1dzczX2FmaDdDOW1rYzNsT0s3Uk1RaFI4eWVBejlUQlo0ZUxLZmg5Y2RJLXFTbFJqQnR6RE5sakVSR2loNUtENWIzUklwWlF3NXVLcE05ZVBrOWVlWkZMbThsSFNEcmhVNHNIdC13M1EyMkhIMllZaUVwc2VQQlh6RUFqZllYWTRzZDhlUnE2UFRRM0FSRXByV2FLOXhuNGllZW5Ra1FaTGQtV1hvNzJRT0FUSVBXUmFJWkdhQngxNE9pZThNYkp5ZFM2dUg3Zw?oc=5",
-      "source": "Apa.az",
-      "published_iso": "2026-07-14T05:18:00Z"
-    },
-    {
       "title": "Aliyev Defends Ethnic Cleansing of Nagorno-Karabakh, Renews Demands on Armenia - The Armenian Report",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPek1BODZBNXZBZzFab2VkVlk1bzJrbV9ic0dVcVJoVEI3Z010amg4SEFoOENySmlnMmRPaFE2eVlZNjFIQlhnTXRjYll0bDFOQWVIUUhhN2xxLTdrRjIwYzFrVlpEVDZreWRqM21lR1pLenJQbHFYRUM0bm1FQ2JBVEFtallWT3NweU9KTGFMajVmN0tDdXJFdEtzdlg0RGxMM2ItUk83cTJBUldxZlRPYzdQVUw0LUE?oc=5",
       "source": "The Armenian Report",
       "published_iso": "2026-07-13T22:15:31Z"
-    },
-    {
-      "title": "Azerbaijan President Ilham Aliyev Praises President Trump for Brokering Peace Deal with Armenia - Floridian Press",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0Ewb0VQNkRJN0o3cUc5ZEh4OXZha3kwWk9IMTJNb0FXZUxKbTdJbGZOOXk1RlN3ejFHOTJIekI2ME9OX2xoOUwyY3R6WXlxS19RNmcyYjFxaDZhamxUZG5XcFZiVnd5TlFRTVU5azROd3VqeHJ4czZNMEQwQWpHWHRDRUlOd3hJUUJLMUw2Rmk2RGY3bW9YSkRoSmRfZVd5aVNTUDNjdzBRajd4bWZuUGJIRmtTZFhpTHZlNDdnSGtBUVZTSlNueVJfOA?oc=5",
-      "source": "Floridian Press",
-      "published_iso": "2026-07-13T21:53:02Z"
     }
   ]
 }
