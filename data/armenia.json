@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-07-17T12:08:42Z",
+  "updated_at": "2026-07-18T11:52:05Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Court closes last door on Armenia’s election fight - The Armenian Weekly",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUC13RmxLamtLMzczMkxfalVsczFrOGdlalUwTjViaTFNWldYTFhJZW5fVzREVnNaTUZQNmMxYmRDNEZfcmo0Ri1ndTV3QmRRaXlNaVpjT253QUpydjJzZG80Zml2UlpjdDZER01mbjAwOVZPVk9wX1VYWVZrWEVwQXJmUFBZNmRaY0hlN0FQWlZldw?oc=5",
+      "source": "The Armenian Weekly",
+      "published_iso": "2026-07-17T14:41:26Z"
+    },
+    {
+      "title": "Russia and Azerbaijan promote regional peace narrative despite unresolved disputes with Armenia - Horizon Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHFmdDBZSTVGVlpEbV9aOVRpRjlJTHA2eDhnN0R2VXhMbUhUamctZi1RbEJFSzMtUjZSdktwVThJeTNiOUdXd0NnbFZwa1k5Q1Z2S1E0M290TVhUdTVlUmRFZUdqSVFlQWtWd25VNFY3RXY3SEdycHZIXzdUZ3RDYkhNWktsQW02WXRGSkdSbGlHWjFMdHFMdm1SSVNYUWJqVzRUQnJFcm5VUW5hNkpCN2prM01wZmd0a0N3QUJfaFZMZw?oc=5",
+      "source": "Horizon Weekly",
+      "published_iso": "2026-07-17T14:26:15Z"
+    },
+    {
+      "title": "Bayramov says de facto peace exists between Armenia and Azerbaijan - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbDFMMktGdXR6Tnd5S3V2V0ZGb2s3TE1nX0VaeGxTT1pZWm92a2VkV3ZjYndVRHJvWmg0eWdyS3JiNXhKVVh3SU9OM0FZbktNWGfSAVdBVV95cUxQZFVza1hsTjdqSGFmSUVabTNaSmRkUWI5ZTlyTl81T1JfMFdmNlVzWUp5Z1ZsZGxyQlZZejdVcVFzdVlLb2NDbVc5T3VLaFl6cWRyX3J6dXM?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-07-17T13:07:00Z"
+    },
+    {
       "title": "Armenia, Azerbaijan Expand Trade as Constitutional Dispute Delays Peace Treaty - The Media Line",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWhhQ2MyVG5FZTNEc0F3bDBDQ1E5ZExKWTZFWFJFa25qNXZjZHFFVEpCWUJKQmp4cXFWWnhpWVdGdWZxZWpqTlFXakRyRGtxaXBWZW5DLW9pR181akxIaFNjbndiN0REeDU4R3dRUWExQ0FvenhOd19vNXdIaGNmSTVSSmpnYTduTHhtU0NrZkMxeTV6VTdqeTZmbVdHTFFxZzNvdXNfN2FtbHZwRWZCNEowQQ?oc=5",
       "source": "The Media Line",
       "published_iso": "2026-07-17T09:38:43Z"
-    },
-    {
-      "title": "Armenia constitution change can secure peace with Azerbaijan | Daily Sabah - Daily Sabah",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ3Y5M1o3RGRJTWt5VGd5U283b0xiY0NfUDEwTzVwTG1tMDRzWUFKcmNsVld3cmdVQU1nYW5BaVpLSHotV3A0U3lXbEZNOUxxajlRaHViWlFLeFZhM0VYdlYxWURMZXljLUtrSTJkWmhJaGtxM0lydF8zb3pHVG1JVG5uMDBOT1UzU185RDlLOGR4blZhNV80Q0dtWXFaNC1pc2xNakROMNIBpwFBVV95cUxOQ3Y5M1o3RGRJTWt5VGd5U283b0xiY0NfUDEwTzVwTG1tMDRzWUFKcmNsVld3cmdVQU1nYW5BaVpLSHotV3A0U3lXbEZNOUxxajlRaHViWlFLeFZhM0VYdlYxWURMZXljLUtrSTJkWmhJaGtxM0lydF8zb3pHVG1JVG5uMDBOT1UzU185RDlLOGR4blZhNV80Q0dtWXFaNC1pc2xNakROMA?oc=5",
-      "source": "Daily Sabah",
-      "published_iso": "2026-07-16T16:38:23Z"
     },
     {
       "title": "Armenia begins ratifying TRIPP agreement with the US: foreign minister outlines key details - JAMnews",
@@ -23,22 +35,10 @@
       "published_iso": "2026-07-16T16:37:23Z"
     },
     {
-      "title": "Diplomatic and operational power struggles shape TRIPP - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSjlsZE9ZdFpsSnlMYmVIdmpRekVmVjc4eGI3M1hOLTcwcldBSHl0RThHaEoxR1VGT3FxUFp6TjRrb0FZQ1hma3lxU3o3LV9mVFZUR0lDbHhZc0R2SWpLamtmRzJ1VWFSN0NNTTh1cHhWQWRQZ1g2MWpFWjBFaEhYMFl5WjhlaFVzbFl3Z2JzMEp6WDZtd3ZCRA?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-07-16T13:30:38Z"
-    },
-    {
-      "title": "Armenia advances ratification of U.S. strategic agreement on TRIPP project - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3piTHg2MWVDZ21ienpPYnhjeHM2MHNDc21lTExDbjU4d1dmNk5vb0ZlM250THdFN3pEMVBqT2FuZzVqSm1xR1RzV2I3bHc1c0JJZE80OTh6ZHdjTl9YWXpDbFdXTkNUX3l2SXFoVGdIQUFDZWVrdzFIQlp3SXFIZ09hc1o2TS1JYnFjdVlkNXJmQm9vRDJR?oc=5",
-      "source": "AnewZ",
-      "published_iso": "2026-07-16T09:45:00Z"
-    },
-    {
-      "title": "US leases Zangezur corridor - Modern.az",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TVU9tTy1nVDU1d2dGb2tCdFMwWGdOakI3VUx5bTBvbU45bjBlVmVnUUZyN01VV1RrZFdUMGRsMWVmck5zTzc3RnBmUlJSWENoMVFWYkowdlg0SEdpWUFCYVJhRzNwekVUU1J6T01mR0tHbXoyMlRRdFBCWmdDUQ?oc=5",
-      "source": "Modern.az",
-      "published_iso": "2026-07-16T08:26:30Z"
+      "title": "Armenia constitution change can secure peace with Azerbaijan | Daily Sabah - Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1JWYlgzTG1LSnFIYVVtekFUWE5mWFdDVW1fRmdWb0RrZnBVWVBrb21WRDBPT19qdnVjMTVsODI2MDQ2b29vVVJIOEJVbngwZnU2RXROb0pLMmlfZUUtV0ZqcHhzOFhYQndka3Y0UXl0anpfal9kYTJiUG1STWtIalJra3NrdEdGUVhGelQ4RG9BUnd4T0NTdjJPdG5UZ3Q4WUHSAacBQVVfeXFMTkN2OTNaN0RkSU1reVRneVNvN29MYmNDX1AxME81cExtbTA0c1lBSnJjbFZXd3JnVUFNZ2FuQWlaS0h6LVdwNFN5V2xGTTlMcWo5UWh1YlpRS3hWYTNFWHZWMVlETGV5Yy1La0kyZFpoSWhrcTNJcnRfM296R1RtSVRubjAwTk9VM1NfOUQ5SzhkeG5WYTVfNENHbVlxWjQtaXNsTWpETjA?oc=5",
+      "source": "Daily Sabah",
+      "published_iso": "2026-07-16T13:38:31Z"
     }
   ]
 }
