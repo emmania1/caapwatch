@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T11:51:44Z",
+  "updated_at": "2026-07-19T11:57:49Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -12,9 +12,15 @@
         "published_iso": "2026-07-17T16:54:20Z"
       },
       {
-        "title": "Ministério promove reuniões para repactuação do Aeroporto de Brasília - Tribuna do Agreste",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFUyRWE4clBQdTV1QkRpYUtvVVc1RHhBaG51QnFOX2I3dTd6b1BuTklweHZCNlVFYmlwdGVHM1Frb1UzcXN6Y2VMWVB4RUJMOGNEQy15QldsdHpUSTJ4elIwNTFscmNpTjY3OVVmOVl1ODNPeXc3S0hjTDVtemxnc2QtTHdFY1hYMTNNS0pETWE2TC1rR3RMZHFRVTktbGV4LXI5dHlzb2ZNdy0ycEdrbG5SejdxWFdRY09aM1ZRdkhpbkt5czlndg?oc=5",
-        "source": "Tribuna do Agreste",
+        "title": "Reuniões de Sondagem de Mercado para Repactuação da Concessão do Aeroporto de Brasília Acontecem em Julho; Inscrições Seguem até 22 do Mês. - Repórter Maceió",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY1c4YkwwWWktbmpGQ0MxYUIyWDhQLWpUZ2ViWlg3VDFCTzFlLXFyUDRZOXpQaks2Y25YV0pvVnRSYUhRVTFQM3c3am5Xbnd2cWc3TmphSFEtMWk5bTcxOFdlQVBBelVCSklpMUJ4QndmdWE3aXVhRlowSnBmWWRKN1RibXp1MW5ZNnZ6YmtUTXZOay0yQXpiV2diNXVPZGlrOTEzZHdoX2NIQ3g2R1Qtb0kyT1J6Y1BzY0V6NzRQTlJtVTIzWkdZMHh1aHVTZ1NDZjJzRUIwY3dFNVN4QkZTQ2ZOLXFqWUpUaGZNeU8wQ2VfU0NSU0NFcENsekU?oc=5",
+        "source": "Repórter Maceió",
+        "published_iso": "2026-07-16T19:39:00Z"
+      },
+      {
+        "title": "Governo marca sondagem com mercado para repactuação do aeroporto de Brasília - Tribuna do Sertão",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOGpIVGZkeHh1d0QwcHM4WXlsdVhzMHpUd1BjekpuUGczUlN1UTdlUEVkdG1tckxrVjJtZmRraUMyUUhNQUtxdmxRMUJFQnFXaTNmV2FuV08ybVFPM0hRTzRhbUE3STdfdm5jT0trak5pODdsRWtHZlNWQUh2dlFFbmVRS3N3VkdIcWtHLV9pS0FKUllSQUJXbi1UOTZDSEdSWHRJbk5UZHNEdXNXMF90c3BmMkFHNDlRQTZjRVdHSU9WSDM1Z25XRklFYWVNa1k1?oc=5",
+        "source": "Tribuna do Sertão",
         "published_iso": "2026-07-16T16:57:00Z"
       },
       {
@@ -28,12 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGVzTmtwbHZOYUFiVFdsdkpwVVowRk9fV3daaV90bGFpRjYzVmhOV1hJWnhURnVxMktmNmp5MXNsaUpobFlLazc5cjUwSG5PTmQ5VjdGU1V3bnBlbk5HZXdlY1pPUVFmR1VITmVuaFA1MFF5dnVMUnVEei1ZelNLcTg1WFpXZ2F6WG9wUV9BLThrSVJhTzdvN0NaekNya19oaVZBN1NyWFMzZ1F4SDVWOUhVXzB0YUJWeE5BeEVwSXZldk9YeXhTTHhXZGphWlJOQ21taQ?oc=5",
         "source": "Metrópoles",
         "published_iso": "2026-06-25T07:00:00Z"
-      },
-      {
-        "title": "Edital de repactuação do Aeroporto Internacional de Brasília (DF) entra em consulta pública - www.gov.br",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSkg0RExoU0lzaWExbWF3YjJfU1dEN2hqbDg3WnBQQkxRZWlrMEpJM0xTVWNid1N1eFpjTGN5elZCbmdXQkxiclh4T1FId3lMQkZjS180b1lyVEZBY2oyNE1tcHhJVlUxT3RTNlJQTDFwS2lkeTVwRzRhT3p3Qm51bUdEOTdqSTNYejV3Z0NiaHhMVlRjbDYyckdlNS1ZeWNxQXpSOE11aS1fVkN4UFpPaGptMWlTdjVTY0tfQ3dwbl9kNEM0Si11YWJRYU5XX2RXRmZUOXF4dkZhcDhxMkxqZVAyWjhJOVVDMWhaR1l3bC1kZw?oc=5",
-        "source": "www.gov.br",
-        "published_iso": "2026-06-23T21:37:00Z"
       }
     ],
     "aa2000": [
@@ -41,7 +41,7 @@
         "title": "La trama secreta del robo del siglo: Milei le entregó sin controles los aeropuertos hasta 2066 a su jefe Eurnekian - primerapagina.info",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmpQYjFWNjNrSG1iQnZfSkJpT242SGlrRTJpczRmUXZzSWR5cmlGQkE1UFV6MTJwMTU2VnN3MWk1NUlDc05CMjRsUHZRYU9pNEtWVjd1NW1pZG16SXlpVXVfSGlWWDhuMjhxZHFya28yZnVTcmZXb2dQY3B0NDVxRE5YaFJqQk1Vdm93N05hdGJXRndYY0hnZGU2c1dMTDk4TThwS2F5QmhtYjVsbVlEUkNVZmFoQXVUbk00Uy14bGVubnBFZmN0UlliQm4xQThWR2llZ3ZubU5pMHdVblptOTdxSS1fRDg?oc=5",
         "source": "primerapagina.info",
-        "published_iso": "2026-07-03T17:25:05Z"
+        "published_iso": "2026-07-03T07:00:00Z"
       },
       {
         "title": "Inversión de US$2 millones: Aeropuertos Argentina lanzó el Operativo Nieve 2026 con drones e IA - La Nación",

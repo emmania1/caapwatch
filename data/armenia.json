@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-07-18T11:52:05Z",
+  "updated_at": "2026-07-19T11:58:08Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Bayramov: De facto peace already exists between Armenia and Azerbaijan - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEd1RHV2bkMwYW1ENDFmbHVLR0VabWUzQ0pnemdBV0R2VGJnaEh2WWhON2VzUEZpaXBSZUo2M0ctQ1A1eDNiaERXcHNHbWZ3OGUtaWhtdHBBZi0yUHBSdnRRbmR6V05qXzJpNzM2NFJSQmxLbW5QMUFreS0yVFpvVmhYRFJ5S2RFbExjZF9oWWxHemdSbGJtZnpSTlJyc25IS3pV?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-07-19T07:45:10Z"
+    },
+    {
+      "title": "Ratification of U.S.-Backed TRIPP Strategic Cooperation Agreement Begins in Armenia - caspiannews.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWE0TlFvMTZVZDhsSFR0ZDc0T3ZDWXl2NnNlZC1LQ1dpUlFIVkdldHVOc3NRX25lMGI1VldxUzd3cWRLbU1lUV95U2Y0U19BS0p4UkI0Y1RMby1SVTZsN3JabEVMRGwzNWp0eFNNUi1WX0QxVjY3WXFiLUpybzlobUgtUVBEX2h6Mk9JX0lFdThmU1ZFWVlKS2JETEs0SlV1V0RYMnVXbUxnU3hZTnl4T2ZST0M5U0hScFh6aWpKU1ZJSEhldkpDWDBR?oc=5",
+      "source": "caspiannews.com",
+      "published_iso": "2026-07-18T15:25:16Z"
+    },
     {
       "title": "Court closes last door on Armenia’s election fight - The Armenian Weekly",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUC13RmxLamtLMzczMkxfalVsczFrOGdlalUwTjViaTFNWldYTFhJZW5fVzREVnNaTUZQNmMxYmRDNEZfcmo0Ri1ndTV3QmRRaXlNaVpjT253QUpydjJzZG80Zml2UlpjdDZER01mbjAwOVZPVk9wX1VYWVZrWEVwQXJmUFBZNmRaY0hlN0FQWlZldw?oc=5",
@@ -17,28 +29,16 @@
       "published_iso": "2026-07-17T14:26:15Z"
     },
     {
-      "title": "Bayramov says de facto peace exists between Armenia and Azerbaijan - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbDFMMktGdXR6Tnd5S3V2V0ZGb2s3TE1nX0VaeGxTT1pZWm92a2VkV3ZjYndVRHJvWmg0eWdyS3JiNXhKVVh3SU9OM0FZbktNWGfSAVdBVV95cUxQZFVza1hsTjdqSGFmSUVabTNaSmRkUWI5ZTlyTl81T1JfMFdmNlVzWUp5Z1ZsZGxyQlZZejdVcVFzdVlLb2NDbVc5T3VLaFl6cWRyX3J6dXM?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-07-17T13:07:00Z"
-    },
-    {
       "title": "Armenia, Azerbaijan Expand Trade as Constitutional Dispute Delays Peace Treaty - The Media Line",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWhhQ2MyVG5FZTNEc0F3bDBDQ1E5ZExKWTZFWFJFa25qNXZjZHFFVEpCWUJKQmp4cXFWWnhpWVdGdWZxZWpqTlFXakRyRGtxaXBWZW5DLW9pR181akxIaFNjbndiN0REeDU4R3dRUWExQ0FvenhOd19vNXdIaGNmSTVSSmpnYTduTHhtU0NrZkMxeTV6VTdqeTZmbVdHTFFxZzNvdXNfN2FtbHZwRWZCNEowQQ?oc=5",
       "source": "The Media Line",
       "published_iso": "2026-07-17T09:38:43Z"
     },
     {
-      "title": "Armenia begins ratifying TRIPP agreement with the US: foreign minister outlines key details - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QTVBoa1gtYUtScXBMSEx5STJISS0zaHVHZGJXUTNQenFGS2RGRXg0M19wc3E2emtvVzU3MmJSejY5RmhsVTRULURWX2tILWdwQlJsRnh0WURGbmNveDZUb3RqeTRWdzZncmt4ZFg5b3JfUzcz?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-07-16T16:37:23Z"
-    },
-    {
-      "title": "Armenia constitution change can secure peace with Azerbaijan | Daily Sabah - Daily Sabah",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1JWYlgzTG1LSnFIYVVtekFUWE5mWFdDVW1fRmdWb0RrZnBVWVBrb21WRDBPT19qdnVjMTVsODI2MDQ2b29vVVJIOEJVbngwZnU2RXROb0pLMmlfZUUtV0ZqcHhzOFhYQndka3Y0UXl0anpfal9kYTJiUG1STWtIalJra3NrdEdGUVhGelQ4RG9BUnd4T0NTdjJPdG5UZ3Q4WUHSAacBQVVfeXFMTkN2OTNaN0RkSU1reVRneVNvN29MYmNDX1AxME81cExtbTA0c1lBSnJjbFZXd3JnVUFNZ2FuQWlaS0h6LVdwNFN5V2xGTTlMcWo5UWh1YlpRS3hWYTNFWHZWMVlETGV5Yy1La0kyZFpoSWhrcTNJcnRfM296R1RtSVRubjAwTk9VM1NfOUQ5SzhkeG5WYTVfNENHbVlxWjQtaXNsTWpETjA?oc=5",
-      "source": "Daily Sabah",
-      "published_iso": "2026-07-16T13:38:31Z"
+      "title": "‘Trump Route’ Deal In Conflict With Armenian Law, Says Justice Ministry - Ազատություն Ռադիոկայան",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsT0JiSThobGZNaUFBWHQxRGE5S1d2aXpMdk1RYmNSNXBSc3B2VUwxNXRMY0Jabml6N2c5WDYxd1lWT1pKYzl0T3FEYzFDeGhyTmfSAVRBVV95cUxOWFF2ZkFKUXg2eV84TWxaRnBiVUdYUjdzcUJ5Y01oT1pHVlZoM2hIbGwzVTZfdXI3b1FNLS1qQ0RGQkF6bXpJWGlmTHNDRXNqaDRxVWU?oc=5",
+      "source": "Ազատություն Ռադիոկայան",
+      "published_iso": "2026-07-16T18:35:42Z"
     }
   ]
 }
