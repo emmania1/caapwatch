@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-07-19T11:58:08Z",
+  "updated_at": "2026-07-21T12:25:22Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "In Azerbaijan, they continue to talk about the so-called “Zangezur corridor” - NEWS.am",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SS253M1l2NmxmVS1qbzMtTnh1MjNNcFpUcmw3MVEyZ3NON0dtUi0tSm9XcjBoV1pkOVVZUTF0dUVrb1JJSGc?oc=5",
+      "source": "NEWS.am",
+      "published_iso": "2026-07-21T08:51:34Z"
+    },
+    {
+      "title": "Chair of 'Trump Route' fund buys Armenia's second-largest copper mine - sovanews.tv",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmFyN2VFRFZXQmwzVks0MjVrdklycXIxblF3VWdFRFk5ZXFHaTR2SEdWSzBkSGE4cXpBNEc2cWh2aHJRWFhZMF84LXZNem9VWjFZSkV1eFJFSkxzeWZNcm15dlJCX3FrYWJxOEh1YURhdGd1Z2VaTWZ4RGQ2Nk9XN3RsYVQ5Q1ZmSmpPd3NfbzBtN2JKZTMzQ0k3SjJRZVVzem8w0gGoAUFVX3lxTE1fN3VISXZrVW14d3pfSDQwRDhCOHhCRkNNVVM1Yl93OVViSFdkVlBuQXFJakc3VFFMVGtuYjZaa1lpaWlGUE1ITEc2WFFRVk1oNnNkU2RSYUNlMjlLU2FRTFpmLUhpQ1RtZHY3em84Rm9PZl96ZnE3Q3lsUE9BeXR0Q2hJX2lyWGkyb3VvdlFIUGJUaHBMazdGYzMwMUJmS19sLWw4QVZtRg?oc=5",
+      "source": "sovanews.tv",
+      "published_iso": "2026-07-21T05:48:21Z"
+    },
+    {
+      "title": "Armenian Democracy Faces a Threat From Within - Foreign Policy",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODJibk53NVF6UWMtSG1Fbi1nV2lHSy1RLU40alFKSlBCV0U1NGRoYWVhRnhxZ2FzQ3U2OG5UTHp6Y0tXaUtaNW1jdkw0SjZpY09KektqZDVTcDBzbkdUVXNqdnQ3bU9RTS1XcHBscWIxRUh2UXkyWVFwNVVyT21TZDZB?oc=5",
+      "source": "Foreign Policy",
+      "published_iso": "2026-07-21T04:02:33Z"
+    },
+    {
+      "title": "European Commission President Visits Armenia - The Jamestown Foundation",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aY0xoVU5SVktGcWREMktpWllUU1JKbHFZQjlhY3ZDcm0yOHhXb1RuMk9Wa0QteEM2ZHRaOXFlaVVOZWVzSTVEQXVTX0VXcVNjaUVCM3pZdmxXZjBmcmRncWt4anlBVl90dlI1emlrSlI?oc=5",
+      "source": "The Jamestown Foundation",
+      "published_iso": "2026-07-20T20:29:18Z"
+    },
     {
       "title": "Bayramov: De facto peace already exists between Armenia and Azerbaijan - commonspace.eu",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEd1RHV2bkMwYW1ENDFmbHVLR0VabWUzQ0pnemdBV0R2VGJnaEh2WWhON2VzUEZpaXBSZUo2M0ctQ1A1eDNiaERXcHNHbWZ3OGUtaWhtdHBBZi0yUHBSdnRRbmR6V05qXzJpNzM2NFJSQmxLbW5QMUFreS0yVFpvVmhYRFJ5S2RFbExjZF9oWWxHemdSbGJtZnpSTlJyc25IS3pV?oc=5",
@@ -15,30 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWE0TlFvMTZVZDhsSFR0ZDc0T3ZDWXl2NnNlZC1LQ1dpUlFIVkdldHVOc3NRX25lMGI1VldxUzd3cWRLbU1lUV95U2Y0U19BS0p4UkI0Y1RMby1SVTZsN3JabEVMRGwzNWp0eFNNUi1WX0QxVjY3WXFiLUpybzlobUgtUVBEX2h6Mk9JX0lFdThmU1ZFWVlKS2JETEs0SlV1V0RYMnVXbUxnU3hZTnl4T2ZST0M5U0hScFh6aWpKU1ZJSEhldkpDWDBR?oc=5",
       "source": "caspiannews.com",
       "published_iso": "2026-07-18T15:25:16Z"
-    },
-    {
-      "title": "Court closes last door on Armenia’s election fight - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUC13RmxLamtLMzczMkxfalVsczFrOGdlalUwTjViaTFNWldYTFhJZW5fVzREVnNaTUZQNmMxYmRDNEZfcmo0Ri1ndTV3QmRRaXlNaVpjT253QUpydjJzZG80Zml2UlpjdDZER01mbjAwOVZPVk9wX1VYWVZrWEVwQXJmUFBZNmRaY0hlN0FQWlZldw?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-07-17T14:41:26Z"
-    },
-    {
-      "title": "Russia and Azerbaijan promote regional peace narrative despite unresolved disputes with Armenia - Horizon Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHFmdDBZSTVGVlpEbV9aOVRpRjlJTHA2eDhnN0R2VXhMbUhUamctZi1RbEJFSzMtUjZSdktwVThJeTNiOUdXd0NnbFZwa1k5Q1Z2S1E0M290TVhUdTVlUmRFZUdqSVFlQWtWd25VNFY3RXY3SEdycHZIXzdUZ3RDYkhNWktsQW02WXRGSkdSbGlHWjFMdHFMdm1SSVNYUWJqVzRUQnJFcm5VUW5hNkpCN2prM01wZmd0a0N3QUJfaFZMZw?oc=5",
-      "source": "Horizon Weekly",
-      "published_iso": "2026-07-17T14:26:15Z"
-    },
-    {
-      "title": "Armenia, Azerbaijan Expand Trade as Constitutional Dispute Delays Peace Treaty - The Media Line",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWhhQ2MyVG5FZTNEc0F3bDBDQ1E5ZExKWTZFWFJFa25qNXZjZHFFVEpCWUJKQmp4cXFWWnhpWVdGdWZxZWpqTlFXakRyRGtxaXBWZW5DLW9pR181akxIaFNjbndiN0REeDU4R3dRUWExQ0FvenhOd19vNXdIaGNmSTVSSmpnYTduTHhtU0NrZkMxeTV6VTdqeTZmbVdHTFFxZzNvdXNfN2FtbHZwRWZCNEowQQ?oc=5",
-      "source": "The Media Line",
-      "published_iso": "2026-07-17T09:38:43Z"
-    },
-    {
-      "title": "‘Trump Route’ Deal In Conflict With Armenian Law, Says Justice Ministry - Ազատություն Ռադիոկայան",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsT0JiSThobGZNaUFBWHQxRGE5S1d2aXpMdk1RYmNSNXBSc3B2VUwxNXRMY0Jabml6N2c5WDYxd1lWT1pKYzl0T3FEYzFDeGhyTmfSAVRBVV95cUxOWFF2ZkFKUXg2eV84TWxaRnBiVUdYUjdzcUJ5Y01oT1pHVlZoM2hIbGwzVTZfdXI3b1FNLS1qQ0RGQkF6bXpJWGlmTHNDRXNqaDRxVWU?oc=5",
-      "source": "Ազատություն Ռադիոկայան",
-      "published_iso": "2026-07-16T18:35:42Z"
     }
   ]
 }

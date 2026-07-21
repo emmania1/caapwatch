@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-07-20T13:04:13Z",
+  "updated_at": "2026-07-21T12:25:02Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Consulta debate modelo de concessão do Aeroporto de Brasília - Correio Braziliense",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcktvZlFPXzIzUzI1TzU0cmFQQjJpWnVpRUdoajhlSkhfNmo5bVFsN1ZvTFV1U2FFSDJiaEZvNFRTZjB0TjJUa3lNZ2gtOWlaR2YwYWdJbURZd1hzNlVlSkxKbVlBVjY0cG96aG44WTlMRmNMWW96ZDEtXzdMMzIxbzVaQXlEeHhkM3cxR3BsQUlBZnZ5a2d5MFp5Q0JEMjVBRktHRW1zUVB0bDlLd211Vm50OWVOUGQyUl9pdEdIdzBtaVA1WnhfZ0ZB0gHPAUFVX3lxTE5sc19oNUF1cWxmalUtWnExaUFmdDZ4RHQwSTdRVWRKejBBaUVrc3kyTEZHWnVEcG41RU9DUUpKUHlDS3RmNzVxU19qS1F1RjhKcVhqalo4ek42UVdhRmRMU1RzeG5fNFh0ZElZQ0F2dGVJd3pXUE9iTE51c2JNMVRlRTE0X3lMNUplQlNWZmtLaDI0b2hCN01paUdUOS1PWDFLZHJMSV9id0ZQM0h0OEZEYW90UElzRUV0VkpCa1FtWXoyQU85TXRVZFZIN1JFaw?oc=5",
+        "source": "Correio Braziliense",
+        "published_iso": "2026-07-21T08:00:00Z"
+      },
       {
         "title": "Governo promove reuniões com o mercado para avançar na repactuação da concessão do Aeroporto de Brasília - AEROIN",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejNzMl9kSFAtaGozVmhoSGxGZS1JeGVxZm1reVBXMFRyQldTNGg0c1ozZ09MOXRxVEQ3Z0JTYmc0eWNtbWhxcWs3Q0k2eF9LV2RQZmhUTUFUdVlGZk5pUk1DakpfMVpUSFllVGdwejBUeWtpM05lZ3pmMUNZTXNSX3h1RTFpa3lfc2pTMGl0U3ZOVklqN1BRM2EtZVlUcnhvSV8zcHdYeUVwSjdJeHlabUZlY3hoSWtIZW42cDFpSWgzUdIBwgFBVV95cUxNejNzMl9kSFAtaGozVmhoSGxGZS1JeGVxZm1reVBXMFRyQldTNGg0c1ozZ09MOXRxVEQ3Z0JTYmc0eWNtbWhxcWs3Q0k2eF9LV2RQZmhUTUFUdVlGZk5pUk1DakpfMVpUSFllVGdwejBUeWtpM05lZ3pmMUNZTXNSX3h1RTFpa3lfc2pTMGl0U3ZOVklqN1BRM2EtZVlUcnhvSV8zcHdYeUVwSjdJeHlabUZlY3hoSWtIZW42cDFpSWgzUQ?oc=5",
@@ -28,12 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGVzTmtwbHZOYUFiVFdsdkpwVVowRk9fV3daaV90bGFpRjYzVmhOV1hJWnhURnVxMktmNmp5MXNsaUpobFlLazc5cjUwSG5PTmQ5VjdGU1V3bnBlbk5HZXdlY1pPUVFmR1VITmVuaFA1MFF5dnVMUnVEei1ZelNLcTg1WFpXZ2F6WG9wUV9BLThrSVJhTzdvN0NaekNya19oaVZBN1NyWFMzZ1F4SDVWOUhVXzB0YUJWeE5BeEVwSXZldk9YeXhTTHhXZGphWlJOQ21taQ?oc=5",
         "source": "Metrópoles",
         "published_iso": "2026-06-25T07:00:00Z"
-      },
-      {
-        "title": "Edital de repactuação do Aeroporto Internacional de Brasília (DF) entra em consulta pública - www.gov.br",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSkg0RExoU0lzaWExbWF3YjJfU1dEN2hqbDg3WnBQQkxRZWlrMEpJM0xTVWNid1N1eFpjTGN5elZCbmdXQkxiclh4T1FId3lMQkZjS180b1lyVEZBY2oyNE1tcHhJVlUxT3RTNlJQTDFwS2lkeTVwRzRhT3p3Qm51bUdEOTdqSTNYejV3Z0NiaHhMVlRjbDYyckdlNS1ZeWNxQXpSOE11aS1fVkN4UFpPaGptMWlTdjVTY0tfQ3dwbl9kNEM0Si11YWJRYU5XX2RXRmZUOXF4dkZhcDhxMkxqZVAyWjhJOVVDMWhaR1l3bC1kZw?oc=5",
-        "source": "www.gov.br",
-        "published_iso": "2026-06-23T21:37:00Z"
       }
     ],
     "aa2000": [
