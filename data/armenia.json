@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-07-21T12:25:22Z",
+  "updated_at": "2026-07-22T12:24:23Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Germany looks to Azerbaijan as Armenia ties shift the regional map - RFI",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjZVb1JMeEg5bWY1QUw0cHlUbzhJVE0xQUoxTzFLYmMwWnNGcVRsUG9pTG14d1B3UUtGMURDRHNva2xXM0t3TmoyUXozeFE3UXVPQUxDaXJHeHhwb3JjMkc1cTh6YTlpTGhfeWNlb0FkeHFLX0N3dW5YckNuSldfakEwcVIwWGZoeXRRcFpGbnFLelVDRVVkazNvTm92anEzdGxsUnFtTU10Rm9wMEUzUQ?oc=5",
+      "source": "RFI",
+      "published_iso": "2026-07-22T05:08:04Z"
+    },
     {
       "title": "In Azerbaijan, they continue to talk about the so-called “Zangezur corridor” - NEWS.am",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SS253M1l2NmxmVS1qbzMtTnh1MjNNcFpUcmw3MVEyZ3NON0dtUi0tSm9XcjBoV1pkOVVZUTF0dUVrb1JJSGc?oc=5",
@@ -17,28 +23,22 @@
       "published_iso": "2026-07-21T05:48:21Z"
     },
     {
-      "title": "Armenian Democracy Faces a Threat From Within - Foreign Policy",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODJibk53NVF6UWMtSG1Fbi1nV2lHSy1RLU40alFKSlBCV0U1NGRoYWVhRnhxZ2FzQ3U2OG5UTHp6Y0tXaUtaNW1jdkw0SjZpY09KektqZDVTcDBzbkdUVXNqdnQ3bU9RTS1XcHBscWIxRUh2UXkyWVFwNVVyT21TZDZB?oc=5",
-      "source": "Foreign Policy",
-      "published_iso": "2026-07-21T04:02:33Z"
-    },
-    {
-      "title": "European Commission President Visits Armenia - The Jamestown Foundation",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aY0xoVU5SVktGcWREMktpWllUU1JKbHFZQjlhY3ZDcm0yOHhXb1RuMk9Wa0QteEM2ZHRaOXFlaVVOZWVzSTVEQXVTX0VXcVNjaUVCM3pZdmxXZjBmcmRncWt4anlBVl90dlI1emlrSlI?oc=5",
-      "source": "The Jamestown Foundation",
-      "published_iso": "2026-07-20T20:29:18Z"
-    },
-    {
-      "title": "Bayramov: De facto peace already exists between Armenia and Azerbaijan - commonspace.eu",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEd1RHV2bkMwYW1ENDFmbHVLR0VabWUzQ0pnemdBV0R2VGJnaEh2WWhON2VzUEZpaXBSZUo2M0ctQ1A1eDNiaERXcHNHbWZ3OGUtaWhtdHBBZi0yUHBSdnRRbmR6V05qXzJpNzM2NFJSQmxLbW5QMUFreS0yVFpvVmhYRFJ5S2RFbExjZF9oWWxHemdSbGJtZnpSTlJyc25IS3pV?oc=5",
-      "source": "commonspace.eu",
-      "published_iso": "2026-07-19T07:45:10Z"
+      "title": "European Commission President Visits Armenia - Substack",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12bWtxNkhOcEhuSnd1YXVud2VzZGFpV0FkYUV0MEdFQ3RyRUZ6OFRNZkZxRUZLNUNucjdPNUVSVU9STl9IQ1JpdEx4TjhlRkVKWGFoellSVFFteTVIM1VfVmV2R21vejFIaHpOTmExT0dWWDNjRXRydlVnaHN5dw?oc=5",
+      "source": "Substack",
+      "published_iso": "2026-07-20T22:30:16Z"
     },
     {
       "title": "Ratification of U.S.-Backed TRIPP Strategic Cooperation Agreement Begins in Armenia - caspiannews.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWE0TlFvMTZVZDhsSFR0ZDc0T3ZDWXl2NnNlZC1LQ1dpUlFIVkdldHVOc3NRX25lMGI1VldxUzd3cWRLbU1lUV95U2Y0U19BS0p4UkI0Y1RMby1SVTZsN3JabEVMRGwzNWp0eFNNUi1WX0QxVjY3WXFiLUpybzlobUgtUVBEX2h6Mk9JX0lFdThmU1ZFWVlKS2JETEs0SlV1V0RYMnVXbUxnU3hZTnl4T2ZST0M5U0hScFh6aWpKU1ZJSEhldkpDWDBR?oc=5",
       "source": "caspiannews.com",
       "published_iso": "2026-07-18T15:25:16Z"
+    },
+    {
+      "title": "Russia and Azerbaijan promote regional peace narrative despite unresolved disputes with Armenia - Horizon Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHFmdDBZSTVGVlpEbV9aOVRpRjlJTHA2eDhnN0R2VXhMbUhUamctZi1RbEJFSzMtUjZSdktwVThJeTNiOUdXd0NnbFZwa1k5Q1Z2S1E0M290TVhUdTVlUmRFZUdqSVFlQWtWd25VNFY3RXY3SEdycHZIXzdUZ3RDYkhNWktsQW02WXRGSkdSbGlHWjFMdHFMdm1SSVNYUWJqVzRUQnJFcm5VUW5hNkpCN2prM01wZmd0a0N3QUJfaFZMZw?oc=5",
+      "source": "Horizon Weekly",
+      "published_iso": "2026-07-17T14:26:15Z"
     }
   ]
 }
