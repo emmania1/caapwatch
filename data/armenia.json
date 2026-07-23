@@ -1,11 +1,17 @@
 {
-  "updated_at": "2026-07-22T12:24:23Z",
+  "updated_at": "2026-07-23T12:25:18Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Germany looks to Azerbaijan as Armenia ties shift the regional map - RFI",
+      "title": "President Aliyev Names Oil Supplies to Armenia Practical Post-Conflict Step - caspiannews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWVxdWpYZFdibWdNeVJpVlpwSEpsdEE2c0lTd0xUSnV5X1VNNVdOZjE0ZzBPalRYaGszZVYtY1RaV011ZjBxSjlWT3lrMDdpXzNaeTBwY2paT2djNnBFWENNQ29WdEcySEpKMURGSXlnVEFwX0tMQnJ6bDY3TndJeXdnN2NhTlZhZ0FSVnFTZ2wtWjlubGMxeEM4SnA0aW5KbllfbXRRSHllMDNGSlFHMDA0LTJDVlMwX19zc1huRTBBQQ?oc=5",
+      "source": "caspiannews.com",
+      "published_iso": "2026-07-22T22:58:16Z"
+    },
+    {
+      "title": "Germany looks to Azerbaijan as Armenia ties shift regional relationships - RFI",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjZVb1JMeEg5bWY1QUw0cHlUbzhJVE0xQUoxTzFLYmMwWnNGcVRsUG9pTG14d1B3UUtGMURDRHNva2xXM0t3TmoyUXozeFE3UXVPQUxDaXJHeHhwb3JjMkc1cTh6YTlpTGhfeWNlb0FkeHFLX0N3dW5YckNuSldfakEwcVIwWGZoeXRRcFpGbnFLelVDRVVkazNvTm92anEzdGxsUnFtTU10Rm9wMEUzUQ?oc=5",
       "source": "RFI",
       "published_iso": "2026-07-22T05:08:04Z"
@@ -15,12 +21,6 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SS253M1l2NmxmVS1qbzMtTnh1MjNNcFpUcmw3MVEyZ3NON0dtUi0tSm9XcjBoV1pkOVVZUTF0dUVrb1JJSGc?oc=5",
       "source": "NEWS.am",
       "published_iso": "2026-07-21T08:51:34Z"
-    },
-    {
-      "title": "Chair of 'Trump Route' fund buys Armenia's second-largest copper mine - sovanews.tv",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmFyN2VFRFZXQmwzVks0MjVrdklycXIxblF3VWdFRFk5ZXFHaTR2SEdWSzBkSGE4cXpBNEc2cWh2aHJRWFhZMF84LXZNem9VWjFZSkV1eFJFSkxzeWZNcm15dlJCX3FrYWJxOEh1YURhdGd1Z2VaTWZ4RGQ2Nk9XN3RsYVQ5Q1ZmSmpPd3NfbzBtN2JKZTMzQ0k3SjJRZVVzem8w0gGoAUFVX3lxTE1fN3VISXZrVW14d3pfSDQwRDhCOHhCRkNNVVM1Yl93OVViSFdkVlBuQXFJakc3VFFMVGtuYjZaa1lpaWlGUE1ITEc2WFFRVk1oNnNkU2RSYUNlMjlLU2FRTFpmLUhpQ1RtZHY3em84Rm9PZl96ZnE3Q3lsUE9BeXR0Q2hJX2lyWGkyb3VvdlFIUGJUaHBMazdGYzMwMUJmS19sLWw4QVZtRg?oc=5",
-      "source": "sovanews.tv",
-      "published_iso": "2026-07-21T05:48:21Z"
     },
     {
       "title": "European Commission President Visits Armenia - Substack",
@@ -35,10 +35,10 @@
       "published_iso": "2026-07-18T15:25:16Z"
     },
     {
-      "title": "Russia and Azerbaijan promote regional peace narrative despite unresolved disputes with Armenia - Horizon Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHFmdDBZSTVGVlpEbV9aOVRpRjlJTHA2eDhnN0R2VXhMbUhUamctZi1RbEJFSzMtUjZSdktwVThJeTNiOUdXd0NnbFZwa1k5Q1Z2S1E0M290TVhUdTVlUmRFZUdqSVFlQWtWd25VNFY3RXY3SEdycHZIXzdUZ3RDYkhNWktsQW02WXRGSkdSbGlHWjFMdHFMdm1SSVNYUWJqVzRUQnJFcm5VUW5hNkpCN2prM01wZmd0a0N3QUJfaFZMZw?oc=5",
-      "source": "Horizon Weekly",
-      "published_iso": "2026-07-17T14:26:15Z"
+      "title": "Armenia, Azerbaijan Expand Trade as Constitutional Dispute Delays Peace Treaty - The Media Line",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWhhQ2MyVG5FZTNEc0F3bDBDQ1E5ZExKWTZFWFJFa25qNXZjZHFFVEpCWUJKQmp4cXFWWnhpWVdGdWZxZWpqTlFXakRyRGtxaXBWZW5DLW9pR181akxIaFNjbndiN0REeDU4R3dRUWExQ0FvenhOd19vNXdIaGNmSTVSSmpnYTduTHhtU0NrZkMxeTV6VTdqeTZmbVdHTFFxZzNvdXNfN2FtbHZwRWZCNEowQQ?oc=5",
+      "source": "The Media Line",
+      "published_iso": "2026-07-17T09:38:43Z"
     }
   ]
 }
