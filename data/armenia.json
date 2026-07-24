@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-07-23T12:25:18Z",
+  "updated_at": "2026-07-24T12:18:22Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "TRIPP opponents compare notes in Syunik - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOejlnMC1SaW0wZ2RIMlI1UnEzOUJubHljV0pna2R4LUdnZDI1QVVGZnp5VGp1UlRuNWR6QTJZTFNOaHA3WHBuMlpMZlZGMmVGTWhqbkhXLThNcC0yQlFwZTJNdG9JLVFEbHVsbg?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_iso": "2026-07-24T08:01:18Z"
+    },
+    {
+      "title": "Presidents of Azerbaijan and Germany discuss connectivity, peace process in Berlin - AnewZ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3R6dHB4Zi0yQkt0YnNaU3AzcHo5TFNFa2RBMXk0RzJaeGpwelhWZFJqZEZmYzVkVnpoemQ3cnZ1MmR2Z2YtX3I1blVkQ0xRM1M5M21BbU8yRThkR3dzVElnSHpuUTlpdDVUdGNsNU5RblU3ZVFuUy1LeXRDcGFPbFl6RVBWdzJsZ1UtYUhDbFdTVFBDdExHSDVOdlRKWHJTbFJ5YnRabHVkN0Ru?oc=5",
+      "source": "AnewZ",
+      "published_iso": "2026-07-23T10:26:01Z"
+    },
     {
       "title": "President Aliyev Names Oil Supplies to Armenia Practical Post-Conflict Step - caspiannews.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWVxdWpYZFdibWdNeVJpVlpwSEpsdEE2c0lTd0xUSnV5X1VNNVdOZjE0ZzBPalRYaGszZVYtY1RaV011ZjBxSjlWT3lrMDdpXzNaeTBwY2paT2djNnBFWENNQ29WdEcySEpKMURGSXlnVEFwX0tMQnJ6bDY3TndJeXdnN2NhTlZhZ0FSVnFTZ2wtWjlubGMxeEM4SnA0aW5KbllfbXRRSHllMDNGSlFHMDA0LTJDVlMwX19zc1huRTBBQQ?oc=5",
@@ -15,18 +27,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjZVb1JMeEg5bWY1QUw0cHlUbzhJVE0xQUoxTzFLYmMwWnNGcVRsUG9pTG14d1B3UUtGMURDRHNva2xXM0t3TmoyUXozeFE3UXVPQUxDaXJHeHhwb3JjMkc1cTh6YTlpTGhfeWNlb0FkeHFLX0N3dW5YckNuSldfakEwcVIwWGZoeXRRcFpGbnFLelVDRVVkazNvTm92anEzdGxsUnFtTU10Rm9wMEUzUQ?oc=5",
       "source": "RFI",
       "published_iso": "2026-07-22T05:08:04Z"
-    },
-    {
-      "title": "In Azerbaijan, they continue to talk about the so-called “Zangezur corridor” - NEWS.am",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1SS253M1l2NmxmVS1qbzMtTnh1MjNNcFpUcmw3MVEyZ3NON0dtUi0tSm9XcjBoV1pkOVVZUTF0dUVrb1JJSGc?oc=5",
-      "source": "NEWS.am",
-      "published_iso": "2026-07-21T08:51:34Z"
-    },
-    {
-      "title": "European Commission President Visits Armenia - Substack",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12bWtxNkhOcEhuSnd1YXVud2VzZGFpV0FkYUV0MEdFQ3RyRUZ6OFRNZkZxRUZLNUNucjdPNUVSVU9STl9IQ1JpdEx4TjhlRkVKWGFoellSVFFteTVIM1VfVmV2R21vejFIaHpOTmExT0dWWDNjRXRydlVnaHN5dw?oc=5",
-      "source": "Substack",
-      "published_iso": "2026-07-20T22:30:16Z"
     },
     {
       "title": "Ratification of U.S.-Backed TRIPP Strategic Cooperation Agreement Begins in Armenia - caspiannews.com",
