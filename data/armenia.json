@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-24T12:18:22Z",
+  "updated_at": "2026-07-25T12:03:50Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Azerbaijan parliament condemns U.S. bill as threat to Armenia peace efforts - AnewZ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2pnd2Y1OXpMRHlDakZDRHEwdmNaOVZTSGpKMXZvM3ZBMzRiS05Cek9lREhVY2lDc0tCbGEyNzBIdWp2SUkyZXBGNWxPSXNQbGNoTHNMcFd4cVFOazBrZ21xWTZXQl9pY0lBaGtwZmV5SmxDZ1NZa0lURW5qbTBkcE4yamhwQnkxWUV3bThocDB0SDVvRTF3UGZn?oc=5",
+      "source": "AnewZ",
+      "published_iso": "2026-07-24T15:25:00Z"
+    },
+    {
       "title": "TRIPP opponents compare notes in Syunik - Latest news from Azerbaijan",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOejlnMC1SaW0wZ2RIMlI1UnEzOUJubHljV0pna2R4LUdnZDI1QVVGZnp5VGp1UlRuNWR6QTJZTFNOaHA3WHBuMlpMZlZGMmVGTWhqbkhXLThNcC0yQlFwZTJNdG9JLVFEbHVsbg?oc=5",
       "source": "Latest news from Azerbaijan",
       "published_iso": "2026-07-24T08:01:18Z"
-    },
-    {
-      "title": "Presidents of Azerbaijan and Germany discuss connectivity, peace process in Berlin - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3R6dHB4Zi0yQkt0YnNaU3AzcHo5TFNFa2RBMXk0RzJaeGpwelhWZFJqZEZmYzVkVnpoemQ3cnZ1MmR2Z2YtX3I1blVkQ0xRM1M5M21BbU8yRThkR3dzVElnSHpuUTlpdDVUdGNsNU5RblU3ZVFuUy1LeXRDcGFPbFl6RVBWdzJsZ1UtYUhDbFdTVFBDdExHSDVOdlRKWHJTbFJ5YnRabHVkN0Ru?oc=5",
-      "source": "AnewZ",
-      "published_iso": "2026-07-23T10:26:01Z"
     },
     {
       "title": "President Aliyev Names Oil Supplies to Armenia Practical Post-Conflict Step - caspiannews.com",
@@ -29,16 +29,16 @@
       "published_iso": "2026-07-22T05:08:04Z"
     },
     {
+      "title": "Armenia begins recruiting and training border guards for Azerbaijan border - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTmhqMkVtWFVjWUNhekpCN0xuQlE0SWhZdHY0NWtzWnVTeE5jVlRBM3pENFFVTF9GYkpoMDVBOS1NRHNlWWtVV2Y5S28tUG5VQnhTb21SQ05uY293alZaakhZZExLdTEzdzhMSV9SYmRhd0trcmlxNEdjcmV0am5Fek5Hd1J5YWY2TWpIeFJRejZzVE5neEZzWFotQUc?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-07-21T16:28:38Z"
+    },
+    {
       "title": "Ratification of U.S.-Backed TRIPP Strategic Cooperation Agreement Begins in Armenia - caspiannews.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWE0TlFvMTZVZDhsSFR0ZDc0T3ZDWXl2NnNlZC1LQ1dpUlFIVkdldHVOc3NRX25lMGI1VldxUzd3cWRLbU1lUV95U2Y0U19BS0p4UkI0Y1RMby1SVTZsN3JabEVMRGwzNWp0eFNNUi1WX0QxVjY3WXFiLUpybzlobUgtUVBEX2h6Mk9JX0lFdThmU1ZFWVlKS2JETEs0SlV1V0RYMnVXbUxnU3hZTnl4T2ZST0M5U0hScFh6aWpKU1ZJSEhldkpDWDBR?oc=5",
       "source": "caspiannews.com",
       "published_iso": "2026-07-18T15:25:16Z"
-    },
-    {
-      "title": "Armenia, Azerbaijan Expand Trade as Constitutional Dispute Delays Peace Treaty - The Media Line",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWhhQ2MyVG5FZTNEc0F3bDBDQ1E5ZExKWTZFWFJFa25qNXZjZHFFVEpCWUJKQmp4cXFWWnhpWVdGdWZxZWpqTlFXakRyRGtxaXBWZW5DLW9pR181akxIaFNjbndiN0REeDU4R3dRUWExQ0FvenhOd19vNXdIaGNmSTVSSmpnYTduTHhtU0NrZkMxeTV6VTdqeTZmbVdHTFFxZzNvdXNfN2FtbHZwRWZCNEowQQ?oc=5",
-      "source": "The Media Line",
-      "published_iso": "2026-07-17T09:38:43Z"
     }
   ]
 }
