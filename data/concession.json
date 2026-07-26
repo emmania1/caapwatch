@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-07-25T12:03:29Z",
+  "updated_at": "2026-07-26T12:01:40Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Procedimento para repactuação da concessão do Aeroporto de Brasília entra em reuniões de mercado - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0FDYVhaTlhVazRvaEJzaFluZGNSdHVPQUNjX3h6aVB4MmlVYlRmUzBScmVWOXNXQ1ZhNEltcFM2LVdubEZvWTJKZjlGa3llUXNGTmRrLTh6NDc3QXBWQ3p2Y2plYnJTMS1lZVFQdElJVlF3dmVZb0NzVFN5NVU4MmZDNlZ5aWp6bWNGZzN2UFBVN09qbUNNcXpBOWRhWEZoQ2hDSnZUZVp3TVgxUXhseWlkamw2anpVM0R6UjRKa9IBvwFBVV95cUxQT0FDYVhaTlhVazRvaEJzaFluZGNSdHVPQUNjX3h6aVB4MmlVYlRmUzBScmVWOXNXQ1ZhNEltcFM2LVdubEZvWTJKZjlGa3llUXNGTmRrLTh6NDc3QXBWQ3p2Y2plYnJTMS1lZVFQdElJVlF3dmVZb0NzVFN5NVU4MmZDNlZ5aWp6bWNGZzN2UFBVN09qbUNNcXpBOWRhWEZoQ2hDSnZUZVp3TVgxUXhseWlkamw2anpVM0R6UjRKaw?oc=5",
+        "source": "AEROIN",
+        "published_iso": "2026-07-25T12:29:19Z"
+      },
       {
         "title": "Brasília reajusta tarifas aeroportuárias e inicia discussão sobre nova concessão - Panrotas",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM19RS3N4bEpBQi00M0pDZmxUcEI2akhqQVBjNlJ2cjVDSEhrNkl0SF9OZjExOXljdUhBbUJPUFgyeU9PNVVNMUxqdE5rWHhTV01GZE9ERUN4bDhMNlVjOVM5NHhBaXhCS2JOTThrTTVjaFR2anBMU3lDbklPeXg5bVdfQnRMNm93SmNwNlZnUC1ubk83YXZfWHRpZHRPVExUS1hTOUN6RGR6TS1aYlRxWW1Wek1hano4bUd3Y2xxZGFlZW9aV1ZDZVMyLTA1ZnVnQ3VONFVISUc4eXZBd2l5aA?oc=5",
@@ -24,16 +30,10 @@
         "published_iso": "2026-07-17T16:54:20Z"
       },
       {
-        "title": "Anac inicia consulta pública para repactuação da concessão do Aeroporto Internacional de Brasília - Brasília in Foco",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVJFb3dsM1J3ZnNSYWs0YmtTWlNWc2VsSFFQZ19DVTQ4OF9RLTNoaV80MU9HcWI3b2JIZngyU0I1bjdTdEN0eEJtRzZLZncxVVVTLWlCaHF6WFdZVWxkUXNkdlFyRWswMGROVnNZYWRGckNndi1SOVFQQmZqS0JhQmRNRjh2UUhlRzBZdmx4a3Ntc1lnZ3ZpSTVQekxkeU53a09vR3VLcUVJUTZFVjdsTWx0V00wRGppaG1UNGJNWG1MQzQ?oc=5",
-        "source": "Brasília in Foco",
-        "published_iso": "2026-06-27T07:00:00Z"
-      },
-      {
-        "title": "Infraero terá de vender participação na concessão do Aeroporto Internacional de Brasília - Metrópoles",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGVzTmtwbHZOYUFiVFdsdkpwVVowRk9fV3daaV90bGFpRjYzVmhOV1hJWnhURnVxMktmNmp5MXNsaUpobFlLazc5cjUwSG5PTmQ5VjdGU1V3bnBlbk5HZXdlY1pPUVFmR1VITmVuaFA1MFF5dnVMUnVEei1ZelNLcTg1WFpXZ2F6WG9wUV9BLThrSVJhTzdvN0NaekNya19oaVZBN1NyWFMzZ1F4SDVWOUhVXzB0YUJWeE5BeEVwSXZldk9YeXhTTHhXZGphWlJOQ21taQ?oc=5",
-        "source": "Metrópoles",
-        "published_iso": "2026-06-25T07:00:00Z"
+        "title": "Ministério promove reuniões para repactuação do Aeroporto de Brasília - Tribuna do Agreste",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFUyRWE4clBQdTV1QkRpYUtvVVc1RHhBaG51QnFOX2I3dTd6b1BuTklweHZCNlVFYmlwdGVHM1Frb1UzcXN6Y2VMWVB4RUJMOGNEQy15QldsdHpUSTJ4elIwNTFscmNpTjY3OVVmOVl1ODNPeXc3S0hjTDVtemxnc2QtTHdFY1hYMTNNS0pETWE2TC1rR3RMZHFRVTktbGV4LXI5dHlzb2ZNdy0ycEdrbG5SejdxWFdRY09aM1ZRdkhpbkt5czlndg?oc=5",
+        "source": "Tribuna do Agreste",
+        "published_iso": "2026-07-16T16:57:00Z"
       }
     ],
     "aa2000": [
