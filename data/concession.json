@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-07-26T12:01:40Z",
+  "updated_at": "2026-07-27T13:37:41Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Governo testa apetite do mercado para repactuação do Aeroporto de Brasília - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmgyZXZKMlJjWDJWOEJRRHhNRHFEeWswS3o3by1RRUxYRm82OEdXUzA0WFoxR3FuZTlWQkhaVmI3V3ZIa0JnNEtJdlRraktKWUZ0cWlDbHF1OFNCbmw2djJOWDZFenF5LWxFdm5ESWZTWndseEkyOTc1V1RpN0tDRUtrem1fQWV4akl3Rm1QYkpsbXBjdGhzbEFhVHVSb0JuZE9pT0FmTEtJdkgtc2dhUFJ2ZUxHY2FCSE9DMkNKRGVhU19iZU1WN2pITGQ?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-07-27T08:00:23Z"
+      },
       {
         "title": "Procedimento para repactuação da concessão do Aeroporto de Brasília entra em reuniões de mercado - AEROIN",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0FDYVhaTlhVazRvaEJzaFluZGNSdHVPQUNjX3h6aVB4MmlVYlRmUzBScmVWOXNXQ1ZhNEltcFM2LVdubEZvWTJKZjlGa3llUXNGTmRrLTh6NDc3QXBWQ3p2Y2plYnJTMS1lZVFQdElJVlF3dmVZb0NzVFN5NVU4MmZDNlZ5aWp6bWNGZzN2UFBVN09qbUNNcXpBOWRhWEZoQ2hDSnZUZVp3TVgxUXhseWlkamw2anpVM0R6UjRKa9IBvwFBVV95cUxQT0FDYVhaTlhVazRvaEJzaFluZGNSdHVPQUNjX3h6aVB4MmlVYlRmUzBScmVWOXNXQ1ZhNEltcFM2LVdubEZvWTJKZjlGa3llUXNGTmRrLTh6NDc3QXBWQ3p2Y2plYnJTMS1lZVFQdElJVlF3dmVZb0NzVFN5NVU4MmZDNlZ5aWp6bWNGZzN2UFBVN09qbUNNcXpBOWRhWEZoQ2hDSnZUZVp3TVgxUXhseWlkamw2anpVM0R6UjRKaw?oc=5",
@@ -24,19 +30,25 @@
         "published_iso": "2026-07-21T08:00:00Z"
       },
       {
-        "title": "Governo promove reuniões com o mercado para avançar na repactuação da concessão do Aeroporto de Brasília - AEROIN",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejNzMl9kSFAtaGozVmhoSGxGZS1JeGVxZm1reVBXMFRyQldTNGg0c1ozZ09MOXRxVEQ3Z0JTYmc0eWNtbWhxcWs3Q0k2eF9LV2RQZmhUTUFUdVlGZk5pUk1DakpfMVpUSFllVGdwejBUeWtpM05lZ3pmMUNZTXNSX3h1RTFpa3lfc2pTMGl0U3ZOVklqN1BRM2EtZVlUcnhvSV8zcHdYeUVwSjdJeHlabUZlY3hoSWtIZW42cDFpSWgzUdIBwgFBVV95cUxNejNzMl9kSFAtaGozVmhoSGxGZS1JeGVxZm1reVBXMFRyQldTNGg0c1ozZ09MOXRxVEQ3Z0JTYmc0eWNtbWhxcWs3Q0k2eF9LV2RQZmhUTUFUdVlGZk5pUk1DakpfMVpUSFllVGdwejBUeWtpM05lZ3pmMUNZTXNSX3h1RTFpa3lfc2pTMGl0U3ZOVklqN1BRM2EtZVlUcnhvSV8zcHdYeUVwSjdJeHlabUZlY3hoSWtIZW42cDFpSWgzUQ?oc=5",
-        "source": "AEROIN",
-        "published_iso": "2026-07-17T16:54:20Z"
-      },
-      {
-        "title": "Ministério promove reuniões para repactuação do Aeroporto de Brasília - Tribuna do Agreste",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFUyRWE4clBQdTV1QkRpYUtvVVc1RHhBaG51QnFOX2I3dTd6b1BuTklweHZCNlVFYmlwdGVHM1Frb1UzcXN6Y2VMWVB4RUJMOGNEQy15QldsdHpUSTJ4elIwNTFscmNpTjY3OVVmOVl1ODNPeXc3S0hjTDVtemxnc2QtTHdFY1hYMTNNS0pETWE2TC1rR3RMZHFRVTktbGV4LXI5dHlzb2ZNdy0ycEdrbG5SejdxWFdRY09aM1ZRdkhpbkt5czlndg?oc=5",
+        "title": "Repactuação do Aeroporto de Brasília avança com apresentação do projeto ao mercado - Tribuna do Agreste",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbEQzM0ZkemVxU2NTX3UydVUxc0RyRDJOeXJRSnhWbEc1Tlh6bThMVElraXA4MWVzZ3FaWjJwaVYybDVmSWJjVllTUlFibEM5NXY4R2RhRkpKR1Z4aE4xeDBrZ3hqZUJscU5zeWNKUXRmZU93a1ZNOFI2Tld4TjBkMjZHZWdUM0RPTHFhX1pxVkZtOW1fSkROcUp5RFVDdy0tY2VxbWNqMElZZ2RPS3dnSjdLUlhhZFViSTk4X3p4X2xQMU5uYng1cUtwRHczenlBZ3JlcTZyRGxGUQ?oc=5",
         "source": "Tribuna do Agreste",
-        "published_iso": "2026-07-16T16:57:00Z"
+        "published_iso": "2026-07-16T19:32:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Aeropuertos Argentina y Don by Havas estrenan su nueva campaña nacional: \"Tan Argentinos\" - TotalMedios",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcUxaaXlWMmo0UXdleTFoYWN2TUdET2UyMnRmbHRhZ3dHR2hhLWd4RXVnUjVLYkFtcWtaSEJReV9felBHNnRtWE8xRjJfcmRXSm1JYVFsZ29zQjhfQ1UxRlBaZVZEcTc1YjlHeGY1NTlMeHhiZ0l2dlNjZ0xYbUhNTXMwNUlnUEE4X2xnSkFNbEMzb3Y0MDctZ3pPT1BSN28zWFA5cmo1S1BkQlY0Wk5XSkREejYxRTdDbmg2Zm9Ra1JCRjg?oc=5",
+        "source": "TotalMedios",
+        "published_iso": "2026-07-23T03:00:00Z"
+      },
+      {
+        "title": "La trama secreta del robo del siglo: Milei le entregó sin controles los aeropuertos hasta 2066 a su jefe Eurnekian - primerapagina.info",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmpQYjFWNjNrSG1iQnZfSkJpT242SGlrRTJpczRmUXZzSWR5cmlGQkE1UFV6MTJwMTU2VnN3MWk1NUlDc05CMjRsUHZRYU9pNEtWVjd1NW1pZG16SXlpVXVfSGlWWDhuMjhxZHFya28yZnVTcmZXb2dQY3B0NDVxRE5YaFJqQk1Vdm93N05hdGJXRndYY0hnZGU2c1dMTDk4TThwS2F5QmhtYjVsbVlEUkNVZmFoQXVUbk00Uy14bGVubnBFZmN0UlliQm4xQThWR2llZ3ZubU5pMHdVblptOTdxSS1fRDg?oc=5",
+        "source": "primerapagina.info",
+        "published_iso": "2026-07-03T07:00:00Z"
+      },
       {
         "title": "Inversión de US$2 millones: Aeropuertos Argentina lanzó el Operativo Nieve 2026 con drones e IA - La Nación",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnBVWUpVYndmRjFRaDl3WmxFRnNOTkJUWm04TGUtRXZPLVJCcEcxTndtM2FoSDJQQUFqWFBEVUZWeEhJS3kxMFNpN3phUGxESFhsV2JVTDlmcVJ3RDVjaUluNEE0dkJjSGVSLVlqZDRBNnRlMjMwdkdxTGRWaVYtdGdvbWhXYno5SGctMXhGSC0yS0FydUw3bG5SZTZGRThIdnFnbHRWMnczeWJWTER1Q0JIOXg3azBiYnJkMTgtcUdfZ1g2WUpacVZXZGpPdENfWi1NZnlWSEkzVHc?oc=5",
@@ -54,18 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHBEWFFsQ3AzOERhTXJwblZORmxZRjJyQ2VSOEdWVnA0ZHdnQUtXYm1BZUtIVjFoeXVDcTZ4d05vSlc2cnpTODBFRTNZdmc5cUczbjR0UkFsZEs1TnBiR1lfQWpzUFVQVzNHNXN0dzF6VUdjcHVsbW5FLUtQblA0WWl6U3lFYzdtSFFnZmlybGYxMGFyZndKWGNLVjQtdGpUaTFlZ21KU0toekFLdk9qS3B2eGhuaF9sTTJ5UDF5eGRseG84ZEh4eTJXb2VzeHPSAeoBQVVfeXFMTTdDTExycVlrWDVUUTc2M0NOMFNCYWxHVmw1YlFBd0RIY1FJR0VMazU0azNaZGFndVI3eTkzeFJuQ19fakcwUWFSZlZRZHp4SExEUkpXRzVabk42dGZrOEdfNUZmU2UtTE9VLXFpNjcwSm9OYmxRWkFVdFJTSUxmV2hKNEFmc2I2anNVRXpodDVKa2lsNGFjSHR5NU1BcXl4bkEwMU1jaHBnLXhwbkQzb0Y2cTVyTGxBWW03NVYxaW9lcGpidGRNYWNqckRhOU9jWHNIc05IN2F1NVVpdmtLNVRCZWRSazc4S3BR?oc=5",
         "source": "Infobae",
         "published_iso": "2026-06-25T07:00:00Z"
-      },
-      {
-        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
-        "source": "Perfil",
-        "published_iso": "2026-06-20T07:00:00Z"
-      },
-      {
-        "title": "Cambios en el ORSNA: Facundo Leal renunció a la presidencia - Transporte y Energia",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2t1eDh0R3FZZ3Vpc095elpqXzltc3pFdV9DVnhPUk11ZU9pTUh5dnR6ZVVHcGZnNXozbHN0UUlDT3hSOWtNc2FqSE1HQlgzUTJrT1BZdi14UV9EZWticEJrajZBMGFLTTctSGZHY1M2Mm9lVHc4ZEpLVDFKRjlVV01nTVlqVlFsb2duUWdtTURHTzdQWVhpNXVrNnR4SURrV25uSTd2VWxCekk1U2RMUnlvNlAtc1R0TFBRcHAyVG5wUVdJ?oc=5",
-        "source": "Transporte y Energia",
-        "published_iso": "2026-06-20T07:00:00Z"
       }
     ]
   }

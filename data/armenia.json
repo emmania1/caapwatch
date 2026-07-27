@@ -1,15 +1,9 @@
 {
-  "updated_at": "2026-07-26T12:01:58Z",
+  "updated_at": "2026-07-27T13:38:02Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
-    {
-      "title": "Azerbaijan parliament condemns U.S. bill as threat to Armenia peace efforts - AnewZ",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2pnd2Y1OXpMRHlDakZDRHEwdmNaOVZTSGpKMXZvM3ZBMzRiS05Cek9lREhVY2lDc0tCbGEyNzBIdWp2SUkyZXBGNWxPSXNQbGNoTHNMcFd4cVFOazBrZ21xWTZXQl9pY0lBaGtwZmV5SmxDZ1NZa0lURW5qbTBkcE4yamhwQnkxWUV3bThocDB0SDVvRTF3UGZn?oc=5",
-      "source": "AnewZ",
-      "published_iso": "2026-07-24T15:25:00Z"
-    },
     {
       "title": "TRIPP opponents compare notes in Syunik - Latest news from Azerbaijan",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOejlnMC1SaW0wZ2RIMlI1UnEzOUJubHljV0pna2R4LUdnZDI1QVVGZnp5VGp1UlRuNWR6QTJZTFNOaHA3WHBuMlpMZlZGMmVGTWhqbkhXLThNcC0yQlFwZTJNdG9JLVFEbHVsbg?oc=5",
@@ -29,16 +23,22 @@
       "published_iso": "2026-07-22T05:08:04Z"
     },
     {
-      "title": "Merz says peace, security and stability in the South Caucasus are essential - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxOVVDNFFFNklvWU9Vd3pHb211aEljT0VqOThfOWY5YzRFOFllTHRRY1VSMWlOaUJOUkRDdWdvTXpDQkhXNF9JRjBBY2w1aFZmLUHSAVdBVV95cUxPVlRzZmRzbm96TFg4VzhDTzdXeno5TnNnbV9RTVExOGtqZ19zZXFZd1RwYW9oVWVvVWVsbE51bWVpUVB5cjVvTDZSMGduRF9XWXlXd3VmZjQ?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-07-21T14:01:00Z"
+      "title": "Ratification of U.S.-Backed TRIPP Strategic Cooperation Agreement Begins in Armenia - caspiannews.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWE0TlFvMTZVZDhsSFR0ZDc0T3ZDWXl2NnNlZC1LQ1dpUlFIVkdldHVOc3NRX25lMGI1VldxUzd3cWRLbU1lUV95U2Y0U19BS0p4UkI0Y1RMby1SVTZsN3JabEVMRGwzNWp0eFNNUi1WX0QxVjY3WXFiLUpybzlobUgtUVBEX2h6Mk9JX0lFdThmU1ZFWVlKS2JETEs0SlV1V0RYMnVXbUxnU3hZTnl4T2ZST0M5U0hScFh6aWpKU1ZJSEhldkpDWDBR?oc=5",
+      "source": "caspiannews.com",
+      "published_iso": "2026-07-18T15:25:16Z"
     },
     {
-      "title": "Bayramov: De facto peace already exists between Armenia and Azerbaijan - commonspace.eu",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEd1RHV2bkMwYW1ENDFmbHVLR0VabWUzQ0pnemdBV0R2VGJnaEh2WWhON2VzUEZpaXBSZUo2M0ctQ1A1eDNiaERXcHNHbWZ3OGUtaWhtdHBBZi0yUHBSdnRRbmR6V05qXzJpNzM2NFJSQmxLbW5QMUFreS0yVFpvVmhYRFJ5S2RFbExjZF9oWWxHemdSbGJtZnpSTlJyc25IS3pV?oc=5",
-      "source": "commonspace.eu",
-      "published_iso": "2026-07-19T07:45:10Z"
+      "title": "Russia and Azerbaijan promote regional peace narrative despite unresolved disputes with Armenia - Horizon Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHFmdDBZSTVGVlpEbV9aOVRpRjlJTHA2eDhnN0R2VXhMbUhUamctZi1RbEJFSzMtUjZSdktwVThJeTNiOUdXd0NnbFZwa1k5Q1Z2S1E0M290TVhUdTVlUmRFZUdqSVFlQWtWd25VNFY3RXY3SEdycHZIXzdUZ3RDYkhNWktsQW02WXRGSkdSbGlHWjFMdHFMdm1SSVNYUWJqVzRUQnJFcm5VUW5hNkpCN2prM01wZmd0a0N3QUJfaFZMZw?oc=5",
+      "source": "Horizon Weekly",
+      "published_iso": "2026-07-17T14:26:15Z"
+    },
+    {
+      "title": "Armenia begins ratifying TRIPP agreement with the US: foreign minister outlines key details - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QTVBoa1gtYUtScXBMSEx5STJISS0zaHVHZGJXUTNQenFGS2RGRXg0M19wc3E2emtvVzU3MmJSejY5RmhsVTRULURWX2tILWdwQlJsRnh0WURGbmNveDZUb3RqeTRWdzZncmt4ZFg5b3JfUzcz?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-07-16T16:37:23Z"
     }
   ]
 }
