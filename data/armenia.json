@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-07-27T13:38:02Z",
+  "updated_at": "2026-07-28T12:51:58Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Pashinyan talks Russian import bans, possible EU referendum in first call with Putin since elections - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUxoYWQwUFJmdXlNTDRwclB1SGJocHBIbmVfMXNTZmxiYUp4TzJvelN4UFZ1WGxxYWJPRlB2MkRHUC1FWVBVelF4dU4wT0ROTV9WWmlPRlpZQzlMdGtiTVh0aG1IWTFJN3RTQzFWQ0JCeUtOLXk0cmlCQ0xWRnNaRg?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-07-28T05:49:57Z"
+    },
+    {
+      "title": "Putin presses Armenia to hold referendum on EU or Eurasian bloc membership - Brussels Signal",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajlkWEJrUVB6dGpsMkJuNTZxU1RJZUNZZElJUzFMREltMnMyMEVTUnhFS2xaU1FCWG4zbUdVdUlmc3JrVUVjODdhYnNvQkV4NGNfeHZ3Z1BUcHZtSVMtUGVxaFk0TVAzZ01JVTIyMXNIM0M2RXNjSXZidmFPcWRqVWxMNEFMX01FZDJCRzd4bUFfZUE3ZkYwUXJvRFZ6SHdBUDZQZW5aWlVSYVd4TGc?oc=5",
+      "source": "Brussels Signal",
+      "published_iso": "2026-07-28T00:00:07Z"
+    },
+    {
+      "title": "Armenia's Pashinyan Asks Putin to Help Resolve Russian Restrictions on Armenian Exports - The Moscow Times",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOUNvZHJVRHJUWlhUWjBDc1ZXYmpsZmxpaEdkcmVTcEY3ZlVqazdkNWg5TUYwLTRUT2lxVExFdHprN2d0cXQxckYwbkZ2M2tBb0hmd1hMRTNCZEMxQzdFQXFzcV9wMzZNM0VlQ0pJWnZ5dHluMVpMRmo2QWYxLU50enMtMDdHNmtfMFNteTNCTFNrX1IydFhLLVZMeVlPYjFUWjJNQXZaOWpDdXlWNWNFUzF0Rnp6eVlPMU9tVEZsT3lQRmREa0ZJRURnV1dGd0pF?oc=5",
+      "source": "The Moscow Times",
+      "published_iso": "2026-07-27T19:33:00Z"
+    },
+    {
+      "title": "If Trump Believes in Azerbaijan-Armenia Peace, Why Does Baku Want Weapons? - American Enterprise Institute - AEI",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDJYbUpheUFFN1BLT190YlFtb0JFcUxoMXNCZ19HNlNnTktuSUxVcTRXakVQWFpXMXJXS3pxRHFzY3FHbE1xZHJDaEswSU1IRnZMczN0endHMmpkb1VsbmFVc0t3OXpIN2RZbzVNb3BiZ2FoMVJtTGt6bmtZaWJPRjhwZjhHUDdDWGlZYmhKRm9rdl82LTlLUmxxbDdCb285ZGpBUERtUQ?oc=5",
+      "source": "American Enterprise Institute - AEI",
+      "published_iso": "2026-07-27T00:27:24Z"
+    },
+    {
+      "title": "Azerbaijan parliament condemns U.S. bill as threat to Armenia peace efforts - AnewZ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2pnd2Y1OXpMRHlDakZDRHEwdmNaOVZTSGpKMXZvM3ZBMzRiS05Cek9lREhVY2lDc0tCbGEyNzBIdWp2SUkyZXBGNWxPSXNQbGNoTHNMcFd4cVFOazBrZ21xWTZXQl9pY0lBaGtwZmV5SmxDZ1NZa0lURW5qbTBkcE4yamhwQnkxWUV3bThocDB0SDVvRTF3UGZn?oc=5",
+      "source": "AnewZ",
+      "published_iso": "2026-07-24T15:25:00Z"
+    },
+    {
       "title": "TRIPP opponents compare notes in Syunik - Latest news from Azerbaijan",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOejlnMC1SaW0wZ2RIMlI1UnEzOUJubHljV0pna2R4LUdnZDI1QVVGZnp5VGp1UlRuNWR6QTJZTFNOaHA3WHBuMlpMZlZGMmVGTWhqbkhXLThNcC0yQlFwZTJNdG9JLVFEbHVsbg?oc=5",
       "source": "Latest news from Azerbaijan",
       "published_iso": "2026-07-24T08:01:18Z"
-    },
-    {
-      "title": "President Aliyev Names Oil Supplies to Armenia Practical Post-Conflict Step - caspiannews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWVxdWpYZFdibWdNeVJpVlpwSEpsdEE2c0lTd0xUSnV5X1VNNVdOZjE0ZzBPalRYaGszZVYtY1RaV011ZjBxSjlWT3lrMDdpXzNaeTBwY2paT2djNnBFWENNQ29WdEcySEpKMURGSXlnVEFwX0tMQnJ6bDY3TndJeXdnN2NhTlZhZ0FSVnFTZ2wtWjlubGMxeEM4SnA0aW5KbllfbXRRSHllMDNGSlFHMDA0LTJDVlMwX19zc1huRTBBQQ?oc=5",
-      "source": "caspiannews.com",
-      "published_iso": "2026-07-22T22:58:16Z"
-    },
-    {
-      "title": "Germany looks to Azerbaijan as Armenia ties shift regional relationships - RFI",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjZVb1JMeEg5bWY1QUw0cHlUbzhJVE0xQUoxTzFLYmMwWnNGcVRsUG9pTG14d1B3UUtGMURDRHNva2xXM0t3TmoyUXozeFE3UXVPQUxDaXJHeHhwb3JjMkc1cTh6YTlpTGhfeWNlb0FkeHFLX0N3dW5YckNuSldfakEwcVIwWGZoeXRRcFpGbnFLelVDRVVkazNvTm92anEzdGxsUnFtTU10Rm9wMEUzUQ?oc=5",
-      "source": "RFI",
-      "published_iso": "2026-07-22T05:08:04Z"
-    },
-    {
-      "title": "Ratification of U.S.-Backed TRIPP Strategic Cooperation Agreement Begins in Armenia - caspiannews.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWE0TlFvMTZVZDhsSFR0ZDc0T3ZDWXl2NnNlZC1LQ1dpUlFIVkdldHVOc3NRX25lMGI1VldxUzd3cWRLbU1lUV95U2Y0U19BS0p4UkI0Y1RMby1SVTZsN3JabEVMRGwzNWp0eFNNUi1WX0QxVjY3WXFiLUpybzlobUgtUVBEX2h6Mk9JX0lFdThmU1ZFWVlKS2JETEs0SlV1V0RYMnVXbUxnU3hZTnl4T2ZST0M5U0hScFh6aWpKU1ZJSEhldkpDWDBR?oc=5",
-      "source": "caspiannews.com",
-      "published_iso": "2026-07-18T15:25:16Z"
-    },
-    {
-      "title": "Russia and Azerbaijan promote regional peace narrative despite unresolved disputes with Armenia - Horizon Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORHFmdDBZSTVGVlpEbV9aOVRpRjlJTHA2eDhnN0R2VXhMbUhUamctZi1RbEJFSzMtUjZSdktwVThJeTNiOUdXd0NnbFZwa1k5Q1Z2S1E0M290TVhUdTVlUmRFZUdqSVFlQWtWd25VNFY3RXY3SEdycHZIXzdUZ3RDYkhNWktsQW02WXRGSkdSbGlHWjFMdHFMdm1SSVNYUWJqVzRUQnJFcm5VUW5hNkpCN2prM01wZmd0a0N3QUJfaFZMZw?oc=5",
-      "source": "Horizon Weekly",
-      "published_iso": "2026-07-17T14:26:15Z"
-    },
-    {
-      "title": "Armenia begins ratifying TRIPP agreement with the US: foreign minister outlines key details - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QTVBoa1gtYUtScXBMSEx5STJISS0zaHVHZGJXUTNQenFGS2RGRXg0M19wc3E2emtvVzU3MmJSejY5RmhsVTRULURWX2tILWdwQlJsRnh0WURGbmNveDZUb3RqeTRWdzZncmt4ZFg5b3JfUzcz?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-07-16T16:37:23Z"
     }
   ]
 }

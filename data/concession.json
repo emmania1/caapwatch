@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-07-27T13:37:41Z",
+  "updated_at": "2026-07-28T12:51:37Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "ANAC reajusta tarifas aeroportuárias do Aeroporto de Brasília - Agência iNFRA",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXRZdFZTLUROb2labUE2ek1sUVhKLXRTLW00Wm1kaDY1QXRYVTNIRlJCTmNTY1pHVVB5WHBtTF84NkY5QU1pejJUSEJJb3NBYXB0QW1TWDFvbnU3Z3hZM2UxMmdldG8xRjNncFl3MFBvcmw1OVJ2WjNXaWc4cndnOS04Q3NBU1ZiaHhYVHg0YVhDSUJOUUQ0?oc=5",
+        "source": "Agência iNFRA",
+        "published_iso": "2026-07-28T00:05:55Z"
+      },
       {
         "title": "Governo testa apetite do mercado para repactuação do Aeroporto de Brasília - CNN Brasil",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmgyZXZKMlJjWDJWOEJRRHhNRHFEeWswS3o3by1RRUxYRm82OEdXUzA0WFoxR3FuZTlWQkhaVmI3V3ZIa0JnNEtJdlRraktKWUZ0cWlDbHF1OFNCbmw2djJOWDZFenF5LWxFdm5ESWZTWndseEkyOTc1V1RpN0tDRUtrem1fQWV4akl3Rm1QYkpsbXBjdGhzbEFhVHVSb0JuZE9pT0FmTEtJdkgtc2dhUFJ2ZUxHY2FCSE9DMkNKRGVhU19iZU1WN2pITGQ?oc=5",
@@ -13,7 +19,7 @@
       },
       {
         "title": "Procedimento para repactuação da concessão do Aeroporto de Brasília entra em reuniões de mercado - AEROIN",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0FDYVhaTlhVazRvaEJzaFluZGNSdHVPQUNjX3h6aVB4MmlVYlRmUzBScmVWOXNXQ1ZhNEltcFM2LVdubEZvWTJKZjlGa3llUXNGTmRrLTh6NDc3QXBWQ3p2Y2plYnJTMS1lZVFQdElJVlF3dmVZb0NzVFN5NVU4MmZDNlZ5aWp6bWNGZzN2UFBVN09qbUNNcXpBOWRhWEZoQ2hDSnZUZVp3TVgxUXhseWlkamw2anpVM0R6UjRKa9IBvwFBVV95cUxQT0FDYVhaTlhVazRvaEJzaFluZGNSdHVPQUNjX3h6aVB4MmlVYlRmUzBScmVWOXNXQ1ZhNEltcFM2LVdubEZvWTJKZjlGa3llUXNGTmRrLTh6NDc3QXBWQ3p2Y2plYnJTMS1lZVFQdElJVlF3dmVZb0NzVFN5NVU4MmZDNlZ5aWp6bWNGZzN2UFBVN09qbUNNcXpBOWRhWEZoQ2hDSnZUZVp3TVgxUXhseWlkamw2anpVM0R6UjRKaw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVRHM3QwcDVHZlFVMGNVTmowUUdyQUNuS2FyY1NYZ3czNmQyUFZrNFNjdlU4WEpHX1FXU1F6cVZJQXZtdGM2VkVReHItanhtNlgxMDZyNXFyVm9jbDNCTndyN19zLTRELVYzRUQtdkJaX3A4SGhJZm9MVTR0U3JIaDlIQlNBcEJ3WlZnNVJkSVg1T04tekNZRUg1aUtfb2RRbEFJV1RKcDRzSFAtQWhfLXhaRTRTNkHSAbcBQVVfeXFMUHFURzN0MHA1R2ZRVTBjVU5qMFFHckFDbkthcmNTWGd3MzZkMlBWazRTY3ZVOFhKR19RV1NRenFWSUF2bXRjNlZFUXhyLWp4bTZYMTA2cjVxclZvY2wzQk53cjdfcy00RC1WM0VELXZCWl9wOEhoSWZvTFU0dFNySGg5SEJTQXBCd1pWZzVSZElYNU9OLXpDWUVINWlLX29kUWxBSVdUSnA0c0hQLUFoXy14WkU0UzZB?oc=5",
         "source": "AEROIN",
         "published_iso": "2026-07-25T12:29:19Z"
       },
@@ -28,12 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcktvZlFPXzIzUzI1TzU0cmFQQjJpWnVpRUdoajhlSkhfNmo5bVFsN1ZvTFV1U2FFSDJiaEZvNFRTZjB0TjJUa3lNZ2gtOWlaR2YwYWdJbURZd1hzNlVlSkxKbVlBVjY0cG96aG44WTlMRmNMWW96ZDEtXzdMMzIxbzVaQXlEeHhkM3cxR3BsQUlBZnZ5a2d5MFp5Q0JEMjVBRktHRW1zUVB0bDlLd211Vm50OWVOUGQyUl9pdEdIdzBtaVA1WnhfZ0ZB0gHPAUFVX3lxTE5sc19oNUF1cWxmalUtWnExaUFmdDZ4RHQwSTdRVWRKejBBaUVrc3kyTEZHWnVEcG41RU9DUUpKUHlDS3RmNzVxU19qS1F1RjhKcVhqalo4ek42UVdhRmRMU1RzeG5fNFh0ZElZQ0F2dGVJd3pXUE9iTE51c2JNMVRlRTE0X3lMNUplQlNWZmtLaDI0b2hCN01paUdUOS1PWDFLZHJMSV9id0ZQM0h0OEZEYW90UElzRUV0VkpCa1FtWXoyQU85TXRVZFZIN1JFaw?oc=5",
         "source": "Correio Braziliense",
         "published_iso": "2026-07-21T08:00:00Z"
-      },
-      {
-        "title": "Repactuação do Aeroporto de Brasília avança com apresentação do projeto ao mercado - Tribuna do Agreste",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbEQzM0ZkemVxU2NTX3UydVUxc0RyRDJOeXJRSnhWbEc1Tlh6bThMVElraXA4MWVzZ3FaWjJwaVYybDVmSWJjVllTUlFibEM5NXY4R2RhRkpKR1Z4aE4xeDBrZ3hqZUJscU5zeWNKUXRmZU93a1ZNOFI2Tld4TjBkMjZHZWdUM0RPTHFhX1pxVkZtOW1fSkROcUp5RFVDdy0tY2VxbWNqMElZZ2RPS3dnSjdLUlhhZFViSTk4X3p4X2xQMU5uYng1cUtwRHczenlBZ3JlcTZyRGxGUQ?oc=5",
-        "source": "Tribuna do Agreste",
-        "published_iso": "2026-07-16T19:32:00Z"
       }
     ],
     "aa2000": [
@@ -42,12 +42,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcUxaaXlWMmo0UXdleTFoYWN2TUdET2UyMnRmbHRhZ3dHR2hhLWd4RXVnUjVLYkFtcWtaSEJReV9felBHNnRtWE8xRjJfcmRXSm1JYVFsZ29zQjhfQ1UxRlBaZVZEcTc1YjlHeGY1NTlMeHhiZ0l2dlNjZ0xYbUhNTXMwNUlnUEE4X2xnSkFNbEMzb3Y0MDctZ3pPT1BSN28zWFA5cmo1S1BkQlY0Wk5XSkREejYxRTdDbmg2Zm9Ra1JCRjg?oc=5",
         "source": "TotalMedios",
         "published_iso": "2026-07-23T03:00:00Z"
-      },
-      {
-        "title": "La trama secreta del robo del siglo: Milei le entregó sin controles los aeropuertos hasta 2066 a su jefe Eurnekian - primerapagina.info",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcmpQYjFWNjNrSG1iQnZfSkJpT242SGlrRTJpczRmUXZzSWR5cmlGQkE1UFV6MTJwMTU2VnN3MWk1NUlDc05CMjRsUHZRYU9pNEtWVjd1NW1pZG16SXlpVXVfSGlWWDhuMjhxZHFya28yZnVTcmZXb2dQY3B0NDVxRE5YaFJqQk1Vdm93N05hdGJXRndYY0hnZGU2c1dMTDk4TThwS2F5QmhtYjVsbVlEUkNVZmFoQXVUbk00Uy14bGVubnBFZmN0UlliQm4xQThWR2llZ3ZubU5pMHdVblptOTdxSS1fRDg?oc=5",
-        "source": "primerapagina.info",
-        "published_iso": "2026-07-03T07:00:00Z"
       },
       {
         "title": "Inversión de US$2 millones: Aeropuertos Argentina lanzó el Operativo Nieve 2026 con drones e IA - La Nación",
@@ -66,6 +60,12 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHBEWFFsQ3AzOERhTXJwblZORmxZRjJyQ2VSOEdWVnA0ZHdnQUtXYm1BZUtIVjFoeXVDcTZ4d05vSlc2cnpTODBFRTNZdmc5cUczbjR0UkFsZEs1TnBiR1lfQWpzUFVQVzNHNXN0dzF6VUdjcHVsbW5FLUtQblA0WWl6U3lFYzdtSFFnZmlybGYxMGFyZndKWGNLVjQtdGpUaTFlZ21KU0toekFLdk9qS3B2eGhuaF9sTTJ5UDF5eGRseG84ZEh4eTJXb2VzeHPSAeoBQVVfeXFMTTdDTExycVlrWDVUUTc2M0NOMFNCYWxHVmw1YlFBd0RIY1FJR0VMazU0azNaZGFndVI3eTkzeFJuQ19fakcwUWFSZlZRZHp4SExEUkpXRzVabk42dGZrOEdfNUZmU2UtTE9VLXFpNjcwSm9OYmxRWkFVdFJTSUxmV2hKNEFmc2I2anNVRXpodDVKa2lsNGFjSHR5NU1BcXl4bkEwMU1jaHBnLXhwbkQzb0Y2cTVyTGxBWW03NVYxaW9lcGpidGRNYWNqckRhOU9jWHNIc05IN2F1NVVpdmtLNVRCZWRSazc4S3BR?oc=5",
         "source": "Infobae",
         "published_iso": "2026-06-25T07:00:00Z"
+      },
+      {
+        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
+        "source": "Perfil",
+        "published_iso": "2026-06-20T07:00:00Z"
       }
     ]
   }
