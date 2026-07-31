@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-07-29T12:58:33Z",
+  "updated_at": "2026-07-31T12:53:41Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
+        "title": "ACIPG destaca atuação da prefeita em audiência da ANAC sobre concessão do Aeroporto Sant'Ana - Correio dos Campos",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3l0RDVQV20xbDVGT1p0YmthNEtzZTVwczU3OHU2YjctZFdXVDRuenkzVkZtc0J6N2lQSTZFZXctWTBRTUJCeWp5SEN6ODRuOU9FY3JlaVU3b0FwdzJTMVd1ZFNISTBsY1VaUDYzMnYzY1AzX0hnOHlGTS1yVXp0LWFVY3JsVmVlMzdmWUxlMGtpankzdnVUZG1aS0dvZ0xsUXZWemlhMVBIZlV6YWlfLUJxS0dnNmpuYmpDQzlkMFRsVVFxdm94a2hKUmY?oc=5",
+        "source": "Correio dos Campos",
+        "published_iso": "2026-07-31T01:51:56Z"
+      },
+      {
+        "title": "Anac promoveu “roadshow” do Aeroporto de Brasília e reforça prazo da consulta pública - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXJKREg2VVU4MnVaM1I5bHVrNDFmQzY2VWQzbHNhSFd2amxGM2liT0VYU1dmSENBd0dOU1VkZ21QOXk4VmFzOTV3a0pvaTJKM2lrVldVU2tJbVJ6SDNNQTRlTEF0b3dmZFhoSHJyRHNOeUUzZ29oeFlMRDIyMVR3d29fWkVXWGVEaDhwME9TYTRja0JaT05RM3lSZ242OUNEdU40RFZQR3dKY0RXVEHSAa4BQVVfeXFMUDlySkRINlVVODJ1WjNSOWx1azQxZkM2NlVkM2xzYUhXdmpsRjNpYk9FWFNXZkhDQXdHTlNVZGdtUDl5OFZhczk1d2tKb2kySjNpa1ZXVVNrSW1SekgzTUE0ZUxBdG93ZmRYaEhyckRzTnlFM2dvaHhZTEQyMjFUd3dvX1pFV1hlRGg4cDBPU2E0Y2tCWk9OUTN5UmduNjlDRHVONERWUEd3SmNEV1RB?oc=5",
+        "source": "AEROIN",
+        "published_iso": "2026-07-30T21:02:38Z"
+      },
+      {
+        "title": "Anac avança na repactuação do Aeroporto de Brasília e apresenta projeto a investidores - Mercado e Eventos",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeFllNXc2cHQwVGpNSkdiSFhXLWF3bURKWE8tdkFxalQwNVVHbW5YT21SdmpUb2ZabHIxV2JsX3p0VEs1WW1Ca0VzQnlMWGRIeWZ1SzFRdThNaHpld1NiekhwNUVOOXFsVTZlNkM3RHJXS1JCM3UwclJ6bHdYV0xzb3pYanZJdEVjMWtSQWVveGRGcnRXa29SUnR3QjJXOW1wRzhXRkZfdDFzYkJXeWZWVDNrUDR3YjFpb2U3c3kwQ3lHanZDUkR1eHZ5T05HQURST1A0bmZn?oc=5",
+        "source": "Mercado e Eventos",
+        "published_iso": "2026-07-30T21:02:06Z"
+      },
+      {
+        "title": "EXCLUSIVO: AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
+        "source": "- Bahia Economica",
+        "published_iso": "2026-07-30T20:01:00Z"
+      },
+      {
         "title": "Audiência vai debater concessão do Aeroporto de Dourados hoje - Dourados News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVV2RWlOQ0Q2VHJKRVR2MldPSlM0TFJMUkw3ZGg0eWV2aTVXY1lnbTNyU2I5czlUOGxKZGxLZC1IQkkxVWlwSE02Z1Jrb3M4alNtTEpsWUN3UTBhQVBVcXJRNmF4TlRLNjNld282d2JNVWVaNFpxcmpIUnlEWHpMTnhNYnFMSDBFSi1JT1VsSU1jMkk0MXRjTGUzNkNscmJ6bVV5WHJJWWhhZ9IBrgFBVV95cUxQbFgycTk1Q0daUFV5LXZ6V2lzLVc1UDYtemh3VnBBSmh1SmdfVWxvRTdEZGp2UkZ4a2NvRkpvV0FSd1dHdHlfWG5hRWx5eDQ2eF9JNGhVdUZTSXBkckU5UjgzRHJqcEoxcTBfUkNETFZfNkkxQmxmR0RHYl9qOC04ZnkwS3pQMGJWVll3blE4NXZ3LVljc3JtVlhqOWRJU2l4d1pBY2pQSk00M0NWYWc?oc=5",
         "source": "Dourados News",
         "published_iso": "2026-07-29T10:53:00Z"
-      },
-      {
-        "title": "Repactuação da concessão do Aeroporto de Brasília entra em nova etapa com consultas ao mercado - Pontos pra Voar",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkx1c1FTQVhuSG5FOFZJdm5xUV9oSDJnSGE3S2xNUGRVUmhHazE5QXJJVjlic3kxaWRpcmkyVWJ4ZTZ0TWVvekxTdnFDVXBORjBmczZGQm9LdXFXM2drb0RuY0FNa3JERVBCenAwdk9jNW55eVNVbExYYlZxVGtPZ2NFZTRib0ktWGd6eExSbFZhWXFmS3UyamQxYURaQkdJM2tsVlZiUFFNazhmTThnem53YVhxTHhlbUU4ZnV3?oc=5",
-        "source": "Pontos pra Voar",
-        "published_iso": "2026-07-28T17:30:10Z"
-      },
-      {
-        "title": "Anac reajusta teto das tarifas aeroportuárias do Aeroporto de Brasília; veja as 7 principais mudanças - Mercado e Eventos",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQkZfdWdiWnpkQllYR1lzelRQaFJ4di1NV284c2c0Y3Bkd1IyMzBvVjU1bGdzbFMxODBGTGFvVTJfVjlWUkFkaTJBNmpYWWZTb0dfSmNMRFo0UUdXMVl1aGVvU19GX3ZNYlM2SWVBaXpLeENDMUM1anRwRko3T21QMTl6LUs0OGQyQjNuSThSdWQwWTdNejlIZlYzTDIzX0Zmb3FxOEJOdHMzcWR6ZXBWa01OcmF6OWdqbmZuMlBaa0tVRlhPQXNMcHBFcldGUWFnbmg2M3BzVHJDR1RVTVNlendfTFNLbkR1?oc=5",
-        "source": "Mercado e Eventos",
-        "published_iso": "2026-07-28T17:11:58Z"
-      },
-      {
-        "title": "ANAC reajusta tarifas aeroportuárias do Aeroporto de Brasília - Agência iNFRA",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXRZdFZTLUROb2labUE2ek1sUVhKLXRTLW00Wm1kaDY1QXRYVTNIRlJCTmNTY1pHVVB5WHBtTF84NkY5QU1pejJUSEJJb3NBYXB0QW1TWDFvbnU3Z3hZM2UxMmdldG8xRjNncFl3MFBvcmw1OVJ2WjNXaWc4cndnOS04Q3NBU1ZiaHhYVHg0YVhDSUJOUUQ0?oc=5",
-        "source": "Agência iNFRA",
-        "published_iso": "2026-07-28T00:05:55Z"
-      },
-      {
-        "title": "Governo testa apetite do mercado para repactuação do Aeroporto de Brasília - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmgyZXZKMlJjWDJWOEJRRHhNRHFEeWswS3o3by1RRUxYRm82OEdXUzA0WFoxR3FuZTlWQkhaVmI3V3ZIa0JnNEtJdlRraktKWUZ0cWlDbHF1OFNCbmw2djJOWDZFenF5LWxFdm5ESWZTWndseEkyOTc1V1RpN0tDRUtrem1fQWV4akl3Rm1QYkpsbXBjdGhzbEFhVHVSb0JuZE9pT0FmTEtJdkgtc2dhUFJ2ZUxHY2FCSE9DMkNKRGVhU19iZU1WN2pITGQ?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-07-27T08:00:23Z"
       }
     ],
     "aa2000": [
@@ -56,9 +56,9 @@
         "published_iso": "2026-06-26T07:00:00Z"
       },
       {
-        "title": "Causa ORSNA: la Justicia ordenó nuevas medidas contra Facundo Leal y otros ex directivos - Infobae",
+        "title": "Causa ORSNA: la Justicia ordenó nuevas medidas contra Facundo Leal y otros ex directivos - infobae.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHBEWFFsQ3AzOERhTXJwblZORmxZRjJyQ2VSOEdWVnA0ZHdnQUtXYm1BZUtIVjFoeXVDcTZ4d05vSlc2cnpTODBFRTNZdmc5cUczbjR0UkFsZEs1TnBiR1lfQWpzUFVQVzNHNXN0dzF6VUdjcHVsbW5FLUtQblA0WWl6U3lFYzdtSFFnZmlybGYxMGFyZndKWGNLVjQtdGpUaTFlZ21KU0toekFLdk9qS3B2eGhuaF9sTTJ5UDF5eGRseG84ZEh4eTJXb2VzeHPSAeoBQVVfeXFMTTdDTExycVlrWDVUUTc2M0NOMFNCYWxHVmw1YlFBd0RIY1FJR0VMazU0azNaZGFndVI3eTkzeFJuQ19fakcwUWFSZlZRZHp4SExEUkpXRzVabk42dGZrOEdfNUZmU2UtTE9VLXFpNjcwSm9OYmxRWkFVdFJTSUxmV2hKNEFmc2I2anNVRXpodDVKa2lsNGFjSHR5NU1BcXl4bkEwMU1jaHBnLXhwbkQzb0Y2cTVyTGxBWW03NVYxaW9lcGpidGRNYWNqckRhOU9jWHNIc05IN2F1NVVpdmtLNVRCZWRSazc4S3BR?oc=5",
-        "source": "Infobae",
+        "source": "infobae.com",
         "published_iso": "2026-06-25T07:00:00Z"
       },
       {

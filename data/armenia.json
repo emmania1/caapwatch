@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T12:28:14Z",
+  "updated_at": "2026-07-31T12:54:02Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
@@ -17,6 +17,12 @@
       "published_iso": "2026-07-28T16:14:00Z"
     },
     {
+      "title": "Armenia’s Sovereignty Is at Stake - Asbarez.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4TV9xYjNVWFZxOUFVQUZDMUttZWpBOVJBZ0FtdmZzVm5Ta2ZxbTVGRzM1aHdNRmtYUWp4TmNVOXg2MEhHZTdRbUZZaF9BTV9WMXloLXU2djMxLXNqTXE2bDN6dw?oc=5",
+      "source": "Asbarez.com",
+      "published_iso": "2026-07-28T15:32:19Z"
+    },
+    {
       "title": "Armenia's Pashinyan asks Putin to help resolve Russian restrictions on Armenian exports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWENYclR1MEprdGdyMV9mdV92T2NnX0xZUGJlX1Z0TEFubm1IZGU5Y0xBLUtuNVVZNGZkUU42S3NfZW1sVHJRMTc1U2pUVlR2OTVuYkFSM2NCRl8xWjU3YU1OZmYtUVowU2tQei1VdWgyV21qcEljZGloU3QzVG1Uc1ZNWTE2Sk56T2t6SXdlcUM2bkFxRmRZTTNTNmhUbHdfZm9UUk1lanNHRUZVVi1FYW5nZzBHOGU5cXFDV051UQ?oc=5",
       "source": "Reuters",
@@ -27,12 +33,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDJYbUpheUFFN1BLT190YlFtb0JFcUxoMXNCZ19HNlNnTktuSUxVcTRXakVQWFpXMXJXS3pxRHFzY3FHbE1xZHJDaEswSU1IRnZMczN0endHMmpkb1VsbmFVc0t3OXpIN2RZbzVNb3BiZ2FoMVJtTGt6bmtZaWJPRjhwZjhHUDdDWGlZYmhKRm9rdl82LTlLUmxxbDdCb285ZGpBUERtUQ?oc=5",
       "source": "American Enterprise Institute - AEI",
       "published_iso": "2026-07-27T00:27:24Z"
-    },
-    {
-      "title": "TRIPP opponents compare notes in Syunik - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOejlnMC1SaW0wZ2RIMlI1UnEzOUJubHljV0pna2R4LUdnZDI1QVVGZnp5VGp1UlRuNWR6QTJZTFNOaHA3WHBuMlpMZlZGMmVGTWhqbkhXLThNcC0yQlFwZTJNdG9JLVFEbHVsbg?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "published_iso": "2026-07-24T08:01:18Z"
     },
     {
       "title": "Ratification of U.S.-Backed TRIPP Strategic Cooperation Agreement Begins in Armenia - caspiannews.com",
