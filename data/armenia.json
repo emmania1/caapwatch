@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-08-01T12:00:52Z",
+  "updated_at": "2026-08-02T12:02:42Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Armenian government resigns as newly elected parliament convenes for 1st session - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0tKMXJ0UmVjdW9STXRVeDlCeW5BSnpYR0cyM0xWWWpkdDVzZmhFM19nQUx0ZTM2ZlM2S2tqZ3Fidm5GMWU2b2JDOGtyR2VMVlNaZFVvVlM1eHM2bExuTmRPRVZZUUdDYVNKb2ZMVDBuM21CblpuQ1F1RE1BQmFvNW5GTHFYVV9zaEFtdndJMG8tRE83d0NPaWE4ZDJmdzg5bjVuM216eUR2MEYtRk9QVmZmTE1qQjFmcHpZUk53WQ?oc=5",
+      "source": "Anadolu Ajansı",
+      "published_iso": "2026-08-02T07:36:40Z"
+    },
+    {
+      "title": "Pashinyan Signs Resignation of Armenian Government - Arka.am",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2plc2ZHdklwTTVQaTRuMXFyRGgzUFNKR2swcUp4NV9ta2lmc1dtMnp4MEFPSm9SUWxxUjlLYTZoQ3F3Z3dSTWZaYmo5aVloYXdYTmttLTY5TFNpdVlWZ3djZ3g0cUdNYlVDdHNheUx4bDI0SnlYeWtPcEQydlEyWmRGR1JVUnc0bnlYNQ?oc=5",
+      "source": "Arka.am",
+      "published_iso": "2026-08-02T07:17:00Z"
+    },
+    {
+      "title": "Armenia after the 2026 Elections: Promise and Peril - Carleton University",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1RPcmpkY0FuNEtnNDkxeVJZc1M5bUZWeDhqTnowS1FvMVMtQ2FWb3FnTE5pYm9GOWlVd1M3eVBRNE9fSUVUSUtvNDZKRDc3WHBfZGpZVXZpbTlFUXJsRm92aUc0ejBGVW15bW04NWtVN0pTMTFXRW40V08yUHVWbFRyNUNScDc1?oc=5",
+      "source": "Carleton University",
+      "published_iso": "2026-08-01T10:08:55Z"
+    },
+    {
       "title": "TRIPP Plays Role in Reordering of Eurasian Trade Routes - The Jamestown Foundation",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3F3aUdVczM3UzhpS2ExNzdwa2IxaV9Hb1o0ai1tSlcwamtvVlVQSlc3VnNfa3VIalV4WWtnMTNEVFNjWDdibHVpYzdOZ0ZLTjYzRmtrcXMyN19QTF9xUTU5Y0NnU0lUYkZNQnZ6b2JfMTZxS2dqb3pHNHkwQzdzWTRhQ3A?oc=5",
       "source": "The Jamestown Foundation",
       "published_iso": "2026-07-28T20:41:43Z"
-    },
-    {
-      "title": "Pashinyan talks Russian import bans, possible EU referendum in first call with Putin since elections - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUxoYWQwUFJmdXlNTDRwclB1SGJocHBIbmVfMXNTZmxiYUp4TzJvelN4UFZ1WGxxYWJPRlB2MkRHUC1FWVBVelF4dU4wT0ROTV9WWmlPRlpZQzlMdGtiTVh0aG1IWTFJN3RTQzFWQ0JCeUtOLXk0cmlCQ0xWRnNaRg?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-07-28T05:49:57Z"
     },
     {
       "title": "Armenia's Pashinyan asks Putin to help resolve Russian restrictions on Armenian exports - Reuters",
@@ -27,18 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDJYbUpheUFFN1BLT190YlFtb0JFcUxoMXNCZ19HNlNnTktuSUxVcTRXakVQWFpXMXJXS3pxRHFzY3FHbE1xZHJDaEswSU1IRnZMczN0endHMmpkb1VsbmFVc0t3OXpIN2RZbzVNb3BiZ2FoMVJtTGt6bmtZaWJPRjhwZjhHUDdDWGlZYmhKRm9rdl82LTlLUmxxbDdCb285ZGpBUERtUQ?oc=5",
       "source": "American Enterprise Institute - AEI",
       "published_iso": "2026-07-27T00:27:24Z"
-    },
-    {
-      "title": "TRIPP Is Moving Forward, While Armenia’s Sovereignty Remains Protected - MassisPost",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2J0d1RIRzBRU0xBbXJSOUVlZWY3UHhtb192SmZQUUVBREpFcVc1azB0TzhFQkc4dW5JN1FQaTAzTmZhSjlHQVRCRTRsNFBQc1RIclpyQ3RrQ1FlbzNHUU1sMWdVWkU0QVdZZFRISnJvN0ttMWRsYURZOTJ2S3M4VkVsS2pZbVhjd1ZxdHljM3U4T2I4aWtGUmFGVkJfNXVROXfSAacBQVVfeXFMT2pLUEZTQkhTbHJ2R2Z0b0FMZ0I1ajYtVkdNc25vQktTNEw5cHowal83Vy0tUDhONUVmU0pvWURNY2d5b1NNX0doMllpUE9TY0UtUkYwRlVXbXNGSmd3eU8zdlRIT0F0WVgxRENxZTZibmJ1TUtVWTJNREUxQjl4TWV5N0FMMVRmZU5taVRBYmc4T2xGa05pUFZKeS1mV3JxRGdWOXByeVk?oc=5",
-      "source": "MassisPost",
-      "published_iso": "2026-07-20T07:00:00Z"
-    },
-    {
-      "title": "Ratification of U.S.-Backed TRIPP Strategic Cooperation Agreement Begins in Armenia - caspiannews.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdWE0TlFvMTZVZDhsSFR0ZDc0T3ZDWXl2NnNlZC1LQ1dpUlFIVkdldHVOc3NRX25lMGI1VldxUzd3cWRLbU1lUV95U2Y0U19BS0p4UkI0Y1RMby1SVTZsN3JabEVMRGwzNWp0eFNNUi1WX0QxVjY3WXFiLUpybzlobUgtUVBEX2h6Mk9JX0lFdThmU1ZFWVlKS2JETEs0SlV1V0RYMnVXbUxnU3hZTnl4T2ZST0M5U0hScFh6aWpKU1ZJSEhldkpDWDBR?oc=5",
-      "source": "caspiannews.com",
-      "published_iso": "2026-07-18T15:25:16Z"
     }
   ]
 }
