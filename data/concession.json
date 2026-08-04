@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-08-03T13:41:25Z",
+  "updated_at": "2026-08-04T13:01:17Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Prefeita de Ponta Grossa-PR cobra ampliação da pista do Aeroporto Sant’Ana durante audiência sobre concessão - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTdJTjFUTTgyOVlNQXRGbERab1Z2c1VFNUtwa3VfUnZ3d0R4T2ZDVzFtOEtGdF90OG1ZYm9NRllUNU1ydHNGV1BNcmZsQ3NWMVJWTmp5VWd0VWFzTy0yczRmQXBGbHZ2WFZidTJtemg5a2dDYnVlaDlRaFExbkZoaV9QUUFTX2hKblYteWNoS293cmMwckVJMXVYODF4QlFYd0QzR1RSTmx1RTY2QmVZQ210ODBxRk9WMGxmSU8yQmw0b3VBa0HSAcYBQVVfeXFMUHU3SU4xVE04MjlZTUF0RmxEWm9WdnNVRTVLcGt1X1J2d3dEeE9mQ1cxbThLRnRfdDhtWWJvTUZZVDVNcnRzRldQTXJmbENzVjFSVk5qeVVndFVhc08tMnM0ZkFwRmx2dlhWYnUybXpoOWtnQ2J1ZWg5UWhRMW5GaGlfUFFBU19oSm5WLXljaEtvd3JjMHJFSTF1WDgxeEJRWHdEM0dUUk5sdUU2NkJlWUNtdDgwcUZPVjBsZklPMkJsNG91QWtB?oc=5",
+        "source": "AEROIN",
+        "published_iso": "2026-08-03T16:04:07Z"
+      },
       {
         "title": "Inframerica visita Aeroporto de Dourados antes de leilão e elogia infraestrutura - JD1 Notícias",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeU9FQ3Y3R0ljRlR0cEpCTzQtZng2U2dGU0FVR2FHdWxtMlRuSGs4ZmRKWGlTbU5TdGtWXzFXSFBkRVVKRExLSmttOS1IbTMxQ0RNWmE0M2RPWXNzamV2WnZTR2c1SlBWZzRjbzR5ejh4WWNIRXk2QkdwTkdXOVJKNzdKMEsxMDdnVmJPdlZfaHRaNjZ3S1A2TDlia0ZxMllVWE95cFQ5NDctdGZaV3d1d2Vjdkpvd2xMTHZ5TU9vLWxGY2dUYi1nOEhRd2hudw?oc=5",
@@ -28,21 +34,9 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9TRTJ0emZUT3pOOVlFNEczRGVSa2JRbTVVTVBKU2p0V1RLRDRFS18yTHpab0ZTZ0tBOWp4MEppR0MwbGRDQ1NVV2xydGV4ZVFHbGNMVVBybXFwRlJydGlpdzJLbGhfQ1hmWERGQWwwYzhNZVYzT29xZHBoVF9lSV9iRUdkcF9RbmdKYlRtY1JzYkZzRlU0Xzk3Z3hNZDBGQ25wVmRQUmVrRkNM?oc=5",
         "source": "Times Brasil | CNBC",
         "published_iso": "2026-07-31T23:22:00Z"
-      },
-      {
-        "title": "Anac avança na repactuação do Aeroporto de Brasília e apresenta projeto a investidores - dfmobilidade.com.br",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlNLU1lDRFJhNU53Sm1oTDA3MVB5cEQzcUVfeGVhN01mSFFya1QwVFJKamtHLUotZXNSaWpEbTVhV1h4V1A1cXI3NWNTVzFKYjZZU21YTU9mSXpKbWFSaDdNWmNnMHFDQW5TbW92SXRrXzl1NXVQdnlmVEFtZ1Z0Ujh1UVpwcE5mcndOV2x2UmNZUnItVUNTejJ6N3F0R0Fla2tmZzdIMUk1TVVkWGMtM1IzOXZQOHhLRzR1blBqRXJndw?oc=5",
-        "source": "dfmobilidade.com.br",
-        "published_iso": "2026-07-31T19:24:00Z"
       }
     ],
     "aa2000": [
-      {
-        "title": "Aeropuertos Argentina y Don by Havas estrenan su nueva campaña nacional: \"Tan Argentinos\" - TotalMedios",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcUxaaXlWMmo0UXdleTFoYWN2TUdET2UyMnRmbHRhZ3dHR2hhLWd4RXVnUjVLYkFtcWtaSEJReV9felBHNnRtWE8xRjJfcmRXSm1JYVFsZ29zQjhfQ1UxRlBaZVZEcTc1YjlHeGY1NTlMeHhiZ0l2dlNjZ0xYbUhNTXMwNUlnUEE4X2xnSkFNbEMzb3Y0MDctZ3pPT1BSN28zWFA5cmo1S1BkQlY0Wk5XSkREejYxRTdDbmg2Zm9Ra1JCRjg?oc=5",
-        "source": "TotalMedios",
-        "published_iso": "2026-07-23T03:00:00Z"
-      },
       {
         "title": "Inversión de US$2 millones: Aeropuertos Argentina lanzó el Operativo Nieve 2026 con drones e IA - La Nación",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQnBVWUpVYndmRjFRaDl3WmxFRnNOTkJUWm04TGUtRXZPLVJCcEcxTndtM2FoSDJQQUFqWFBEVUZWeEhJS3kxMFNpN3phUGxESFhsV2JVTDlmcVJ3RDVjaUluNEE0dkJjSGVSLVlqZDRBNnRlMjMwdkdxTGRWaVYtdGdvbWhXYno5SGctMXhGSC0yS0FydUw3bG5SZTZGRThIdnFnbHRWMnczeWJWTER1Q0JIOXg3azBiYnJkMTgtcUdfZ1g2WUpacVZXZGpPdENfWi1NZnlWSEkzVHc?oc=5",
@@ -62,9 +56,15 @@
         "published_iso": "2026-06-25T07:00:00Z"
       },
       {
-        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
+        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - perfil.com",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
-        "source": "Perfil",
+        "source": "perfil.com",
+        "published_iso": "2026-06-20T07:00:00Z"
+      },
+      {
+        "title": "Cambios en el ORSNA: Facundo Leal renunció a la presidencia - Transporte y Energia",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2t1eDh0R3FZZ3Vpc095elpqXzltc3pFdV9DVnhPUk11ZU9pTUh5dnR6ZVVHcGZnNXozbHN0UUlDT3hSOWtNc2FqSE1HQlgzUTJrT1BZdi14UV9EZWticEJrajZBMGFLTTctSGZHY1M2Mm9lVHc4ZEpLVDFKRjlVV01nTVlqVlFsb2duUWdtTURHTzdQWVhpNXVrNnR4SURrV25uSTd2VWxCekk1U2RMUnlvNlAtc1R0TFBRcHAyVG5wUVdJ?oc=5",
+        "source": "Transporte y Energia",
         "published_iso": "2026-06-20T07:00:00Z"
       }
     ]
