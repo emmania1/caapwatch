@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-08-04T13:01:17Z",
+  "updated_at": "2026-08-05T12:51:16Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - Portal BE News",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZkd2ViTlpETGVvQlRHc1pnbW96M2VRWmlzNG9YcFdmS01RaXI1ckZiTUZhNVRUakFQd3hGNm80VGs5cHdUbk9yT1NaR1kxNEg3TnlyTW13NjduVnlWZUZKZGF3b25NUkh2Zk4taG5aSDhmaEk2dDF0OVpxc181ZHFrVXltMUtVY1NhMW5yWFRmcW95RGM2NUlHVWJKcjFZa2d4bkZSc05Gdw?oc=5",
+        "source": "Portal BE News",
+        "published_iso": "2026-08-04T13:56:00Z"
+      },
       {
         "title": "Prefeita de Ponta Grossa-PR cobra ampliação da pista do Aeroporto Sant’Ana durante audiência sobre concessão - AEROIN",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTdJTjFUTTgyOVlNQXRGbERab1Z2c1VFNUtwa3VfUnZ3d0R4T2ZDVzFtOEtGdF90OG1ZYm9NRllUNU1ydHNGV1BNcmZsQ3NWMVJWTmp5VWd0VWFzTy0yczRmQXBGbHZ2WFZidTJtemg5a2dDYnVlaDlRaFExbkZoaV9QUUFTX2hKblYteWNoS293cmMwckVJMXVYODF4QlFYd0QzR1RSTmx1RTY2QmVZQ210ODBxRk9WMGxmSU8yQmw0b3VBa0HSAcYBQVVfeXFMUHU3SU4xVE04MjlZTUF0RmxEWm9WdnNVRTVLcGt1X1J2d3dEeE9mQ1cxbThLRnRfdDhtWWJvTUZZVDVNcnRzRldQTXJmbENzVjFSVk5qeVVndFVhc08tMnM0ZkFwRmx2dlhWYnUybXpoOWtnQ2J1ZWg5UWhRMW5GaGlfUFFBU19oSm5WLXljaEtvd3JjMHJFSTF1WDgxeEJRWHdEM0dUUk5sdUU2NkJlWUNtdDgwcUZPVjBsZklPMkJsNG91QWtB?oc=5",
@@ -28,12 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXVWQWVPSDlQRmdUSTJMY0hhRzFTOGc2MG5NXy1mUW1fMUF2SnVzVWJ5RzFvbDdvdjZBWWpOTm16TXNsNUVsaHNmbldxaEJXS19uN18wSTdzT1JoZzRFWS1PZ3hyOVVNd20zRjEtM21ib2RZT1ByaFRWeEtWN0dVZVN6bzRTWGtIQi1hVThFNFE0SlVwNktvdGJiaEJyazNDZUVPeGJXeHNsTS11RjdseUJQU1NtWUhYX1E?oc=5",
         "source": "CNN Brasil",
         "published_iso": "2026-07-31T23:55:42Z"
-      },
-      {
-        "title": "Anac autoriza reequilíbrio financeiro de R$ 50,9 milhões para concessão do Aeroporto de Fortaleza - Times Brasil | CNBC",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9TRTJ0emZUT3pOOVlFNEczRGVSa2JRbTVVTVBKU2p0V1RLRDRFS18yTHpab0ZTZ0tBOWp4MEppR0MwbGRDQ1NVV2xydGV4ZVFHbGNMVVBybXFwRlJydGlpdzJLbGhfQ1hmWERGQWwwYzhNZVYzT29xZHBoVF9lSV9iRUdkcF9RbmdKYlRtY1JzYkZzRlU0Xzk3Z3hNZDBGQ25wVmRQUmVrRkNM?oc=5",
-        "source": "Times Brasil | CNBC",
-        "published_iso": "2026-07-31T23:22:00Z"
       }
     ],
     "aa2000": [
@@ -56,15 +56,15 @@
         "published_iso": "2026-06-25T07:00:00Z"
       },
       {
-        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - perfil.com",
+        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
-        "source": "perfil.com",
+        "source": "Perfil",
         "published_iso": "2026-06-20T07:00:00Z"
       },
       {
-        "title": "Cambios en el ORSNA: Facundo Leal renunció a la presidencia - Transporte y Energia",
+        "title": "Cambios en el ORSNA: Facundo Leal renunció a la presidencia - transporteyenergia.com.ar",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2t1eDh0R3FZZ3Vpc095elpqXzltc3pFdV9DVnhPUk11ZU9pTUh5dnR6ZVVHcGZnNXozbHN0UUlDT3hSOWtNc2FqSE1HQlgzUTJrT1BZdi14UV9EZWticEJrajZBMGFLTTctSGZHY1M2Mm9lVHc4ZEpLVDFKRjlVV01nTVlqVlFsb2duUWdtTURHTzdQWVhpNXVrNnR4SURrV25uSTd2VWxCekk1U2RMUnlvNlAtc1R0TFBRcHAyVG5wUVdJ?oc=5",
-        "source": "Transporte y Energia",
+        "source": "transporteyenergia.com.ar",
         "published_iso": "2026-06-20T07:00:00Z"
       }
     ]
