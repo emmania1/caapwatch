@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T12:51:16Z",
+  "updated_at": "2026-08-06T12:58:42Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -18,12 +18,6 @@
         "published_iso": "2026-08-03T16:04:07Z"
       },
       {
-        "title": "Inframerica visita Aeroporto de Dourados antes de leilão e elogia infraestrutura - JD1 Notícias",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeU9FQ3Y3R0ljRlR0cEpCTzQtZng2U2dGU0FVR2FHdWxtMlRuSGs4ZmRKWGlTbU5TdGtWXzFXSFBkRVVKRExLSmttOS1IbTMxQ0RNWmE0M2RPWXNzamV2WnZTR2c1SlBWZzRjbzR5ejh4WWNIRXk2QkdwTkdXOVJKNzdKMEsxMDdnVmJPdlZfaHRaNjZ3S1A2TDlia0ZxMllVWE95cFQ5NDctdGZaV3d1d2Vjdkpvd2xMTHZ5TU9vLWxGY2dUYi1nOEhRd2hudw?oc=5",
-        "source": "JD1 Notícias",
-        "published_iso": "2026-08-01T17:32:00Z"
-      },
-      {
         "title": "Inframerica Classifica Com “impressionante” A Infraestrutura Do Aeroporto De Dourados - folhadoms.com.br",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2pobENTc1pRSVNJN29GdXBNbmJ1S09iUUNBTS1fUTJzQkk1eDN4R3pUblNLQi1KWWZ0RVpzYXQyOW8ydUFSTnB0a2VjemFOZXc2MDVsNjkwdk83Vm5jVHdVWm0yVExSdWhrT3FvMjJUNktoc2Nxbjk5ajFBOFlRRm94ZkppcHdwRldRYXJubnRlY3VJa1VJdGRTWmV4em82ejY2VjVUSThSUXNnX0E?oc=5",
         "source": "folhadoms.com.br",
@@ -34,6 +28,12 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXVWQWVPSDlQRmdUSTJMY0hhRzFTOGc2MG5NXy1mUW1fMUF2SnVzVWJ5RzFvbDdvdjZBWWpOTm16TXNsNUVsaHNmbldxaEJXS19uN18wSTdzT1JoZzRFWS1PZ3hyOVVNd20zRjEtM21ib2RZT1ByaFRWeEtWN0dVZVN6bzRTWGtIQi1hVThFNFE0SlVwNktvdGJiaEJyazNDZUVPeGJXeHNsTS11RjdseUJQU1NtWUhYX1E?oc=5",
         "source": "CNN Brasil",
         "published_iso": "2026-07-31T23:55:42Z"
+      },
+      {
+        "title": "Anac autoriza reequilíbrio financeiro de R$ 50,9 milhões para concessão do Aeroporto de Fortaleza - Times Brasil | CNBC",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9TRTJ0emZUT3pOOVlFNEczRGVSa2JRbTVVTVBKU2p0V1RLRDRFS18yTHpab0ZTZ0tBOWp4MEppR0MwbGRDQ1NVV2xydGV4ZVFHbGNMVVBybXFwRlJydGlpdzJLbGhfQ1hmWERGQWwwYzhNZVYzT29xZHBoVF9lSV9iRUdkcF9RbmdKYlRtY1JzYkZzRlU0Xzk3Z3hNZDBGQ25wVmRQUmVrRkNM?oc=5",
+        "source": "Times Brasil | CNBC",
+        "published_iso": "2026-07-31T23:22:00Z"
       }
     ],
     "aa2000": [
@@ -62,9 +62,9 @@
         "published_iso": "2026-06-20T07:00:00Z"
       },
       {
-        "title": "Cambios en el ORSNA: Facundo Leal renunció a la presidencia - transporteyenergia.com.ar",
+        "title": "Cambios en el ORSNA: Facundo Leal renunció a la presidencia - Transporte y Energia",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2t1eDh0R3FZZ3Vpc095elpqXzltc3pFdV9DVnhPUk11ZU9pTUh5dnR6ZVVHcGZnNXozbHN0UUlDT3hSOWtNc2FqSE1HQlgzUTJrT1BZdi14UV9EZWticEJrajZBMGFLTTctSGZHY1M2Mm9lVHc4ZEpLVDFKRjlVV01nTVlqVlFsb2duUWdtTURHTzdQWVhpNXVrNnR4SURrV25uSTd2VWxCekk1U2RMUnlvNlAtc1R0TFBRcHAyVG5wUVdJ?oc=5",
-        "source": "transporteyenergia.com.ar",
+        "source": "Transporte y Energia",
         "published_iso": "2026-06-20T07:00:00Z"
       }
     ]
