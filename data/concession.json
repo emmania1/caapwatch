@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-08-06T12:58:42Z",
+  "updated_at": "2026-08-07T11:43:06Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Novela da concessão do Aeroporto de Viracopos está perto do capítulo final - cnnbrasil.com.br",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzNyS3JuSjB6Qk9yV2Ytd2pPSkVtMnViOXJuOEI0TGxLS1c5di0xVGNydU0xV0F4Szg3MzYxZHN1b3NBWnRnY0NoS0tTbEE1UWItZ3BIUXZicVgweXRYREpJRlg0Yk9Ja29pVml4R1Zyb2lvUzBGM2traWVObU5FallhSDFpY1FSYTNTck5CaFY5c2VSWnNvYkJkUjFIbERPWHBiQkRDcHlTMVo2bHFB?oc=5",
+        "source": "cnnbrasil.com.br",
+        "published_iso": "2026-08-06T22:16:53Z"
+      },
+      {
+        "title": "Anac e Viracopos vivem histórico de conflitos e ações judiciais desde 2014 - cnnbrasil.com.br",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnhXb1NVNVJhRjZWNXFkOUpaTnlQMGVwLWhTYXUtS3haVVZUY1JRS0lGTnpMYllHRVBBRUZwYnllME1pWFppb2pJMTBwMnN2bXVfQ0lSLUxESVFkbm5mMnpVWE1fcHNIak5EOHhIdDg0dV9MMHJfTmMzNmRJNTRKWDFEaEJJSkUtOEdmQm13bC1od2hhRTdSaUstNEtXOTlGZnp6VmpMamZseW96X2Qw?oc=5",
+        "source": "cnnbrasil.com.br",
+        "published_iso": "2026-08-06T19:41:03Z"
+      },
       {
         "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - Portal BE News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZkd2ViTlpETGVvQlRHc1pnbW96M2VRWmlzNG9YcFdmS01RaXI1ckZiTUZhNVRUakFQd3hGNm80VGs5cHdUbk9yT1NaR1kxNEg3TnlyTW13NjduVnlWZUZKZGF3b25NUkh2Zk4taG5aSDhmaEk2dDF0OVpxc181ZHFrVXltMUtVY1NhMW5yWFRmcW95RGM2NUlHVWJKcjFZa2d4bkZSc05Gdw?oc=5",
@@ -18,22 +30,10 @@
         "published_iso": "2026-08-03T16:04:07Z"
       },
       {
-        "title": "Inframerica Classifica Com “impressionante” A Infraestrutura Do Aeroporto De Dourados - folhadoms.com.br",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM2pobENTc1pRSVNJN29GdXBNbmJ1S09iUUNBTS1fUTJzQkk1eDN4R3pUblNLQi1KWWZ0RVpzYXQyOW8ydUFSTnB0a2VjemFOZXc2MDVsNjkwdk83Vm5jVHdVWm0yVExSdWhrT3FvMjJUNktoc2Nxbjk5ajFBOFlRRm94ZkppcHdwRldRYXJubnRlY3VJa1VJdGRTWmV4em82ejY2VjVUSThSUXNnX0E?oc=5",
-        "source": "folhadoms.com.br",
-        "published_iso": "2026-08-01T09:19:24Z"
-      },
-      {
-        "title": "Anac aprova reequilíbrio de R$ 50,9 milhões para Aeroporto de Fortaleza - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXVWQWVPSDlQRmdUSTJMY0hhRzFTOGc2MG5NXy1mUW1fMUF2SnVzVWJ5RzFvbDdvdjZBWWpOTm16TXNsNUVsaHNmbldxaEJXS19uN18wSTdzT1JoZzRFWS1PZ3hyOVVNd20zRjEtM21ib2RZT1ByaFRWeEtWN0dVZVN6bzRTWGtIQi1hVThFNFE0SlVwNktvdGJiaEJyazNDZUVPeGJXeHNsTS11RjdseUJQU1NtWUhYX1E?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-07-31T23:55:42Z"
-      },
-      {
-        "title": "Anac autoriza reequilíbrio financeiro de R$ 50,9 milhões para concessão do Aeroporto de Fortaleza - Times Brasil | CNBC",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9TRTJ0emZUT3pOOVlFNEczRGVSa2JRbTVVTVBKU2p0V1RLRDRFS18yTHpab0ZTZ0tBOWp4MEppR0MwbGRDQ1NVV2xydGV4ZVFHbGNMVVBybXFwRlJydGlpdzJLbGhfQ1hmWERGQWwwYzhNZVYzT29xZHBoVF9lSV9iRUdkcF9RbmdKYlRtY1JzYkZzRlU0Xzk3Z3hNZDBGQ25wVmRQUmVrRkNM?oc=5",
-        "source": "Times Brasil | CNBC",
-        "published_iso": "2026-07-31T23:22:00Z"
+        "title": "Anac avança na repactuação do Aeroporto de Brasília e apresenta projeto a investidores - Mercado e Eventos",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeFllNXc2cHQwVGpNSkdiSFhXLWF3bURKWE8tdkFxalQwNVVHbW5YT21SdmpUb2ZabHIxV2JsX3p0VEs1WW1Ca0VzQnlMWGRIeWZ1SzFRdThNaHpld1NiekhwNUVOOXFsVTZlNkM3RHJXS1JCM3UwclJ6bHdYV0xzb3pYanZJdEVjMWtSQWVveGRGcnRXa29SUnR3QjJXOW1wRzhXRkZfdDFzYkJXeWZWVDNrUDR3YjFpb2U3c3kwQ3lHanZDUkR1eHZ5T05HQURST1A0bmZn?oc=5",
+        "source": "Mercado e Eventos",
+        "published_iso": "2026-07-30T21:02:06Z"
       }
     ],
     "aa2000": [
