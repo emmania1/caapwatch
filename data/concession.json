@@ -1,26 +1,14 @@
 {
-  "updated_at": "2026-08-08T11:28:21Z",
+  "updated_at": "2026-08-09T11:30:07Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Anac e Viracopos vivem histórico de conflitos e ações judiciais desde 2014 - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTnhXb1NVNVJhRjZWNXFkOUpaTnlQMGVwLWhTYXUtS3haVVZUY1JRS0lGTnpMYllHRVBBRUZwYnllME1pWFppb2pJMTBwMnN2bXVfQ0lSLUxESVFkbm5mMnpVWE1fcHNIak5EOHhIdDg0dV9MMHJfTmMzNmRJNTRKWDFEaEJJSkUtOEdmQm13bC1od2hhRTdSaUstNEtXOTlGZnp6VmpMamZseW96X2Qw?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-08-06T19:41:03Z"
-      },
-      {
-        "title": "Novela da concessão do Aeroporto de Viracopos está perto do capítulo final - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTzNyS3JuSjB6Qk9yV2Ytd2pPSkVtMnViOXJuOEI0TGxLS1c5di0xVGNydU0xV0F4Szg3MzYxZHN1b3NBWnRnY0NoS0tTbEE1UWItZ3BIUXZicVgweXRYREpJRlg0Yk9Ja29pVml4R1Zyb2lvUzBGM2traWVObU5FallhSDFpY1FSYTNTck5CaFY5c2VSWnNvYkJkUjFIbERPWHBiQkRDcHlTMVo2bHFB?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-08-06T07:00:00Z"
-      },
-      {
-        "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - portalbenews.com.br",
+        "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - Portal BE News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZkd2ViTlpETGVvQlRHc1pnbW96M2VRWmlzNG9YcFdmS01RaXI1ckZiTUZhNVRUakFQd3hGNm80VGs5cHdUbk9yT1NaR1kxNEg3TnlyTW13NjduVnlWZUZKZGF3b25NUkh2Zk4taG5aSDhmaEk2dDF0OVpxc181ZHFrVXltMUtVY1NhMW5yWFRmcW95RGM2NUlHVWJKcjFZa2d4bkZSc05Gdw?oc=5",
-        "source": "portalbenews.com.br",
+        "source": "Portal BE News",
         "published_iso": "2026-08-04T13:56:00Z"
       },
       {
@@ -34,13 +22,43 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeFllNXc2cHQwVGpNSkdiSFhXLWF3bURKWE8tdkFxalQwNVVHbW5YT21SdmpUb2ZabHIxV2JsX3p0VEs1WW1Ca0VzQnlMWGRIeWZ1SzFRdThNaHpld1NiekhwNUVOOXFsVTZlNkM3RHJXS1JCM3UwclJ6bHdYV0xzb3pYanZJdEVjMWtSQWVveGRGcnRXa29SUnR3QjJXOW1wRzhXRkZfdDFzYkJXeWZWVDNrUDR3YjFpb2U3c3kwQ3lHanZDUkR1eHZ5T05HQURST1A0bmZn?oc=5",
         "source": "Mercado e Eventos",
         "published_iso": "2026-07-30T21:02:06Z"
+      },
+      {
+        "title": "AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
+        "source": "- Bahia Economica",
+        "published_iso": "2026-07-30T07:00:00Z"
+      },
+      {
+        "title": "ANAC reajusta tarifas aeroportuárias do Aeroporto de Brasília - agenciainfra.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXRZdFZTLUROb2labUE2ek1sUVhKLXRTLW00Wm1kaDY1QXRYVTNIRlJCTmNTY1pHVVB5WHBtTF84NkY5QU1pejJUSEJJb3NBYXB0QW1TWDFvbnU3Z3hZM2UxMmdldG8xRjNncFl3MFBvcmw1OVJ2WjNXaWc4cndnOS04Q3NBU1ZiaHhYVHg0YVhDSUJOUUQ0?oc=5",
+        "source": "agenciainfra.com",
+        "published_iso": "2026-07-28T00:05:55Z"
       }
     ],
     "aa2000": [
       {
-        "title": "Aeropuertos Argentina mejora sus resultados, pero sigue la pelea por la concesión - iprofesional.com",
+        "title": "El Gobierno busca renegociar la concesión de Aeropuertos Argentina, pero rechaza las condiciones de la empresa - La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSWV4T3dacTVTYWE0TjZGaGo4WTdWazVOMlRaS0RXSFpLcU9VRF8tSTRuZ3d2dmdmeWlMQkotUFQ2V0VMRHE1X01KOGdZVGxmLTI5c1g2Ulk5dUZFcGNBVll4cXFrNnJ3QUgzSmM0OWpVWFFIS3JBQWw4YlZzTXpzVWdWV3ZfLWdpcXhaMTQ4YjE3WUVWcTlfYmdXVnJaa2JkWGNTbUVhU2dvT29lM1VUT1BMeDR6Y3VLUXFwWTNxcl9LbWZDaEN2Y1ItOHQwLUtrTVdBYnZibzZDclRHT1BDYWln?oc=5",
+        "source": "La Nación",
+        "published_iso": "2026-08-08T21:48:00Z"
+      },
+      {
+        "title": "La falta de acuerdo con Aeropuertos Argentina frena obras en 35 terminales - Aries On Line",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzZ3UTZIOVd0N2N5WnpkVU5hMVl3dE1aOHIzenpoV0Z2NGVKNVltQlB4dmt3eFp3SHBpSFNvNUhKeWJvVE42MTViWHRBelpmUTcwMWRuVDhnS3Fxc3pZb081YUdYWEQxRk9Ca2NMZ1lla2pSZktIZXlSaTVuNjZkaXJKVWMzVGZjNUhnT1h4RS0xMGRTTkJVbGthWTIwSGRPbm1BUng3Q2RVRV80S1ViVHZmdEpsY3pqTkHSAbIBQVVfeXFMT19BcWJydVU3MmkwNWQ0TUFqbnQtQWIwQlFxOV9hNGR0ZmFSNDVJX21paDZEZENUekZNSWhrR1NPWVhHdDNHWm1Dd2NsRUpFdGJQcHotbEMxV1hrLWQ5UlJwREJGTVFtZ0MwaVVOdklDVlJLLWdlR1FwNUZqb3BlUXkzNmRHSXV0OHF6ZFowejFIaUFMVXRpeUtrbXdjeG9uaTdiYk81MXFEWW9rV2VUbTR6QQ?oc=5",
+        "source": "Aries On Line",
+        "published_iso": "2026-08-08T16:35:00Z"
+      },
+      {
+        "title": "Plan de USD 600 millones en pausa: el conflicto entre el Gobierno y Aeropuertos Argentina frena obras clave - cholilaonline.ar",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMWRVLWNtaWtsYXRNYTVUZmpaYjdkNFcyVEtyOXpIdzRhc0pFenFmejNZM01mLThxNGRSSjdXYUhqdWpkbUppdTJoWXhKZTVmcURNOGdHbVIzSDBINTl6MkhfNERweEpRczNrUXlGMFR1MVRueVUzS1dBNkIxV24wWTVtRXFMMmJpbktFdmhoOGVWS2FJMGZIWkdZQ3dMYlBZRWJKQWlMQXhWMjRmdV8wOGZXek9rQ1Vha0ZWenhJc3NvM0xNZi12a0FFV3JmZ3ZTWTJDc2ZpM0hrV1cx?oc=5",
+        "source": "cholilaonline.ar",
+        "published_iso": "2026-08-08T12:07:30Z"
+      },
+      {
+        "title": "Aeropuertos Argentina mejora sus resultados, pero sigue la pelea por la concesión - iProfesional",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR25UWGZ3dXZUTWFIWHRqZnRHVkpTNWxacDVQMDYxdmJuSWZGc1BMZk1xN09PaEViNENubFl2OUMtZm84R0JHMUJhYTJlNXJjTW5qajJja3FoUWMyS2xUbXhTdGo5Xy1aMEJOdjh5cldkRndIS2M3T1VWNmR6TmdQZGtwVVJGcjdpUlcwVTdIS2NTb1d0ck1JQzVQNExsODkzSmR4UmNjbXRzV1dtUkw2TkxXcTRzdDdIMFhnbkhpRUtqcXfSAcgBQVVfeXFMUFVvNDIwUkhzb2h6LTlURl9CdzdDYlBwQ0RrVjRQY2VNaXFrdHNfQjVVSzBWZ2s3Yy05OWo5OHRCY2hDZ19sRmF5VUJSS3hEVWpLZkVNaDVXbDB3b0U0WVh2WUtzMEU5ODlJUmp1TkhjSUpDTGx4cFF5bnpkbFlFVnRZVWJnaURjTHRqWGRKbm5pcVY0N3RHd2dEU0djRlM4dlRyM3gwYjJHUGtkOHgyamtRRzFDRExkRWFxeFFZcGZMVlZIOVdiX20?oc=5",
-        "source": "iprofesional.com",
+        "source": "iProfesional",
         "published_iso": "2026-08-07T22:30:00Z"
       },
       {
@@ -48,24 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVFCLVJCMTY3M3A3X2JsOS1wNS04Xzg1LUo4UEhTQXZRMlZyQ004VlFVY2lkYjFIVldaUTk2YlA4aXlQT0E0N281TzR6RS1kM3VVVFBzUFhmXzR5ZjA0Z1JhMmpSaHREVmVPSENkN3FPLW43SHhBTmpqRklubTk3MUVlaW1jVUFYNUt0OHlWV3B0UHhlelVSdzJtb0loVEdyb0ZwOXFCWmZYcG5LZXR6d2lhR0hvLUx2ODF2SEhPQUJaallqUlZPVHlLeXJUQlU0bzlLcNIB2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Zw?oc=5",
         "source": "elDiarioAR.com",
         "published_iso": "2026-06-26T07:00:00Z"
-      },
-      {
-        "title": "Quién es Noelia Ruiz, \"la Killer de Santi\", que reemplazó a Facundo Leal en el ORSNA - Perfil",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3dDcXdEN1M2Tlh6NEdyQXp4OXBqdDBSRkZNbEVXOXRvbFFJcUtVVVlhOE9yVXpXSU1LaF9UVUEzZjgxNnZKd2ZzclFTUTlwV1FXY3FiYlA1cVYxS0dNcDI0ckJmM0tfWExkZXFGV0lQYm9OQllaaGZIa0ZxdHcwakVmUDlKcDhod3FJdjVZemxDQVVJWUVPStIBngFBVV95cUxPRnhrZXBwX3BEd0pRdzUtbllmZnJiS2hJdm5hSFpkdTB6eDhRdzF0ck1iemJUTEZhVHFNY2dKbkNJZ1ZLa2JRTUlJRGZ5YlJNOE9qUjhyTjNLX25zdjlSWmVaV1A0UkRvRWFGOGNNVnB0akxRNUdYYU54VDA4SGNnY2kwU19SaXQ2ZjltQ01uZXY1NFdtV051eTU1VUxkZw?oc=5",
-        "source": "Perfil",
-        "published_iso": "2026-06-20T07:00:00Z"
-      },
-      {
-        "title": "Cambios en el ORSNA: Facundo Leal renunció a la presidencia - Transporte y Energia",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2t1eDh0R3FZZ3Vpc095elpqXzltc3pFdV9DVnhPUk11ZU9pTUh5dnR6ZVVHcGZnNXozbHN0UUlDT3hSOWtNc2FqSE1HQlgzUTJrT1BZdi14UV9EZWticEJrajZBMGFLTTctSGZHY1M2Mm9lVHc4ZEpLVDFKRjlVV01nTVlqVlFsb2duUWdtTURHTzdQWVhpNXVrNnR4SURrV25uSTd2VWxCekk1U2RMUnlvNlAtc1R0TFBRcHAyVG5wUVdJ?oc=5",
-        "source": "Transporte y Energia",
-        "published_iso": "2026-06-20T07:00:00Z"
-      },
-      {
-        "title": "Santiago Caputo en alerta: El escándalo en Arsat se expande a sus funcionarios del Orsna - NotiAR",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzZnMF9yc2VpRlpQdjh4Tmx0OG5wYkhqTWdtT3EwU2NUSWU5cGt6TVNFLTNQYlJLUHU1UjNyVENtc19ZZXJYUG9yMW16WTdZVGNUX0U0VEJuWVVMdGduNVdGUk9jUVl3Q2o2SWRKYUZsMTd6STNIODhaanRtQnlfQ3hHWUhVVXZia1UyRlpIdXRsN3Z3eHFzRDNyTTNlSC1sS085SE5FMlNDcnJORmRVRXVUeUlLX0doYzA5blVxajhNalNfbTBYWHBLQVZIQmsyNDJJTm9TQnBqZUE?oc=5",
-        "source": "NotiAR",
-        "published_iso": "2026-06-12T07:00:00Z"
       }
     ]
   }

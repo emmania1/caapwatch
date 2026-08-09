@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:28:46Z",
+  "updated_at": "2026-08-09T11:30:32Z",
   "window_hours": 24,
   "history_days": 120,
   "developing": true,
@@ -13,8 +13,8 @@
       "country": "Argentina",
       "coverage": "medium",
       "latest": {
-        "date": "2026-07-10",
-        "movements": 23
+        "date": "2026-08-09",
+        "movements": 31
       },
       "history": [
         {
@@ -36,9 +36,13 @@
         {
           "date": "2026-07-10",
           "movements": 23
+        },
+        {
+          "date": "2026-08-09",
+          "movements": 31
         }
       ],
-      "last_complete": false
+      "last_complete": true
     },
     {
       "icao": "SABE",
@@ -46,8 +50,8 @@
       "country": "Argentina",
       "coverage": "medium",
       "latest": {
-        "date": "2026-07-10",
-        "movements": 85
+        "date": "2026-08-09",
+        "movements": 74
       },
       "history": [
         {
@@ -69,9 +73,13 @@
         {
           "date": "2026-07-10",
           "movements": 85
+        },
+        {
+          "date": "2026-08-09",
+          "movements": 74
         }
       ],
-      "last_complete": false
+      "last_complete": true
     },
     {
       "icao": "SACO",
@@ -79,8 +87,8 @@
       "country": "Argentina",
       "coverage": "medium",
       "latest": {
-        "date": "2026-07-10",
-        "movements": 3
+        "date": "2026-08-09",
+        "movements": 4
       },
       "history": [
         {
@@ -102,9 +110,13 @@
         {
           "date": "2026-07-10",
           "movements": 3
+        },
+        {
+          "date": "2026-08-09",
+          "movements": 4
         }
       ],
-      "last_complete": false
+      "last_complete": true
     },
     {
       "icao": "SBBR",
