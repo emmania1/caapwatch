@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-09T11:30:07Z",
+  "updated_at": "2026-08-10T11:45:35Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
+        "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - NeoFeed",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEV2WktqMVlZekZuTXVYcWFyQlFaY2N6eEFxdHQyTHpHdm5lTnN3eWVEQTZ4VUYyc1FLczQyYWNWSWs4eU1LeGY5bDM5Z3ZIM1FTS3JwU0UwQXh0NlZVaHM1cDlmMnhZdzczRWtZVEgyZEVMM19CVlV1NGVBRUhtMTA2RDBlaWhtT0tNUlJQZ3VXYmxwQzJ5Q2VrSUsycHVGemEwbThOWGtjV1BwUzkyMktkZlkyaDh0VGlKbW51eS1jeUNY?oc=5",
+        "source": "NeoFeed",
+        "published_iso": "2026-08-10T10:54:00Z"
+      },
+      {
         "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - Portal BE News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZkd2ViTlpETGVvQlRHc1pnbW96M2VRWmlzNG9YcFdmS01RaXI1ckZiTUZhNVRUakFQd3hGNm80VGs5cHdUbk9yT1NaR1kxNEg3TnlyTW13NjduVnlWZUZKZGF3b25NUkh2Zk4taG5aSDhmaEk2dDF0OVpxc181ZHFrVXltMUtVY1NhMW5yWFRmcW95RGM2NUlHVWJKcjFZa2d4bkZSc05Gdw?oc=5",
         "source": "Portal BE News",
         "published_iso": "2026-08-04T13:56:00Z"
-      },
-      {
-        "title": "Prefeita de Ponta Grossa-PR cobra ampliação da pista do Aeroporto Sant’Ana durante audiência sobre concessão - AEROIN",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdTdJTjFUTTgyOVlNQXRGbERab1Z2c1VFNUtwa3VfUnZ3d0R4T2ZDVzFtOEtGdF90OG1ZYm9NRllUNU1ydHNGV1BNcmZsQ3NWMVJWTmp5VWd0VWFzTy0yczRmQXBGbHZ2WFZidTJtemg5a2dDYnVlaDlRaFExbkZoaV9QUUFTX2hKblYteWNoS293cmMwckVJMXVYODF4QlFYd0QzR1RSTmx1RTY2QmVZQ210ODBxRk9WMGxmSU8yQmw0b3VBa0HSAcYBQVVfeXFMUHU3SU4xVE04MjlZTUF0RmxEWm9WdnNVRTVLcGt1X1J2d3dEeE9mQ1cxbThLRnRfdDhtWWJvTUZZVDVNcnRzRldQTXJmbENzVjFSVk5qeVVndFVhc08tMnM0ZkFwRmx2dlhWYnUybXpoOWtnQ2J1ZWg5UWhRMW5GaGlfUFFBU19oSm5WLXljaEtvd3JjMHJFSTF1WDgxeEJRWHdEM0dUUk5sdUU2NkJlWUNtdDgwcUZPVjBsZklPMkJsNG91QWtB?oc=5",
-        "source": "AEROIN",
-        "published_iso": "2026-08-03T16:04:07Z"
       },
       {
         "title": "Anac avança na repactuação do Aeroporto de Brasília e apresenta projeto a investidores - Mercado e Eventos",
@@ -24,48 +24,48 @@
         "published_iso": "2026-07-30T21:02:06Z"
       },
       {
-        "title": "AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
-        "source": "- Bahia Economica",
-        "published_iso": "2026-07-30T07:00:00Z"
-      },
-      {
         "title": "ANAC reajusta tarifas aeroportuárias do Aeroporto de Brasília - agenciainfra.com",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXRZdFZTLUROb2labUE2ek1sUVhKLXRTLW00Wm1kaDY1QXRYVTNIRlJCTmNTY1pHVVB5WHBtTF84NkY5QU1pejJUSEJJb3NBYXB0QW1TWDFvbnU3Z3hZM2UxMmdldG8xRjNncFl3MFBvcmw1OVJ2WjNXaWc4cndnOS04Q3NBU1ZiaHhYVHg0YVhDSUJOUUQ0?oc=5",
         "source": "agenciainfra.com",
         "published_iso": "2026-07-28T00:05:55Z"
+      },
+      {
+        "title": "Repactuação do Aeroporto de Brasília avança com apresentação do projeto ao mercado - www.gov.br",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHJpd1paVVVJYnN5YXVZZ3R3bjBrLWFDY1lITFkxR01mUDZnQWhYR1pKQm9CSUZSOHRFNzJENm5BZjg0WFRnRTNneG0waVRjUFk5QWRYQks3enhqQk9pelJlanhDVlg2YnB3T196QVpPODFCd2VVZG5wQWdGbzFjZ3NiQy0tdUZPXy1jYlEwTFFta1dkVVJqMjRKaDNTRVhjWU5XWUkyZmF0Ym9lX2sydWFlQjNUc25wMHdieUJ5UXc5dGFxU1N3OEZiX0tld1BQaF9uNVVYdUx5ZjF2aFVEcVAtS3NUdlM5?oc=5",
+        "source": "www.gov.br",
+        "published_iso": "2026-07-16T18:57:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "El Gobierno busca renegociar la concesión de Aeropuertos Argentina, pero rechaza las condiciones de la empresa - La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSWV4T3dacTVTYWE0TjZGaGo4WTdWazVOMlRaS0RXSFpLcU9VRF8tSTRuZ3d2dmdmeWlMQkotUFQ2V0VMRHE1X01KOGdZVGxmLTI5c1g2Ulk5dUZFcGNBVll4cXFrNnJ3QUgzSmM0OWpVWFFIS3JBQWw4YlZzTXpzVWdWV3ZfLWdpcXhaMTQ4YjE3WUVWcTlfYmdXVnJaa2JkWGNTbUVhU2dvT29lM1VUT1BMeDR6Y3VLUXFwWTNxcl9LbWZDaEN2Y1ItOHQwLUtrTVdBYnZibzZDclRHT1BDYWln?oc=5",
-        "source": "La Nación",
-        "published_iso": "2026-08-08T21:48:00Z"
+        "title": "Aeropuertos Argentina: el Gobierno renegociará la concesión - REPORTUR.com",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDNDZnNoR0RselFHOGZQdGpWM1RkUTZWc3Yzc21RU1BKaHgydVlNNEVkZXR0ZWFpWVFORllUeEMtdHc5WW9sajUwZE1uTmtPNXBwTVg5cXV6RzI0Y1ZmcjVpX2ZpMDBWMUc5cEtCV1ROS0toNEw4ek1FdVhJaWsyZHpqVnMzcVlBbHFXeVc4M0ZkSWh2VWZQZGtoVUxWSC1BaFFlUURHcng?oc=5",
+        "source": "REPORTUR.com",
+        "published_iso": "2026-08-10T09:34:41Z"
       },
       {
-        "title": "La falta de acuerdo con Aeropuertos Argentina frena obras en 35 terminales - Aries On Line",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzZ3UTZIOVd0N2N5WnpkVU5hMVl3dE1aOHIzenpoV0Z2NGVKNVltQlB4dmt3eFp3SHBpSFNvNUhKeWJvVE42MTViWHRBelpmUTcwMWRuVDhnS3Fxc3pZb081YUdYWEQxRk9Ca2NMZ1lla2pSZktIZXlSaTVuNjZkaXJKVWMzVGZjNUhnT1h4RS0xMGRTTkJVbGthWTIwSGRPbm1BUng3Q2RVRV80S1ViVHZmdEpsY3pqTkHSAbIBQVVfeXFMT19BcWJydVU3MmkwNWQ0TUFqbnQtQWIwQlFxOV9hNGR0ZmFSNDVJX21paDZEZENUekZNSWhrR1NPWVhHdDNHWm1Dd2NsRUpFdGJQcHotbEMxV1hrLWQ5UlJwREJGTVFtZ0MwaVVOdklDVlJLLWdlR1FwNUZqb3BlUXkzNmRHSXV0OHF6ZFowejFIaUFMVXRpeUtrbXdjeG9uaTdiYk81MXFEWW9rV2VUbTR6QQ?oc=5",
-        "source": "Aries On Line",
-        "published_iso": "2026-08-08T16:35:00Z"
+        "title": "Milei y Eurnekian, una relación tensa que vuelve a escena - identidadcorrentina.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU29BV1liY2Y1dUNXb3ZlaDZVYkZHY2tIN1p6S2JHM0FzOF96el9mVUZ0UW9pWUJjc240YXdDaEt0WjZtdUxUTXI3RlJFMDRWQnpjSFJucEtMdUpMVDVfYWcxUGVWQ0ZHVVJfcjZCNkNvU2RPb0x0X0JrWkh0a3hETDFPU29LWXFlaG41Yk56UHFWNFpqZ25BQllvT2R2N1k4dDQ1YTNobFNLdG9oSUNTVENB?oc=5",
+        "source": "identidadcorrentina.com.ar",
+        "published_iso": "2026-08-10T01:41:53Z"
       },
       {
-        "title": "Plan de USD 600 millones en pausa: el conflicto entre el Gobierno y Aeropuertos Argentina frena obras clave - cholilaonline.ar",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMWRVLWNtaWtsYXRNYTVUZmpaYjdkNFcyVEtyOXpIdzRhc0pFenFmejNZM01mLThxNGRSSjdXYUhqdWpkbUppdTJoWXhKZTVmcURNOGdHbVIzSDBINTl6MkhfNERweEpRczNrUXlGMFR1MVRueVUzS1dBNkIxV24wWTVtRXFMMmJpbktFdmhoOGVWS2FJMGZIWkdZQ3dMYlBZRWJKQWlMQXhWMjRmdV8wOGZXek9rQ1Vha0ZWenhJc3NvM0xNZi12a0FFV3JmZ3ZTWTJDc2ZpM0hrV1cx?oc=5",
-        "source": "cholilaonline.ar",
-        "published_iso": "2026-08-08T12:07:30Z"
+        "title": "Puntos de fricción por la concesión de Aeropuertos Argentina 2000 entre la administración nacional y el grupo Eurnekian - diariocronica.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeUo4TjRGczR0ckJsZGk5R3FRNDFMR0dGRFhFdXBNRkYwSm9tbW5uX1FrVl9OSUI5VHpFOW1GZ184cF9fUjc5LTM5bGRJc2tFZkhqX1B5UXJCRVNiN2tNd3p6SEhPUFg5UUg3SHFjcERtZGk5NmVaUk9JZ1ZWaWUtVDRHb2N0WDNuUjVkM09PUGZGX0JOZHFJLU1mdXpsNHl4X3Y1TUEzSlU2Vlo1d0xiNjR4LUlDd2RJXzJFQmo2dzd2RW50c0NUZnM3ZXllbmJDeVkwWjZfSFcxcVFYanNnZ1J0OVNaOGQtT0pjcTBpd0pzTmVQNVJ1U1p4dFZZblhVNFNhY1hTcVc0NTDSAZACQVVfeXFMT2NvQWFncjAzQ0tScGU2RF9lLS1ZRkJHUlVGYmg1VTE4aXdMWnA2dHU3eWVCWU1BOTdBZ29NWEZ5YzMzQjlpTkprYU5FQWhlbHlFeGg0dkthT19LazNseVU5d1dHSV96eTBfdnFuMlEzQktGSzV0eGw3RGhiS3cyZlBCaG11Z0NfNUVlUTMzVEFXcnltMWtXc0FJZWFINl9UUDk3Nk9ZTHBUTmxCcDNFQjZtUnBXSUlVdlpiTDNGU1k4SGp4YUhubTVabkxXOFFWZGk3b0FUaFVFV1dvNXRuWG5IaWJzMU03dWxHSGMzVTdUSVFCVlFmSkNvVl9jTWszUmhUMmtkNUM4dHFfZDlDa24?oc=5",
+        "source": "diariocronica.com.ar",
+        "published_iso": "2026-08-09T22:47:12Z"
       },
       {
-        "title": "Aeropuertos Argentina mejora sus resultados, pero sigue la pelea por la concesión - iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR25UWGZ3dXZUTWFIWHRqZnRHVkpTNWxacDVQMDYxdmJuSWZGc1BMZk1xN09PaEViNENubFl2OUMtZm84R0JHMUJhYTJlNXJjTW5qajJja3FoUWMyS2xUbXhTdGo5Xy1aMEJOdjh5cldkRndIS2M3T1VWNmR6TmdQZGtwVVJGcjdpUlcwVTdIS2NTb1d0ck1JQzVQNExsODkzSmR4UmNjbXRzV1dtUkw2TkxXcTRzdDdIMFhnbkhpRUtqcXfSAcgBQVVfeXFMUFVvNDIwUkhzb2h6LTlURl9CdzdDYlBwQ0RrVjRQY2VNaXFrdHNfQjVVSzBWZ2s3Yy05OWo5OHRCY2hDZ19sRmF5VUJSS3hEVWpLZkVNaDVXbDB3b0U0WVh2WUtzMEU5ODlJUmp1TkhjSUpDTGx4cFF5bnpkbFlFVnRZVWJnaURjTHRqWGRKbm5pcVY0N3RHd2dEU0djRlM4dlRyM3gwYjJHUGtkOHgyamtRRzFDRExkRWFxeFFZcGZMVlZIOVdiX20?oc=5",
-        "source": "iProfesional",
-        "published_iso": "2026-08-07T22:30:00Z"
+        "title": "Javier Milei debe resolver un conflicto con Eduardo Eurnekian - Tiempo Sur",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkVuZjJkWmZoM2hzVVRoMl9sa1RlTEJ6Y0R0U1VRREVaZG1uMzZTcGloNjVZVktPb3NDbUsyZWZvb1Q5ajZIaV9fNlphM0JrQkNUTHZEdEVOSWU3ai1mWkFERk9iSnhRUlViYlU2RDJpZk9SclBzc2RkVUhESF83LWFybWhacFdaZlRDcFZiSkZaVXR2WFBwbVd6Y0p4RU90Vl95bzdB0gGrAUFVX3lxTE5BalBhYmJLTUtLbEhFcTluVG9zd2VzUEVhRTBZVTNBeUl5RnhUSHRsZFBYOG1BSVdKWU1NMTd0M0F1aDUtZU1SMDhNTEdOaVhSN2tvd0FMVW5DUUUzSmdZQ2xMdjFjT3JqYnFBTjBkWm1PNV8wUVczanprd0tEM3pTQzdHdGhkSmZNTlg1dElQMnNIQlYycWxGOXhmbmVKbGxLeTNWWlNHeFB4VQ?oc=5",
+        "source": "Tiempo Sur",
+        "published_iso": "2026-08-09T19:16:00Z"
       },
       {
-        "title": "El gobierno de Milei pactó con los Eurnekian prorrogar la concesión de aeropuertos hasta 2056, pero ahora renegocian - elDiarioAR.com",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVFCLVJCMTY3M3A3X2JsOS1wNS04Xzg1LUo4UEhTQXZRMlZyQ004VlFVY2lkYjFIVldaUTk2YlA4aXlQT0E0N281TzR6RS1kM3VVVFBzUFhmXzR5ZjA0Z1JhMmpSaHREVmVPSENkN3FPLW43SHhBTmpqRklubTk3MUVlaW1jVUFYNUt0OHlWV3B0UHhlelVSdzJtb0loVEdyb0ZwOXFCWmZYcG5LZXR6d2lhR0hvLUx2ODF2SEhPQUJaallqUlZPVHlLeXJUQlU0bzlLcNIB2gFBVV95cUxPakdGQXdrUHQ2ZUJwLWFCTXRUU3dlMGFocFRFMHd6aGh2bnpjSURzYUlja1VqVklXclRDVlRpU3p4bmZWeFBISWY4LVYyYl9YNHhPS1l3ZlU0Y3p2QmtCaVFUT1pLamxxdXRFYU41Z21yQ2VUM3k0b0t0MFhlT3NfaVp3THFudUtOc3VDQWdLUzFibWp1VVppdHAyMGljZnpQUUViZUhfdVIySlFsd3UtV0pySF9jdjBOZXZyS09sdlFaY3FVOTB6T0VPT1RwMjJISEJfRlVDeFJ4Zw?oc=5",
-        "source": "elDiarioAR.com",
-        "published_iso": "2026-06-26T07:00:00Z"
+        "title": "Se cayó el acuerdo por la concesión de los aeropuertos y Milei deberá renegociar con Eurnekian - mendozatoday.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXVsUmxobEZEeGVxOC1jOHhNeTNKX1A0SmZuN3BhUF95VWJLWk9SWGJLeEQ1OVotWmU2djNGczF5eFBoeTNTc1BVU3lFQmNoNTNveTJZd1ZBTUZ5TzBfWnlfMFV6UnZfdGdEQmVGQjhiOXcxZGZkdmtWaW04dGFJcS01VnViQXhKc1E4U2lRNnkzMkwxUC1UczBKSGpkOFpUYzdLWklTTno0WkNUSkp0VW5zUVVHY3RkaHJoTmJScWVGZ3pncWpiYkZ4bjdQU0U?oc=5",
+        "source": "mendozatoday.com.ar",
+        "published_iso": "2026-08-09T16:56:20Z"
       }
     ]
   }
