@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:45:59Z",
+  "updated_at": "2026-08-11T11:43:04Z",
   "window_hours": 24,
   "history_days": 120,
   "developing": true,
@@ -46,7 +46,7 @@
           "movements": 29
         }
       ],
-      "last_complete": true
+      "last_complete": false
     },
     {
       "icao": "SABE",
@@ -87,7 +87,7 @@
           "movements": 77
         }
       ],
-      "last_complete": true
+      "last_complete": false
     },
     {
       "icao": "SACO",
@@ -128,7 +128,7 @@
           "movements": 8
         }
       ],
-      "last_complete": true
+      "last_complete": false
     },
     {
       "icao": "SBBR",
