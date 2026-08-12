@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-08-11T11:42:38Z",
+  "updated_at": "2026-08-12T11:43:11Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Anac prepara leilão do Santos Dumont para 2027 e quer atrair novas aéreas ao Brasil - Balada IN",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmoyRV9lcGU4LXJEQ0FGYWVYeHNnMFRBMEFnQ256NzJuNGlWNkVaR0dJRVRUYkR0VW40TS1EcTg1ak9DbzVmNjFsdVRDb2wybFd5MGZLeTJYUlBzRXNkYUdzMjB1S3hiSU1jclZRd05TRkdldFhwOUNCMEg2bVpJN3lLcEQ3WTFBNl90Mi1uRk9XNGtuc1VGdGRWWEZNaDVhTGF6UDh1OXpFSUNnbnJrOVZkelhaRW40b1RjZUt3?oc=5",
+        "source": "Balada IN",
+        "published_iso": "2026-08-12T03:01:00Z"
+      },
       {
         "title": "Anac prevê concessão do Santos Dumont em 2027 - Brasilturis",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0ZEX055azNSMUJHa0xrWEE4QTYtX3BVWmJCOXZ0YzJzdDhyakxvcldxRkM2cU1abVNZbTJERkFqeHcyVE8wN2I2MjAtdXFwS0VBd3JpWHlZY1EwX3Jqc3U1aWlBeU8tcmk5dmhxbWZuTWVzanIyWlQzUFllajN1MHc5dkFIalQ0ZlEtaw?oc=5",
@@ -18,31 +24,19 @@
         "published_iso": "2026-08-10T12:56:00Z"
       },
       {
-        "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - NeoFeed",
+        "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - neofeed.com.br",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEV2WktqMVlZekZuTXVYcWFyQlFaY2N6eEFxdHQyTHpHdm5lTnN3eWVEQTZ4VUYyc1FLczQyYWNWSWs4eU1LeGY5bDM5Z3ZIM1FTS3JwU0UwQXh0NlZVaHM1cDlmMnhZdzczRWtZVEgyZEVMM19CVlV1NGVBRUhtMTA2RDBlaWhtT0tNUlJQZ3VXYmxwQzJ5Q2VrSUsycHVGemEwbThOWGtjV1BwUzkyMktkZlkyaDh0VGlKbW51eS1jeUNY?oc=5",
-        "source": "NeoFeed",
+        "source": "neofeed.com.br",
         "published_iso": "2026-08-10T10:54:00Z"
       },
       {
-        "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - Portal BE News",
+        "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - portalbenews.com.br",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZkd2ViTlpETGVvQlRHc1pnbW96M2VRWmlzNG9YcFdmS01RaXI1ckZiTUZhNVRUakFQd3hGNm80VGs5cHdUbk9yT1NaR1kxNEg3TnlyTW13NjduVnlWZUZKZGF3b25NUkh2Zk4taG5aSDhmaEk2dDF0OVpxc181ZHFrVXltMUtVY1NhMW5yWFRmcW95RGM2NUlHVWJKcjFZa2d4bkZSc05Gdw?oc=5",
-        "source": "Portal BE News",
+        "source": "portalbenews.com.br",
         "published_iso": "2026-08-04T13:56:00Z"
-      },
-      {
-        "title": "Anac avança na repactuação do Aeroporto de Brasília e apresenta projeto a investidores - Mercado e Eventos",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeFllNXc2cHQwVGpNSkdiSFhXLWF3bURKWE8tdkFxalQwNVVHbW5YT21SdmpUb2ZabHIxV2JsX3p0VEs1WW1Ca0VzQnlMWGRIeWZ1SzFRdThNaHpld1NiekhwNUVOOXFsVTZlNkM3RHJXS1JCM3UwclJ6bHdYV0xzb3pYanZJdEVjMWtSQWVveGRGcnRXa29SUnR3QjJXOW1wRzhXRkZfdDFzYkJXeWZWVDNrUDR3YjFpb2U3c3kwQ3lHanZDUkR1eHZ5T05HQURST1A0bmZn?oc=5",
-        "source": "Mercado e Eventos",
-        "published_iso": "2026-07-30T07:00:00Z"
       }
     ],
     "aa2000": [
-      {
-        "title": "Ingresos de Aeropuertos Argentina superan los 741.000 millones de pesos en la primera mitad del año - Aviacionline",
-        "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxORkZWd0ppWllBcnprNDJmZVRoODcwRTk2Qkp1Qmk0OHFId21penJzMGRkZWc2ZDluTWUzcmpyZzhCTTNpaUNxUDJ6OEZfNEo3QUktUnEzcnA5MVZnRlNwU2xhb194aW9rYmhVUllTQUNQUi1qaDlqU0hSMW9rM2NYXzRMeWMzRkZmSy1adkVNdzY4REdwdFN6aVNaejVCTV9YMXlBeE1DNkRNX2JkNTN1bW5QeUJDbUtzVVBiU3F3SzdKbVBtbGhIdl9PQ2g4SHNWcVhOdkVaZ3hUbElGMlFDNFQtRGNabFBlQWNPZVdsNnBqX0pCdUJmZnF2UFZBc1YySktmNU9UdU5QU2tFdHBHVmJZX21DTm9jQW1LcmljcXZ1QzE3a2lPSVlhWDBYZmhnZGFOWlduOUpSWFdVOGZkbjRRdWh6eFpnV1AtdDN3a3pvVlBDRFlSNW9HYU93T1k?oc=5",
-        "source": "Aviacionline",
-        "published_iso": "2026-08-10T21:02:58Z"
-      },
       {
         "title": "Aeropuertos Argentina ganó un 71% más, aunque prevé un segundo semestre con impulso moderado para el sector aéreo - Ambito",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYkJQcDdHMTFZdS1aTEl5cXNlSm1WdnFuX2t5WEVibEZTWS15cWhJcWtXVmVqWGYxZ3dkRkNHWGpUYllUR0daT0RqSk9CSXdERFc3SFE4ZmhmclI4WVVBRnNLTy14eFFfLXFaQ3Qyak14S1dWNHZqQlpENVZ4X19hcGxkdlJjLVIydW9aRzBxNmVFTHlXMTd3UzRySmNBNmtRaEU2dm51NWQ4d3hUNzQ3Vno1cUlySmRjam83cWpkZ1FCdU1RTWxTc0YzS3hIcjFEUDhmdkdjbXFxWmc?oc=5",
@@ -56,9 +50,9 @@
         "published_iso": "2026-08-10T09:44:01Z"
       },
       {
-        "title": "Milei y Eurnekian, una relación tensa que vuelve a escena - identidadcorrentina.com.ar",
+        "title": "Milei y Eurnekian, una relación tensa que vuelve a escena - Identidad Correntina",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU29BV1liY2Y1dUNXb3ZlaDZVYkZHY2tIN1p6S2JHM0FzOF96el9mVUZ0UW9pWUJjc240YXdDaEt0WjZtdUxUTXI3RlJFMDRWQnpjSFJucEtMdUpMVDVfYWcxUGVWQ0ZHVVJfcjZCNkNvU2RPb0x0X0JrWkh0a3hETDFPU29LWXFlaG41Yk56UHFWNFpqZ25BQllvT2R2N1k4dDQ1YTNobFNLdG9oSUNTVENB?oc=5",
-        "source": "identidadcorrentina.com.ar",
+        "source": "Identidad Correntina",
         "published_iso": "2026-08-10T01:41:53Z"
       },
       {
@@ -66,6 +60,12 @@
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeUo4TjRGczR0ckJsZGk5R3FRNDFMR0dGRFhFdXBNRkYwSm9tbW5uX1FrVl9OSUI5VHpFOW1GZ184cF9fUjc5LTM5bGRJc2tFZkhqX1B5UXJCRVNiN2tNd3p6SEhPUFg5UUg3SHFjcERtZGk5NmVaUk9JZ1ZWaWUtVDRHb2N0WDNuUjVkM09PUGZGX0JOZHFJLU1mdXpsNHl4X3Y1TUEzSlU2Vlo1d0xiNjR4LUlDd2RJXzJFQmo2dzd2RW50c0NUZnM3ZXllbmJDeVkwWjZfSFcxcVFYanNnZ1J0OVNaOGQtT0pjcTBpd0pzTmVQNVJ1U1p4dFZZblhVNFNhY1hTcVc0NTDSAZACQVVfeXFMT2NvQWFncjAzQ0tScGU2RF9lLS1ZRkJHUlVGYmg1VTE4aXdMWnA2dHU3eWVCWU1BOTdBZ29NWEZ5YzMzQjlpTkprYU5FQWhlbHlFeGg0dkthT19LazNseVU5d1dHSV96eTBfdnFuMlEzQktGSzV0eGw3RGhiS3cyZlBCaG11Z0NfNUVlUTMzVEFXcnltMWtXc0FJZWFINl9UUDk3Nk9ZTHBUTmxCcDNFQjZtUnBXSUlVdlpiTDNGU1k4SGp4YUhubTVabkxXOFFWZGk3b0FUaFVFV1dvNXRuWG5IaWJzMU03dWxHSGMzVTdUSVFCVlFmSkNvVl9jTWszUmhUMmtkNUM4dHFfZDlDa24?oc=5",
         "source": "diariocronica.com.ar",
         "published_iso": "2026-08-09T22:47:12Z"
+      },
+      {
+        "title": "Se cayó el acuerdo por la concesión de los aeropuertos y Milei deberá renegociar con Eurnekian - Diario Mendoza Today",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXVsUmxobEZEeGVxOC1jOHhNeTNKX1A0SmZuN3BhUF95VWJLWk9SWGJLeEQ1OVotWmU2djNGczF5eFBoeTNTc1BVU3lFQmNoNTNveTJZd1ZBTUZ5TzBfWnlfMFV6UnZfdGdEQmVGQjhiOXcxZGZkdmtWaW04dGFJcS01VnViQXhKc1E4U2lRNnkzMkwxUC1UczBKSGpkOFpUYzdLWklTTno0WkNUSkp0VW5zUVVHY3RkaHJoTmJScWVGZ3pncWpiYkZ4bjdQU0U?oc=5",
+        "source": "Diario Mendoza Today",
+        "published_iso": "2026-08-09T16:56:20Z"
       }
     ]
   }
