@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-08-12T11:43:31Z",
+  "updated_at": "2026-08-13T11:43:25Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenian lawmaker rejects Aliyev’s mischaracterization of TRIPP as ‘Zangezur Corridor’ - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FeDBCR1luWmVoOXo2NmF5U1hrdWFWcHNPZ0xka2h5SExBSDVGcUdCdzJ3YmJ5ZHNaenJTUC1xR0ZMUWhWTmx4NmZyM1JqcXRCYmpWNUF2RdIBV0FVX3lxTE5FeDBCR1luWmVoOXo2NmF5U1hrdWFWcHNPZ0xka2h5SExBSDVGcUdCdzJ3YmJ5ZHNaenJTUC1xR0ZMUWhWTmx4NmZyM1JqcXRCYmpWNUF2RQ?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-08-12T09:15:00Z"
+      "title": "'Even if nuclear power plant is shut down, Armenia will not face serious problems': Reaction to Aliyev's remarks - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSllZUHFEeE80a1ptWTQzb3JQbl9FR3JCeXltZ1JSWUVzY3lmQ3dXd3VBYVVhNHE1Rko0WkhvbUF2bklGQk41bzMwbGw2WWlSR3EyZVVOclZlbDc4Uk5EVEdvODkyM0UwZmJucjFGRnBmOF9VblZVZTB2Z182QW8yRXZEUjJOUUFMeVZVdFQ4R3VaOHZQSEZKN0xSbG9FdFBmb2hZSGVESFowdWJ1djdmZ3ZhZDBJa1hEdy1rR3d6TThUb28wUDQyVg?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-08-13T11:04:58Z"
     },
     {
-      "title": "“There is no infrastructure with such a term in Armenia” – Yeghoyan on the “Zangezur corridor” - Aysor.am",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qeTRYaU8wWUFiV3JYZElpVW5aQXJ6cGM0QkFQaURoc181cGg1TGRsS25IQ0FvM21GV0RtSDFINTFYcEtKbkhQd25wM3Z0VW00N0ljQ3hfZWl4cWxGTFB3X1ZjcExfdFRDTU1wYXBEdjdCOWc?oc=5",
-      "source": "Aysor.am",
-      "published_iso": "2026-08-12T07:47:00Z"
+      "title": "Pashinyan: Armenia seeks friendly solution with Russia over railway management - Apa.az",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWlpHcnl6Qkp5QlZZZE1zUkZ6c2J4eXozb3BNSllfanduSnNsTUh0SUgwdDZ4QUNIZFlHWGhPYWs1dFFXZUlsb2dmaUtBNUhWYVVJMlVleU8tejhkT0xMZl8wMkl5YXAzWmhNZDkzSUpzUTRORkRQUm4wX1ZyZmR4bHYtZERhcUdFV3BaVVNpTm1nc3p4WnVaTUp4V0ZWaEFIQmllU2R4TFB6LTIySjQ1Vlg0dnhqeUU?oc=5",
+      "source": "Apa.az",
+      "published_iso": "2026-08-13T09:31:00Z"
     },
     {
-      "title": "Azerbaijan signals broader scope for Zangezur Corridor - Hürriyet Daily News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVRpWXFGektmdFBUdkoyZFlOX3RQVmlzUWRMTHNGd1dudllnV1dsbVNkSV8yY0YwdGN6eDlzaVBWMXVMWVRmVlJwX2xMUkJzb1g1QmVDSmVSaTE4R3o4cHdGWDZFNEYzdHRheVFUTVhtQVRkVXlLRHVPUzlOc21XS2tELXYtWTFmdm5aWDAxSjBpWTdWWnJTdmdKaw?oc=5",
-      "source": "Hürriyet Daily News",
-      "published_iso": "2026-08-12T07:43:49Z"
+      "title": "A year after Washington summit, Azerbaijan and Armenia deepen ties - muslimnetwork.tv",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZVNsb0pYU0hlYVNIeWxzcDgwSGxPOHJNbVMwY21HVWNrZFkyUmZLWlQ4a0NTNm9HV2NJXzZFbGhGQ3pHdXRrczRza3JfcnZ2b0U1RFZlTVd0ekhrNy1EM21nRnZRWFZfeWRDWXJJY3FwRFBQTl9uV3VmbGt6NzdZWnJ2dExiMGlFSGtjcE5LRU1ycW5WS3ZjbndDaw?oc=5",
+      "source": "muslimnetwork.tv",
+      "published_iso": "2026-08-12T18:39:26Z"
     },
     {
-      "title": "Armenia, Azerbaijan, and US hold meeting in Washington to commemorate 2025 summit - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdDhEd3daeFBQUkRuczdNSnBNTXFNVmh1STh5Z1F4Q0VkOVEyX21QQW9iUFFIaDRSRk5IYXcyNEZfd1BuaW1zZkhKM1U0cy1CWVNRLXUyc1VMNVFpVV9IakwwUDk4VWU0cTRLdVg5bHRUTlRDeUlmcGwydmJBMEtrMUNWNXlCZkd0ZjBxbXhVYS1wQWhyWTNXNWlubE9PcGpDOVRV?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-08-12T06:05:40Z"
+      "title": "Pashinyan and Zelenskyy discussed Armenian-Ukrainian cooperation and regional developments - Arka.am",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjQ5U01fZnFHeWpheTBuSlRVZmtFcXdZMGZrMFIwUnlBSDMtZHZxbmVHRS0zUDVLXzRFM1daZVpLQWZ4cWJXVll3ZTlqYVZsaFhxak1vSl85Ylh3RmJyYjFyVlJ6dERIR0p1Z3hNUEF4Z3JsMkoxR0VvWnA5cXcyZy1NbUdocjZ5ckR4RUE5Q2ZnMkpmOW91dDRVc0x0RTdaLWNRYTZ5ekd3WWx5b3JGQlpfend2RXhHaFZja2MtWV9tdw?oc=5",
+      "source": "Arka.am",
+      "published_iso": "2026-08-12T16:32:00Z"
     },
     {
-      "title": "Azerbaijan’s Aliyev wants to extend non-existent “Zangezur Corridor” to Pakistan - NEWS.am",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1QRll1QWZyQldQTmtHYTBTSlNmVUFtcTdRZExqVnpsTC1xcmJBTVpZV1ljNl84ZU80SGZwZ2RxME9BeTBUa0E?oc=5",
-      "source": "NEWS.am",
-      "published_iso": "2026-08-12T04:30:00Z"
+      "title": "Pashinyan, Zelensky discuss Armenia-Ukraine cooperation, regional developments - en.armradio.am",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTjg3azhkY2drWlFISmZJZUxRMDhEekJnZldGX3pjbkpBYWVmUXFJQWc4NW96T1Q3UTRUQjg2cW9XQmxKRzNWM1VSOXQ5WGhIeXdYZmJGQzFCMGFZTVBrUGNvZnJSdjE3alR4a2FBdWJud2QwNlVrS0ZiZTRlSG5mNzRtX01TQXN4cEdmVzY4a05oTWVzN2l3OTM5SHA4bUVJYldnTkxFQS1fTTR5Uktxcg?oc=5",
+      "source": "en.armradio.am",
+      "published_iso": "2026-08-12T15:19:18Z"
     },
     {
-      "title": "Azerbaijan's Aliyev outlines broader vision for Zangezur Corridor - Türkiye Today",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWZzN1ozRUR3Q2dPbUVaUnlfVklzNmhkbWFDTGs2bUFIR1p0ckpReXFCb1JMR1Y2ZC1hNFc0YUIzMnJPSXFWTEVvb2Q3VXZxYV9feGdqSXlrNmZJMVd3WS1MemdiTkF6dXlxWjBKejNubFRDcVZiUDlsN2YwaTVOMXZEYi1qUXNydG12LTU2RGRyZzJqNE16Z3JiaFE4VUcyN09ZNjA2aFEwNVVW?oc=5",
-      "source": "Türkiye Today",
-      "published_iso": "2026-08-11T22:10:50Z"
+      "title": "\"There is no \"Zangezur Corridor\" on Armenian territory. There is TRIPP project signed by leaders of Azerbaijan, the United States, and Armenia,\" says MP - arminfo.info",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11ZlBKMmxBNXI5R09ZazRYeGNuSVZZZlN2M0dVS1FYd2MtNlNfYlVhaG5heGlnQkFnSzBuNHRETXJhd2ZIVlBfck9IUGFjd0tMeTlfNFhEX2dWZjExaGUtdw?oc=5",
+      "source": "arminfo.info",
+      "published_iso": "2026-08-12T13:45:00Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T11:43:11Z",
+  "updated_at": "2026-08-13T11:43:05Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -12,28 +12,28 @@
         "published_iso": "2026-08-12T03:01:00Z"
       },
       {
-        "title": "Anac prevê concessão do Santos Dumont em 2027 - Brasilturis",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0ZEX055azNSMUJHa0xrWEE4QTYtX3BVWmJCOXZ0YzJzdDhyakxvcldxRkM2cU1abVNZbTJERkFqeHcyVE8wN2I2MjAtdXFwS0VBd3JpWHlZY1EwX3Jqc3U1aWlBeU8tcmk5dmhxbWZuTWVzanIyWlQzUFllajN1MHc5dkFIalQ0ZlEtaw?oc=5",
-        "source": "Brasilturis",
-        "published_iso": "2026-08-10T18:53:50Z"
-      },
-      {
         "title": "Anac planeja concessão do aeroporto Santos Dumont para 2027, diz presidente - Panrotas",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcG5wQkV5NW5vNjZ0bExiZEJJWDVnWFBWRzNBUC1XdjhHX2xqMWFqNGdkVTZqcE1mRlZrVHBCRUI5X0YwUHJsdlc5NUZqV0VKd1VBTmIyMVB4VGY4RENZOXhoTUw4OE5zWTJ2eHl0Y1pXQjRaZkdjUUZzdy16S3lCSk1NUFppVDNocU96azhYMWhxdGZ6MTNreG1rYTlpNW93ZXlmckJuLXh4NUpjb3hfLUxHNnJodFlOb3FLY2x2ZHNBcVpBZi13Q2kyZE12TW8tcXJ6Ym9FdEY?oc=5",
         "source": "Panrotas",
         "published_iso": "2026-08-10T12:56:00Z"
       },
       {
-        "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - neofeed.com.br",
+        "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - NeoFeed",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEV2WktqMVlZekZuTXVYcWFyQlFaY2N6eEFxdHQyTHpHdm5lTnN3eWVEQTZ4VUYyc1FLczQyYWNWSWs4eU1LeGY5bDM5Z3ZIM1FTS3JwU0UwQXh0NlZVaHM1cDlmMnhZdzczRWtZVEgyZEVMM19CVlV1NGVBRUhtMTA2RDBlaWhtT0tNUlJQZ3VXYmxwQzJ5Q2VrSUsycHVGemEwbThOWGtjV1BwUzkyMktkZlkyaDh0VGlKbW51eS1jeUNY?oc=5",
-        "source": "neofeed.com.br",
+        "source": "NeoFeed",
         "published_iso": "2026-08-10T10:54:00Z"
       },
       {
-        "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - portalbenews.com.br",
+        "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - Portal BE News",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZkd2ViTlpETGVvQlRHc1pnbW96M2VRWmlzNG9YcFdmS01RaXI1ckZiTUZhNVRUakFQd3hGNm80VGs5cHdUbk9yT1NaR1kxNEg3TnlyTW13NjduVnlWZUZKZGF3b25NUkh2Zk4taG5aSDhmaEk2dDF0OVpxc181ZHFrVXltMUtVY1NhMW5yWFRmcW95RGM2NUlHVWJKcjFZa2d4bkZSc05Gdw?oc=5",
-        "source": "portalbenews.com.br",
+        "source": "Portal BE News",
         "published_iso": "2026-08-04T13:56:00Z"
+      },
+      {
+        "title": "AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
+        "source": "- Bahia Economica",
+        "published_iso": "2026-07-30T07:00:00Z"
       }
     ],
     "aa2000": [
@@ -62,10 +62,10 @@
         "published_iso": "2026-08-09T22:47:12Z"
       },
       {
-        "title": "Se cayó el acuerdo por la concesión de los aeropuertos y Milei deberá renegociar con Eurnekian - Diario Mendoza Today",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdXVsUmxobEZEeGVxOC1jOHhNeTNKX1A0SmZuN3BhUF95VWJLWk9SWGJLeEQ1OVotWmU2djNGczF5eFBoeTNTc1BVU3lFQmNoNTNveTJZd1ZBTUZ5TzBfWnlfMFV6UnZfdGdEQmVGQjhiOXcxZGZkdmtWaW04dGFJcS01VnViQXhKc1E4U2lRNnkzMkwxUC1UczBKSGpkOFpUYzdLWklTTno0WkNUSkp0VW5zUVVHY3RkaHJoTmJScWVGZ3pncWpiYkZ4bjdQU0U?oc=5",
-        "source": "Diario Mendoza Today",
-        "published_iso": "2026-08-09T16:56:20Z"
+        "title": "Concesión de Aeropuertos: Javier Milei debe resolver un conflicto con Eduardo Eurnekian - noticiasdebariloche.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU0NFODJEdWozblc1S0lDOUhDVldvaDNud0pPWU0wdVE3SzY5VUtYUzFKR01BZHBncFQ2azhCbE80QXVNTzN5c1NzbmdCc0NjQ0lmX2pqWVV3SHN2VUI3TDRXTFdnRjZJYnJIVHdqWUJtT1YzeVc3TW9EMXZEZTJGWm1UNGhMXzBER1FkNS1ZeVVuUjBBdmhRTXJ3RUpqSEJxblo4WlhBdDlEOEdNWk94N1A1UEZvbjFvcEt2U3d0TDhtSE9r?oc=5",
+        "source": "noticiasdebariloche.com.ar",
+        "published_iso": "2026-08-09T17:25:30Z"
       }
     ]
   }
