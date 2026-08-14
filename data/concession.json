@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-08-13T11:43:05Z",
+  "updated_at": "2026-08-14T11:41:39Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Após Inframerica, Aena agenda visita ao aeroporto de Dourados - Dourados News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ090R0JXSU5sd0lwbkxmZjA5ZnFnTFdWSDdzTVRKdVJQNTNTZW9IUWxmblpUVWdQLVJxOEFwZzVMYktVLTh2dFZqRHBXOTJaNzRNMVhRYXdOd1p6MWVkdjA0M1hPcTB1a3JQeDQ2QWRKbUdHUWNydXNnZm1aZ0taRm1YSFVyYlUyWENPaFc1R0NsQkphN1Q2a2tvYWxfUGlwODV4cHlvS01RWE4yLThv0gGzAUFVX3lxTE40VlBkb2p1RENmNUxqcnNoZXU2WlZSeDdOcXUyeEdHdHZJNmg2TnFhQlBGak1wQ0NHeHBEMmlUdlJ4b3ZnOWd5alhJSDNaMDh2Y0gyLXNnam90RktTYVVkVmdERkV3MUIzcEpPMFFDQUh3VUFKeGMyZDZHeHIxdUJhcmhESUw0dFhySnMwV0RWdHUyMHdCS1BoS211dFZUSkFMWk5MUU84NXVqN0VTbUE1SHRV?oc=5",
+        "source": "Dourados News",
+        "published_iso": "2026-08-13T19:53:00Z"
+      },
       {
         "title": "Anac prepara leilão do Santos Dumont para 2027 e quer atrair novas aéreas ao Brasil - Balada IN",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmoyRV9lcGU4LXJEQ0FGYWVYeHNnMFRBMEFnQ256NzJuNGlWNkVaR0dJRVRUYkR0VW40TS1EcTg1ak9DbzVmNjFsdVRDb2wybFd5MGZLeTJYUlBzRXNkYUdzMjB1S3hiSU1jclZRd05TRkdldFhwOUNCMEg2bVpJN3lLcEQ3WTFBNl90Mi1uRk9XNGtuc1VGdGRWWEZNaDVhTGF6UDh1OXpFSUNnbnJrOVZkelhaRW40b1RjZUt3?oc=5",
@@ -28,21 +34,9 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZkd2ViTlpETGVvQlRHc1pnbW96M2VRWmlzNG9YcFdmS01RaXI1ckZiTUZhNVRUakFQd3hGNm80VGs5cHdUbk9yT1NaR1kxNEg3TnlyTW13NjduVnlWZUZKZGF3b25NUkh2Zk4taG5aSDhmaEk2dDF0OVpxc181ZHFrVXltMUtVY1NhMW5yWFRmcW95RGM2NUlHVWJKcjFZa2d4bkZSc05Gdw?oc=5",
         "source": "Portal BE News",
         "published_iso": "2026-08-04T13:56:00Z"
-      },
-      {
-        "title": "AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
-        "source": "- Bahia Economica",
-        "published_iso": "2026-07-30T07:00:00Z"
       }
     ],
     "aa2000": [
-      {
-        "title": "Aeropuertos Argentina ganó un 71% más, aunque prevé un segundo semestre con impulso moderado para el sector aéreo - Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYkJQcDdHMTFZdS1aTEl5cXNlSm1WdnFuX2t5WEVibEZTWS15cWhJcWtXVmVqWGYxZ3dkRkNHWGpUYllUR0daT0RqSk9CSXdERFc3SFE4ZmhmclI4WVVBRnNLTy14eFFfLXFaQ3Qyak14S1dWNHZqQlpENVZ4X19hcGxkdlJjLVIydW9aRzBxNmVFTHlXMTd3UzRySmNBNmtRaEU2dm51NWQ4d3hUNzQ3Vno1cUlySmRjam83cWpkZ1FCdU1RTWxTc0YzS3hIcjFEUDhmdkdjbXFxWmc?oc=5",
-        "source": "Ambito",
-        "published_iso": "2026-08-10T18:52:00Z"
-      },
       {
         "title": "Aeropuertos Argentina: el Gobierno renegociará la concesión - REPORTUR.com",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDNDZnNoR0RselFHOGZQdGpWM1RkUTZWc3Yzc21RU1BKaHgydVlNNEVkZXR0ZWFpWVFORllUeEMtdHc5WW9sajUwZE1uTmtPNXBwTVg5cXV6RzI0Y1ZmcjVpX2ZpMDBWMUc5cEtCV1ROS0toNEw4ek1FdVhJaWsyZHpqVnMzcVlBbHFXeVc4M0ZkSWh2VWZQZGtoVUxWSC1BaFFlUURHcng?oc=5",
@@ -56,16 +50,22 @@
         "published_iso": "2026-08-10T01:41:53Z"
       },
       {
-        "title": "Puntos de fricción por la concesión de Aeropuertos Argentina 2000 entre la administración nacional y el grupo Eurnekian - diariocronica.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeUo4TjRGczR0ckJsZGk5R3FRNDFMR0dGRFhFdXBNRkYwSm9tbW5uX1FrVl9OSUI5VHpFOW1GZ184cF9fUjc5LTM5bGRJc2tFZkhqX1B5UXJCRVNiN2tNd3p6SEhPUFg5UUg3SHFjcERtZGk5NmVaUk9JZ1ZWaWUtVDRHb2N0WDNuUjVkM09PUGZGX0JOZHFJLU1mdXpsNHl4X3Y1TUEzSlU2Vlo1d0xiNjR4LUlDd2RJXzJFQmo2dzd2RW50c0NUZnM3ZXllbmJDeVkwWjZfSFcxcVFYanNnZ1J0OVNaOGQtT0pjcTBpd0pzTmVQNVJ1U1p4dFZZblhVNFNhY1hTcVc0NTDSAZACQVVfeXFMT2NvQWFncjAzQ0tScGU2RF9lLS1ZRkJHUlVGYmg1VTE4aXdMWnA2dHU3eWVCWU1BOTdBZ29NWEZ5YzMzQjlpTkprYU5FQWhlbHlFeGg0dkthT19LazNseVU5d1dHSV96eTBfdnFuMlEzQktGSzV0eGw3RGhiS3cyZlBCaG11Z0NfNUVlUTMzVEFXcnltMWtXc0FJZWFINl9UUDk3Nk9ZTHBUTmxCcDNFQjZtUnBXSUlVdlpiTDNGU1k4SGp4YUhubTVabkxXOFFWZGk3b0FUaFVFV1dvNXRuWG5IaWJzMU03dWxHSGMzVTdUSVFCVlFmSkNvVl9jTWszUmhUMmtkNUM4dHFfZDlDa24?oc=5",
-        "source": "diariocronica.com.ar",
-        "published_iso": "2026-08-09T22:47:12Z"
-      },
-      {
         "title": "Concesión de Aeropuertos: Javier Milei debe resolver un conflicto con Eduardo Eurnekian - noticiasdebariloche.com.ar",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU0NFODJEdWozblc1S0lDOUhDVldvaDNud0pPWU0wdVE3SzY5VUtYUzFKR01BZHBncFQ2azhCbE80QXVNTzN5c1NzbmdCc0NjQ0lmX2pqWVV3SHN2VUI3TDRXTFdnRjZJYnJIVHdqWUJtT1YzeVc3TW9EMXZEZTJGWm1UNGhMXzBER1FkNS1ZeVVuUjBBdmhRTXJ3RUpqSEJxblo4WlhBdDlEOEdNWk94N1A1UEZvbjFvcEt2U3d0TDhtSE9r?oc=5",
         "source": "noticiasdebariloche.com.ar",
         "published_iso": "2026-08-09T17:25:30Z"
+      },
+      {
+        "title": "Aeropuertos Argentina anunció obras por USD 100 millones en Ezeiza: la pista central estará restringida por 15 días en noviembre - Reconquista Radios",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORVJJNTFkMm9lZW0tTUt2N25zQk10NEx2dUZqbUZ1c2lWcTRVcWxxdS1SYjV3dlhMMFV2blBhR2JRcFJxMDUxbnVFVnZ2Z3RGaENrczB5eXZtZ0hXbDZueF9vTEJHMW5wRlhKTzRZUFpMeWU4SkI5N2ZFQWtTa2s2am5uR05iWXliYTVtTjJteGtVcGhSSUZZZzVVdElZYjhzXzdxdDl6Z2lfZ25WOHNOaTNkcGNBdk1jRGdPQnlzVDlqeWNjaHZzQTZYZ0J5YXNkcERCX0RRWEdDTTk2dzZ4QkJ4d0d3VEZUejdRZGdQWlFldXowMThtRFdYQ0ZNdTZwd3hiLQ?oc=5",
+        "source": "Reconquista Radios",
+        "published_iso": "2026-08-09T15:41:30Z"
+      },
+      {
+        "title": "Concesión de aeropuertos: el Gobierno de Javier Milei negocia con Eduardo Eurnekian tras quedar trabado un acuerdo clave - HOY ROJAS",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XWm1UWmlRcThOUnZuSE1JYnB6cjc0eHc0ZXlvRjBLRjctU0J2Wk14RGEzMUVTWmhlSE5yUUppRDdEOTFldWNFMU52QXN6NHhNQTg0X1VsRUdjM0hFNmtjcU5WNXZQV3c?oc=5",
+        "source": "HOY ROJAS",
+        "published_iso": "2026-08-09T14:04:00Z"
       }
     ]
   }
