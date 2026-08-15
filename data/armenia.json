@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-08-14T11:41:59Z",
+  "updated_at": "2026-08-15T11:18:24Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "EU welcomes progress made one year after Azerbaijan-Armenia Washington agreements - Exclusive - Report.az",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTGY5OXFQOUxDWXVwV1NKdEhXeF9Ya083NWNpclF0Zi0xMFJmdHN5UGlteUxSbkZqMlZZRk9NbjhxV0tTUXl6a0d6SE1vcVF2dFdTaVVXWnN2bnI4Ykp4UFB0OE1OYW1Cbi1kdDJUTHA2R3ZacnptcVVVcExwMUdfUncxTkE0UGlKZXZ2WVJRbDBqWVZfSV9hX2VLQ2pOUTdqZDIwLW5QeTZYNGs3bzJMd1NWRzNwQ1NfaWhJMkp5cnA3RHhMM2JfSNIBzgFBVV95cUxObTlQVE1pWTN1ZHpscmJKMXllbFlfRjRjQWJXZTZ3UmRGVW9zQlFEVmdyZjdLdldEbklaWEd2aS1UZE5mcWtKUXdjTFNMYzUxNEwxY0FYX0ZiYThJejZHcXh4UUk4VlRJRVlfbFBFQllNZnVhRXFPWlZTd0tBTkxnbVpGa0wweVN2RGxsM2hhMEF1UGFmSnN4S0h5SVJfZ0t1cm9EZ2trZUNuYV9XUmMwaVZCNnRJVm43c3VrOHVSMGZPRVFBakVjTXItZk1Odw?oc=5",
-      "source": "Report.az",
-      "published_iso": "2026-08-14T11:10:00Z"
+      "title": "President Aliyev Says Zangezur Corridor to Handle 15M Tons of Cargo Annually - caspiannews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1ZuaF9oXzhlcEpvNmZ1V2RyZ1U4QzAxVnNWZm56VzBQaTVxbXUtZHZISXJrbmdhbkViakdLWkhtQnlaenVtRmszS3h4MDh4TVVmdkp5ZG13RVNfRmxvbkQ4NFlieE13RC13c212VV9vZWdRT0NWbnkxVWlHTi1hTWlydlFBRXk1ZGpPUjRabnVNakVhU1BTVzJlMWZDbnhFY0dmeXJtSUdXS3ZuR2Y3aXduQ05zNW9LSnJDMmlsUEtud2c?oc=5",
+      "source": "caspiannews.com",
+      "published_iso": "2026-08-15T10:00:34Z"
     },
     {
-      "title": "Armenia-Azerbaijan peace agreement to be SIGNED next year - Modern.az",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWR0cUdRYlZNekFCb3I2NGNiYkpyZGpZcWRoS1lBZDdBOVZDeUI2LXFYWkMyM2V6N1ZDV3U1V2Y1ai1tX21fcWFfTWRvbmdpcUJOeVNoRHViaU0zOXVPOWdOSng5aVY3REVxNWM3YmtEcVZqOV9FV0dVMHAzdEtyUERTU3Zrakp6Nm9vb2hJZ0hrZmVMaTd6dlVUTUQ?oc=5",
-      "source": "Modern.az",
-      "published_iso": "2026-08-14T05:02:15Z"
+      "title": "Opinion: A Corridor as a Guarantee - Why TRIPP Needs an International Consortium - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQV9qcHdmV19hNy1LRzRUczR2dVpaZTdrRlJRTzN1VHdKeDRqZFFOM2wwQ0lhbHpyenI5YVVYUWhic21JbndHQ1VJSFlsSXNocVFuTHFpUHczQmRIWEQ1WVpQVTROSlBPdnFseG9wcC0tOFV3clJvRGRveFpQWWNZV0x2VGtvUlRld3diU3ZOQlU1UU15bWdFUTI2MDFzcnFjYVpseA?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-08-15T08:47:13Z"
+    },
+    {
+      "title": "Zangezur electricity corridor: The ball is in Armenia’s court - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUI1azJRTmR1VHJEeGVwcFdoeThBcERZbDFnbVk3MTRXZk9SOUhBTUs2YU9DbW5DLVFfYktheWxtT3A1bmhuWjFzQW9yalVtcm9XSmRCVENQcE1pTXlFTWh4QVN2ajNwM292T0Fhdi1NVFZFeDMzODU2Ml9kX3VMQzlTUG8wMnM?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_iso": "2026-08-15T07:00:59Z"
+    },
+    {
+      "title": "Armenia 2026 Parliamentary Election: At the Dawn of a New Geopolitical Era - Geopolitical Monitor",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFRHNXhvZzAxYjhoQ1ZnU2NDN3BUaTB5NWlFdUtobW1zbGpLVEVuNGpUOTBQajItZERzcmx2cThfbllyTnpFMHA5MlJ6Z2dFei1rTWE2b1B2R3JIdWlxVXNzZlVrTlV6ck5YTlNQSVlXNXMxZE9ZNW9BYW1hQl9UUzhMZjlfY1dwQnNkbDBkOHYyN0REeFhSU1AxTFFvTTctVHhoNkpxc3JIS1VNa0VJ?oc=5",
+      "source": "Geopolitical Monitor",
+      "published_iso": "2026-08-14T12:42:52Z"
     },
     {
       "title": "'Even if nuclear power plant is shut down, Armenia will not face serious problems': Reaction to Aliyev's remarks - JAMnews",
@@ -27,18 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU3BabkxlY2dUYTJTS2tlVlJ6b0JhNkk0OEZQRFFxa09MZUl6bGx0QzJMTFZWVTE5RExQQS1PUDNSOUZaelgydXVBQjFjWFBCWDYyVkJRUFZPQzRQekVEUE8xUW10T0lqbGJxc3lkZ1BIVFBDdi1BS2puanBZQTlRaXJJTEVhVGNxZm50aDdsUWVKZS1ENzFremlHZVpwR0lj0gGmAUFVX3lxTE9pcVhtRGtzM0RjQWlHZk15S293ckVNcVZMcWNfanB3MlJ2WVRfNjZCQ0hYckZkVm12a2dyc0pWbTBHWE5SOUZQSmRIS0Z6OWc0NUlUNFJoVWEtbk1tbFk1aktOM1hrSlVnVVQ1ZmJQYmJ3TnJENzh2UEJ2a21pcDN3cC1pRDQ5Y2hRR1l4NnRMWDc1d3JKTzNjQ2U3VjlyNlNrU3BGdlE?oc=5",
       "source": "MassisPost",
       "published_iso": "2026-08-13T00:44:59Z"
-    },
-    {
-      "title": "There is no Zangezur Corridor on Armenian territory. There is TRIPP project signed by leaders of Azerbaijan, the United States, and Armenia, says MP - АрмИнфо",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wR0xjamdrbUhxYjBLeVkxOERKV0R0WVhwa2ZFaDduTm5OeGJiX1I4Uy1md2t2WGxlQmVoR0psWl91NGE2ZFgzX3FFdkFlYXdlczhGeUR3amxQc2FRdzJwX0h3?oc=5",
-      "source": "АрмИнфо",
-      "published_iso": "2026-08-12T14:31:58Z"
-    },
-    {
-      "title": "Armenia, Azerbaijan, and the US publish joint statement on anniversary of Washington Summit - sovanews.tv",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcEI5bGUwWHFteXpIVHlCanRNdklGVDRYMm90djNvcUdnOWI3TjRyZUlaY2R1VGxhcWlVWm1GTG95QU5IZVZQMjF3STAtVmU0Ml9uWHQ4NFBidFJHT3d5RnBTUEtadFRCSE9rQk1JWkJZVUZxdlVYUkJBaFJKQUZKUTR1ZWdCNUFMWi0waWFPR3F1czVxYVhFRmNWNFMxbF8xeUIzeTZCOWQ3VDIxQ3hNSTctcXpBTnJfcWpUdC1RaG9Td9IBxwFBVV95cUxQTWlhdHZTZkxraDc2cTRjcU9YbGZYSzFXU080VWh0ODVINmVZb2l1MzNKdWY1b3lZY1Nfc3JsZUJhamJ4SjZuQlF4dmpPVjIyWEpaRjhCNm1JQkhUZEJNM2IxeXZxSVRFYm1mR0U4dkQwdFA1UjdWZDlacmVoYkV0TUZEU1pZSzh1TEdmRm92N1EtWmhGeGdRYkVpbDJBZkhjUmFRT1hYbFhSVU5yd2pIQnZ2Yk1FZFNfdHRBajlRdjJBUG8tcFRr?oc=5",
-      "source": "sovanews.tv",
-      "published_iso": "2026-08-12T12:22:32Z"
     }
   ]
 }

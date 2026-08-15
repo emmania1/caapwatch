@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-08-14T11:41:39Z",
+  "updated_at": "2026-08-15T11:18:03Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Após Inframerica, Aena agenda visita ao aeroporto de Dourados - Dourados News",
+        "title": "Após Inframerica, Aena agenda visita ao aeroporto de Dourados - douradosnews.com.br",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ090R0JXSU5sd0lwbkxmZjA5ZnFnTFdWSDdzTVRKdVJQNTNTZW9IUWxmblpUVWdQLVJxOEFwZzVMYktVLTh2dFZqRHBXOTJaNzRNMVhRYXdOd1p6MWVkdjA0M1hPcTB1a3JQeDQ2QWRKbUdHUWNydXNnZm1aZ0taRm1YSFVyYlUyWENPaFc1R0NsQkphN1Q2a2tvYWxfUGlwODV4cHlvS01RWE4yLThv0gGzAUFVX3lxTE40VlBkb2p1RENmNUxqcnNoZXU2WlZSeDdOcXUyeEdHdHZJNmg2TnFhQlBGak1wQ0NHeHBEMmlUdlJ4b3ZnOWd5alhJSDNaMDh2Y0gyLXNnam90RktTYVVkVmdERkV3MUIzcEpPMFFDQUh3VUFKeGMyZDZHeHIxdUJhcmhESUw0dFhySnMwV0RWdHUyMHdCS1BoS211dFZUSkFMWk5MUU84NXVqN0VTbUE1SHRV?oc=5",
-        "source": "Dourados News",
+        "source": "douradosnews.com.br",
         "published_iso": "2026-08-13T19:53:00Z"
       },
       {
-        "title": "Anac prepara leilão do Santos Dumont para 2027 e quer atrair novas aéreas ao Brasil - Balada IN",
+        "title": "Anac prepara leilão do Santos Dumont para 2027 e quer atrair novas aéreas ao Brasil - portalin.com.br",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmoyRV9lcGU4LXJEQ0FGYWVYeHNnMFRBMEFnQ256NzJuNGlWNkVaR0dJRVRUYkR0VW40TS1EcTg1ak9DbzVmNjFsdVRDb2wybFd5MGZLeTJYUlBzRXNkYUdzMjB1S3hiSU1jclZRd05TRkdldFhwOUNCMEg2bVpJN3lLcEQ3WTFBNl90Mi1uRk9XNGtuc1VGdGRWWEZNaDVhTGF6UDh1OXpFSUNnbnJrOVZkelhaRW40b1RjZUt3?oc=5",
-        "source": "Balada IN",
+        "source": "portalin.com.br",
         "published_iso": "2026-08-12T03:01:00Z"
+      },
+      {
+        "title": "Anac prevê concessão do Santos Dumont em 2027 - Brasilturis",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0ZEX055azNSMUJHa0xrWEE4QTYtX3BVWmJCOXZ0YzJzdDhyakxvcldxRkM2cU1abVNZbTJERkFqeHcyVE8wN2I2MjAtdXFwS0VBd3JpWHlZY1EwX3Jqc3U1aWlBeU8tcmk5dmhxbWZuTWVzanIyWlQzUFllajN1MHc5dkFIalQ0ZlEtaw?oc=5",
+        "source": "Brasilturis",
+        "published_iso": "2026-08-10T18:53:50Z"
       },
       {
         "title": "Anac planeja concessão do aeroporto Santos Dumont para 2027, diz presidente - Panrotas",
@@ -28,12 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEV2WktqMVlZekZuTXVYcWFyQlFaY2N6eEFxdHQyTHpHdm5lTnN3eWVEQTZ4VUYyc1FLczQyYWNWSWs4eU1LeGY5bDM5Z3ZIM1FTS3JwU0UwQXh0NlZVaHM1cDlmMnhZdzczRWtZVEgyZEVMM19CVlV1NGVBRUhtMTA2RDBlaWhtT0tNUlJQZ3VXYmxwQzJ5Q2VrSUsycHVGemEwbThOWGtjV1BwUzkyMktkZlkyaDh0VGlKbW51eS1jeUNY?oc=5",
         "source": "NeoFeed",
         "published_iso": "2026-08-10T10:54:00Z"
-      },
-      {
-        "title": "Anac promove roadshow sobre repactuação da concessão do Aeroporto de Brasília - Portal BE News",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZkd2ViTlpETGVvQlRHc1pnbW96M2VRWmlzNG9YcFdmS01RaXI1ckZiTUZhNVRUakFQd3hGNm80VGs5cHdUbk9yT1NaR1kxNEg3TnlyTW13NjduVnlWZUZKZGF3b25NUkh2Zk4taG5aSDhmaEk2dDF0OVpxc181ZHFrVXltMUtVY1NhMW5yWFRmcW95RGM2NUlHVWJKcjFZa2d4bkZSc05Gdw?oc=5",
-        "source": "Portal BE News",
-        "published_iso": "2026-08-04T13:56:00Z"
       }
     ],
     "aa2000": [
@@ -56,9 +56,9 @@
         "published_iso": "2026-08-09T17:25:30Z"
       },
       {
-        "title": "Aeropuertos Argentina anunció obras por USD 100 millones en Ezeiza: la pista central estará restringida por 15 días en noviembre - Reconquista Radios",
+        "title": "Aeropuertos Argentina anunció obras por USD 100 millones en Ezeiza: la pista central estará restringida por 15 días en noviembre - reconquistaradios.com.ar",
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORVJJNTFkMm9lZW0tTUt2N25zQk10NEx2dUZqbUZ1c2lWcTRVcWxxdS1SYjV3dlhMMFV2blBhR2JRcFJxMDUxbnVFVnZ2Z3RGaENrczB5eXZtZ0hXbDZueF9vTEJHMW5wRlhKTzRZUFpMeWU4SkI5N2ZFQWtTa2s2am5uR05iWXliYTVtTjJteGtVcGhSSUZZZzVVdElZYjhzXzdxdDl6Z2lfZ25WOHNOaTNkcGNBdk1jRGdPQnlzVDlqeWNjaHZzQTZYZ0J5YXNkcERCX0RRWEdDTTk2dzZ4QkJ4d0d3VEZUejdRZGdQWlFldXowMThtRFdYQ0ZNdTZwd3hiLQ?oc=5",
-        "source": "Reconquista Radios",
+        "source": "reconquistaradios.com.ar",
         "published_iso": "2026-08-09T15:41:30Z"
       },
       {
