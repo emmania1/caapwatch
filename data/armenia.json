@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-08-16T11:18:14Z",
+  "updated_at": "2026-08-17T11:23:27Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Opinion: Sustaining Momentum in Armenia-Türkiye Normalization After Armenia’s Parliamentary Elections - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGpocEl0YTZ1LVE5SHJhRFFxNlFOSEliYUZLYzFBSVRFeWotSHNrSUg3OUhWTVRsQ2VHcHBSUXhTcHBoNkVlaWxfVUljRDg3bnVyZ1g0T1YzZVpzb0dnSUV5OHRIWGkzS0lNR2RHTXFIT19oTERRTXhHdUZPTWZ2VFJPT0JDZEJLQzJ5WnNtbzFEa2FzTHIyZWZRM1oyNzFubEk2VFFmSmZpWWx2Y3l3Z3VmMEhIdm1WdHFidU5B?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-08-17T09:47:14Z"
+    },
+    {
+      "title": "Artur Aghajanov: Azerbaijan-Armenia peace treaty could be signed in 2027 - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPelBQUnhzOTM0UlRKdTdOTVJIOXNlME9rbDY3ekZhSUlCTVlPejJKWHNKQW1JNUFIYXg4Vl9kRUVXbTI3NDRZa1pfTjhKZ1RRMDNVUzZYNlozRk04emNnSFhreG1XMzRQYnh2UFJYM05Cd3dqQ09Mdk5JWnhJWndrS2hQTWx4ai03RUFCa1YteHFtNTJaZUtr?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_iso": "2026-08-17T06:10:40Z"
+    },
+    {
+      "title": "EU Highlights Progress Between Armenia And Azerbaijan - Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlhvLTlDRjQ5WFdsOWxzSWEyRHJKOVVzLTZpT3VicG1Hd0F6bTByWnlqWDZPWFd3WVlsWDlGV3lvb1VUWkNMZ2dRaVlNSm5raHdQSTNXR0ZpWTFYcnVUdmxZS0VZQWtRb3d3VVFSZXppLVhJZWtVMVpoVHVHRTIwM3ZBc25qUTBhT0xEOG9YRmFKalZiakx2Ng?oc=5",
+      "source": "Eurasia Review",
+      "published_iso": "2026-08-16T21:42:18Z"
+    },
     {
       "title": "President Aliyev Says Zangezur Corridor to Handle 15M Tons of Cargo Annually - caspiannews.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1ZuaF9oXzhlcEpvNmZ1V2RyZ1U4QzAxVnNWZm56VzBQaTVxbXUtZHZISXJrbmdhbkViakdLWkhtQnlaenVtRmszS3h4MDh4TVVmdkp5ZG13RVNfRmxvbkQ4NFlieE13RC13c212VV9vZWdRT0NWbnkxVWlHTi1hTWlydlFBRXk1ZGpPUjRabnVNakVhU1BTVzJlMWZDbnhFY0dmeXJtSUdXS3ZuR2Y3aXduQ05zNW9LSnJDMmlsUEtud2c?oc=5",
@@ -21,24 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUI1azJRTmR1VHJEeGVwcFdoeThBcERZbDFnbVk3MTRXZk9SOUhBTUs2YU9DbW5DLVFfYktheWxtT3A1bmhuWjFzQW9yalVtcm9XSmRCVENQcE1pTXlFTWh4QVN2ajNwM292T0Fhdi1NVFZFeDMzODU2Ml9kX3VMQzlTUG8wMnM?oc=5",
       "source": "Latest news from Azerbaijan",
       "published_iso": "2026-08-15T07:00:59Z"
-    },
-    {
-      "title": "Armenia 2026 Parliamentary Election: At the Dawn of a New Geopolitical Era - Geopolitical Monitor",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFRHNXhvZzAxYjhoQ1ZnU2NDN3BUaTB5NWlFdUtobW1zbGpLVEVuNGpUOTBQajItZERzcmx2cThfbllyTnpFMHA5MlJ6Z2dFei1rTWE2b1B2R3JIdWlxVXNzZlVrTlV6ck5YTlNQSVlXNXMxZE9ZNW9BYW1hQl9UUzhMZjlfY1dwQnNkbDBkOHYyN0REeFhSU1AxTFFvTTctVHhoNkpxc3JIS1VNa0VJ?oc=5",
-      "source": "Geopolitical Monitor",
-      "published_iso": "2026-08-14T12:42:52Z"
-    },
-    {
-      "title": "Pashinyan introduces Alen Simonyan as new Secretary of Armenia’s Security Council - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUhiMmZNWHdXX2hKMUpXOWY5Y1llUnNWUC1BdmQwTkUybzRfR3ZyNnlUT0JGMXhzaEQwWDdzZXNQQkdEcThLM1ZXdDhlM0tJQ056LUlkcXZmTzFvbTBrSWhrbUxYdEpnWV93TWlSUjVEc3h6czUzcGVMRUdaMFJCdWNsQmN2clVHYXltblJwTlh0Y3ZpSDU0MmV0bW4wSlYzMEVPcGVSZjhiRXo2aGg0ejNGUFd1dw?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-08-14T07:29:48Z"
-    },
-    {
-      "title": "'Even if nuclear power plant is shut down, Armenia will not face serious problems': Reaction to Aliyev's remarks - jam-news.net",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSllZUHFEeE80a1ptWTQzb3JQbl9FR3JCeXltZ1JSWUVzY3lmQ3dXd3VBYVVhNHE1Rko0WkhvbUF2bklGQk41bzMwbGw2WWlSR3EyZVVOclZlbDc4Uk5EVEdvODkyM0UwZmJucjFGRnBmOF9VblZVZTB2Z182QW8yRXZEUjJOUUFMeVZVdFQ4R3VaOHZQSEZKN0xSbG9FdFBmb2hZSGVESFowdWJ1djdmZ3ZhZDBJa1hEdy1rR3d6TThUb28wUDQyVg?oc=5",
-      "source": "jam-news.net",
-      "published_iso": "2026-08-13T11:04:58Z"
     }
   ]
 }

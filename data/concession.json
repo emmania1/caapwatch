@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T11:17:54Z",
+  "updated_at": "2026-08-17T11:23:06Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -38,9 +38,9 @@
     ],
     "aa2000": [
       {
-        "title": "Aeropuertos Argentina mejora sus resultados - aviacionnews.com",
+        "title": "Aeropuertos Argentina mejora sus resultados - Aviación News",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR295akRaTHJjQ0d0M205ZTFKcnVYSVZrRG1fdjZfLV9VODA4NHdnTTZQeGREUmZWMTlrQUJ0NEljQkRWUG9XR3ItWW93ajBZOEFSZUdsbUtSWi1KcDU4d0JKQlJJY3FJSW5CSEpFbTVCME1wSWV2aHpsd3pDNlNyVi10blg1ZEhjUW5KdUxVS2dVZDNPUWJrUFlFVmxVZjNCUVc1c3QxOEJIRHpCQmNlXzFzYjJqU2VBZVNKMXdUQmhPdmswd05HS2tIeUw?oc=5",
-        "source": "aviacionnews.com",
+        "source": "Aviación News",
         "published_iso": "2026-08-11T03:51:49Z"
       },
       {
@@ -50,9 +50,9 @@
         "published_iso": "2026-08-10T09:44:01Z"
       },
       {
-        "title": "Milei y Eurnekian, una relación tensa que vuelve a escena - Identidad Correntina",
+        "title": "Milei y Eurnekian, una relación tensa que vuelve a escena - identidadcorrentina.com.ar",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU29BV1liY2Y1dUNXb3ZlaDZVYkZHY2tIN1p6S2JHM0FzOF96el9mVUZ0UW9pWUJjc240YXdDaEt0WjZtdUxUTXI3RlJFMDRWQnpjSFJucEtMdUpMVDVfYWcxUGVWQ0ZHVVJfcjZCNkNvU2RPb0x0X0JrWkh0a3hETDFPU29LWXFlaG41Yk56UHFWNFpqZ25BQllvT2R2N1k4dDQ1YTNobFNLdG9oSUNTVENB?oc=5",
-        "source": "Identidad Correntina",
+        "source": "identidadcorrentina.com.ar",
         "published_iso": "2026-08-10T01:41:53Z"
       },
       {
