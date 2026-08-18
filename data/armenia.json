@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-08-17T11:23:27Z",
+  "updated_at": "2026-08-18T11:22:56Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Pashinyan meets U.S. Congressman Abraham Hamadeh - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkpmNHlraXQ1aUJKY25udFUzQ3luWXQ4RFFLamhTcm9QTHFsQU83b3RDaUQtUHYySjN2cGNNdXVjeW1RaFZMYWdlNVFkUG16bE03YkZ4WTRhV0JWUUZ4Rm81UGV0Z3A0d0V0X09TbnJuemNvUklIUDBhRlBXbEVTcUVPODF0ckV0a0E?oc=5",
+      "source": "Public Radio of Armenia",
+      "published_iso": "2026-08-18T11:07:58Z"
+    },
+    {
+      "title": "Vietnam’s Prime Minister congratulates Armenia’s Pashinyan on reappointment - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlhsWTF4MHQxZHdpNU5mSjhDWGJtSC1HNXB4bGRibExmX3VqZG5Ea1VVLTNWZFcxYXVGMGhkM2N1eGU4WkFRbTgzdDlSTEEwXzZpSWJXSkdCWTZva3FiY2w5YW1ZOWUwSk9SQ1lXNUo5SFN2ZTItRF9MSENGMjN4VTJaeU1uYnluLUc0LWVaMG1PdHJxVDhrWlFyXzNMQkpmb2NhelFzbGYyMmpX?oc=5",
+      "source": "Public Radio of Armenia",
+      "published_iso": "2026-08-18T08:38:35Z"
+    },
+    {
+      "title": "Armenia and Ukraine deepen ties as high-level meetings increase throughout August - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVF1MHlEZkpneGVIdEd6dTZiN2xWbjcyVy11a01lV0NNXzJUS0ZxVzVLcnY5UFB2ZzRxZXdWYVJ2S3hUekwzVHlRRFRKb1pVSmttOVRtajhqcjN0WU00b004d2NoZW5FRFp2dTVvNUdkUm41WlhqS1k5R0NSeEZIek1HVHN6SFdMQzFLSmRsX0Y1Q3dpU0hlSVJKZXd4RWEwOVgzU2F3?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-08-17T12:03:53Z"
+    },
     {
       "title": "Opinion: Sustaining Momentum in Armenia-Türkiye Normalization After Armenia’s Parliamentary Elections - commonspace.eu",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGpocEl0YTZ1LVE5SHJhRFFxNlFOSEliYUZLYzFBSVRFeWotSHNrSUg3OUhWTVRsQ2VHcHBSUXhTcHBoNkVlaWxfVUljRDg3bnVyZ1g0T1YzZVpzb0dnSUV5OHRIWGkzS0lNR2RHTXFIT19oTERRTXhHdUZPTWZ2VFJPT0JDZEJLQzJ5WnNtbzFEa2FzTHIyZWZRM1oyNzFubEk2VFFmSmZpWWx2Y3l3Z3VmMEhIdm1WdHFidU5B?oc=5",
@@ -21,24 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlhvLTlDRjQ5WFdsOWxzSWEyRHJKOVVzLTZpT3VicG1Hd0F6bTByWnlqWDZPWFd3WVlsWDlGV3lvb1VUWkNMZ2dRaVlNSm5raHdQSTNXR0ZpWTFYcnVUdmxZS0VZQWtRb3d3VVFSZXppLVhJZWtVMVpoVHVHRTIwM3ZBc25qUTBhT0xEOG9YRmFKalZiakx2Ng?oc=5",
       "source": "Eurasia Review",
       "published_iso": "2026-08-16T21:42:18Z"
-    },
-    {
-      "title": "President Aliyev Says Zangezur Corridor to Handle 15M Tons of Cargo Annually - caspiannews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1ZuaF9oXzhlcEpvNmZ1V2RyZ1U4QzAxVnNWZm56VzBQaTVxbXUtZHZISXJrbmdhbkViakdLWkhtQnlaenVtRmszS3h4MDh4TVVmdkp5ZG13RVNfRmxvbkQ4NFlieE13RC13c212VV9vZWdRT0NWbnkxVWlHTi1hTWlydlFBRXk1ZGpPUjRabnVNakVhU1BTVzJlMWZDbnhFY0dmeXJtSUdXS3ZuR2Y3aXduQ05zNW9LSnJDMmlsUEtud2c?oc=5",
-      "source": "caspiannews.com",
-      "published_iso": "2026-08-15T10:00:34Z"
-    },
-    {
-      "title": "Opinion: A Corridor as a Guarantee - Why TRIPP Needs an International Consortium - commonspace.eu",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQV9qcHdmV19hNy1LRzRUczR2dVpaZTdrRlJRTzN1VHdKeDRqZFFOM2wwQ0lhbHpyenI5YVVYUWhic21JbndHQ1VJSFlsSXNocVFuTHFpUHczQmRIWEQ1WVpQVTROSlBPdnFseG9wcC0tOFV3clJvRGRveFpQWWNZV0x2VGtvUlRld3diU3ZOQlU1UU15bWdFUTI2MDFzcnFjYVpseA?oc=5",
-      "source": "commonspace.eu",
-      "published_iso": "2026-08-15T08:47:13Z"
-    },
-    {
-      "title": "Zangezur electricity corridor: The ball is in Armenia’s court - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUI1azJRTmR1VHJEeGVwcFdoeThBcERZbDFnbVk3MTRXZk9SOUhBTUs2YU9DbW5DLVFfYktheWxtT3A1bmhuWjFzQW9yalVtcm9XSmRCVENQcE1pTXlFTWh4QVN2ajNwM292T0Fhdi1NVFZFeDMzODU2Ml9kX3VMQzlTUG8wMnM?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "published_iso": "2026-08-15T07:00:59Z"
     }
   ]
 }
