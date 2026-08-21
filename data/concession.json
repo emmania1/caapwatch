@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-08-20T11:24:23Z",
+  "updated_at": "2026-08-21T11:22:54Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Após Inframerica, Aena agenda visita ao aeroporto de Dourados - Dourados News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ090R0JXSU5sd0lwbkxmZjA5ZnFnTFdWSDdzTVRKdVJQNTNTZW9IUWxmblpUVWdQLVJxOEFwZzVMYktVLTh2dFZqRHBXOTJaNzRNMVhRYXdOd1p6MWVkdjA0M1hPcTB1a3JQeDQ2QWRKbUdHUWNydXNnZm1aZ0taRm1YSFVyYlUyWENPaFc1R0NsQkphN1Q2a2tvYWxfUGlwODV4cHlvS01RWE4yLThv0gGzAUFVX3lxTE40VlBkb2p1RENmNUxqcnNoZXU2WlZSeDdOcXUyeEdHdHZJNmg2TnFhQlBGak1wQ0NHeHBEMmlUdlJ4b3ZnOWd5alhJSDNaMDh2Y0gyLXNnam90RktTYVVkVmdERkV3MUIzcEpPMFFDQUh3VUFKeGMyZDZHeHIxdUJhcmhESUw0dFhySnMwV0RWdHUyMHdCS1BoS211dFZUSkFMWk5MUU84NXVqN0VTbUE1SHRV?oc=5",
-        "source": "Dourados News",
-        "published_iso": "2026-08-13T19:53:00Z"
-      },
-      {
         "title": "Anac prepara leilão do Santos Dumont para 2027 e quer atrair novas aéreas ao Brasil - Balada IN",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdmoyRV9lcGU4LXJEQ0FGYWVYeHNnMFRBMEFnQ256NzJuNGlWNkVaR0dJRVRUYkR0VW40TS1EcTg1ak9DbzVmNjFsdVRDb2wybFd5MGZLeTJYUlBzRXNkYUdzMjB1S3hiSU1jclZRd05TRkdldFhwOUNCMEg2bVpJN3lLcEQ3WTFBNl90Mi1uRk9XNGtuc1VGdGRWWEZNaDVhTGF6UDh1OXpFSUNnbnJrOVZkelhaRW40b1RjZUt3?oc=5",
         "source": "Balada IN",
         "published_iso": "2026-08-12T03:01:00Z"
-      },
-      {
-        "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - NeoFeed",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEV2WktqMVlZekZuTXVYcWFyQlFaY2N6eEFxdHQyTHpHdm5lTnN3eWVEQTZ4VUYyc1FLczQyYWNWSWs4eU1LeGY5bDM5Z3ZIM1FTS3JwU0UwQXh0NlZVaHM1cDlmMnhZdzczRWtZVEgyZEVMM19CVlV1NGVBRUhtMTA2RDBlaWhtT0tNUlJQZ3VXYmxwQzJ5Q2VrSUsycHVGemEwbThOWGtjV1BwUzkyMktkZlkyaDh0VGlKbW51eS1jeUNY?oc=5",
-        "source": "NeoFeed",
-        "published_iso": "2026-08-10T07:00:00Z"
       },
       {
         "title": "Anac planeja concessão do aeroporto Santos Dumont para 2027, diz presidente - Panrotas",
@@ -30,13 +18,31 @@
         "published_iso": "2026-08-10T07:00:00Z"
       },
       {
+        "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - NeoFeed",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEV2WktqMVlZekZuTXVYcWFyQlFaY2N6eEFxdHQyTHpHdm5lTnN3eWVEQTZ4VUYyc1FLczQyYWNWSWs4eU1LeGY5bDM5Z3ZIM1FTS3JwU0UwQXh0NlZVaHM1cDlmMnhZdzczRWtZVEgyZEVMM19CVlV1NGVBRUhtMTA2RDBlaWhtT0tNUlJQZ3VXYmxwQzJ5Q2VrSUsycHVGemEwbThOWGtjV1BwUzkyMktkZlkyaDh0VGlKbW51eS1jeUNY?oc=5",
+        "source": "NeoFeed",
+        "published_iso": "2026-08-10T07:00:00Z"
+      },
+      {
         "title": "AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
         "source": "- Bahia Economica",
         "published_iso": "2026-07-30T07:00:00Z"
+      },
+      {
+        "title": "Leilão de Aeroporto de Brasília e mais 10 terminais é esperado para dezembro, diz ministério - Bloomberg Línea Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZVBKcm9mZW5UTG5sOFdZMEg3MTZXNExWMjZycG1XX3ZXOTFQTTJtNXVoY2pvcTZ4TFZvM2FaSXpFY3FjU2tZZmxoU0pUNHZEZGFCX3lHNWNfV3Z4a3FxTmxWNUJFdE1QX2VEdk4xMEdZa0Y0Tk9wbzdXcTZvRDczTjdzOExMbVBUZEhoZFl2MTFtMjJIS2ZHeFRJQ3dBcnZ6aXZ3ZllKNE5tVWhCaXhlTGV0QzFreWRhTnhNXzFTb2NpZ3NpNjlrR1h0TmJrR25L0gHkAUFVX3lxTE9hUzBFdVlidy1JZ2QwMWdLYmlYSm1PbnRkTE1ST3lkMFdjMTlTSVA4d21lbzU1TGxyRDk2SkVGNF9zcE9lc2djV3RHLXkzZFlTVnpCaHZSSkFqR3p4SnZBSXVPck9RMFpFZFRXVHY1eVEtQWdpVjJvbWF0azliTl9vaEoxZ2xTSk91dXdrQXYtaW1uWWloWmZ0WXE1MFRtU2p1SFM5U0dGV2ZROFVwWFdfcUl0WlQ5c0poT3lJdThGTFNRbTNzTTBHS0lpdC1Sb3YxdFIxYWFZazJyRWMxR1otM3REUQ?oc=5",
+        "source": "Bloomberg Línea Brasil",
+        "published_iso": "2026-07-29T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Aeropuertos Argentina invertirá USD 85 millones en Aeroparque: mejoras y cronograma de vuelos - Rosario Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjlDQ1FrbmNEUVpTX3AwQ09vbTRrRDdwa1pVUkZYTGpwTDdnM3hoMEpvM0NmcGUzV2IwV0o4NnU5S2xaVkpYQ1VRWXVmNDF1UzR4emF2a2hYT2l1SzE4SXcxTnNNYmt3YUM2aUl1T3l1cjNlRW5vZU9KMTYxVVgxdVJGckFQb2lSSFVkR2V1WHhjVjBRSjVBQzBBaGdOMDc3aE5UN3NrQmJXem53dDV2Rm94QkdHQTYyc09aS3JwQl9GcFFxZ2hV?oc=5",
+        "source": "Rosario Finanzas",
+        "published_iso": "2026-08-20T17:08:16Z"
+      },
       {
         "title": "Plan de privatizaciones de Milei: el caso Aeropuertos Argentina, lo que se ejecutó y lo que falta - Corta",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWtHbkEyaFJRRklqYTZXYkRiTjNsY1h0WXhvODJ5SURMM0F3VFlBeklQSmJVVFM2QTkzRkpzdnZFM084Y3prM2JMT1RZNkxlZEpXdVJoek9ORmtGWDZNNXFXazZrSlFXZ0FSYTZKMlN6dFRQVldjMzZQZ1J6Qk8teFFWOEFLdDJTZ2ZIWUlrSjZySFJlTkVPWGlOMTRCUFdibVVEWXZocDFsWW_SAbABQVVfeXFMTzZfclN5cTlhdUdXU081RGh1em1oU2ZWbXV5ZWNlbkI2TWVEWHR5SEk1NVBMTGxubm9hWDRmTmh3RmN5TTZBMlU3cHFuWVJ5aDJPN0d0UmVqZzk2NkY5V1pXdXdBUUlySS00bWRBS0lxRDVuSEpnbFhHbURCbEU5RUswbDdDejFtZHF1MkU5LVk2WjUtVTR5ZHAxZE1EUE9SbFlTMXFoNDhBLUhacV9zOWY?oc=5",
@@ -56,16 +62,10 @@
         "published_iso": "2026-08-11T03:51:49Z"
       },
       {
-        "title": "Puntos de fricción por la concesión de Aeropuertos Argentina 2000 entre la administración nacional y el grupo Eurnekian - diariocronica.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeUo4TjRGczR0ckJsZGk5R3FRNDFMR0dGRFhFdXBNRkYwSm9tbW5uX1FrVl9OSUI5VHpFOW1GZ184cF9fUjc5LTM5bGRJc2tFZkhqX1B5UXJCRVNiN2tNd3p6SEhPUFg5UUg3SHFjcERtZGk5NmVaUk9JZ1ZWaWUtVDRHb2N0WDNuUjVkM09PUGZGX0JOZHFJLU1mdXpsNHl4X3Y1TUEzSlU2Vlo1d0xiNjR4LUlDd2RJXzJFQmo2dzd2RW50c0NUZnM3ZXllbmJDeVkwWjZfSFcxcVFYanNnZ1J0OVNaOGQtT0pjcTBpd0pzTmVQNVJ1U1p4dFZZblhVNFNhY1hTcVc0NTDSAZACQVVfeXFMT2NvQWFncjAzQ0tScGU2RF9lLS1ZRkJHUlVGYmg1VTE4aXdMWnA2dHU3eWVCWU1BOTdBZ29NWEZ5YzMzQjlpTkprYU5FQWhlbHlFeGg0dkthT19LazNseVU5d1dHSV96eTBfdnFuMlEzQktGSzV0eGw3RGhiS3cyZlBCaG11Z0NfNUVlUTMzVEFXcnltMWtXc0FJZWFINl9UUDk3Nk9ZTHBUTmxCcDNFQjZtUnBXSUlVdlpiTDNGU1k4SGp4YUhubTVabkxXOFFWZGk3b0FUaFVFV1dvNXRuWG5IaWJzMU03dWxHSGMzVTdUSVFCVlFmSkNvVl9jTWszUmhUMmtkNUM4dHFfZDlDa24?oc=5",
-        "source": "diariocronica.com.ar",
-        "published_iso": "2026-08-09T22:47:12Z"
-      },
-      {
-        "title": "Javier Milei debe resolver un conflicto con Eduardo Eurnekian - Tiempo Sur",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMkVuZjJkWmZoM2hzVVRoMl9sa1RlTEJ6Y0R0U1VRREVaZG1uMzZTcGloNjVZVktPb3NDbUsyZWZvb1Q5ajZIaV9fNlphM0JrQkNUTHZEdEVOSWU3ai1mWkFERk9iSnhRUlViYlU2RDJpZk9SclBzc2RkVUhESF83LWFybWhacFdaZlRDcFZiSkZaVXR2WFBwbVd6Y0p4RU90Vl95bzdB0gGrAUFVX3lxTE5BalBhYmJLTUtLbEhFcTluVG9zd2VzUEVhRTBZVTNBeUl5RnhUSHRsZFBYOG1BSVdKWU1NMTd0M0F1aDUtZU1SMDhNTEdOaVhSN2tvd0FMVW5DUUUzSmdZQ2xMdjFjT3JqYnFBTjBkWm1PNV8wUVczanprd0tEM3pTQzdHdGhkSmZNTlg1dElQMnNIQlYycWxGOXhmbmVKbGxLeTNWWlNHeFB4VQ?oc=5",
-        "source": "Tiempo Sur",
-        "published_iso": "2026-08-09T19:16:00Z"
+        "title": "Aeropuertos Argentina: el Gobierno renegociará la concesión - REPORTUR.com",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDNDZnNoR0RselFHOGZQdGpWM1RkUTZWc3Yzc21RU1BKaHgydVlNNEVkZXR0ZWFpWVFORllUeEMtdHc5WW9sajUwZE1uTmtPNXBwTVg5cXV6RzI0Y1ZmcjVpX2ZpMDBWMUc5cEtCV1ROS0toNEw4ek1FdVhJaWsyZHpqVnMzcVlBbHFXeVc4M0ZkSWh2VWZQZGtoVUxWSC1BaFFlUURHcng?oc=5",
+        "source": "REPORTUR.com",
+        "published_iso": "2026-08-10T09:44:01Z"
       }
     ]
   }
