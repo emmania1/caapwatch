@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T11:22:54Z",
+  "updated_at": "2026-08-22T11:18:35Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -38,6 +38,12 @@
     ],
     "aa2000": [
       {
+        "title": "Aeropuertos Argentina recordó el cierre por mantenimiento del Aeroparque entre el martes y el jueves y dio algunas precisiones sobre la obra - Aviación News",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YMGFITVNLa0ZUcHY0SWx1Y29PanFhQUlXcjExUmliNDcxdURCakhONTE3dEs2MFo3Qm15Zldza1d0NzRMQW1SU0RGMjZJRVp1MWg2NEh5bm91T3hMVWtWN3NNbDZvQQ?oc=5",
+        "source": "Aviación News",
+        "published_iso": "2026-08-21T18:24:56Z"
+      },
+      {
         "title": "Aeropuertos Argentina invertirá USD 85 millones en Aeroparque: mejoras y cronograma de vuelos - Rosario Finanzas",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjlDQ1FrbmNEUVpTX3AwQ09vbTRrRDdwa1pVUkZYTGpwTDdnM3hoMEpvM0NmcGUzV2IwV0o4NnU5S2xaVkpYQ1VRWXVmNDF1UzR4emF2a2hYT2l1SzE4SXcxTnNNYmt3YUM2aUl1T3l1cjNlRW5vZU9KMTYxVVgxdVJGckFQb2lSSFVkR2V1WHhjVjBRSjVBQzBBaGdOMDc3aE5UN3NrQmJXem53dDV2Rm94QkdHQTYyc09aS3JwQl9GcFFxZ2hV?oc=5",
         "source": "Rosario Finanzas",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR295akRaTHJjQ0d0M205ZTFKcnVYSVZrRG1fdjZfLV9VODA4NHdnTTZQeGREUmZWMTlrQUJ0NEljQkRWUG9XR3ItWW93ajBZOEFSZUdsbUtSWi1KcDU4d0JKQlJJY3FJSW5CSEpFbTVCME1wSWV2aHpsd3pDNlNyVi10blg1ZEhjUW5KdUxVS2dVZDNPUWJrUFlFVmxVZjNCUVc1c3QxOEJIRHpCQmNlXzFzYjJqU2VBZVNKMXdUQmhPdmswd05HS2tIeUw?oc=5",
         "source": "Aviación News",
         "published_iso": "2026-08-11T03:51:49Z"
-      },
-      {
-        "title": "Aeropuertos Argentina: el Gobierno renegociará la concesión - REPORTUR.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDNDZnNoR0RselFHOGZQdGpWM1RkUTZWc3Yzc21RU1BKaHgydVlNNEVkZXR0ZWFpWVFORllUeEMtdHc5WW9sajUwZE1uTmtPNXBwTVg5cXV6RzI0Y1ZmcjVpX2ZpMDBWMUc5cEtCV1ROS0toNEw4ek1FdVhJaWsyZHpqVnMzcVlBbHFXeVc4M0ZkSWh2VWZQZGtoVUxWSC1BaFFlUURHcng?oc=5",
-        "source": "REPORTUR.com",
-        "published_iso": "2026-08-10T09:44:01Z"
       }
     ]
   }
