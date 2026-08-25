@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T11:18:34Z",
+  "updated_at": "2026-08-25T11:24:32Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -24,16 +24,16 @@
         "published_iso": "2026-08-10T07:00:00Z"
       },
       {
-        "title": "Anac avança na repactuação do Aeroporto de Brasília e apresenta projeto a investidores - Mercado e Eventos",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeFllNXc2cHQwVGpNSkdiSFhXLWF3bURKWE8tdkFxalQwNVVHbW5YT21SdmpUb2ZabHIxV2JsX3p0VEs1WW1Ca0VzQnlMWGRIeWZ1SzFRdThNaHpld1NiekhwNUVOOXFsVTZlNkM3RHJXS1JCM3UwclJ6bHdYV0xzb3pYanZJdEVjMWtSQWVveGRGcnRXa29SUnR3QjJXOW1wRzhXRkZfdDFzYkJXeWZWVDNrUDR3YjFpb2U3c3kwQ3lHanZDUkR1eHZ5T05HQURST1A0bmZn?oc=5",
-        "source": "Mercado e Eventos",
-        "published_iso": "2026-07-30T07:00:00Z"
-      },
-      {
         "title": "AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
         "source": "- Bahia Economica",
         "published_iso": "2026-07-30T07:00:00Z"
+      },
+      {
+        "title": "Leilão de Aeroporto de Brasília e mais 10 terminais é esperado para dezembro, diz ministério - Bloomberg Línea Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZVBKcm9mZW5UTG5sOFdZMEg3MTZXNExWMjZycG1XX3ZXOTFQTTJtNXVoY2pvcTZ4TFZvM2FaSXpFY3FjU2tZZmxoU0pUNHZEZGFCX3lHNWNfV3Z4a3FxTmxWNUJFdE1QX2VEdk4xMEdZa0Y0Tk9wbzdXcTZvRDczTjdzOExMbVBUZEhoZFl2MTFtMjJIS2ZHeFRJQ3dBcnZ6aXZ3ZllKNE5tVWhCaXhlTGV0QzFreWRhTnhNXzFTb2NpZ3NpNjlrR1h0TmJrR25L0gHkAUFVX3lxTE9hUzBFdVlidy1JZ2QwMWdLYmlYSm1PbnRkTE1ST3lkMFdjMTlTSVA4d21lbzU1TGxyRDk2SkVGNF9zcE9lc2djV3RHLXkzZFlTVnpCaHZSSkFqR3p4SnZBSXVPck9RMFpFZFRXVHY1eVEtQWdpVjJvbWF0azliTl9vaEoxZ2xTSk91dXdrQXYtaW1uWWloWmZ0WXE1MFRtU2p1SFM5U0dGV2ZROFVwWFdfcUl0WlQ5c0poT3lJdThGTFNRbTNzTTBHS0lpdC1Sb3YxdFIxYWFZazJyRWMxR1otM3REUQ?oc=5",
+        "source": "Bloomberg Línea Brasil",
+        "published_iso": "2026-07-29T07:00:00Z"
       }
     ],
     "aa2000": [
@@ -42,6 +42,12 @@
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YMGFITVNLa0ZUcHY0SWx1Y29PanFhQUlXcjExUmliNDcxdURCakhONTE3dEs2MFo3Qm15Zldza1d0NzRMQW1SU0RGMjZJRVp1MWg2NEh5bm91T3hMVWtWN3NNbDZvQQ?oc=5",
         "source": "Aviación News",
         "published_iso": "2026-08-21T18:24:56Z"
+      },
+      {
+        "title": "Plan de privatizaciones de Milei: el caso Aeropuertos Argentina, lo que se ejecutó y lo que falta - Corta",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWtHbkEyaFJRRklqYTZXYkRiTjNsY1h0WXhvODJ5SURMM0F3VFlBeklQSmJVVFM2QTkzRkpzdnZFM084Y3prM2JMT1RZNkxlZEpXdVJoek9ORmtGWDZNNXFXazZrSlFXZ0FSYTZKMlN6dFRQVldjMzZQZ1J6Qk8teFFWOEFLdDJTZ2ZIWUlrSjZySFJlTkVPWGlOMTRCUFdibVVEWXZocDFsWW_SAbABQVVfeXFMTzZfclN5cTlhdUdXU081RGh1em1oU2ZWbXV5ZWNlbkI2TWVEWHR5SEk1NVBMTGxubm9hWDRmTmh3RmN5TTZBMlU3cHFuWVJ5aDJPN0d0UmVqZzk2NkY5V1pXdXdBUUlySS00bWRBS0lxRDVuSEpnbFhHbURCbEU5RUswbDdDejFtZHF1MkU5LVk2WjUtVTR5ZHAxZE1EUE9SbFlTMXFoNDhBLUhacV9zOWY?oc=5",
+        "source": "Corta",
+        "published_iso": "2026-08-21T13:20:00Z"
       },
       {
         "title": "Concesión de Aeropuertos: Javier Milei debe resolver un conflicto con Eduardo Eurnekian - noticiasdebariloche.com.ar",
@@ -54,12 +60,6 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjlDQ1FrbmNEUVpTX3AwQ09vbTRrRDdwa1pVUkZYTGpwTDdnM3hoMEpvM0NmcGUzV2IwV0o4NnU5S2xaVkpYQ1VRWXVmNDF1UzR4emF2a2hYT2l1SzE4SXcxTnNNYmt3YUM2aUl1T3l1cjNlRW5vZU9KMTYxVVgxdVJGckFQb2lSSFVkR2V1WHhjVjBRSjVBQzBBaGdOMDc3aE5UN3NrQmJXem53dDV2Rm94QkdHQTYyc09aS3JwQl9GcFFxZ2hV?oc=5",
         "source": "Rosario Finanzas",
         "published_iso": "2026-08-20T17:08:16Z"
-      },
-      {
-        "title": "Plan de privatizaciones de Milei: el caso Aeropuertos Argentina, lo que se ejecutó y lo que falta - Corta",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWtHbkEyaFJRRklqYTZXYkRiTjNsY1h0WXhvODJ5SURMM0F3VFlBeklQSmJVVFM2QTkzRkpzdnZFM084Y3prM2JMT1RZNkxlZEpXdVJoek9ORmtGWDZNNXFXazZrSlFXZ0FSYTZKMlN6dFRQVldjMzZQZ1J6Qk8teFFWOEFLdDJTZ2ZIWUlrSjZySFJlTkVPWGlOMTRCUFdibVVEWXZocDFsWW_SAbABQVVfeXFMTzZfclN5cTlhdUdXU081RGh1em1oU2ZWbXV5ZWNlbkI2TWVEWHR5SEk1NVBMTGxubm9hWDRmTmh3RmN5TTZBMlU3cHFuWVJ5aDJPN0d0UmVqZzk2NkY5V1pXdXdBUUlySS00bWRBS0lxRDVuSEpnbFhHbURCbEU5RUswbDdDejFtZHF1MkU5LVk2WjUtVTR5ZHAxZE1EUE9SbFlTMXFoNDhBLUhacV9zOWY?oc=5",
-        "source": "Corta",
-        "published_iso": "2026-08-19T19:23:00Z"
       },
       {
         "title": "Milei designó nuevas autoridades en APLA, ERAS y ORSNA - Diario El Norte - San Nicolás",
