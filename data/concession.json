@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-08-27T20:54:03Z",
+  "updated_at": "2026-08-28T21:19:04Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Após Inframerica, Aena agenda visita ao aeroporto de Dourados - Dourados News",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ090R0JXSU5sd0lwbkxmZjA5ZnFnTFdWSDdzTVRKdVJQNTNTZW9IUWxmblpUVWdQLVJxOEFwZzVMYktVLTh2dFZqRHBXOTJaNzRNMVhRYXdOd1p6MWVkdjA0M1hPcTB1a3JQeDQ2QWRKbUdHUWNydXNnZm1aZ0taRm1YSFVyYlUyWENPaFc1R0NsQkphN1Q2a2tvYWxfUGlwODV4cHlvS01RWE4yLThv0gGzAUFVX3lxTE40VlBkb2p1RENmNUxqcnNoZXU2WlZSeDdOcXUyeEdHdHZJNmg2TnFhQlBGak1wQ0NHeHBEMmlUdlJ4b3ZnOWd5alhJSDNaMDh2Y0gyLXNnam90RktTYVVkVmdERkV3MUIzcEpPMFFDQUh3VUFKeGMyZDZHeHIxdUJhcmhESUw0dFhySnMwV0RWdHUyMHdCS1BoS211dFZUSkFMWk5MUU84NXVqN0VTbUE1SHRV?oc=5",
+        "source": "Dourados News",
+        "published_iso": "2026-08-13T07:00:00Z"
+      },
       {
         "title": "Anac planeja concessão do aeroporto Santos Dumont para 2027, diz presidente - Panrotas",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcG5wQkV5NW5vNjZ0bExiZEJJWDVnWFBWRzNBUC1XdjhHX2xqMWFqNGdkVTZqcE1mRlZrVHBCRUI5X0YwUHJsdlc5NUZqV0VKd1VBTmIyMVB4VGY4RENZOXhoTUw4OE5zWTJ2eHl0Y1pXQjRaZkdjUUZzdy16S3lCSk1NUFppVDNocU96azhYMWhxdGZ6MTNreG1rYTlpNW93ZXlmckJuLXh4NUpjb3hfLUxHNnJodFlOb3FLY2x2ZHNBcVpBZi13Q2kyZE12TW8tcXJ6Ym9FdEY?oc=5",
@@ -18,25 +24,37 @@
         "published_iso": "2026-08-10T07:00:00Z"
       },
       {
+        "title": "Anac avança na repactuação do Aeroporto de Brasília e apresenta projeto a investidores - Mercado e Eventos",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeFllNXc2cHQwVGpNSkdiSFhXLWF3bURKWE8tdkFxalQwNVVHbW5YT21SdmpUb2ZabHIxV2JsX3p0VEs1WW1Ca0VzQnlMWGRIeWZ1SzFRdThNaHpld1NiekhwNUVOOXFsVTZlNkM3RHJXS1JCM3UwclJ6bHdYV0xzb3pYanZJdEVjMWtSQWVveGRGcnRXa29SUnR3QjJXOW1wRzhXRkZfdDFzYkJXeWZWVDNrUDR3YjFpb2U3c3kwQ3lHanZDUkR1eHZ5T05HQURST1A0bmZn?oc=5",
+        "source": "Mercado e Eventos",
+        "published_iso": "2026-07-30T07:00:00Z"
+      },
+      {
         "title": "AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
         "source": "- Bahia Economica",
         "published_iso": "2026-07-30T07:00:00Z"
-      },
-      {
-        "title": "Governo testa apetite do mercado para repactuação do Aeroporto de Brasília - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmgyZXZKMlJjWDJWOEJRRHhNRHFEeWswS3o3by1RRUxYRm82OEdXUzA0WFoxR3FuZTlWQkhaVmI3V3ZIa0JnNEtJdlRraktKWUZ0cWlDbHF1OFNCbmw2djJOWDZFenF5LWxFdm5ESWZTWndseEkyOTc1V1RpN0tDRUtrem1fQWV4akl3Rm1QYkpsbXBjdGhzbEFhVHVSb0JuZE9pT0FmTEtJdkgtc2dhUFJ2ZUxHY2FCSE9DMkNKRGVhU19iZU1WN2pITGQ?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-07-27T07:00:00Z"
-      },
-      {
-        "title": "Consulta debate modelo de concessão do Aeroporto de Brasília - Correio Braziliense",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcktvZlFPXzIzUzI1TzU0cmFQQjJpWnVpRUdoajhlSkhfNmo5bVFsN1ZvTFV1U2FFSDJiaEZvNFRTZjB0TjJUa3lNZ2gtOWlaR2YwYWdJbURZd1hzNlVlSkxKbVlBVjY0cG96aG44WTlMRmNMWW96ZDEtXzdMMzIxbzVaQXlEeHhkM3cxR3BsQUlBZnZ5a2d5MFp5Q0JEMjVBRktHRW1zUVB0bDlLd211Vm50OWVOUGQyUl9pdEdIdzBtaVA1WnhfZ0ZB0gHPAUFVX3lxTE5sc19oNUF1cWxmalUtWnExaUFmdDZ4RHQwSTdRVWRKejBBaUVrc3kyTEZHWnVEcG41RU9DUUpKUHlDS3RmNzVxU19qS1F1RjhKcVhqalo4ek42UVdhRmRMU1RzeG5fNFh0ZElZQ0F2dGVJd3pXUE9iTE51c2JNMVRlRTE0X3lMNUplQlNWZmtLaDI0b2hCN01paUdUOS1PWDFLZHJMSV9id0ZQM0h0OEZEYW90UElzRUV0VkpCa1FtWXoyQU85TXRVZFZIN1JFaw?oc=5",
-        "source": "Correio Braziliense",
-        "published_iso": "2026-07-21T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Eduardo Eurnekian busca extender la concesión de los aeropuertos hasta 2066 - Ambito",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2x4MFBkQ2luRnVmeU1aekxTU3FKNXZDSmpWa3ZsektBZHFKUzhnaGs4ZGNJS0dReXd2b2ktSkRoQVU1NXpLTHpDbFRDelRlM3gzV0tZYXJOekdGRGljRXBZaUhLSF9ONE9FXzdxS09nd3BLeDFlemdBMnNSSW5GdEVkbEQzekw5NlFhQ1JrX01ETEVycTZoUEpBMGNSSXR4T0h3enpMRUpnblHSAbABQVVfeXFMT01XWHBDNHVUckxmanBUSmlCeDFoR20wcWlXNHRXSkk3YkpLOGQxNXVqRjNadHlCOGlGRURmcHlmVzFldzVJOUpBWmw3djdfRi1jcWtJdFNMazZjX2hpLXpkcDNpVUhKZ3p2VTJEUlFVcEdfTTBuaXdBVnR5MXRoQjdLWXRha21yZFNuNV9UYWoxWF8xRHB1aHVuWG5fYVk1NF9oOE90c1h6SkZZYnhsTjg?oc=5",
+        "source": "Ambito",
+        "published_iso": "2026-08-28T19:06:00Z"
+      },
+      {
+        "title": "Aeropuertos Argentina inauguró una nueva terminal en Salta - Ladevi",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTVsWG5OdWRBeE1PeHRGbnE2SWhCdUdnMi03a3pFaEUxSmhPY0JkQVhoamxuaVZmUjdQU3YtMmhTYXA0QTNodzFISi1UNFNBWUV0YjQzVVoycU5PSjhKUzk4VTczS1Z1dzFlNkhSLVNjXy1IOWlVd0RWcHd2Q3pQVTRSSFVLWmtZUlh1a0o5VmNsLWtnWkh6bnMxWHBhRnJPQUVGenRzUdIBpwFBVV95cUxPNTVsWG5OdWRBeE1PeHRGbnE2SWhCdUdnMi03a3pFaEUxSmhPY0JkQVhoamxuaVZmUjdQU3YtMmhTYXA0QTNodzFISi1UNFNBWUV0YjQzVVoycU5PSjhKUzk4VTczS1Z1dzFlNkhSLVNjXy1IOWlVd0RWcHd2Q3pQVTRSSFVLWmtZUlh1a0o5VmNsLWtnWkh6bnMxWHBhRnJPQUVGenRzUQ?oc=5",
+        "source": "Ladevi",
+        "published_iso": "2026-08-28T02:52:00Z"
+      },
+      {
+        "title": "El patrón de los cielos: Eduardo Eurnekian quiere extender su monopolio en los aeropuertos hasta 2066 - C5N",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXJtNG1lcHhHN3Y3MUZ4bzBIeVByakJtT3FNZk81NVRFWjdaelh0V0x4b2NIdm1nbExVTkJwTUJyd0dsZVNWV2FrUHhtTnR3aVF5SjdsWGd2MlBuX0VBckZiM281WHZtekNEZUJwODUtMlVLYmM3VlgwWndFc2FTZzNYTUpkbDdyYXZwZEtCNXBKRWlsdU15UHpkUHB3QmktdGZSUHZwNlZaSG5wTmtTT25SMnNBX1VCMVhFMU5meFl0M3lSR3FFZNIByAFBVV95cUxQeXJtNG1lcHhHN3Y3MUZ4bzBIeVByakJtT3FNZk81NVRFWjdaelh0V0x4b2NIdm1nbExVTkJwTUJyd0dsZVNWV2FrUHhtTnR3aVF5SjdsWGd2MlBuX0VBckZiM281WHZtekNEZUJwODUtMlVLYmM3VlgwWndFc2FTZzNYTUpkbDdyYXZwZEtCNXBKRWlsdU15UHpkUHB3QmktdGZSUHZwNlZaSG5wTmtTT25SMnNBX1VCMVhFMU5meFl0M3lSR3FFZA?oc=5",
+        "source": "C5N",
+        "published_iso": "2026-08-27T02:43:00Z"
+      },
       {
         "title": "Mientras discute con el Gobierno por la concesión, Aeropuertos Argentina inauguró obras por US$ 110 millones en Salta - Clarin.com",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWxHNjBNd1B2dUhfWlhERlRROVJKYkVOUG1aemlrQ2hnb2o5aWZtZ3JIVjgxTmxES3A5RGk0QVlOdjZNWFU5Q1p3V0VNUGhUbGdYeTB5YWh4eUs2SGwwS0FXTW5jZUhkcVBDZFQ5MEtHWk04ZzV0ZFVTbE93WERXV3VXVWd1Vlk3QVFfdVU0ckNvNWY5X29BUDNkQ1dvSHNTQ1dfSURLQ1pXd2YtQlc0cmlMQWg3b3VoZXc1Zm1wZndmOHd0NjhuMWRFQ2FGZ0h4?oc=5",
@@ -48,24 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNUlkdHYxNndheEJfMnJHc3dPMWVPbm45V0JRelkwcnJWenR4M01ZNzd2Ty14ZERPNmtpcFM5bzJ5Rnd3WV8xTHdsbUFrNHotdDVoTEtORUFJMUNIUnFuTVhQZEVMc2I2NDVrajdhN2kxdXJPSF9kNGZEdlptSkw1U1ZKSWVuTHJqcnJXdXp0b0l2NHBmdVIzRE9YNnlBWU43WVFFQjlKcEhtaU42RUcwR2tWNDNreW8ydENLakFvbzE0T09Fbks4UHAzUnJCQVdDSkc0VE53cjBZNURqc19tcnlEVzhPaGRxQ1BsUzhKQjBqVnNMYVHSAZACQVVfeXFMTV92a2JYV3g4QmtnRGZTc0JDWi1WWXlxYzlpWkVLdXVOQU1OaTFKWnFrbVJFbFYzQWxWV1RScnltUlhrNGJpZkdSdjh5bm4wT1B6R3JSV1VDN2FFYXFWLTZSOXpKS1BCeGxZX3owR0lDVEFkLTVQRi1XSnZ3Y1JLSklDQ0dFTnFaai1zWEVqN3NQaXpDWGdENmVpaFY4T2o0OXdhZHVWYUozVGNkOEkxQ3l4SjVhWGxqaFpqWG5kRXJiNF9RMDlvWGt3Ym5ndWhyVG9LWEM1Yk1qRVppSThPY09LbzlXUnhtR0FsaWN2aDhJNmZscFZRZUVXbjJQXzRQUjVpekFhOHJDdlZrbERtU1g?oc=5",
         "source": "Infobae",
         "published_iso": "2026-08-26T16:49:00Z"
-      },
-      {
-        "title": "Aeropuertos Argentina inauguró una nueva terminal en Salta, con una inversión de 110 millones de dólares - El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMnJPVVlzWjNiUVcybDZxOGpQZURWWXRuWTFQdU1mQ3kyRTNhWWQ2SXFiOWYtelJmNEJoTGZpS09SUl84SEwtRXEzZmtRVXJLSXFsc2preGJTWlhHX1FoRkxxRkpyaFpabk9ORTZWUEpwd2tfcjVnMFEyMXh5aWpzMXBGVlFnZ2p2QW9VSU9CZW5GdFpfSElPNkpCcmhXVXoxNEpGM3BPY255Qkw3WFlCcjBwT3VHZlBpbjVHTjhyaG1nSkVEOER4WHJzS0JqSmg3UGExddIB7wFBVV95cUxQTlF6N19iSWVfOFFSWE41RXJKS1NsVmN1VW9iZ21vUS1FcVN3RE14NzE5VGlQTTc3ekxaemZiR3BEekdsUkRYbTI4eFF4RWpkV0s2SkNzY0FMQzF6R1BmYkVXX3VSSTFVaWpDSHd1NWlPWDNBWEgyOXRyU3NZdWRkOWhLZEI0NGJGRnp4V0hudmxwb2dqcS0taUNNRkFITDI0RWo0N3ZCWDN0TmJ0bmhfMUdMbUd5dDJINzlQNW9Xck5DRHZhbVJJUHh0T01tSjAwRUVIME80NUdRUG56LXVIX1JVOGRheGVEa180bTVMZw?oc=5",
-        "source": "El Cronista",
-        "published_iso": "2026-08-26T15:50:58Z"
-      },
-      {
-        "title": "Con la bendición de Aeropuertos Argentina y el ORSNA, Salta remodeló el Aeropuerto \"Martín Miguel de Güemes\" - Cuestión Entrerriana",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOUNSdk9YZm1hTWpPbmY0STE3OGludzZSMnhWVllMVk1JQlVfdjUxNWRURTRfdGtVSE95TGk1cE94TzN1QmotcHZRY0NVRUFSeGZNZXc4cWw1eDBZSHRfdzBKN3F4SlJjOVVxdEVhZ1lEZDluRk9xN0QxRHNZN3d5Vm1BM1VrZ0lKbEVBSlU1RUdRcmw4OWNJZmlWZVFNUFNZRmFxblA2ZkNpZ2hvYnkyRjdHSlJSeEE3MW9Ma1JEMHdDejVXaTVkZjNrU0MxQk5iUllwNGlueWM?oc=5",
-        "source": "Cuestión Entrerriana",
-        "published_iso": "2026-08-26T15:47:01Z"
-      },
-      {
-        "title": "Plan de privatizaciones de Milei: el caso Aeropuertos Argentina, lo que se ejecutó y lo que falta - Corta",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWtHbkEyaFJRRklqYTZXYkRiTjNsY1h0WXhvODJ5SURMM0F3VFlBeklQSmJVVFM2QTkzRkpzdnZFM084Y3prM2JMT1RZNkxlZEpXdVJoek9ORmtGWDZNNXFXazZrSlFXZ0FSYTZKMlN6dFRQVldjMzZQZ1J6Qk8teFFWOEFLdDJTZ2ZIWUlrSjZySFJlTkVPWGlOMTRCUFdibVVEWXZocDFsWW_SAbABQVVfeXFMTzZfclN5cTlhdUdXU081RGh1em1oU2ZWbXV5ZWNlbkI2TWVEWHR5SEk1NVBMTGxubm9hWDRmTmh3RmN5TTZBMlU3cHFuWVJ5aDJPN0d0UmVqZzk2NkY5V1pXdXdBUUlySS00bWRBS0lxRDVuSEpnbFhHbURCbEU5RUswbDdDejFtZHF1MkU5LVk2WjUtVTR5ZHAxZE1EUE9SbFlTMXFoNDhBLUhacV9zOWY?oc=5",
-        "source": "Corta",
-        "published_iso": "2026-08-21T13:20:00Z"
       }
     ]
   }
