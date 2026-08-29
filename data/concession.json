@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T21:19:04Z",
+  "updated_at": "2026-08-29T15:29:00Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -12,15 +12,15 @@
         "published_iso": "2026-08-13T07:00:00Z"
       },
       {
-        "title": "Anac planeja concessão do aeroporto Santos Dumont para 2027, diz presidente - Panrotas",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcG5wQkV5NW5vNjZ0bExiZEJJWDVnWFBWRzNBUC1XdjhHX2xqMWFqNGdkVTZqcE1mRlZrVHBCRUI5X0YwUHJsdlc5NUZqV0VKd1VBTmIyMVB4VGY4RENZOXhoTUw4OE5zWTJ2eHl0Y1pXQjRaZkdjUUZzdy16S3lCSk1NUFppVDNocU96azhYMWhxdGZ6MTNreG1rYTlpNW93ZXlmckJuLXh4NUpjb3hfLUxHNnJodFlOb3FLY2x2ZHNBcVpBZi13Q2kyZE12TW8tcXJ6Ym9FdEY?oc=5",
-        "source": "Panrotas",
-        "published_iso": "2026-08-10T07:00:00Z"
-      },
-      {
         "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - NeoFeed",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEV2WktqMVlZekZuTXVYcWFyQlFaY2N6eEFxdHQyTHpHdm5lTnN3eWVEQTZ4VUYyc1FLczQyYWNWSWs4eU1LeGY5bDM5Z3ZIM1FTS3JwU0UwQXh0NlZVaHM1cDlmMnhZdzczRWtZVEgyZEVMM19CVlV1NGVBRUhtMTA2RDBlaWhtT0tNUlJQZ3VXYmxwQzJ5Q2VrSUsycHVGemEwbThOWGtjV1BwUzkyMktkZlkyaDh0VGlKbW51eS1jeUNY?oc=5",
         "source": "NeoFeed",
+        "published_iso": "2026-08-10T07:00:00Z"
+      },
+      {
+        "title": "Anac planeja concessão do aeroporto Santos Dumont para 2027, diz presidente - Panrotas",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcG5wQkV5NW5vNjZ0bExiZEJJWDVnWFBWRzNBUC1XdjhHX2xqMWFqNGdkVTZqcE1mRlZrVHBCRUI5X0YwUHJsdlc5NUZqV0VKd1VBTmIyMVB4VGY4RENZOXhoTUw4OE5zWTJ2eHl0Y1pXQjRaZkdjUUZzdy16S3lCSk1NUFppVDNocU96azhYMWhxdGZ6MTNreG1rYTlpNW93ZXlmckJuLXh4NUpjb3hfLUxHNnJodFlOb3FLY2x2ZHNBcVpBZi13Q2kyZE12TW8tcXJ6Ym9FdEY?oc=5",
+        "source": "Panrotas",
         "published_iso": "2026-08-10T07:00:00Z"
       },
       {
@@ -30,13 +30,19 @@
         "published_iso": "2026-07-30T07:00:00Z"
       },
       {
-        "title": "AEROPORTO DE BARREIRAS SERÁ ADMINISTRADO PELA EMPRESA QUE GANHAR A CONCESSÃO DO AEROPORTO DE BRASÍLIA. - - Bahia Economica",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNYndQbXFudU5aYTN0aGdneHJTd3pFbS04aWdxQkFwRVBTaDVScWN0a2xXakxmTExuLXM0Y0VnUUZsRzZFWTJFVlNfWE16aXpMU1JMYmc2NzFMQmZmSzZUamgwbVNHRElBUm5CUFNhcE1xLUdOaW5Lc1FQcmo2YXQzTmpsdDBXbWVKbllzSzJNamVuOFU3bFZ6X2tmZWxncjJJdTdGYmJSZ1A4X1dUbWxuSUZMQnZoTWJCbzFNa1BMcXhSajZLby1JVXFyX2Q4eVNPVllZaWhNT1BDbHhnM1k4WWVTeXI5OS1RZm9xamhkbmREYm1qVnQ3cXo4cGs?oc=5",
-        "source": "- Bahia Economica",
-        "published_iso": "2026-07-30T07:00:00Z"
+        "title": "Procedimento para repactuação da concessão do Aeroporto de Brasília entra em reuniões de mercado - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVRHM3QwcDVHZlFVMGNVTmowUUdyQUNuS2FyY1NYZ3czNmQyUFZrNFNjdlU4WEpHX1FXU1F6cVZJQXZtdGM2VkVReHItanhtNlgxMDZyNXFyVm9jbDNCTndyN19zLTRELVYzRUQtdkJaX3A4SGhJZm9MVTR0U3JIaDlIQlNBcEJ3WlZnNVJkSVg1T04tekNZRUg1aUtfb2RRbEFJV1RKcDRzSFAtQWhfLXhaRTRTNkHSAbcBQVVfeXFMUHFURzN0MHA1R2ZRVTBjVU5qMFFHckFDbkthcmNTWGd3MzZkMlBWazRTY3ZVOFhKR19RV1NRenFWSUF2bXRjNlZFUXhyLWp4bTZYMTA2cjVxclZvY2wzQk53cjdfcy00RC1WM0VELXZCWl9wOEhoSWZvTFU0dFNySGg5SEJTQXBCd1pWZzVSZElYNU9OLXpDWUVINWlLX29kUWxBSVdUSnA0c0hQLUFoXy14WkU0UzZB?oc=5",
+        "source": "AEROIN",
+        "published_iso": "2026-07-25T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Eurnekian busca prorrogar concesión de aeropuertos hasta 2066 - Mundo Empresarial AR",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc1pVajcyamhSUUhqaEc2c2RxQ2FtRDNoUnh2amp6Z0hmYjFHakluNnpDb0FtUlFLQ1hpWmRXc3hNalV2R2ExT3NXWTdySUlSUGFaNG1MS2ZTOXpsNkx2VDlXMDFlbHYwR1FDRDJKdkRfelRVem1iX09LSHdjcTgyaFhRQVZzTERpOU1NNjJNRFk2VkNU?oc=5",
+        "source": "Mundo Empresarial AR",
+        "published_iso": "2026-08-29T11:00:00Z"
+      },
       {
         "title": "Eduardo Eurnekian busca extender la concesión de los aeropuertos hasta 2066 - Ambito",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2x4MFBkQ2luRnVmeU1aekxTU3FKNXZDSmpWa3ZsektBZHFKUzhnaGs4ZGNJS0dReXd2b2ktSkRoQVU1NXpLTHpDbFRDelRlM3gzV0tZYXJOekdGRGljRXBZaUhLSF9ONE9FXzdxS09nd3BLeDFlemdBMnNSSW5GdEVkbEQzekw5NlFhQ1JrX01ETEVycTZoUEpBMGNSSXR4T0h3enpMRUpnblHSAbABQVVfeXFMT01XWHBDNHVUckxmanBUSmlCeDFoR20wcWlXNHRXSkk3YkpLOGQxNXVqRjNadHlCOGlGRURmcHlmVzFldzVJOUpBWmw3djdfRi1jcWtJdFNMazZjX2hpLXpkcDNpVUhKZ3p2VTJEUlFVcEdfTTBuaXdBVnR5MXRoQjdLWXRha21yZFNuNV9UYWoxWF8xRHB1aHVuWG5fYVk1NF9oOE90c1h6SkZZYnhsTjg?oc=5",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWxHNjBNd1B2dUhfWlhERlRROVJKYkVOUG1aemlrQ2hnb2o5aWZtZ3JIVjgxTmxES3A5RGk0QVlOdjZNWFU5Q1p3V0VNUGhUbGdYeTB5YWh4eUs2SGwwS0FXTW5jZUhkcVBDZFQ5MEtHWk04ZzV0ZFVTbE93WERXV3VXVWd1Vlk3QVFfdVU0ckNvNWY5X29BUDNkQ1dvSHNTQ1dfSURLQ1pXd2YtQlc0cmlMQWg3b3VoZXc1Zm1wZndmOHd0NjhuMWRFQ2FGZ0h4?oc=5",
         "source": "Clarin.com",
         "published_iso": "2026-08-26T16:54:01Z"
-      },
-      {
-        "title": "Aeropuertos Argentina inauguró una nueva terminal aérea en Salta en base a un plan de inversiones por USD 110 millones - Infobae",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNUlkdHYxNndheEJfMnJHc3dPMWVPbm45V0JRelkwcnJWenR4M01ZNzd2Ty14ZERPNmtpcFM5bzJ5Rnd3WV8xTHdsbUFrNHotdDVoTEtORUFJMUNIUnFuTVhQZEVMc2I2NDVrajdhN2kxdXJPSF9kNGZEdlptSkw1U1ZKSWVuTHJqcnJXdXp0b0l2NHBmdVIzRE9YNnlBWU43WVFFQjlKcEhtaU42RUcwR2tWNDNreW8ydENLakFvbzE0T09Fbks4UHAzUnJCQVdDSkc0VE53cjBZNURqc19tcnlEVzhPaGRxQ1BsUzhKQjBqVnNMYVHSAZACQVVfeXFMTV92a2JYV3g4QmtnRGZTc0JDWi1WWXlxYzlpWkVLdXVOQU1OaTFKWnFrbVJFbFYzQWxWV1RScnltUlhrNGJpZkdSdjh5bm4wT1B6R3JSV1VDN2FFYXFWLTZSOXpKS1BCeGxZX3owR0lDVEFkLTVQRi1XSnZ3Y1JLSklDQ0dFTnFaai1zWEVqN3NQaXpDWGdENmVpaFY4T2o0OXdhZHVWYUozVGNkOEkxQ3l4SjVhWGxqaFpqWG5kRXJiNF9RMDlvWGt3Ym5ndWhyVG9LWEM1Yk1qRVppSThPY09LbzlXUnhtR0FsaWN2aDhJNmZscFZRZUVXbjJQXzRQUjVpekFhOHJDdlZrbERtU1g?oc=5",
-        "source": "Infobae",
-        "published_iso": "2026-08-26T16:49:00Z"
       }
     ]
   }

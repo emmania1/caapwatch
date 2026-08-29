@@ -1,9 +1,15 @@
 {
-  "updated_at": "2026-08-28T21:19:23Z",
+  "updated_at": "2026-08-29T15:29:19Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Trump administration helps end Armenia and Azerbaijan’s forever war - Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXkwUEhRNHRtUnpkdnhSS2xCN0hfUU5vMmM0eXJmSWF6Nm1UOGc1ZjMzamUtUkc0d29BdjFwMmlGZmZuaXF0WUNsMTVBWkhLTHdLdXZ3cTVMNlZBNTRrMWl2eG5iT0lLNjBTUmItQTBKM0VjbTJxN2JtNjM1RHJBcTR0MFRLVWJPSk1QaHVvMFB3dEJm?oc=5",
+      "source": "Washington Examiner",
+      "published_iso": "2026-08-29T10:15:00Z"
+    },
     {
       "title": "Armenia no longer has grounds to view Russia as strategic partner, says PM Pashinyan - The New Voice of Ukraine",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWhMai0xNGhXLXpXWlJsS2ZLV0d3QUQyblh6ZEtWOURvSFpwWXN6eFNRTlZXQWk1WlBjN0VrYzg0U2JDT0NoWjBvX05DSGJzWFRzU0lQdzdpT0dfTEk1aEVrZkhwRlFiXzFud19aZmU4bUVtMW56T0VUeHJpSmRabm1PMjh2bDVfanpjVTdIQWswX1NDdWd6NDVlQkI1MVg0WXp3LXdMVE9Lb05rRnRISmNmVElBVGJnNm9v0gG3AUFVX3lxTE9seXR1bUVlWnVCakJoNUZnb2xyU1VHai1LUDdSSHNIV1B1SFd1U3MwV2JtMHJlWHJuZzVJMFRaV3VfN29zckZpREFQV1NOYzZaZ05QWnVvTGdMRVhTZllpekZ3M0l5dXMybkFoSTNTd3A1cTM3RUI4MUNRaGhiVE9vTTd4d2Q1MkJuRmJIcVI0MU03VWxUVlhrOTd4RGJKZ0JpZTlUVGhWbnplZkpjbUdYandsZk5Pdw?oc=5",
@@ -17,16 +23,10 @@
       "published_iso": "2026-08-27T13:59:20Z"
     },
     {
-      "title": "Armenian ex-president Kocharyan charged with corruption in crackdown on government critics - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFJTa2NMQTBnWkpHN1NzaWpzY0d2QVY5dm15QUZ0U0xrOUp4TTdveXpOZVAybDNRNmpudW5Ja1c0elhMdkVjeFQ2bEI4N24xU1RjX0xScDRWQnhhbm9MVUNhcURRWFdFNUNRMk1BcGR1TWpJQ1prTjFPVGtQYjd0UXoybnhYUEtoMUtQemN5a3BkWmJsMTNBbE9HaFZHOFI4LS1PNXlYbGItdGU4SDRlNHhCaGUxTkk?oc=5",
-      "source": "Reuters",
-      "published_iso": "2026-08-25T15:10:51Z"
-    },
-    {
-      "title": "Armenia detains former president Kocharyan a day after Pashinyan sets out EU bid - Brussels Signal",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3BjUjVZX0NEVmFEMmsxamdvaDJzcWVRbjJhQkJUS1lKWDYzdEpDdTFWelpYSllWUTdrY1JpZy1vQUJaYXd5MW8xVElrQ0JVX0hjYUpZTjNncS03OFk3eGxXWk54cGh0QXhRYS05LUQ4Y09ZUW1yOTJEYnZXZ19VR2RqcnF2dnF4cU1XaUoySExyLW0xWkpFNFVDcjJlNW5zOVpqcmRoYnFyZ3A3OHVDM0ZwREV0Zw?oc=5",
-      "source": "Brussels Signal",
-      "published_iso": "2026-08-25T14:07:59Z"
+      "title": "‘Third Country’ Asked to Visit Armenian Prisoners In Azerbaijan - The Armenian Mirror-Spectator",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbHVHZTVwVXppaEJTaUF3VzYzTVF1Qmg1aWozelFXUklzRjFkOUpYR3B0Sml0bW9nSnNCajlyWGNMaFVZb2VMcVpTbFFkUUlWYWRQdExUU2tvVHBVWVVmVl82a25oUldFSThmT0QzLV9DUmxfeUYwNTJZOUZHelNseTlVWlpZUThrel9STDZVbE1uNUNFckQ5aUtoMnhsTGFvMElB?oc=5",
+      "source": "The Armenian Mirror-Spectator",
+      "published_iso": "2026-08-25T18:36:43Z"
     },
     {
       "title": "Armenia approves 2026-2031 plan focused on peace with Azerbaijan, Türkiye - Türkiye Today",
