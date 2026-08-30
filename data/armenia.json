@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T15:29:19Z",
+  "updated_at": "2026-08-30T15:10:06Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
@@ -9,6 +9,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXkwUEhRNHRtUnpkdnhSS2xCN0hfUU5vMmM0eXJmSWF6Nm1UOGc1ZjMzamUtUkc0d29BdjFwMmlGZmZuaXF0WUNsMTVBWkhLTHdLdXZ3cTVMNlZBNTRrMWl2eG5iT0lLNjBTUmItQTBKM0VjbTJxN2JtNjM1RHJBcTR0MFRLVWJPSk1QaHVvMFB3dEJm?oc=5",
       "source": "Washington Examiner",
       "published_iso": "2026-08-29T10:15:00Z"
+    },
+    {
+      "title": "Armenia Downgrades Relations With Russia - Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3JxMFBuTzByTUtZQXZpNUFiMWJCTks3SS1VMUJvRVVpSU5ZeEFCNGZrNkdXbnF1UHd6RS1ZQXpLUkpXNjdMSTYwQ3liVE9FUFRrT1lST2VwNlhGM0ZjM1ZqVUR0OE9pRjZNVlROQ1RvajRzN0t0YVRWa1Q4b1duUWNwSDNhMDg?oc=5",
+      "source": "Eurasia Review",
+      "published_iso": "2026-08-29T00:16:21Z"
     },
     {
       "title": "Armenia no longer has grounds to view Russia as strategic partner, says PM Pashinyan - The New Voice of Ukraine",
@@ -33,12 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVEFBbnh4Q1Zrc190cHZ6XzQ3aXlhZ0RjQ0FKRTZYOGJwSVlFekJmbS1qSXBfUE1sUTFmVks0NW5HOTVoVHVWcl9ROHhSeEVnbG1jM1kxWVNrYVBpVEN4ZFJ4YnN5ME5RWXFJNXczeXNSTmlpUkpfa2dIY2lCVV9FNGxvSXAyRGI3ZVMyVkdYV2d6ZHY4Snc2SGl1VGlBeVc5eWRpTzA2eWloMXlHWmtwdHNDTjIxbFk?oc=5",
       "source": "Türkiye Today",
       "published_iso": "2026-08-25T13:55:06Z"
-    },
-    {
-      "title": "Armenian parliament approves Pashinyan administration’s 2026-2031 program - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45NDQ5OHR6aExMMDJDUVZvak83Y0x1Ynl6V0x1a3NXTVl2TWdyRFg3THN2ZFlULWlINC16dTF6TVpLUFRkSVRkZlZoczJKZDhIWmfSAVdBVV95cUxOZ1Qyc0ZVbTg5RTBSQXNjMW1YUDRYaHlQZUFkVlRULS0xeWhEU2F4Y1pnVUcxYVVOMzVPWGYtSGxJbTFhSGRJYzVvVkQzRDhYUE5pQUtTbDg?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-08-25T12:40:00Z"
     }
   ]
 }

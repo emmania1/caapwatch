@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-08-29T15:29:00Z",
+  "updated_at": "2026-08-30T15:09:47Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
-      {
-        "title": "Após Inframerica, Aena agenda visita ao aeroporto de Dourados - Dourados News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ090R0JXSU5sd0lwbkxmZjA5ZnFnTFdWSDdzTVRKdVJQNTNTZW9IUWxmblpUVWdQLVJxOEFwZzVMYktVLTh2dFZqRHBXOTJaNzRNMVhRYXdOd1p6MWVkdjA0M1hPcTB1a3JQeDQ2QWRKbUdHUWNydXNnZm1aZ0taRm1YSFVyYlUyWENPaFc1R0NsQkphN1Q2a2tvYWxfUGlwODV4cHlvS01RWE4yLThv0gGzAUFVX3lxTE40VlBkb2p1RENmNUxqcnNoZXU2WlZSeDdOcXUyeEdHdHZJNmg2TnFhQlBGak1wQ0NHeHBEMmlUdlJ4b3ZnOWd5alhJSDNaMDh2Y0gyLXNnam90RktTYVVkVmdERkV3MUIzcEpPMFFDQUh3VUFKeGMyZDZHeHIxdUJhcmhESUw0dFhySnMwV0RWdHUyMHdCS1BoS211dFZUSkFMWk5MUU84NXVqN0VTbUE1SHRV?oc=5",
-        "source": "Dourados News",
-        "published_iso": "2026-08-13T07:00:00Z"
-      },
       {
         "title": "Anac planeja leilão do Santos Dumont para 2027 e prevê regras para atrair aéreas estrangeiras - NeoFeed",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOEV2WktqMVlZekZuTXVYcWFyQlFaY2N6eEFxdHQyTHpHdm5lTnN3eWVEQTZ4VUYyc1FLczQyYWNWSWs4eU1LeGY5bDM5Z3ZIM1FTS3JwU0UwQXh0NlZVaHM1cDlmMnhZdzczRWtZVEgyZEVMM19CVlV1NGVBRUhtMTA2RDBlaWhtT0tNUlJQZ3VXYmxwQzJ5Q2VrSUsycHVGemEwbThOWGtjV1BwUzkyMktkZlkyaDh0VGlKbW51eS1jeUNY?oc=5",
@@ -34,9 +28,21 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVRHM3QwcDVHZlFVMGNVTmowUUdyQUNuS2FyY1NYZ3czNmQyUFZrNFNjdlU4WEpHX1FXU1F6cVZJQXZtdGM2VkVReHItanhtNlgxMDZyNXFyVm9jbDNCTndyN19zLTRELVYzRUQtdkJaX3A4SGhJZm9MVTR0U3JIaDlIQlNBcEJ3WlZnNVJkSVg1T04tekNZRUg1aUtfb2RRbEFJV1RKcDRzSFAtQWhfLXhaRTRTNkHSAbcBQVVfeXFMUHFURzN0MHA1R2ZRVTBjVU5qMFFHckFDbkthcmNTWGd3MzZkMlBWazRTY3ZVOFhKR19RV1NRenFWSUF2bXRjNlZFUXhyLWp4bTZYMTA2cjVxclZvY2wzQk53cjdfcy00RC1WM0VELXZCWl9wOEhoSWZvTFU0dFNySGg5SEJTQXBCd1pWZzVSZElYNU9OLXpDWUVINWlLX29kUWxBSVdUSnA0c0hQLUFoXy14WkU0UzZB?oc=5",
         "source": "AEROIN",
         "published_iso": "2026-07-25T07:00:00Z"
+      },
+      {
+        "title": "Consulta debate modelo de concessão do Aeroporto de Brasília - Correio Braziliense",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcktvZlFPXzIzUzI1TzU0cmFQQjJpWnVpRUdoajhlSkhfNmo5bVFsN1ZvTFV1U2FFSDJiaEZvNFRTZjB0TjJUa3lNZ2gtOWlaR2YwYWdJbURZd1hzNlVlSkxKbVlBVjY0cG96aG44WTlMRmNMWW96ZDEtXzdMMzIxbzVaQXlEeHhkM3cxR3BsQUlBZnZ5a2d5MFp5Q0JEMjVBRktHRW1zUVB0bDlLd211Vm50OWVOUGQyUl9pdEdIdzBtaVA1WnhfZ0ZB0gHPAUFVX3lxTE5sc19oNUF1cWxmalUtWnExaUFmdDZ4RHQwSTdRVWRKejBBaUVrc3kyTEZHWnVEcG41RU9DUUpKUHlDS3RmNzVxU19qS1F1RjhKcVhqalo4ek42UVdhRmRMU1RzeG5fNFh0ZElZQ0F2dGVJd3pXUE9iTE51c2JNMVRlRTE0X3lMNUplQlNWZmtLaDI0b2hCN01paUdUOS1PWDFLZHJMSV9id0ZQM0h0OEZEYW90UElzRUV0VkpCa1FtWXoyQU85TXRVZFZIN1JFaw?oc=5",
+        "source": "Correio Braziliense",
+        "published_iso": "2026-07-21T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Eurnekian busca extender hasta 2066 la concesión de Aeropuertos Argentina 2000 - DataChaco",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObDFsYmNWaUZuRU5yUHpMczIzQWxubzFsOFJISzB4WWUwLW84TkpzU002Q3F6TktZaUNQTENIajBaeTJjOHNjTm5ob2UwYzB2SDBjZWNMTE8yZ1Y3NUo0UDJWNks4bXFWRk96bjRlYjBER0c4REV6WmZjV2t1djNBZUhMeUpaaGw0Zmg4OXRIUE83UURONTZOMkg5Ynpma3h4WjAtUElLOUhjT0tkMVU2Tw?oc=5",
+        "source": "DataChaco",
+        "published_iso": "2026-08-30T12:47:40Z"
+      },
       {
         "title": "Eurnekian busca prorrogar concesión de aeropuertos hasta 2066 - Mundo Empresarial AR",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc1pVajcyamhSUUhqaEc2c2RxQ2FtRDNoUnh2amp6Z0hmYjFHakluNnpDb0FtUlFLQ1hpWmRXc3hNalV2R2ExT3NXWTdySUlSUGFaNG1MS2ZTOXpsNkx2VDlXMDFlbHYwR1FDRDJKdkRfelRVem1iX09LSHdjcTgyaFhRQVZzTERpOU1NNjJNRFk2VkNU?oc=5",
@@ -45,7 +51,7 @@
       },
       {
         "title": "Eduardo Eurnekian busca extender la concesión de los aeropuertos hasta 2066 - Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2x4MFBkQ2luRnVmeU1aekxTU3FKNXZDSmpWa3ZsektBZHFKUzhnaGs4ZGNJS0dReXd2b2ktSkRoQVU1NXpLTHpDbFRDelRlM3gzV0tZYXJOekdGRGljRXBZaUhLSF9ONE9FXzdxS09nd3BLeDFlemdBMnNSSW5GdEVkbEQzekw5NlFhQ1JrX01ETEVycTZoUEpBMGNSSXR4T0h3enpMRUpnblHSAbABQVVfeXFMT01XWHBDNHVUckxmanBUSmlCeDFoR20wcWlXNHRXSkk3YkpLOGQxNXVqRjNadHlCOGlGRURmcHlmVzFldzVJOUpBWmw3djdfRi1jcWtJdFNMazZjX2hpLXpkcDNpVUhKZ3p2VTJEUlFVcEdfTTBuaXdBVnR5MXRoQjdLWXRha21yZFNuNV9UYWoxWF8xRHB1aHVuWG5fYVk1NF9oOE90c1h6SkZZYnhsTjg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVdYcEM0dVRyTGZqcFRKaUJ4MWhHbTBxaVc0dFdKSTdiSks4ZDE1dWpGM1p0eUI4aUZFRGZweWZXMWV3NUk5SkFabDd2N19GLWNxa0l0U0xrNmNfaGktemRwM2lVSEpnenZVMkRSUVVwR19NMG5pd0FWdHkxdGhCN0tZdGFrbXJkU241X1RhajFYXzFEcHVodW5Ybl9hWTU0X2g4T3RzWHpKRllieGxOONIBsAFBVV95cUxPTVdYcEM0dVRyTGZqcFRKaUJ4MWhHbTBxaVc0dFdKSTdiSks4ZDE1dWpGM1p0eUI4aUZFRGZweWZXMWV3NUk5SkFabDd2N19GLWNxa0l0U0xrNmNfaGktemRwM2lVSEpnenZVMkRSUVVwR19NMG5pd0FWdHkxdGhCN0tZdGFrbXJkU241X1RhajFYXzFEcHVodW5Ybl9hWTU0X2g4T3RzWHpKRllieGxOOA?oc=5",
         "source": "Ambito",
         "published_iso": "2026-08-28T19:06:00Z"
       },
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXJtNG1lcHhHN3Y3MUZ4bzBIeVByakJtT3FNZk81NVRFWjdaelh0V0x4b2NIdm1nbExVTkJwTUJyd0dsZVNWV2FrUHhtTnR3aVF5SjdsWGd2MlBuX0VBckZiM281WHZtekNEZUJwODUtMlVLYmM3VlgwWndFc2FTZzNYTUpkbDdyYXZwZEtCNXBKRWlsdU15UHpkUHB3QmktdGZSUHZwNlZaSG5wTmtTT25SMnNBX1VCMVhFMU5meFl0M3lSR3FFZNIByAFBVV95cUxQeXJtNG1lcHhHN3Y3MUZ4bzBIeVByakJtT3FNZk81NVRFWjdaelh0V0x4b2NIdm1nbExVTkJwTUJyd0dsZVNWV2FrUHhtTnR3aVF5SjdsWGd2MlBuX0VBckZiM281WHZtekNEZUJwODUtMlVLYmM3VlgwWndFc2FTZzNYTUpkbDdyYXZwZEtCNXBKRWlsdU15UHpkUHB3QmktdGZSUHZwNlZaSG5wTmtTT25SMnNBX1VCMVhFMU5meFl0M3lSR3FFZA?oc=5",
         "source": "C5N",
         "published_iso": "2026-08-27T02:43:00Z"
-      },
-      {
-        "title": "Mientras discute con el Gobierno por la concesión, Aeropuertos Argentina inauguró obras por US$ 110 millones en Salta - Clarin.com",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOWxHNjBNd1B2dUhfWlhERlRROVJKYkVOUG1aemlrQ2hnb2o5aWZtZ3JIVjgxTmxES3A5RGk0QVlOdjZNWFU5Q1p3V0VNUGhUbGdYeTB5YWh4eUs2SGwwS0FXTW5jZUhkcVBDZFQ5MEtHWk04ZzV0ZFVTbE93WERXV3VXVWd1Vlk3QVFfdVU0ckNvNWY5X29BUDNkQ1dvSHNTQ1dfSURLQ1pXd2YtQlc0cmlMQWg3b3VoZXc1Zm1wZndmOHd0NjhuMWRFQ2FGZ0h4?oc=5",
-        "source": "Clarin.com",
-        "published_iso": "2026-08-26T16:54:01Z"
       }
     ]
   }
