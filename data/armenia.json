@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-08-31T17:52:58Z",
+  "updated_at": "2026-09-01T15:23:10Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Azerbaijan Embassy Praises Jordan’s Support for Peace Process - Fana News -",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNjB2cjJuSnZlZi1qclkyaDFhR1Q1cmFFUUQtR2ljLVVBT2FLUDJBVmQ1ZjZRckYyaTM3cHhGVC1WVy1FMzVkMzJRNmg5d1dWdmhsNXdSYmxEbkxNY2dSUmZTUXVWZHd6TnN0VmdKYzFBX1plZWZnRGxFLXZfSFRtTDlCaDR6QWNGZW54b0d3MDhBQ2pJTnN1NllES0dNdnc?oc=5",
+      "source": "Fana News -",
+      "published_iso": "2026-09-01T13:23:39Z"
+    },
+    {
+      "title": "Aliyev says Armenia, Azerbaijan work to expand trade, open new links - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfTlZISVR6ck91dGxtckdVWjJib3pIUkZhWTJYRmN4amVCbkFqekt1M25kakVLeGVidi1QZmo1R3NSeV9JbHVkUkNYQWsxYkpNTEHSAVdBVV95cUxPX21GMmFDYTZBYWVTNTJhNW1HN0VNOWxfem5MMVl5T1R2aElCWGdPSHRuamp5NkkxSVp5d0luUDZNdFpNcmFLTWw2WmNhd3FVc2VSRW5faTA?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-09-01T11:06:00Z"
+    },
+    {
+      "title": "Pashinyan and Aliyev meet amidst news of Armenian exports to Azerbaijan - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHJ4TDcxdWlvNk9PR2FRajBWSFF2V3BtY3UxOWYycWFCUkhHcC1CQlZ6eDZhN2R4Rk1TNTktajdhOE1VcFJHbFhpd2pfUGVTVGpQeVQzWWNzZEYyY3hNcXVjQ1J3YXUwS2o4ajF1aE9wenJMeXR6bFFMa3M2eW1tOXF6UnF0N1h2ZnBkbFZNamptVENzZTFIWg?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-09-01T06:07:35Z"
+    },
+    {
+      "title": "President of Azerbaijan and Prime Minister of Armenia meet in Bishkek - European Interest",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkZkU3Y0Q0JiSlNkdXd6djJSdkczRk5jNUo1SGE3cEJIVkZ5WDdIRjduUXBtRG9GY2lkUmNVU1hxUWw5akFuYnVaR191UGx6cDdEcG04eXZyaDR6Qk10bmJ6emJocGRBX01sNjEzVFY5aDhyaElteXFlR1FMY3VYcnJ4NjA0S0o1WXNGNGFqSHV3c0FpZHpnWjNGc3l2SXRpM3RqTA?oc=5",
+      "source": "European Interest",
+      "published_iso": "2026-08-31T20:31:07Z"
+    },
+    {
+      "title": "President Aliyev, PM Pashinyan Discuss Peace Agenda in Bishkek - caspiannews.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2J1bFEyZ3FtS2psUm1lQWtjaG1ZUllNQUloTU5WWkVkekU0T3NFcDRsN0RsOVdzbmFyeFBDZVN2SmtKZE5kMHV2dHRlNDVFdUlYUkpjd09ScTVlWEVJSlFGMFZIT21QN2dvX3p5MnNCTGI2ckpITXQzTmo1QzRFREtMaUkyX01mY1M4NXhWRmwwNHAwZVZiWHZwVXI1T09NTWxNWUlpLUVySENOajJR?oc=5",
+      "source": "caspiannews.com",
+      "published_iso": "2026-08-31T17:53:10Z"
+    },
+    {
       "title": "Armenia and Azerbaijan Pledge to Strengthen Lasting Peace - teleSUR English",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVElOTUh3bV9mWmdhRkFuc0FJSEttdkhUek9iVXhsTlJHMTJ2eTlJSlFfaUtvNDBCcWVrM0VkSHVuYzNQa3ppRmk2aGdxZTQ0YjljNXAxb2M2QzZwaXRkampFYXFob19tNXpFeXRrRGRvS0pnMlVTQWNWTzRJdlJwb3FBV0daMjdvZUcwUUFBNkI2VmM?oc=5",
       "source": "teleSUR English",
       "published_iso": "2026-08-31T17:21:29Z"
-    },
-    {
-      "title": "Modi, Pashinyan review Armenia-Azerbaijan peace deal; deepen ties with Kyrgyzstan - The Tribune",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjdKd0wyOUxrZnF2V1pUNDFIOUpraUhsZ3daRVV6SWVZMk5HTmZKYm9uTHpKRUhFRGdxUGJMSjBFdThpRFJkS0NzZXdDejBvZ3BhU3FBdC1fN05rbEZTUXBCdFpVYU1sWkRnWWgwd3QyMnZnR2RvVHlmX0VHcUpXU3l5aXA1YlZWVU4xU0loMmpVd2hleWxiMVR6MUE4OFl6TUlJTUNsMnpweUpael84dU1RM2RneHFKRGFlUdIBwAFBVV95cUxPd0FaWURmNmhyaWdsSExUTWQzR19mZ0NhRVBCQ2RDLTZLSVJxOW5neTdFd0tSM2NiMXNuVURoSXV2cnJyVWdHckJpazdqNm1OQXFkM1N6ZHFTbFctUHVkOTZkSnlCN21mcXdGNmtVY1VCZTF1ZzZjeTgyUmNCVTI5Sm5KYWdMYVJTUTRJSVhKdU5BRjAyOUtkQ1NaMEQ3Q2w2REw1eE9vOUdYWUtLcFVYMVpSLWd4ZXlMcHBXaV9yQi0?oc=5",
-      "source": "The Tribune",
-      "published_iso": "2026-08-31T16:24:22Z"
-    },
-    {
-      "title": "President Aliyev, PM Pashinyan meet, discuss Azerbaijan-Armenia peace - Kursiv Media",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZVp5VGp5dFFiaEYwREJ6eE05SUczVEhPdXJRLVpubGhtNDN5MlFKUVlhM3E1RlJvSW1BZVZfYzlyYjZUNExaRGJEa2dhbkRyb1lBcWpSeHllTW5sdEVHUnZWeF9tSjh1MUNMckVqMVJwQzdwUm45eERtTzdjUTlwSnRucDBtdlBCOEk4STJIaDJhRl9uaHJQeGhmcnNON3kzXy15SE9PczZOOUlkSVkyS2lKcXBLYkE?oc=5",
-      "source": "Kursiv Media",
-      "published_iso": "2026-08-31T13:46:27Z"
-    },
-    {
-      "title": "Azerbaijani Leader, Armenian PM Focus on Peace, Trade and TRIPP Route - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1gxYU11VEhtLTMxMFBDWHRqbGtBUnQxNklJOWQwazFCZm9lX3JvU0EzS25HWEVDYS1BM3NNM0RlcGFKYkx3b1AxX1JDeXJ0UHRVUTl5dGotclIwVWg3VE4wQXhIaFRqeW1FUEZ1bUxuWWlTeW5WVW9IWUNRY3ZUT3RRMGZtQW9kN3Y4T3RuS0doNFJrd3VKUkFJS2lCTnM4dUxBRQ?oc=5",
-      "source": "Caspian Post",
-      "published_iso": "2026-08-31T11:25:00Z"
-    },
-    {
-      "title": "Message from Yerevan on border, condition from Ankara: What is happening between Baku and Türkiye? - TodayPress.tv",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeGRQMWRMMmlUNXB0aC1zSERXeDZDNzdkcDRmRUd6dTBvWUxZQUFueGlhaVMtckJDWFI1WUxGaW5pYVZqd0xUYTA0TnJVa0wwbWlMenk2Nk1RUHhTUWNqNXR1SjVyaXBWNjRRSUtzaUpFVC13V2gyRk9Ya1pvVUNXanZmek9iS2pQVnBzSlo1WkR1eTU0R1VqWEpFemtmMkRBSlZpUlZPX2VqN3M?oc=5",
-      "source": "TodayPress.tv",
-      "published_iso": "2026-08-31T11:09:10Z"
-    },
-    {
-      "title": "Pashinyan, Aliyev discuss peace agreement, TRIPP and economic cooperation in Bishkek - en.armradio.am",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDNieUh2Vl9RTDZ4OXdraWs0RXY0VVZwbWtYZnZoTUF0MWJkNkhTa0JELTNlaGw2d3phX0tQdnNvTU5GSUNEcFNBSmEyTERlVU9nTENtZWdGN0kycnZ1UkZrZHk2dndWS0pLQm81N1Vvb0hjRkNRbVdvQkZIaEh0NGhxNnY1Q0NVWHo3Y3dKTVpITU9OWjhqVFByaXphYlFZVWRqcXdiS1VTSnk1bEZDVkdUa2pHNUNz?oc=5",
-      "source": "en.armradio.am",
-      "published_iso": "2026-08-31T11:01:29Z"
     }
   ]
 }

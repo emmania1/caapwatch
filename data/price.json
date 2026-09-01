@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-31T17:53:05Z",
+  "updated_at": "2026-09-01T15:23:16Z",
   "status": "ok",
   "source": "Stooq + Yahoo Finance",
   "source_url": "https://stooq.com/q/?s=caap.us",
   "symbol": "CAAP",
   "exchange": "NYSE",
   "currency": "USD",
-  "price": 23.35,
-  "change": -0.75,
-  "change_pct": -3.11,
+  "price": 23.8,
+  "change": 0.33,
+  "change_pct": 1.41,
   "change_basis": "prior close",
-  "as_of": "2026-08-31",
+  "as_of": "2026-09-01",
   "history": [
-    {
-      "date": "2026-04-23",
-      "close": 25.0
-    },
     {
       "date": "2026-04-24",
       "close": 25.0
@@ -370,7 +366,11 @@
     },
     {
       "date": "2026-08-31",
-      "close": 23.35
+      "close": 23.47
+    },
+    {
+      "date": "2026-09-01",
+      "close": 23.8
     }
   ]
 }
