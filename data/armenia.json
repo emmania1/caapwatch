@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-09-05T13:40:36Z",
+  "updated_at": "2026-09-06T13:55:32Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Pashinyan has clear public mandate to establish peace with Azerbaijan: spox tells WSJ - Armenpress",
+      "title": "Armenia Courts Central Asia As TRIPP Corridor Takes Shape - Radio Free Europe/Radio Liberty",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSEZxajJQZFdoLVEzSVRXNjJnUGFrQ0JRLWJZMEZRamt0a0stRWVhR2RObGhJT3J2ZXVhVHJFZlYtYmlaLU9ia3pWcXFZNGhkM0hVZ0l3RWxCMjZ1S1h5TDdjbnF2VTU3MjZrbXFXNlNnNWdsS1lHeFZQSjNEUnVuN3JTVl94ekhVUmJNZTJlMWxhalhfcGZv0gGaAUFVX3lxTE4yUzBDMDNrREg5a0Y3QjRzd1VCdkszV1ZYM1lwZjFaZ1h6S0pCWW01T1J4eFZOMjVoOW5YbWNqVjFoN1JvZWpGQnZuaWpaaVNwdFEtSjNwMTEySnQ4MUdzUVJtajNDalNEalZhUGlwaW00eVlhSGo5QThZUmtsU0UxZHd5dWxJWEpYd1R3dDdxSUxUcjdfNnJRLUE?oc=5",
+      "source": "Radio Free Europe/Radio Liberty",
+      "published_iso": "2026-09-06T11:34:14Z"
+    },
+    {
+      "title": "US Used Nvidia Chips as Leverage in Armenia-Azerbaijan Talks - اسلام تايمز",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnI3YmF6dFBWZTg2UDlmTmFiT0FlTGI5RXJvcWhfTGZ4YzRuUXpYanYxU185dTlWazg0Q01ydWtRY0xKNWFKMWxhT2tOTmp2aVdlem5jSnpCZFI5NmZMQzQwWENyU21hdXAxRXg4dVVCMU55UzNQSHNSYTdKVWFEUTZESEYtck9GSWNvMmtyWWdJZFI1dUpOdlpaQjNpb3JRWTc1ZzFn?oc=5",
+      "source": "اسلام تايمز",
+      "published_iso": "2026-09-05T22:58:09Z"
+    },
+    {
+      "title": "Social media users debated the necessity of diesel fuel supplies from Azerbaijan to Armenia. - Caucasian Knot",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DT2k3Z2JLM1piLUxWM0FHMEJlVVBTaXBRVHJ6YkotNUV5a01Odm5qLVI5dkxuUVBDb2hvSV9SUm44Q0JSc0hGRW54SXQ5d1pXRGJWZUVQanc?oc=5",
+      "source": "Caucasian Knot",
+      "published_iso": "2026-09-05T21:00:00Z"
+    },
+    {
+      "title": "WSJ: U.S. used promise of Nvidia chips to help secure Armenia-Azerbaijan deal - CIVILNET",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RV0ZxTWhxQVBLUzRCZEZzaTNHa2RLRklGMjRJVE9fQi0yMHlRVU1YaHZCTlNqQzZxZkZ6SVRlVnVlYk01MHVQalBRRQ?oc=5",
+      "source": "CIVILNET",
+      "published_iso": "2026-09-05T16:54:52Z"
+    },
+    {
+      "title": "Nvidia chips were reportedly used as leverage to help broker a peace deal in the Caucasus - WION",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWFoaWdvNHJmbVVyWFhWU3lWSDJiTXpNYkFNYjB5ZU14UlBOaG1jSGdYM2RuS3U0S1JENkdSazdDdDZ2aXpYWl9aRFVXaFdteHRhZzQyVzdIUXk3enJ4NDFTdG1rNmhPaWVZNXJ4dldyV3gwcHdJSWlhSmU2cDVqZlU4WHBCOFZ5SzYxM3UzQ0otRVdtRlE2SV9aR2RxRnF0V2dpclEzN1NFRDJ5RElsUlRGcmpTaUlnQjJqcV9GOXROQ3J5cTJEX1o4VDlBd9IB0wFBVV95cUxNV09rX3I5UmZFQW9lTkd1bm9wSzFDUGEwbHFna2JyN0VSVjFxTEwyRWVmaFp4Qlo3S21KUFdvR0VYdEN4cDhDaFZnQTdIbDdDMFA3Wi1Kc1NNVG9hZDdUNUFvZ0RTRkxIVUtFbHZ1RWV1b3lHQVVyU3lqelNLUURNc2VWc2hJZVF1ZlJxZDVKYVVXdFNnejJZcHpTUjZwME1xYXJOTWVqNnlqS1Bwd1pTTFVEYllDQm5FRG96N3NFNmROMUllZGJra0VkUjRzSFFaRVRn?oc=5",
+      "source": "WION",
+      "published_iso": "2026-09-05T14:46:00Z"
+    },
+    {
+      "title": "Pashinyan has clear public mandate to establish peace with Azerbaijan: spox tells WSJ - armenpress.am",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YZVFYZjd3TGpEX3FzM1RpYXptT0pnZDRpZnNOc0NFbXllWE10cmV6bmY3bldLbHluX2lUNnpMc2dhNjFaU0hPNGsxTm82anFsNVHSAVdBVV95cUxQU0NoblQzSTFZcmktN2ZLTTI4T240aGNES0JzLTN0ckFHVTA5ME5rb19SV1lhVU12VXlFaDJYMUNxekVGWkZnUmZ3dGtxMzU3X1dzTjJ6N3M?oc=5",
-      "source": "Armenpress",
+      "source": "armenpress.am",
       "published_iso": "2026-09-05T11:11:00Z"
-    },
-    {
-      "title": "U.S. Used Promise of Nvidia Chips to Help Secure Armenia-Azerbaijan Peace Deal - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUlVKV2FKVnpNR2NtY21oUjdQZ3JCRVNoWGFvVXZvTVJNVDhCUGpmSE5vVFczQlBZanEyUjMyTmNpcGVkUEszSURKZGZ5YW5lLUVMZEF0ZEFDRG03aGdhSm40LWZIRDdIbjVWNWsyZjNHODk1QllPMHJCOW9DbG1XMDhRUmlqMzZFRnZOZHl0Y3ptZ3hiQ0xDVllvY1RpTmo5bnhmcUhXOVllUFo5RmNPc3ZQejZidw?oc=5",
-      "source": "wsj.com",
-      "published_iso": "2026-09-05T11:04:00Z"
-    },
-    {
-      "title": "WSJ: US Used Armenia's Access to NVIDIA Chips as Incentive in Negotiations with Azerbaijan - Arka.am",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZNVnFpVV9PSGF6NnNPOTZmT3lCZUprTnkwYmdWN0hmX0VwZ0dZR3d4ZWFXT2ZoU0NQOVh2WkI5QWp3MHFtNEtNVlcxUmlkY0pnai00Uk1rYmtMaVNnUWl2Y3B2bkpraWx4LVhTVHh4cW9vTTBMam1teDI1Y3didlZYUlpQOHMtLUxucm92NlpmOC1kOHdCMS1acW5jYndQdnRsU2hVdUVmZEhhT0NQUnA5bzRmTVZZU0ZlRHprVGQ?oc=5",
-      "source": "Arka.am",
-      "published_iso": "2026-09-05T06:22:00Z"
-    },
-    {
-      "title": "Exclusive | U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEJmOWRwaGQxLXdMVzlaUk16VUZfVE9FTkN4MVdOXzBYZEY5VlpWMWZFbHBjaTNCTmxnQVdsamU4YUd3YmUtZDV6OUFNZDdvOGFfY0pLSndyc0JVci03c2NrcUtveEhnTU8tOEZMY3FoUUlETnlrM0pZUGlsSFdjOW5xU2VpQ3pOeWhoOHZ2TTNqb3RyQzdFSnR0YktRWjZHeDcxNzBuQmZvOUk?oc=5",
-      "source": "wsj.com",
-      "published_iso": "2026-09-04T23:00:00Z"
-    },
-    {
-      "title": "Pashinyan, Putin and the blame game over Artsakh in Bishkek - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSnF6d0N0TXBSYnNLMUJmSzhSZVFGbFNQSEhMWEpNX0JVanpkNFhHaHFJWE9BWEZPSzRUV2I0U0x2dktsZm1sTkNQNU1IM3c3VVh1aFIyaTFJX3pIenNKWEs2alk1dndzc2pqY3duSGdnWHJ2UWkzdnh1VUNXNXowNVpCaTgyTzU5dmo4MkZqN29ianp0QnZJUjBteGt3Zw?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-09-03T14:08:27Z"
-    },
-    {
-      "title": "The Trump Route for International Peace and Prosperity is More Than a Road - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2kyNnNmUVRlTFpUVHlHREczX1RCUHpOWEc2OWlTeE0xYmJ3b3JFdUNQOHRMT1Noamd1ZktrVll0ek5id0dhQnFQQUE2a2RzMW9LTThZcVV2Y2lyemthWG83bWZwVTFUVmhCZ21rbTVfYkdHZmoyVUtsTzB2SGlNbG9tUURPalBqSzJ6VTZ3Z2FqZmt0S3FhTUxmaVNXUHp2anBVNzNxRDItdw?oc=5",
-      "source": "Caspian Post",
-      "published_iso": "2026-09-03T10:04:43Z"
     }
   ]
 }
