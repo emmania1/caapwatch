@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-10T14:49:03Z",
+  "updated_at": "2026-09-11T14:50:56Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Anac licita em dezembro concessão do Aeroporto de Dourados - Dourados Informa",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXRUNTA4NVEtcGRiZjVRY0xHTnltby1qNFlBVWFxcGJMSlJwYVRlQVA2ZVRIUExPbE1kZVUyYVlRRHkyc1VvUU44dFhUSDFHTllnRlVDcVMyZmZwbnVZOUk3MWk0TmdLdE5rRGR0N3F0MEtENXNZTFNrMTc3bmp2d2ZjQkRjcm12R2k1ZUxqdlREb0FVSVM4ZVE2OFRHQnRuNHJKczctNU8wQkk?oc=5",
+        "source": "Dourados Informa",
+        "published_iso": "2026-09-11T13:40:00Z"
+      },
+      {
+        "title": "Repactuação do Aeroporto de Brasília (DF) prevê novo terminal internacional - Panrotas",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3hnRWZkN0JhcWU2WTBZZVdXRlhCZ3YwMjdGZ0NYX1l2QTYwRW9BelMwQ2ZZMDIwV2ZGY0t5SXE4X01qTUxMQTJEOERMaUxneXNjb2ZkRVBuNk1kTEdTbVVVMWluWEc4MUpRYWFSUXdTeHJqMkdYcVloN1ZRREdNckRIR010dlpRTzZkS1V1X21uMFVwbTNnOElpc0VHcm1kM3k2eDljQmxIMkVHb1B6UGlUa2R0MjRibTZXcE8tVTZ6bDlWaVY3YkFuN2htdDdUbmN5a2pZZw?oc=5",
+        "source": "Panrotas",
+        "published_iso": "2026-09-11T13:04:00Z"
+      },
+      {
+        "title": "Leilão marcado! Aeroporto de Brasília pode ganhar novo terminal internacional e edifício-garagem - Melhores Destinos",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tMURkWjk2andyd1JuSi1uNUFrQUpZYWYxVmtrM1RvMERETTY5U2dadmdwMW5Qbk94d19OQzZ4Y3BZMWc3d0tkcnZuX1UteHVkcTlIMWQ0OVRqU0hWdHRJY25LeVdiUTR3T2VCWmVpYXBaS3ItbkhMeQ?oc=5",
+        "source": "Melhores Destinos",
+        "published_iso": "2026-09-10T19:58:00Z"
+      },
       {
         "title": "Anac aprova edital para concessão do Aeroporto Internacional de Brasília - R7",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUUhmUTE2UFJUXzhRX0pTUWdHSFBHVklDeDFQMzZQa1g5NFlLSTlOMlREWjkxTEw0eXVTVl96RjJNNmg1Y0dpbDRnVEc5b3c4OWNpMzFhU1VSRXIyQlllMjRjR21rY0h3OXllUi1MTHZseFlLRzlFSkdvNDlQRk8wWXY4NkxST29ibWI0clZWMjdhZmhQclcxYWkzODFIYUNTQUNaU3dlZ2RFNEtxR3hTYS1RQ1JZUHNZbFBYT2MyZ29hSzVTeS1EaFZfdw?oc=5",
@@ -16,24 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0ItX0JINkRidUw1YzBzcWJLUHk4SjhTWG54MDdRSVAtYW5vTUI5QmVHWV9iaElNMWR3Q05aTXBubUhPQl9ZMVBSN1hfV0tpRXpvNklrMGE2NENxbWNjMlVRMzU1U1E5SVNyQ3NVOUttdnJXZkRTNDY0dlpHREJRVU9VbVZ3czgyckRROHVYa1lrb2JSa1ZqUGZvZlVqSjJXVDM2OWxEZ1JNUmxYQzl4Qy1GcVd1eV9Vc3htQUg5bTZWYW1Hb25BcmtyMzFJRFNzQTBheg?oc=5",
         "source": "Mercado e Eventos",
         "published_iso": "2026-09-10T12:13:18Z"
-      },
-      {
-        "title": "Leilão da concessão do aeroporto de Brasília é marcado para 17 de dezembro - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3JRR0RIMnotUENydERWbTJEUm1hbF9VRDVVendhUXotNjVoX0h2ZlY4MG9zbGM0S2xhOWxWVEVfZkVjRVZXWmdmbFZ0SDBDSnlaWGxQcmxSTUd3YkFoZDRIUGJzWXQxdzJZaW9GNUxLU0h1RFNzMVRtbkZ0VEhjU3JLekZKaElL?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-09-10T12:10:52Z"
-      },
-      {
-        "title": "BRASILIANAS | Anac marca para dezembro leilão do Aeroporto JK, com novas exigências de investimentos, de R$ 1,2 bi - correiodamanha.com.br",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNUW1wbFVpMXg1dzlzcXFrbDliNV9mQlVMMEpxbG83UHdkWFdfQ2JxbE5xS2dhLUoxT01tNXJhZTBxeU5Xd0cxaTF6TzllN1lManBTX0ZZemhZZTNPelIzRWpjVnZtR0ltRDY4Nkd0WVpTRGg1VFJGUUFIQUNvcHJYbF9vTlpMeER0UFZxZGcwbGVqdDM2SGdLUjVJUmpoOEc2Vk85SFNZVjNZNVRfYmRidHYtM0NUbTdTY1c4cDM0WWJnS3Z4YkJuX09nbEg0SENXeDlYai1aYkE5Z2xvVndpcGZoUnRTYVlqQkEtSFBlQVk4TnE4TGNJWEVjNXZFTXNEVXR3U1pGVjExVkNwS21OZGpmM1M?oc=5",
-        "source": "correiodamanha.com.br",
-        "published_iso": "2026-09-10T06:01:00Z"
-      },
-      {
-        "title": "Leilão do Aeroporto de Brasília é marcado para 17 de dezembro - soubrasilia.com",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2FVSTNiLW80dWFJRGVmSklWTWNQd2RUelJVdzZseDhXR0pTUWVZc1R2N0VnLXl3bEVfcEJMb1VDZ0V5c1hTMWlublpRNTN1NGpzNkRRTl9GVVNjeTRzamNSaTJqRWExeE9HcDM4SkZ3SDVWTHNuRndManpmb09Edks1aUVndw?oc=5",
-        "source": "soubrasilia.com",
-        "published_iso": "2026-09-10T04:21:18Z"
       }
     ],
     "aa2000": [
