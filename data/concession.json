@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-11T14:50:56Z",
+  "updated_at": "2026-09-12T13:52:07Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Anac licita em dezembro concessão do Aeroporto de Dourados - Dourados Informa",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZXRUNTA4NVEtcGRiZjVRY0xHTnltby1qNFlBVWFxcGJMSlJwYVRlQVA2ZVRIUExPbE1kZVUyYVlRRHkyc1VvUU44dFhUSDFHTllnRlVDcVMyZmZwbnVZOUk3MWk0TmdLdE5rRGR0N3F0MEtENXNZTFNrMTc3bmp2d2ZjQkRjcm12R2k1ZUxqdlREb0FVSVM4ZVE2OFRHQnRuNHJKczctNU8wQkk?oc=5",
-        "source": "Dourados Informa",
-        "published_iso": "2026-09-11T13:40:00Z"
+        "title": "Prefeitura autoriza e Anac licita em dezembro concessão do Aeroporto de Dourados - Dourados News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUlXYzl1d0pSSlZuajUxM2k4Rmo4Wk40eWtjOTljY0hDOHVPMy1QVVZCVkxNN1hKSTNmSHdsWXdZUHZOaTNWbFIzaVRTZG1vMGZUQjNSdjd6ZThNQURkdEszTWJKMHdVcl82NXM1SnktMkFVem43MFNSem8xVldYT1VWTDAtU19NMUxwN1pPUE00WDhub0pHMTJ4X0ZBcmZaamhEUDBvVFdKTmZTbXNlVkhIVXdSTWt4ejc3SE930gG-AUFVX3lxTE5BSVdjOXV3SlJKVm5qNTEzaThGajhaTjR5a2M5OWNjSEM4dU8zLVBVVkJWTE03WEpJM2ZId2xZd1lQdk5pM1ZsUjNpVFNkbW8wZlRCM1J2N3plOE1BRGR0SzNNYkowd1VyXzY1czVKeS0yQVV6bjcwU1J6bzFWV1hPVVZMMC1TX00xTHA3Wk9QTTRYOG5vSkcxMnhfRkFyZlpqaERQMG9UV0pOZlNtc2VWSEhVd1JNa3h6NzdIT3c?oc=5",
+        "source": "Dourados News",
+        "published_iso": "2026-09-11T14:02:00Z"
       },
       {
-        "title": "Repactuação do Aeroporto de Brasília (DF) prevê novo terminal internacional - Panrotas",
+        "title": "Repactuação do Aeroporto de Brasília (DF) prevê novo terminal internacional - panrotas.com.br",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3hnRWZkN0JhcWU2WTBZZVdXRlhCZ3YwMjdGZ0NYX1l2QTYwRW9BelMwQ2ZZMDIwV2ZGY0t5SXE4X01qTUxMQTJEOERMaUxneXNjb2ZkRVBuNk1kTEdTbVVVMWluWEc4MUpRYWFSUXdTeHJqMkdYcVloN1ZRREdNckRIR010dlpRTzZkS1V1X21uMFVwbTNnOElpc0VHcm1kM3k2eDljQmxIMkVHb1B6UGlUa2R0MjRibTZXcE8tVTZ6bDlWaVY3YkFuN2htdDdUbmN5a2pZZw?oc=5",
-        "source": "Panrotas",
+        "source": "panrotas.com.br",
         "published_iso": "2026-09-11T13:04:00Z"
+      },
+      {
+        "title": "Anac publica edital para leilão do Aeroporto de Brasília com remate em 17 de dezembro - Acessa.com",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQTYyTUI3WXNGcVpxMm5INUFzZ2twRWtXSTh2cjBBcVUtM3l2amdSQmlsU1NSR29sS2VlMEd5ay0ydGNZOUJybnhuTk5JajVZS2h6dFZDMzZPcHRaRGFDdkd1MlFrZnpmSFpSTWNndUlLR1RCMUZVbEhCRG1ybVFnR3JyVGhGTDVvWUYxTXMwUUFETVJWTUxIazJYYl9rUFA2MkdSSkl0X0FFRVJLUlo5bjduem5qbGZHYkZTVjB2WFd0NmxWWUI4VzMxZ0dfTnFRQzVZ0gHYAUFVX3lxTFBYN2NLQWlrNmktZ2c4UTV3eEdWMVF4Mmc4aFFBX1AwNjFyc2Q3S01fbEcwa1VsSjFXWUgxR2d5LWVYVGVpRE5oQzdkSHZaQkNzamE3d1VKeUc1a0xDQnVWbGxzX3ZmZTJyWHlCcU1XUHJGOVc0LUhtQVZGX2p4M3FUMWxUYzN4ZGx0ek5hQ1F1Nmg4VDBpQnFIUUpmbVRfSWMyT19LT25hY19OYUxJUld1Q3hBbVA5dURjVktoTG5wRWpueVRkTkxOR1lkZkRTTkp5cE5RUTF1Rw?oc=5",
+        "source": "Acessa.com",
+        "published_iso": "2026-09-11T06:49:21Z"
       },
       {
         "title": "Leilão marcado! Aeroporto de Brasília pode ganhar novo terminal internacional e edifício-garagem - Melhores Destinos",
@@ -24,16 +30,10 @@
         "published_iso": "2026-09-10T19:58:00Z"
       },
       {
-        "title": "Anac aprova edital para concessão do Aeroporto Internacional de Brasília - R7",
+        "title": "Anac aprova edital para concessão do Aeroporto Internacional de Brasília - noticias.r7.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUUhmUTE2UFJUXzhRX0pTUWdHSFBHVklDeDFQMzZQa1g5NFlLSTlOMlREWjkxTEw0eXVTVl96RjJNNmg1Y0dpbDRnVEc5b3c4OWNpMzFhU1VSRXIyQlllMjRjR21rY0h3OXllUi1MTHZseFlLRzlFSkdvNDlQRk8wWXY4NkxST29ibWI0clZWMjdhZmhQclcxYWkzODFIYUNTQUNaU3dlZ2RFNEtxR3hTYS1RQ1JZUHNZbFBYT2MyZ29hSzVTeS1EaFZfdw?oc=5",
-        "source": "R7",
+        "source": "noticias.r7.com",
         "published_iso": "2026-09-10T13:35:14Z"
-      },
-      {
-        "title": "Leilão de Aeroporto de Brasília é marcado para dezembro e prevê R$ 1,2 bilhão em investimentos - Mercado e Eventos",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0ItX0JINkRidUw1YzBzcWJLUHk4SjhTWG54MDdRSVAtYW5vTUI5QmVHWV9iaElNMWR3Q05aTXBubUhPQl9ZMVBSN1hfV0tpRXpvNklrMGE2NENxbWNjMlVRMzU1U1E5SVNyQ3NVOUttdnJXZkRTNDY0dlpHREJRVU9VbVZ3czgyckRROHVYa1lrb2JSa1ZqUGZvZlVqSjJXVDM2OWxEZ1JNUmxYQzl4Qy1GcVd1eV9Vc3htQUg5bTZWYW1Hb25BcmtyMzFJRFNzQTBheg?oc=5",
-        "source": "Mercado e Eventos",
-        "published_iso": "2026-09-10T12:13:18Z"
       }
     ],
     "aa2000": [
@@ -53,7 +53,7 @@
         "title": "Eurnekián pidió extender hasta 2066 la concesión de Aeropuertos Argentina 2000 - Diario El Norte - San Nicolás",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNFpBTnVfMDdnb1FicXo3RzRmQnFhTlRjSlFVWExFa3M3LTV1c0NIRUthTXZZYTIyTmF6VTFOSmg2YS1xenpYUHRLRFVzQmZyQlN4MjNERW0yWXhYRkN1T2MxbERQY191bU1qNnFVRVc2UDdpeGRRNFpfYmdMempLR3d5Qy00NExUNjJwY09JWFZWRVNoWHdNOTJBQ0ZVY2RQeWFzVUg1ZmhwcWtp?oc=5",
         "source": "Diario El Norte - San Nicolás",
-        "published_iso": "2026-09-03T16:26:28Z"
+        "published_iso": "2026-09-03T07:00:00Z"
       },
       {
         "title": "Eurnekian busca prorrogar concesión de aeropuertos hasta 2066 - Mundo Empresarial AR",
