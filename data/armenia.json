@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-12T13:52:27Z",
+  "updated_at": "2026-09-13T14:51:05Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "TRIPP Corridor Pushed to 2027 as Iran Warns American Personnel Would Be ‘Legitimate Targets’ - thediplomaticinsight.com",
+      "title": "TRIPP Corridor Pushed to 2027 as Iran Warns American Personnel Would Be ‘Legitimate Targets’ - The Diplomatic Insight",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXlsSUZGc0hUZzhYd2tVRUx2MVJhd3JzQVlJbDNMTGlfUzQ3dlpCOGR6M3NwRkFndENaVWM0akZKZXZVZDNCQnRqdFRKZzVDT3J4anYweGhDZGhzcm1IUXF1X1lUR28zd1UwQm5IZkxHV1ZfRnBncUduRHc1cFkxLXRFbw?oc=5",
-      "source": "thediplomaticinsight.com",
+      "source": "The Diplomatic Insight",
       "published_iso": "2026-09-12T07:44:30Z"
-    },
-    {
-      "title": "Pakistani expert: Zangezur Corridor will turn Nakhchivan from a geographical enigma into a gateway between two markets - INTERVIEW - Azərtac",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNank0RkZFUld1SUhKOWhTNUtzanRwYXFpaXFWRjJYTE1tZHoxcXhiSk1xSTU2cllpN2pXWlFrNHNKOWJBQTdQdW9tYW9tVklXUWM0VDZWZERqM01CN0czQWZMQ2lzbXRfZWh3RDE4Smg3RklxaFRxazdSNEU2S2VuOFJLaUJ5b3VnSWZwREZjV00tSHQwOGJiT01nbXU4RjBhX0ZRZWo0SkF6Q19tMGNqUlFEQ1c4YlRMcHF1bVlZVlhGazZIbDhwMXg5dTJaUFBEc2lsMlFySG1USmUzV0cxaGZjRVpuWk93MFVpd3plM1RBdlY1UFUxTw?oc=5",
-      "source": "Azərtac",
-      "published_iso": "2026-09-11T16:10:00Z"
     },
     {
       "title": "The Legitimacy Question: State and Society after Armenia’s 2026 Elections - geopolitika.no",
@@ -39,6 +33,12 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlQV9JNkNPMG9XWVdJdTFWWEh3aVhpZHpoYk1ITlJCNXV2YnpYem1pdmRuUENLdWZ5TGxjTXZlQmFiaHQtNzR1UXJKTXhZeFhVQ1ZRQjZfaw?oc=5",
       "source": "AzerNews",
       "published_iso": "2026-09-11T07:01:00Z"
+    },
+    {
+      "title": "Start date for TRIPP trade corridor connecting Armenia and Azerbaijan pushed back - Eurasianet",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnBnWjByUDc0VVM4Z2d2Z2FpUGIyaFFRekNBckdCeDVzTS15SW5KZVNIMElGMHlVQThaT2pueUNKdWhRUVVyYS1XUTlrT0h3V2p5TXBYczVjWGZpXzRyOXpZN2pLRF9TZVZ2ZkwtSkxlMnJJdzlvTURVZkpKcmpiUmUwV2xOdXFrcTdxbUYyNGxrWkVreGk1R0lwV05fMWpDUS1iUUE2VQ?oc=5",
+      "source": "Eurasianet",
+      "published_iso": "2026-09-10T14:01:23Z"
     }
   ]
 }
