@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-13T14:51:05Z",
+  "updated_at": "2026-09-14T16:48:01Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Outcry in Armenia as Azerbaijan portrays Armenian heritage in Nagorno-Karabakh as Caucasian Albanian - oc-media.org",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM00wVDgwbXc2Vjhqa3drUXYySkQwQjY3WEdVXzRRLWVneTJvZlo3eW1vZy10c2EwdlZvZ1hQdm9UTjA0a25OcFdEdzA0anRmTkg2Vkxxb052TFEyQnpFSWdyel9zRndHZzdVQ2JzSHdjSjJ4bnY1dnVQekRrbXRtM1ZnZGFhMEx6REZ4SDdONjd0S2ZvcTY1Vk1NQjV0dEQ2a0ZtdHpuWHBrMzFlMWd6VzB6elNmdG5jS2psMTJkdw?oc=5",
+      "source": "oc-media.org",
+      "published_iso": "2026-09-14T12:38:37Z"
+    },
+    {
+      "title": "Peace Bridge Initiative Armenia voices concern over Azerbaijani official’s remarks at monasteries - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjcjhZVEliME90MThBeFU0RVdlY2lJc2dxLTlXNG8yQnU5cnJiR2s2dXhGVGQydjkydlRpMUMtOEdzOHhIc1RBWlZ3TGpZYWtsbVHSAVdBVV95cUxPbGxaSjhsUGRScFhub1cwbkRmMW95bmRvVDNMUm80YzNlc0VmUlU4M0h6NjIyN2ctY0JXMW9YdnNUalJjZDMzZjVQQk1YY3ZPZjlSWWtreFU?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-09-14T11:25:00Z"
+    },
+    {
+      "title": "Final stage and award ceremony of Tour of Armenia 2026 - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmWFdDV1IyOWtlS25YLVJ4N19GTHhWY1N1UDRqMUpmTm5JcjN3OEtyYzZVTzdUa2FZRWlnOHNuOVp1RUpHUjJDR0RYcFB4c2RGaGfSAVdBVV95cUxQNVpvU29OUU4tZWJjVXhDTzNYMVZnYWJKR19ZMEMzU3ZVYkowTm5ZRHFscHBGUGhDMnhqajFWa0owcWd1NlVYTDVGOXdVcm9lZE1KNjVkTnc?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-09-14T05:04:00Z"
+    },
+    {
+      "title": "Construction of TRIPP corridor in Armenia expected to start in 2027 - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQakV1WEY0dng3SkFFR2IyZVE1S3RZU2FXcDZ3VFlFQlNsX0xtOG0wZy1mS3pOVXlrZ0U4QlgyUlluei16SjRueXJhbTlxRzdDNk1Td09fWlRYTVVhQmZlUjQzMlB6cnNROXpIb1pmYUZ2V2xldGt5UTB4am5mMHRTcTFxRFV3YVJNVlpsWWNRU1hmdkJhaTZDQw?oc=5",
+      "source": "UA.NEWS",
+      "published_iso": "2026-09-13T17:13:29Z"
+    },
     {
       "title": "TRIPP Corridor Pushed to 2027 as Iran Warns American Personnel Would Be ‘Legitimate Targets’ - The Diplomatic Insight",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXlsSUZGc0hUZzhYd2tVRUx2MVJhd3JzQVlJbDNMTGlfUzQ3dlpCOGR6M3NwRkFndENaVWM0akZKZXZVZDNCQnRqdFRKZzVDT3J4anYweGhDZGhzcm1IUXF1X1lUR28zd1UwQm5IZkxHV1ZfRnBncUduRHc1cFkxLXRFbw?oc=5",
@@ -11,34 +35,10 @@
       "published_iso": "2026-09-12T07:44:30Z"
     },
     {
-      "title": "The Legitimacy Question: State and Society after Armenia’s 2026 Elections - geopolitika.no",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGJraGRrQ3Z0RERGSjZMX1hMdjhfYjB5U0NZckxhT1NIcmR3MDhDY2NJd01fYjVWNTFSY2ozMVhpYllpdUxJQUFZZTRxSmhfMjFwMmgzckZpZ0RBcHFfaGxrZHVzcFUtMzg0MjhGY1JYQ3JTMXRJNWxpZVRJbDdrQ2lqY3VLX3hsSjkwNmJxUy05ZkVoTWdyVGZoRQ?oc=5",
-      "source": "geopolitika.no",
-      "published_iso": "2026-09-11T15:53:56Z"
-    },
-    {
-      "title": "Armenia’s National Security and Foreign Policy: A Change of Course - russiancouncil.ru",
+      "title": "Armenia’s National Security and Foreign Policy: A Change of Course - Российский совет по международным делам",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRnF4amNCU1dJUFZWQTVROEZpZ3RZbVZBY2lvNXR3VEFZZFhoNDBtcEVCcjJSOUhON1lVZlVfWUpZUkxtTjZCV1B0aFFSLVZwd1FhWUdwUVNLMU1Oa3BMS3VXaWRvRTg4UkcxdTdGOGxnQlAzSzgtbkFfalZrM3FSZzRCS3ctNDIzR0tzcDVyY3FzT1BlU2RzRXdvYWpCdmZ4Tm4zbU1vLUQ1c0UwdUJuc2lWTnRKWVlTdmFpZ25KQVFIeEQ2U09F?oc=5",
-      "source": "russiancouncil.ru",
+      "source": "Российский совет по международным делам",
       "published_iso": "2026-09-11T11:20:34Z"
-    },
-    {
-      "title": "Pashinyan says Armenia plans to operate three satellites by 2031 - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUTBRUHN0d2I1b0RxRWs2Y1lCN3o2VElyV3R5M1R2RzR0Mlh1cWZnU0ZWLVNSS0RpU2N4M01CcnlVcFE2UDc2VUxfZFdxdlFKM2pNSXBiaERCQm1uYW5LZXhkZU9GeHZxYnlXNl96U09JT1JnSE0ybUl5YTFYTk1NTjN6WXJyYjQ0SHFmZVNiRQ?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-09-11T10:56:08Z"
-    },
-    {
-      "title": "US congressman says Armenia-Azerbaijan peace deal could be signed during Trump’s term - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlQV9JNkNPMG9XWVdJdTFWWEh3aVhpZHpoYk1ITlJCNXV2YnpYem1pdmRuUENLdWZ5TGxjTXZlQmFiaHQtNzR1UXJKTXhZeFhVQ1ZRQjZfaw?oc=5",
-      "source": "AzerNews",
-      "published_iso": "2026-09-11T07:01:00Z"
-    },
-    {
-      "title": "Start date for TRIPP trade corridor connecting Armenia and Azerbaijan pushed back - Eurasianet",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnBnWjByUDc0VVM4Z2d2Z2FpUGIyaFFRekNBckdCeDVzTS15SW5KZVNIMElGMHlVQThaT2pueUNKdWhRUVVyYS1XUTlrT0h3V2p5TXBYczVjWGZpXzRyOXpZN2pLRF9TZVZ2ZkwtSkxlMnJJdzlvTURVZkpKcmpiUmUwV2xOdXFrcTdxbUYyNGxrWkVreGk1R0lwV05fMWpDUS1iUUE2VQ?oc=5",
-      "source": "Eurasianet",
-      "published_iso": "2026-09-10T14:01:23Z"
     }
   ]
 }
