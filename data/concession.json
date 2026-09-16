@@ -1,42 +1,54 @@
 {
-  "updated_at": "2026-09-15T15:27:02Z",
+  "updated_at": "2026-09-16T15:19:15Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Aeroportos de Juína, Cáceres e Tangará da Serra são incluídos em leilão do terminal de Brasília - Única News",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHc1d3hiQ1JsclMwa0V0dkV5THBFM0YwUVdyWDltMFByOW5iTFp5RS11aHIycnRTRGF0Q1JaSlF3U290QTBWWDRXbEJWeVJaWkxveDE5TTJ4RkRQUGdFT1l2cXpHaVQwcU4tLThPVEtDZy1kc1pjaDJsM2VTa20zSUxEazRhY1c4UnlDand1b3hkVnNJOWFYZ3F0LVhaMEFOX21VeDRjUUwtenZRaVVFUTV5TC1VYWpQM3M2MXhqajk0UnRGbUR5LWFDYUNvVFl2QTFaTw?oc=5",
-        "source": "Única News",
-        "published_iso": "2026-09-14T20:29:00Z"
+        "title": "MATO GROSSO - Leilão inclui Tangará da Serra e outros dois aeroportos em bloco com terminal de Brasília - Diário da Serra Notícias",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jdkpZVFlCbTlkQ2l6ell1Y0N1NkxaTHNfT1pjWExpYkpiU2F6UmZnbzZiWF9TcWxmS2RCZFBrNTlXbnFYUW4zaEg4N04wXy1KbW1QV3JYY2Y3VWsyeVA0LTg0X3g?oc=5",
+        "source": "Diário da Serra Notícias",
+        "published_iso": "2026-09-15T13:29:52Z"
       },
       {
-        "title": "Três aeroportos de Mato Grosso serão incluídos na concessão de Brasília - Portal BE News",
+        "title": "Três aeroportos de Mato Grosso serão incluídos na concessão de Brasília - portalbenews.com.br",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmladmVnQzM0bl91YWd3dVJHUF9zc1VQeHJ3TGYtM1REc0ctMWhSaEY3NVY3dlh4VXF0aGtlTlBoXzROZ196MWhXT0NyVUtSc1BoYXNEV19WR2lZWUFiekk3c0NQMjZCcGdZa010MDc2b3EwcVdpMThjb0xVbWd6aE5md09JeFlzWVowMUZBR25mRjJISEFtcWUxcXMxNHViaGc?oc=5",
-        "source": "Portal BE News",
+        "source": "portalbenews.com.br",
         "published_iso": "2026-09-14T19:04:00Z"
       },
       {
-        "title": "Leilão do Aeroporto de Brasília inclui três terminais de MT - primeirapagina.com.br",
+        "title": "Leilão do Aeroporto de Brasília inclui três terminais de MT - Primeira Página",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNEZSbG91a2QtOGVFTk9CWF9mdXRtU0FOaVNpS0VDT0laYTlDWlYwa0ZHb1dKVWFRbUpYYU5RT3lpSWNyX0VlOWRMUHVZQUpYUXVSNk9scEdWS3VTYzE2dXZTeXNwWEFyNHQ1ZHRDVi1WajI0WWZ2OGxwMkJXRkYweU5sZHhZZGFtTlpoT3hDbXQzal9HV0xyUmpUai0zLW9TLTVha2V3cmJZOU5YWjcyckdPQzhILU9FUmNGOV83QTllMUZ6MzRuQkVWSkk3ZEJ6bWtVU1VfLTM3WmlXZzV4M2ZyOS1QbmZoT2hMQUVnUDJHZm9tWlpF?oc=5",
-        "source": "primeirapagina.com.br",
+        "source": "Primeira Página",
         "published_iso": "2026-09-14T13:02:13Z"
+      },
+      {
+        "title": "Leilão que inclui aeroporto deTrês Lagoas será em 17 de dezembro - RCN 67",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWw4YmVCUzNneXJEOWtIS3ZDWUc2b3ltWTFOUGRnektRSEt4dm90bzlWVUpUY3hOQjhWby1jN2prZzVkWFZ5SEVzcS1vYUpQenVUUmx1Zm1UZElielBqRTN6dlNFY3VwUUk2UUtzR1o1NXBZTlFxWlg2amwtZUxUOTQ2TTg3TEJ6cENWNmlTTmNUczVnNXRMUkZabGwxNzc3Yl9XZjNGWkg0ZHZKRFE?oc=5",
+        "source": "RCN 67",
+        "published_iso": "2026-09-13T19:36:00Z"
       },
       {
         "title": "Aeroporto de Dourados entra em concessão junto com Aeroporto de Brasília e pacote terá R$ 660 milhões em investimentos - AEROIN",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2VkVy1QdE9ibk9FUmFsX0tqYUE2ZGlNQ3VEZXRGUXdqNGw0UjNIeG5DaThHV1pBQU1GR2daVFZzanNVUV84WUlwbUZkNDByc2dxU2xua0lWU1M1RDNyNnhfUVI4akxzMTllelRucVU2RHhxQ2JCN0JJVWZtd1lUZUpQdmpqZVFjUzJUUE02UmlwTllqdTJDTEt5VmxkeUpnM2tQM1g2VW5uOEMtZHR6Y1FudDNCdlV4UUdZMEpjSk40NkoxbDVIbzEyT1hub2Q0cnl30gHTAUFVX3lxTE9fZWRXLVB0T2JuT0VSYWxfS2phQTZkaU1DdURldEZRd2o0bDRSM0h4bkNpOEdXWkFBTUZHZ1pUVnNqc1VRXzhZSXBtRmQ0MHJzZ3FTbG5rSVZTUzVEM3I2eF9RUjhqTHMxOWV6VG5xVTZEeHFDYkI3QklVZm13WVRlSlB2amplUWNTMlRQTTZSaXBOWWp1MkNMS3lWbGR5Smcza1AzWDZVbm44Qy1kdHpjUW50M0J2VXhRR1kwSmNKTjQ2SjFsNUhvMTJPWG5vZDRyeXc?oc=5",
         "source": "AEROIN",
         "published_iso": "2026-09-12T21:43:58Z"
-      },
-      {
-        "title": "Repactuação do Aeroporto de Brasília (DF) prevê novo terminal internacional - Panrotas",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3hnRWZkN0JhcWU2WTBZZVdXRlhCZ3YwMjdGZ0NYX1l2QTYwRW9BelMwQ2ZZMDIwV2ZGY0t5SXE4X01qTUxMQTJEOERMaUxneXNjb2ZkRVBuNk1kTEdTbVVVMWluWEc4MUpRYWFSUXdTeHJqMkdYcVloN1ZRREdNckRIR010dlpRTzZkS1V1X21uMFVwbTNnOElpc0VHcm1kM3k2eDljQmxIMkVHb1B6UGlUa2R0MjRibTZXcE8tVTZ6bDlWaVY3YkFuN2htdDdUbmN5a2pZZw?oc=5",
-        "source": "Panrotas",
-        "published_iso": "2026-09-11T13:04:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Gobierno y Eurnekian: la batalla secreta por los aeropuertos - LA17",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjk2TE9ZMkZOYVpyZTJET3d2MC14NHFPd1hFLVFJUzlYdmtLXy1zTWJKSGcweWJPS1N6bnpuUFpkR2poV1ljNk42RDh0cXNiTk5SVU9pbjBXcm1pQ1VDSWhhQXViRXBHNncwWjBXRlM5WDAtY3JUak5uT21MZ1RSNmxqQ0VITmFzZ05uWTBNVTRFZGl6UEZod2VRMDhfMkJBdExYbU1PdGxqbks2OWg4aU1UNWZOOC1hQjlpMTFn?oc=5",
+        "source": "LA17",
+        "published_iso": "2026-09-16T10:07:00Z"
+      },
+      {
+        "title": "Qué hay detrás del intento del Gobierno para prorrogar la concesión a Aeropuertos Argentina hasta 2066 - La Nota San Juan",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRU8zTGlWTTBlVy0xb3UwQVVhV0k3TlJpOVFLZFJ2TENoQU56VzR1OGhsUnBwY0ZoT2IxS0haS05rR0dzdDJNQmo0X0s0R0ROcGM3dGw4c0dNaVlNSG9lYWlYS0t0MS02eFl5RFB4cUFwdi1heFVzZWJVQ2JKM0pHcXNMOVp4am1qVHRJRWxOZElRSFVXNXFuOG1GenR3WWh3czhXMndQY0V2ZnREblY5ZDk3eEotWGVjYWpYa0ZIUjJHR0hmUmc?oc=5",
+        "source": "La Nota San Juan",
+        "published_iso": "2026-09-15T17:33:02Z"
+      },
       {
         "title": "Actas secretas: qué hay detrás del intento del Gobierno para prorrogar la concesión a Aeropuertos Argentina hasta 2066 - De la Tribuna TV",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSjczVFJxUG1ZNzBMS3hJZllackhlTVF1MXpTd0VxLWh6bDVpMGEzTExMMkxtX3N1OU1fM3BoVkt6NWJuTzJBc2Q1b3BBam9VWnRuREh5Uk42UzFoZXlpb3E3WFlxZjdpUGVEXzAyM3MzSXZUWXFUdDM0OUhDUlk1dEZiNEhUNGdLaVpTMWVEdVlPV2w5TFBVd0lLcjdGUmJ6Z29MYzNzZHdrNS00M1dLMTF0VkRLcDdNeEx0Z09UVTYwcVN3SmZ5STJLZUhqYVFSaVVNR0ZmdXV3VEtnc2F6V1JrRkZ3NkVJTlVIT3h0UzZ4LWJUdTExcDNvOGVZMkE5?oc=5",
@@ -50,22 +62,10 @@
         "published_iso": "2026-09-15T02:55:42Z"
       },
       {
-        "title": "Actas secretas: qué hay detrás del intento del Gobierno para prorrogar la concesión a Aeropuertos Argentina hasta 2066 - Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSW5nbVJXNHZua2lNUTNCNWlqNkVhTE84QzFTZ1BnTElRTEM0Sk5CelhlRWstRDhzUU5iSTl4T2E3dGZKa0pFeHZjcXhUdVV3MXJzS3FCS2FyenBEaEZOQ3NFVTNNT1RyNzVQS1ptbnBNb3hQTWxLZi1TaGx4amprcXlsYkJFQV9BSWJlSjRwVV9kVTJmVnVYTFhvYzhXSUFhLUdvR0ZNRXFQaGtoa2dwQ0NXbjZMZlR3NzRQYW9JdFNXZVdyNG5QanVHQUpvNVFoTzNINjYxOXI0aG13U3fSAeMBQVVfeXFMTWxHbkV0ZGI2bk9rYldxbl9CeksxcFpuNkdreXhxbHc1Ml9TWXl5TE03cmExVTdJREppbl9jVHhSRDFaNlIzbFhJZGlibEVzWWVMM2YwdF8wRmM5bGdtOTJhNFhXTG50SlU0ZUdQSXJ1RlpUemRRNnlCQVZjOER1emVSaWdaOG1PX1EzMWpLbkU1MHNEcks0Z1JMY0w5cERIQXdtT0VnNHVnR3pzOVF5Xzl1Qmw1TEs5N3lkaFlWOHVCYWJuOFR4RC1jQVlQb3JEbEdnWDhBdFhlVVpZYUt2MXdvWG8?oc=5",
-        "source": "Ambito",
-        "published_iso": "2026-09-14T21:47:00Z"
-      },
-      {
         "title": "Eduardo Eurnekian busca extender la concesión de los aeropuertos hasta 2066 - Ambito",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2x4MFBkQ2luRnVmeU1aekxTU3FKNXZDSmpWa3ZsektBZHFKUzhnaGs4ZGNJS0dReXd2b2ktSkRoQVU1NXpLTHpDbFRDelRlM3gzV0tZYXJOekdGRGljRXBZaUhLSF9ONE9FXzdxS09nd3BLeDFlemdBMnNSSW5GdEVkbEQzekw5NlFhQ1JrX01ETEVycTZoUEpBMGNSSXR4T0h3enpMRUpnblHSAbABQVVfeXFMT01XWHBDNHVUckxmanBUSmlCeDFoR20wcWlXNHRXSkk3YkpLOGQxNXVqRjNadHlCOGlGRURmcHlmVzFldzVJOUpBWmw3djdfRi1jcWtJdFNMazZjX2hpLXpkcDNpVUhKZ3p2VTJEUlFVcEdfTTBuaXdBVnR5MXRoQjdLWXRha21yZFNuNV9UYWoxWF8xRHB1aHVuWG5fYVk1NF9oOE90c1h6SkZZYnhsTjg?oc=5",
         "source": "Ambito",
         "published_iso": "2026-09-14T21:29:00Z"
-      },
-      {
-        "title": "El patrón de los cielos: Eduardo Eurnekian quiere extender su monopolio en los aeropuertos hasta 2066 - C5N",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV0xnbmRPR0R6cXY2NmdObFI1T1N3WFZCNzM0SExPanEza0RuOS1wbFBDZE9hMTAzRzBwMkMxa2JkRXY4MVRmaC1JbmZHMzlXbnZZcG5nZGNhVDF4d0VEQWtEZ0VybzRjWFNPLXY3Z2x4WTd5M0VJVFp4TVNSRHo2NjhpS3l0SDBSTzFwT1NId01XYnVQNnRHdm9WeHRBdml0TFVvQUtVOGdKdjgwdEktOTl4NktQMjhDTHFTeHhRS3FlTVHSAcgBQVVfeXFMUHlybTRtZXB4Rzd2NzFGeG8wSHlQcmpCbU9xTWZPNTVURVo3WnpYdFdMeG9jSHZtZ2xMVU5CcE1CcndHbGVTVldha1B4bU50d2lReUo3bFhndjJQbl9FQXJGYjNvNVh2bXpDRGVCcDg1LTJVS2JjN1ZYMFp3RXNhU2czWE1KZGw3cmF2cGRLQjVwSkVpbHVNeVB6ZFBwd0JpLXRmUlB2cDZWWkhucE5rU09uUjJzQV9VQjFYRTFOZnhZdDN5UkdxRWQ?oc=5",
-        "source": "C5N",
-        "published_iso": "2026-09-14T21:20:00Z"
       }
     ]
   }
