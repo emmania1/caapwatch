@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-16T15:19:35Z",
+  "updated_at": "2026-09-17T15:26:02Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Trump meets with Armenian clergy at the White House - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aSHllX3VJSWdkMVYyUzdzQmpwN1A0MURTSmh0YmM5aTV4VmxBaDFNSjVlVG9yUWhvREppb1FxZ01jSk9MSjhmcl94Q2pPNkJPeGhwQVNyYzBNUENWajBMbDJYQXBPNXNyMDRMWkthV0t2NS1tYW1QOUNTTmpHZw?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-09-17T08:15:30Z"
+    },
+    {
+      "title": "Armenian PM says peace talks with Azerbaijan succeeded after moving away from “ping-pong” of reciprocity - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HbldaS1lkVmxXRTV6cGRuaGZqenYxeW5IRG1LNndTY3UwaW03MEhoc1VETXVoQXJIdmdoUGQ3TlRkVmVRVWRXTDBfNllmdVdTeXfSAVdBVV95cUxON2k4ZnFVcndPRlNlcTBqbl9CendHa0VHbVpNeFZDOHI3MzJ4WlNib0JYamJoV0ctajBLbkVEcnRQQ0JLcHBGdkk3WmpLYlJZbGcwTU1RY28?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-09-17T07:54:00Z"
+    },
+    {
+      "title": "Pashinyan opens up on choice that unlocked Armenia-Azerbaijan peace talks - caliber.az",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFBPMkdjWjh1ZWZXbElLWHdIY0FxZ21JeC1wR0ZwNVVLT1IyWVBhN3RsRmlNN0lBYkgwYzBkWVBJRFVKbzBRSlB5azB3aVBBQ0xuWFR6Q0l4VnRidFBLcFhTdFlQb0FETVlFcjRrZ2wxcHBSUFVUMG5zMXlPLXRjQTV3eU9wZU5lNG9naTUxdmdNWVBFdE5ORUtUZEZrLWJ2TGFZ?oc=5",
+      "source": "caliber.az",
+      "published_iso": "2026-09-17T07:21:55Z"
+    },
+    {
+      "title": "Armenian Court OKs ‘Trump Route’ Deal - Ազատություն Ռադիոկայան",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wWHI0Q094d0Zra2pMSGhCa2txM3NOWGstWC1xcGFGckhEYVdXUkRPaUpmZ243VXJlV3A5SWNUVjhaaXEtTUwzUUhrWDFLM1pTUXfSAVRBVV95cUxOYkxtWEE3UEEwbjE0V3E0SmgxMHRHRTlvaVJ5T1B0OW5UZmxkNXlYWmhVQ2JOeUNJMHY3SHV0OHg2cjdYaEdFbkpkcnprek0zT21hQS0?oc=5",
+      "source": "Ազատություն Ռադիոկայան",
+      "published_iso": "2026-09-16T10:50:43Z"
+    },
     {
       "title": "The Constitutional Court of Armenia approved the agreement on TRIPP - Caucasian Knot",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xZGpHeC1JSzV6NnMyRWd0SzVhTjk5VXhNbXdlNzVaVGhGV3BqNWhpMF9pazJNaUtkOFJmTEs5ZkFheFZJcDgwQ2JaYmd1YjhVal9VckNicTI?oc=5",
@@ -11,34 +35,10 @@
       "published_iso": "2026-09-16T10:47:00Z"
     },
     {
-      "title": "Azerbaijani President Aliyev brands European Parliament ‘a den of corrupt officials’ - Brussels Signal",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX01NSjRxNUl1dHFZc0FCdk5OYmk4dG1DTUFIVXVfVTExTXRreS1SelMzOFc1eUMybFB0ZU9STEJUZW02c2dUUlJNLTJ3WWtTNk9rOUtZZEkyVGwzNURiOFVJamNrNkFIODNIdm9aWGU4LVNWVy1OejI5bGJ4amZkUXF2RndONmdvTlJTZkJoeHV4d1dTd1NhLWJES2habVdGWkNSVFNFeXN3enptOEYtTGtGZUlsa2hn?oc=5",
-      "source": "Brussels Signal",
-      "published_iso": "2026-09-16T09:27:35Z"
-    },
-    {
-      "title": "Zangezur corridor considered in accordance with the Armenian Constitution - Modern.az",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUJjTEtMc0xXd3JYSkZIS2ZPb09CVE50Vmllb2JuellieVNoVW1oX09za1piUDE1WWNqbGlBbk9JcGJQS2ZhMG83OU80M3R5cV9TcTdieThSbzRHYlQxVXRoSy14b0NweWtCX3NhbUdVYzc1czU4a3NqZVRseW5qdnpwU2xQVWs4N21wX2duU3RvNDlZd0hIMWE5M24tOHp4R3VkajlKaVRzZXREVVE?oc=5",
-      "source": "Modern.az",
-      "published_iso": "2026-09-16T09:27:00Z"
-    },
-    {
-      "title": "Russia turns off gas taps to Armenia - Eurasianet",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41TG4xdTVnTVFoOUtoODFHcU9FaWtWYk92NXhsTzRqcUlHLTBhTlFlNC1xVm00V0dxWE5VNXdHX0txV2F1NldJUjJWNGhQem1uemhCSE5FU2hWUmJXaXZlZW5GWkxUVXhpTmlz?oc=5",
-      "source": "Eurasianet",
-      "published_iso": "2026-09-15T18:44:03Z"
-    },
-    {
-      "title": "Armenia’s New Five-Year Program Vindicates Peace Framework With Azerbaijan - jamestown.substack.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oT3hkQnVXdVFqM1haTXhleXZ5eVZmei1lcHVQNm1mNGpHaE1vX3NrRkJwejViM3F0OTFMN1FkRU5XVU9lemY5RWEyZ2o4UjJsOUxNZWdCRTVqelZSY0F6U1g5NWh5Q0JMU2RNUjRaVGx5MTlpOFBJNUwza2pmc0E?oc=5",
-      "source": "jamestown.substack.com",
-      "published_iso": "2026-09-14T22:01:46Z"
-    },
-    {
-      "title": "Armenia’s New Five-Year Program Vindicates Peace Framework With Azerbaijan - The Jamestown Foundation",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGhUWS1GekxHcHFrZGZTZnNLQjdvWTJwR1dZS0JCWGlndUNzQ3BXSVp5NnF0T29YSVBXUEdhVjZDcFl1TWdvRlBJNE55cTNKYmtlNUhmZDA3UGdUb0FFVlo3TW9ybkZpY0dYYnpfdFltZFlORmxLeDhXNEFkUl81TkdSUUpzc2Z4RlFldzcyV3UwQXRRVUlvcmY0OFE?oc=5",
-      "source": "The Jamestown Foundation",
-      "published_iso": "2026-09-14T19:55:29Z"
+      "title": "With Putin overextended in Ukraine, Armenia is turning away from Russia - Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9lY1ZxVXk0NzlaX3dPOVAweEMtd2NBcTdXQ3BEb2hQSUlnWldJdGwta05yWE5WQU5USks4dnV4eUNGRG42VnNZa1BXZ25FRmhON2lZb0xOUXpYZzdBNzZNQ1hBaHJycUNhOF9TUVl2T1p0WXhNQjd0WUFoSm5ScEs5bXNKWmJVMmJGSjFCckJ2LWY2eWREOVJrWFd0cENSbzRBbDFzQVk2YXVHc0kwUFBoYVJxSzRTNnNvYXJoOA?oc=5",
+      "source": "Atlantic Council",
+      "published_iso": "2026-09-15T20:44:00Z"
     }
   ]
 }

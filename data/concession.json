@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T15:19:15Z",
+  "updated_at": "2026-09-17T15:25:41Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -12,9 +12,15 @@
         "published_iso": "2026-09-15T13:29:52Z"
       },
       {
-        "title": "Três aeroportos de Mato Grosso serão incluídos na concessão de Brasília - portalbenews.com.br",
+        "title": "Aeroportos de Juína, Cáceres e Tangará da Serra são incluídos em leilão do terminal de Brasília - Única News",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHc1d3hiQ1JsclMwa0V0dkV5THBFM0YwUVdyWDltMFByOW5iTFp5RS11aHIycnRTRGF0Q1JaSlF3U290QTBWWDRXbEJWeVJaWkxveDE5TTJ4RkRQUGdFT1l2cXpHaVQwcU4tLThPVEtDZy1kc1pjaDJsM2VTa20zSUxEazRhY1c4UnlDand1b3hkVnNJOWFYZ3F0LVhaMEFOX21VeDRjUUwtenZRaVVFUTV5TC1VYWpQM3M2MXhqajk0UnRGbUR5LWFDYUNvVFl2QTFaTw?oc=5",
+        "source": "Única News",
+        "published_iso": "2026-09-14T20:29:00Z"
+      },
+      {
+        "title": "Três aeroportos de Mato Grosso serão incluídos na concessão de Brasília - Portal BE News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmladmVnQzM0bl91YWd3dVJHUF9zc1VQeHJ3TGYtM1REc0ctMWhSaEY3NVY3dlh4VXF0aGtlTlBoXzROZ196MWhXT0NyVUtSc1BoYXNEV19WR2lZWUFiekk3c0NQMjZCcGdZa010MDc2b3EwcVdpMThjb0xVbWd6aE5md09JeFlzWVowMUZBR25mRjJISEFtcWUxcXMxNHViaGc?oc=5",
-        "source": "portalbenews.com.br",
+        "source": "Portal BE News",
         "published_iso": "2026-09-14T19:04:00Z"
       },
       {
@@ -28,15 +34,15 @@
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWw4YmVCUzNneXJEOWtIS3ZDWUc2b3ltWTFOUGRnektRSEt4dm90bzlWVUpUY3hOQjhWby1jN2prZzVkWFZ5SEVzcS1vYUpQenVUUmx1Zm1UZElielBqRTN6dlNFY3VwUUk2UUtzR1o1NXBZTlFxWlg2amwtZUxUOTQ2TTg3TEJ6cENWNmlTTmNUczVnNXRMUkZabGwxNzc3Yl9XZjNGWkg0ZHZKRFE?oc=5",
         "source": "RCN 67",
         "published_iso": "2026-09-13T19:36:00Z"
-      },
-      {
-        "title": "Aeroporto de Dourados entra em concessão junto com Aeroporto de Brasília e pacote terá R$ 660 milhões em investimentos - AEROIN",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2VkVy1QdE9ibk9FUmFsX0tqYUE2ZGlNQ3VEZXRGUXdqNGw0UjNIeG5DaThHV1pBQU1GR2daVFZzanNVUV84WUlwbUZkNDByc2dxU2xua0lWU1M1RDNyNnhfUVI4akxzMTllelRucVU2RHhxQ2JCN0JJVWZtd1lUZUpQdmpqZVFjUzJUUE02UmlwTllqdTJDTEt5VmxkeUpnM2tQM1g2VW5uOEMtZHR6Y1FudDNCdlV4UUdZMEpjSk40NkoxbDVIbzEyT1hub2Q0cnl30gHTAUFVX3lxTE9fZWRXLVB0T2JuT0VSYWxfS2phQTZkaU1DdURldEZRd2o0bDRSM0h4bkNpOEdXWkFBTUZHZ1pUVnNqc1VRXzhZSXBtRmQ0MHJzZ3FTbG5rSVZTUzVEM3I2eF9RUjhqTHMxOWV6VG5xVTZEeHFDYkI3QklVZm13WVRlSlB2amplUWNTMlRQTTZSaXBOWWp1MkNMS3lWbGR5Smcza1AzWDZVbm44Qy1kdHpjUW50M0J2VXhRR1kwSmNKTjQ2SjFsNUhvMTJPWG5vZDRyeXc?oc=5",
-        "source": "AEROIN",
-        "published_iso": "2026-09-12T21:43:58Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "La AGN detecta irregularidades y peligra la prórroga de Aeropuertos Argentina: el contrato debe vencer en 2028 - Ambito",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS3BIak9FeDRPcTktQ1RUYXdrOGRSZmZOYkNWVUkyLWU5azhETlBwMVJBenNwcWNucnVOY18xVVhfaUNsRGRwamxPa2M0OVY1UmhiWFo3ZTlNdmItV0xINHNUOGFGaGp2cW9pcGZnQUpFQVpNb05Ma0pYTk5FTS1lNC1DdTRLOE4xV2I3QWp1bGZTOFFaekxBX3BHVXdrNmhkY3BPNzlWdEFoSjFjRmlQU0xQcGxBMUhJZXJGVUgxNEd6a3Yzam5iOUtsZzVlRlhxREV3aGF3aTZaUlQ40gHiAUFVX3lxTFB0R0J3RUFOSlZVUnFsLXIxSTZqYi0yaWJPN2NlYm45LVZWWU9PNEkyanZqNk5ZajlPT0xuS1E1djFlclZUUVFZdDZxSnctUkY5a2M5cXloaEpyaEFFNDdmQ2ZmV0xHa094RXB1SWxtSDZUTkY2ajVWUWw1aVQ1ZDhuRVBFcDhrQld0RFlUR2k4eWRSY2NtU1kwZ1llX1hNTVR4b0UxNWh0dVcydlRSNElTcTVhcERQRDdNelBmbTdtM2Z2bExjQUl1TlZVOHFhWEJyaDE2eERwWXltd0JkSHBJenc?oc=5",
+        "source": "Ambito",
+        "published_iso": "2026-09-17T11:20:00Z"
+      },
       {
         "title": "Gobierno y Eurnekian: la batalla secreta por los aeropuertos - LA17",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQjk2TE9ZMkZOYVpyZTJET3d2MC14NHFPd1hFLVFJUzlYdmtLXy1zTWJKSGcweWJPS1N6bnpuUFpkR2poV1ljNk42RDh0cXNiTk5SVU9pbjBXcm1pQ1VDSWhhQXViRXBHNncwWjBXRlM5WDAtY3JUak5uT21MZ1RSNmxqQ0VITmFzZ05uWTBNVTRFZGl6UEZod2VRMDhfMkJBdExYbU1PdGxqbks2OWg4aU1UNWZOOC1hQjlpMTFn?oc=5",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQmg0ZWxZQXAwVElwQjdTTUlPZmRjeWt1OVFJWjM2Rnk5YU9ROWRBY2dnYkZZWHVVVS0zV2hKVlo0UGxhZzFpTWYxLXdxSnYxUTRGZ0dETnljbzlsME5iYTY3a1p5LTlnUTZfaXpSaEN3Y3Z2QU5PTk83QU9IaXEteXJkUUwxcDZ5X0ZCRklBc1BHdUVuVEJodU4xQldrdjdTM09kOFpNRWNHTHFhdE1MbnRSaldYTDQ3ei13NFlkUkJfQkp2X3hESFoweGNnQXphSm1TZjhzb1A0N0h2QVdqTUpuU1Rkc29rUXpjdA?oc=5",
         "source": "» Cholila Online",
         "published_iso": "2026-09-15T02:55:42Z"
-      },
-      {
-        "title": "Eduardo Eurnekian busca extender la concesión de los aeropuertos hasta 2066 - Ambito",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2x4MFBkQ2luRnVmeU1aekxTU3FKNXZDSmpWa3ZsektBZHFKUzhnaGs4ZGNJS0dReXd2b2ktSkRoQVU1NXpLTHpDbFRDelRlM3gzV0tZYXJOekdGRGljRXBZaUhLSF9ONE9FXzdxS09nd3BLeDFlemdBMnNSSW5GdEVkbEQzekw5NlFhQ1JrX01ETEVycTZoUEpBMGNSSXR4T0h3enpMRUpnblHSAbABQVVfeXFMT01XWHBDNHVUckxmanBUSmlCeDFoR20wcWlXNHRXSkk3YkpLOGQxNXVqRjNadHlCOGlGRURmcHlmVzFldzVJOUpBWmw3djdfRi1jcWtJdFNMazZjX2hpLXpkcDNpVUhKZ3p2VTJEUlFVcEdfTTBuaXdBVnR5MXRoQjdLWXRha21yZFNuNV9UYWoxWF8xRHB1aHVuWG5fYVk1NF9oOE90c1h6SkZZYnhsTjg?oc=5",
-        "source": "Ambito",
-        "published_iso": "2026-09-14T21:29:00Z"
       }
     ]
   }
