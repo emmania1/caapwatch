@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-19T14:10:01Z",
+  "updated_at": "2026-09-20T14:29:10Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
+        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
+        "source": "Consultor Jurídico",
+        "published_iso": "2026-09-19T18:21:55Z"
+      },
+      {
+        "title": "Anac publica edital para leilão do Aeroporto de Brasília, marcado para 17 de dezembro - jornalpanoramaminas.com.br",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQjI0bTNORkN6bTN3V3VpQ3VJeEtZSExfakZBdW1fT19VaVVscEsxa0tZc2VJUjhZQ280ZHpiZk5sX0FKSTE5TDZrME9lQi1NanBKcFlHNlZFT2VRY0J2SnB4MzFJSVNPakxqeDA4QTlPZVlGaVZ3ZGpwT0dfV192TmFUTUdpYVdaNkNVUEUtRU1CR0RxSkZtV2NYczdTb2N2a3ZDNW1OaXgzMGRXZnhiZWVpZVdRaWx6UnRvMw?oc=5",
+        "source": "jornalpanoramaminas.com.br",
+        "published_iso": "2026-09-19T17:14:51Z"
+      },
+      {
         "title": "MATO GROSSO - Leilão inclui Tangará da Serra e outros dois aeroportos em bloco com terminal de Brasília - Diário da Serra Notícias",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jdkpZVFlCbTlkQ2l6ell1Y0N1NkxaTHNfT1pjWExpYkpiU2F6UmZnbzZiWF9TcWxmS2RCZFBrNTlXbnFYUW4zaEg4N04wXy1KbW1QV3JYY2Y3VWsyeVA0LTg0X3g?oc=5",
         "source": "Diário da Serra Notícias",
         "published_iso": "2026-09-15T13:29:52Z"
-      },
-      {
-        "title": "Aeroportos de Juína, Cáceres e Tangará da Serra são incluídos em leilão do terminal de Brasília - Única News",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHc1d3hiQ1JsclMwa0V0dkV5THBFM0YwUVdyWDltMFByOW5iTFp5RS11aHIycnRTRGF0Q1JaSlF3U290QTBWWDRXbEJWeVJaWkxveDE5TTJ4RkRQUGdFT1l2cXpHaVQwcU4tLThPVEtDZy1kc1pjaDJsM2VTa20zSUxEazRhY1c4UnlDand1b3hkVnNJOWFYZ3F0LVhaMEFOX21VeDRjUUwtenZRaVVFUTV5TC1VYWpQM3M2MXhqajk0UnRGbUR5LWFDYUNvVFl2QTFaTw?oc=5",
-        "source": "Única News",
-        "published_iso": "2026-09-14T20:29:00Z"
       },
       {
         "title": "Três aeroportos de Mato Grosso serão incluídos na concessão de Brasília - Portal BE News",
@@ -28,19 +34,19 @@
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNEZSbG91a2QtOGVFTk9CWF9mdXRtU0FOaVNpS0VDT0laYTlDWlYwa0ZHb1dKVWFRbUpYYU5RT3lpSWNyX0VlOWRMUHVZQUpYUXVSNk9scEdWS3VTYzE2dXZTeXNwWEFyNHQ1ZHRDVi1WajI0WWZ2OGxwMkJXRkYweU5sZHhZZGFtTlpoT3hDbXQzal9HV0xyUmpUai0zLW9TLTVha2V3cmJZOU5YWjcyckdPQzhILU9FUmNGOV83QTllMUZ6MzRuQkVWSkk3ZEJ6bWtVU1VfLTM3WmlXZzV4M2ZyOS1QbmZoT2hMQUVnUDJHZm9tWlpF?oc=5",
         "source": "Primeira Página",
         "published_iso": "2026-09-14T13:02:13Z"
-      },
-      {
-        "title": "Leilão que inclui aeroporto deTrês Lagoas será em 17 de dezembro - RCN 67",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWw4YmVCUzNneXJEOWtIS3ZDWUc2b3ltWTFOUGRnektRSEt4dm90bzlWVUpUY3hOQjhWby1jN2prZzVkWFZ5SEVzcS1vYUpQenVUUmx1Zm1UZElielBqRTN6dlNFY3VwUUk2UUtzR1o1NXBZTlFxWlg2amwtZUxUOTQ2TTg3TEJ6cENWNmlTTmNUczVnNXRMUkZabGwxNzc3Yl9XZjNGWkg0ZHZKRFE?oc=5",
-        "source": "RCN 67",
-        "published_iso": "2026-09-13T19:36:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "La Auditoría General de la Nación detectó irregularidades y peligra la prórroga de Aeropuertos Argentina: el contrato debe vencer en 2028 - radioytelevisionriojana.com.ar",
+        "title": "Aeropuertos Argentina: la AGN cuestionó la prórroga y pone bajo la lupa una nueva extensión - Aries On Line",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTJnVkRsa1B6cGstLV9pUXZ3YnU4MDJfenhDNE41b2xFSDBKbnR4cXlIWnFwNFRDZlgwWEMxY3lMTWpRZ04tVG83eFBFQm5qdW5qOTNpUVRUWmRtLTdSdkhwZlpvT1M1Zld2b3FsU0lWcm5RRWR6WXdIeTRLR3ZBWHZ1WnA2LUVsQXFxbXcwdG83bFVWd2F4UXFxU3FiMkEwb2k3TFJZbVJodFUxYlBPSUgzNExqak9IcG5GdmZaVWlMQdIBugFBVV95cUxNVWUxMkw1RW1nQmpVZ3ZvMGVCZGtrb3cyR3hFa1BISllGSGtZOTRyVUV3aE9ZTjNXR0xLbmhRbjgxdm9veWVKQkFSRU4zMU15UlNNMTRNOHo1dWhZWGFvTWowS0cwd1Zqa2xRMEpfWnVGNzJGemh5cEdBS19yNlQ2RlRuWnRSX280dFVza1RyQTVqZlM1TFFwNXYybEFTcEtiOVE0NkhWWXkyYmtfbl9lYnlXdi1keWdvWXc?oc=5",
+        "source": "Aries On Line",
+        "published_iso": "2026-09-19T13:38:00Z"
+      },
+      {
+        "title": "La Auditoría General de la Nación detectó irregularidades y peligra la prórroga de Aeropuertos Argentina: el contrato debe vencer en 2028 - Radio y Televisión Riojana",
         "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPcEtpZWNQN1ZXRXRZaUNMTjF0QjYxdWZ4LTdSb0ZLU01zbUozemJPaE9GTVhEV0hDd21PX0RwaEFwU0kxLUxZNW5URmgxNWlGbF9RUE1xbFJwbUhhQ0tRdGRtSkZSc1RwcnNVVVY1a1lCX2phMUhOOTNJT2Zfam5pWkxtazRzeTlKeW03UjZkRzZOdFlPVUNpalZGSFhOdnV6SU9xUjVpdkhUblM2X054RnVhXzEwcFpodnZLRXlHb1A2ZzFtd0NWU0JQa0p4c0R0ZGxvSG1aZy0ta2xyUkp1TF9ZemFDVUFPZ1hJc1o4eGlHLTgybXFoYXJqdC1HT2NqdEl5NTBhVFE0N0t6RTBLelJFYWJQUmM?oc=5",
-        "source": "radioytelevisionriojana.com.ar",
+        "source": "Radio y Televisión Riojana",
         "published_iso": "2026-09-18T06:38:10Z"
       },
       {
@@ -56,16 +62,10 @@
         "published_iso": "2026-09-17T23:26:00Z"
       },
       {
-        "title": "Informe lapidario de AGN pone en riesgo la prórroga eterna de Aeropuertos Argentina y desnuda apuro oficial - Minutouno",
+        "title": "Informe lapidario de AGN pone en riesgo la prórroga eterna de Aeropuertos Argentina y desnuda apuro oficial - MinutoUno",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaVVPNWlNY01NMDlyNE9zcTFQRTVaNUxIbVN6di1tYWxJYVo3RmJQeUxCcDNQWThzVVgzNkVlWGQxc0UxbXk0Y0R5U1ZxYUZhcDZycnhGazBQSHhaNXpwTS04UUNhWkdQSTV4Y2QyS2poYkpXSlZpZ1I3U0VHRnl6N01sM24yRjUyUTd4dnlEcVlxNHJwRU1GbXVyWnd3LXk5Mlg4ZEc5WTIwQlR3VC1wT1VNX01lUkZ2ekNsMldsbk9TdmRDa1d3NU9zbTBMbTBOS2N4cHprRzduUdIB2gFBVV95cUxNaVVPNWlNY01NMDlyNE9zcTFQRTVaNUxIbVN6di1tYWxJYVo3RmJQeUxCcDNQWThzVVgzNkVlWGQxc0UxbXk0Y0R5U1ZxYUZhcDZycnhGazBQSHhaNXpwTS04UUNhWkdQSTV4Y2QyS2poYkpXSlZpZ1I3U0VHRnl6N01sM24yRjUyUTd4dnlEcVlxNHJwRU1GbXVyWnd3LXk5Mlg4ZEc5WTIwQlR3VC1wT1VNX01lUkZ2ekNsMldsbk9TdmRDa1d3NU9zbTBMbTBOS2N4cHprRzduUQ?oc=5",
-        "source": "Minutouno",
+        "source": "MinutoUno",
         "published_iso": "2026-09-17T23:00:00Z"
-      },
-      {
-        "title": "Duro informe de la AGN contra la prórroga exprés a Aeropuertos Argentina - puntobiz.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXlBc1ZZVUdYcXB6cmk5UHpJd2k3U3duUmZiQjNnVzFtRDhsTV9TcjU0VENwalVNM2xXeUd2MXFKbVlHMk45azQxYzQ4cHVhT3h6d0xUYkdTX24wMl9hal9nY1p6cXczR2pLTkx3NTRLVnZNdnhjMmExSEV6TVNzcTNlTzUyY0hLUGdSX2VGR3kzekYySm04SmswREc5ZHRObS1wcENvb3NqU3hXaHpaRXl1NVE?oc=5",
-        "source": "puntobiz.com.ar",
-        "published_iso": "2026-09-17T17:22:00Z"
       }
     ]
   }

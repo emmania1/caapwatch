@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-09-19T14:10:21Z",
+  "updated_at": "2026-09-20T14:29:30Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Pashinyan receives Hessian Peace Prize, says peoples of Armenia and Azerbaijan have embraced and defended peace - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWtjTUZWd2RjLWp2dWRuU2VCS0gxWFFlSXlYaGJYZWlxQU1zOXFSM01lVWNNU1dyNHl6Y2VidzZtUnZqc1puWng1T3pNSTBvNXJzY1dEd0djMWdrcDJ0YXBob3IxTnJaUnZGdGxYVDFNdlVnZG5pYlNmNmJpUkN5bg?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-09-18T18:53:13Z"
+      "title": "Azerbaijan’s sovereignty and long shadow of Armenian revanchism [ANALYSIS] - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yb0xfWmtTd0IyOFl2RkhpVkdsSXNkQWlWbV9OVkRKWDhBLWxKb3BBbWJkN2ROcDlEdUlOMDFuWmpiSDlpaXVlS2trb0U1bUpxXzR3V2Vqdw?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-09-20T04:30:00Z"
     },
     {
-      "title": "Peoples of Armenia and Azerbaijan have realised they cannot change the past, but can change the present and future – Pashinyan - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OaHFFUzl0aUZyazhMb2dWb0pLS1VzclFIN1RuUkk3Uk9ZZnQxT3BWbUJ4VmJxZ19IaWp0YmkxZ1ZiS0tQVlF5dmEwN29BaFZmRXfSAVdBVV95cUxOUkNrWnIyVW1qN2ljMVh5SmNqZDF0YWxNSllXN3BuWXlHQkJzNUM0QTRrTkJrUGlaam1ndnp5YjREc05jUW43aFRmZ3p1NXVKdEdnX3BGMFE?oc=5",
+      "title": "“Even if a peace treaty is signed…” — Who will erase the image of the enemy from people’s minds? - todaypress.tv",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1M5UUh6ZzNFR3d3a1hHUFVXaDVDTWQwUW9BckZhOWtVMngwQWJYOTVPRVBlQ1lWVV9zUnJNUDIxM1ZXUUdyNlk3b1g0c2NGUFNtWktQQXJKWWlMS3FKa3V6VDBXd0tyRWxpS0hTWHFpb2N1bGtQU1FtREEtSW9NN1FiREwwU1dyMURXQWZNN2FaU0ZmRUVHckpydTNMU0ZKRUUtX1BaUUg?oc=5",
+      "source": "todaypress.tv",
+      "published_iso": "2026-09-19T17:05:43Z"
+    },
+    {
+      "title": "Initialing of peace agreement between Armenia and Azerbaijan is on list of Trump's 25 major achievements - 1Lurer",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQN3l6T1E2dmpWNkxrNExWWXVLU0pYVzRrZDZDdHFxZ0RCN0hIVEpycjU5WUNkWXh1ZkM5WVlVQlZDb1J1Y3VodXdSak1EcVlMOHJmd3BUT3hvdXU1TGh5cXA1SFozME5nWXFDS0J4SmZYel9rdWZmb0F2bG90bGxYMWFyR19xU2xJZmxvRmNYMms0azk2NFJyTnZlVDBSQ0t2Sjh3MnFUQ2hvLWkyMjVERGZPYkVjcUZ5OExQZzdiWmQ3M0Z1Rmk3QV9BUGZqTlNYV09EN2FXVTgyQTQ?oc=5",
+      "source": "1Lurer",
+      "published_iso": "2026-09-19T12:54:19Z"
+    },
+    {
+      "title": "CEC chairman denies claims that election results counting was halted - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RMFN0YndLb0I5clg1QkQ2QkZNYXU3eHRsM3RubGtVVkN5bmY1SUExem0wRmpWV0R3Ykh3Q2FCdVJMN1ZzelNxLVFPWDc1UktxYXfSAVdBVV95cUxNRW1pcTF3VzNZdHYyeWZqbDRNbUNHVWlwT3JIc3MxRGdmaWZjRktYZ3pKWWM2b0pMZjRuX3hvb214cUxfRDEwRlcxQmNjLWhFQUVlU1RyVms?oc=5",
       "source": "Armenpress",
-      "published_iso": "2026-09-18T15:45:00Z"
+      "published_iso": "2026-09-18T10:43:00Z"
     },
     {
       "title": "Iranian envoy says ‘Zangezur corridor’ not under discussion (PAN.am) - PanARMENIAN Network",
@@ -27,18 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aSHllX3VJSWdkMVYyUzdzQmpwN1A0MURTSmh0YmM5aTV4VmxBaDFNSjVlVG9yUWhvREppb1FxZ01jSk9MSjhmcl94Q2pPNkJPeGhwQVNyYzBNUENWajBMbDJYQXBPNXNyMDRMWkthV0t2NS1tYW1QOUNTTmpHZw?oc=5",
       "source": "OC Media",
       "published_iso": "2026-09-17T08:15:30Z"
-    },
-    {
-      "title": "The Constitutional Court of Armenia approved the agreement on TRIPP - Caucasian Knot",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xZGpHeC1JSzV6NnMyRWd0SzVhTjk5VXhNbXdlNzVaVGhGV3BqNWhpMF9pazJNaUtkOFJmTEs5ZkFheFZJcDgwQ2JaYmd1YjhVal9VckNicTI?oc=5",
-      "source": "Caucasian Knot",
-      "published_iso": "2026-09-16T10:47:00Z"
-    },
-    {
-      "title": "With Putin overextended in Ukraine, Armenia is turning away from Russia - Atlantic Council",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQl9lY1ZxVXk0NzlaX3dPOVAweEMtd2NBcTdXQ3BEb2hQSUlnWldJdGwta05yWE5WQU5USks4dnV4eUNGRG42VnNZa1BXZ25FRmhON2lZb0xOUXpYZzdBNzZNQ1hBaHJycUNhOF9TUVl2T1p0WXhNQjd0WUFoSm5ScEs5bXNKWmJVMmJGSjFCckJ2LWY2eWREOVJrWFd0cENSbzRBbDFzQVk2YXVHc0kwUFBoYVJxSzRTNnNvYXJoOA?oc=5",
-      "source": "Atlantic Council",
-      "published_iso": "2026-09-15T20:46:49Z"
     }
   ]
 }
