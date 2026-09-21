@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-20T14:29:10Z",
+  "updated_at": "2026-09-21T16:47:11Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Anac marca para 17 de dezembro o leilão do Aeroporto de Brasília com mais dez terminais regionais - paraibabusiness.com.br",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURfMXVOUWNQVGJyUzNDZldzR2FCUlVkaWs1bkxnNngyWFNGcHVMV3VGWk4zOFUtRVBGb05Xa2swV3h4QUthbWl4R1hZeUQ5UHhVTXUzTGlhUllRU0NEajM3NWRmRUpTS2VWdFlUZXoxM1RBYmVFLTBXelk3Q0ZmREFXcnp2RUNaYkl4TE50QmxzYi1zQWhxRjFuaVNrc1NMN3IyMHNYMHc5S2dEUFp5b0p6Vy1XUUMxUHA0QWFxYmxRSkw4TlNPTg?oc=5",
+        "source": "paraibabusiness.com.br",
+        "published_iso": "2026-09-21T10:32:00Z"
+      },
+      {
+        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXkwYnl1bVpQSGl5aGxnaURhbTYwS0NKcEdia0xDSFFVZ1BzY1hZS1BHaExHMDR2NW5yYmlYUnI4NURZajcyN2U1NWJfQ250enVmR2prZU5MbW9RUWlBWFhHWDhlR1BYZ1hlUk5zT0ZhQTFtRlpLTXV0OHZUeTVPQWtTa0VDbjBENzVaVFlRME9IOC10cXR1UUgta0FrSlVLSkE?oc=5",
+        "source": "Brazil Journal",
+        "published_iso": "2026-09-21T09:50:56Z"
+      },
       {
         "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
@@ -12,28 +24,16 @@
         "published_iso": "2026-09-19T18:21:55Z"
       },
       {
-        "title": "Anac publica edital para leilão do Aeroporto de Brasília, marcado para 17 de dezembro - jornalpanoramaminas.com.br",
+        "title": "Anac publica edital para leilão do Aeroporto de Brasília, marcado para 17 de dezembro - Jornal Panorama Minas",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQjI0bTNORkN6bTN3V3VpQ3VJeEtZSExfakZBdW1fT19VaVVscEsxa0tZc2VJUjhZQ280ZHpiZk5sX0FKSTE5TDZrME9lQi1NanBKcFlHNlZFT2VRY0J2SnB4MzFJSVNPakxqeDA4QTlPZVlGaVZ3ZGpwT0dfV192TmFUTUdpYVdaNkNVUEUtRU1CR0RxSkZtV2NYczdTb2N2a3ZDNW1OaXgzMGRXZnhiZWVpZVdRaWx6UnRvMw?oc=5",
-        "source": "jornalpanoramaminas.com.br",
+        "source": "Jornal Panorama Minas",
         "published_iso": "2026-09-19T17:14:51Z"
-      },
-      {
-        "title": "MATO GROSSO - Leilão inclui Tangará da Serra e outros dois aeroportos em bloco com terminal de Brasília - Diário da Serra Notícias",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jdkpZVFlCbTlkQ2l6ell1Y0N1NkxaTHNfT1pjWExpYkpiU2F6UmZnbzZiWF9TcWxmS2RCZFBrNTlXbnFYUW4zaEg4N04wXy1KbW1QV3JYY2Y3VWsyeVA0LTg0X3g?oc=5",
-        "source": "Diário da Serra Notícias",
-        "published_iso": "2026-09-15T13:29:52Z"
       },
       {
         "title": "Três aeroportos de Mato Grosso serão incluídos na concessão de Brasília - Portal BE News",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmladmVnQzM0bl91YWd3dVJHUF9zc1VQeHJ3TGYtM1REc0ctMWhSaEY3NVY3dlh4VXF0aGtlTlBoXzROZ196MWhXT0NyVUtSc1BoYXNEV19WR2lZWUFiekk3c0NQMjZCcGdZa010MDc2b3EwcVdpMThjb0xVbWd6aE5md09JeFlzWVowMUZBR25mRjJISEFtcWUxcXMxNHViaGc?oc=5",
         "source": "Portal BE News",
         "published_iso": "2026-09-14T19:04:00Z"
-      },
-      {
-        "title": "Leilão do Aeroporto de Brasília inclui três terminais de MT - Primeira Página",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNEZSbG91a2QtOGVFTk9CWF9mdXRtU0FOaVNpS0VDT0laYTlDWlYwa0ZHb1dKVWFRbUpYYU5RT3lpSWNyX0VlOWRMUHVZQUpYUXVSNk9scEdWS3VTYzE2dXZTeXNwWEFyNHQ1ZHRDVi1WajI0WWZ2OGxwMkJXRkYweU5sZHhZZGFtTlpoT3hDbXQzal9HV0xyUmpUai0zLW9TLTVha2V3cmJZOU5YWjcyckdPQzhILU9FUmNGOV83QTllMUZ6MzRuQkVWSkk3ZEJ6bWtVU1VfLTM3WmlXZzV4M2ZyOS1QbmZoT2hMQUVnUDJHZm9tWlpF?oc=5",
-        "source": "Primeira Página",
-        "published_iso": "2026-09-14T13:02:13Z"
       }
     ],
     "aa2000": [

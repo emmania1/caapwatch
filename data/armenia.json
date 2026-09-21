@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T14:29:30Z",
+  "updated_at": "2026-09-21T16:47:30Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Azerbaijan’s sovereignty and long shadow of Armenian revanchism [ANALYSIS] - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9yb0xfWmtTd0IyOFl2RkhpVkdsSXNkQWlWbV9OVkRKWDhBLWxKb3BBbWJkN2ROcDlEdUlOMDFuWmpiSDlpaXVlS2trb0U1bUpxXzR3V2Vqdw?oc=5",
-      "source": "AzerNews",
-      "published_iso": "2026-09-20T04:30:00Z"
+      "title": "Russian-Armenian Relations Will ‘Inevitably Change,’ Pashinyan Says - The Moscow Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeFZOR3phM2xHQjFrYTVydmtMN0tDVXVlTW42MVpxc1ZXM3lxdFBoSi1vZWdpR09kZHF4VzlwUGViZE9xd21kMHZQVUg5MGxEUDFjZmw2NlRDc0cyYTJOY1h6Z2lVY3pNa1BFS0lHcjg0Xy1uYXZmY0t4eVRudmVGbjJZUElZR3RKWWJxRFlITjEzQVRjLXA5aFdQSnpQRENkVWktUXktaFpLLXdQWW1Tb2xkRQ?oc=5",
+      "source": "The Moscow Times",
+      "published_iso": "2026-09-21T11:15:36Z"
+    },
+    {
+      "title": "PM Pashinyan meets Nobel Prize-winning economist Abhijit Banerjee - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3h5dHhjR3FuSS1xQnp1NFFqZEdLTVhiMndIaEZXSGVxMmJaUDhBNUN5bDAxREJCeFBSSlpuN2NIQ21nc2pZem82T1k1ai1RdDFjVFBOeDF0ME14OExBWG9KVlFRRGhqN1A1QW95SjI3ODlncUs5YldkZUtIMG1JZkRkdEpXOW1nNDBPbXZna2ZXNnNpbTNSX0QtX2s0Q3c1aFE?oc=5",
+      "source": "Public Radio of Armenia",
+      "published_iso": "2026-09-21T10:45:57Z"
     },
     {
       "title": "“Even if a peace treaty is signed…” — Who will erase the image of the enemy from people’s minds? - todaypress.tv",
@@ -23,16 +29,10 @@
       "published_iso": "2026-09-19T12:54:19Z"
     },
     {
-      "title": "CEC chairman denies claims that election results counting was halted - Armenpress",
+      "title": "CEC chairman denies claims that election results counting was halted - armenpress.am",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RMFN0YndLb0I5clg1QkQ2QkZNYXU3eHRsM3RubGtVVkN5bmY1SUExem0wRmpWV0R3Ykh3Q2FCdVJMN1ZzelNxLVFPWDc1UktxYXfSAVdBVV95cUxNRW1pcTF3VzNZdHYyeWZqbDRNbUNHVWlwT3JIc3MxRGdmaWZjRktYZ3pKWWM2b0pMZjRuX3hvb214cUxfRDEwRlcxQmNjLWhFQUVlU1RyVms?oc=5",
-      "source": "Armenpress",
+      "source": "armenpress.am",
       "published_iso": "2026-09-18T10:43:00Z"
-    },
-    {
-      "title": "Iranian envoy says ‘Zangezur corridor’ not under discussion (PAN.am) - PanARMENIAN Network",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pVnMwdUl0a2xPaTBIUlF3QkJPZm1QaDJtZ2M3cElfS0lueFZ2RUFsVmd3TDJsYVMydDdFTlE5YnRIQQ?oc=5",
-      "source": "PanARMENIAN Network",
-      "published_iso": "2026-09-18T08:40:48Z"
     },
     {
       "title": "Trump meets with Armenian clergy at the White House - OC Media",
