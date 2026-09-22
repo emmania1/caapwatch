@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-09-21T16:47:11Z",
+  "updated_at": "2026-09-22T15:24:56Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Anac marca para 17 de dezembro o leilão do Aeroporto de Brasília com mais dez terminais regionais - paraibabusiness.com.br",
+        "title": "Brasília entra na mira da Zurich Airports em disputa pelo aeroporto - Mercado e Eventos",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUllVcU1iaHJFMGpZZnhBcEV2eGJxWjJxWHdJeGZEUnhKWmVjd0hxUVRsYUhUQmt3UUk2LXRILXBIc0FRXzdZeDZuOUV3dnRNdEM3eE15c253ajlBODdnMkpCY19DMU1Tc0ZQS2p6dkFiRE5KbnlWd1FkSDNseWVVN2JoNWZlMThGbGVTNHZGVkZYd1R2aHV2RG9IaGNKaHpicW1abnk0bHl5Vko4bFB5VXpIU18wVDBRV3FVTg?oc=5",
+        "source": "Mercado e Eventos",
+        "published_iso": "2026-09-22T12:43:26Z"
+      },
+      {
+        "title": "Gigantes globais miram Aeroporto de Brasília em novo leilão - Portal IN - Pompeu Vasconcelos - Balada IN",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZlNpLXFJckMzeWN1NzJNd1VuNmoxbGx5dGxQMTIxbFp1YkdEWHZpazRKc25IZmRMek1zTUt3RzZMWjZOT0k5LXdUUGJoSDAzV1pHb0syQzM2d21Vd1RmRDlOdHZ5ak5XdkU1Rl9BTGlONEpWMjZYLTRoWTRWbmpPT1c1ejZMS0VFb1JDcW1NQ0l6M3AzQzM1VlNMZTNfQQ?oc=5",
+        "source": "Balada IN",
+        "published_iso": "2026-09-22T03:01:00Z"
+      },
+      {
+        "title": "Zurich Airports deve disputar Aeroporto de Brasília com a atual concessionária argentina - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZtYzdkTjRXRHN6MExKN3A3YllWUjNwcm16ZllUcVBLSi1GWUhqcDgyZTl6OF9fMl9Zb09rcGt2OG9TWU9IcWgyOXdTTXl6TGkwVkhJZkFQYUVGSFNGVWJacXNldFlxNmtaUVJVcEVuUTNxb0FucmpmS3R1NXA2Z3JmRUxBUkNsa0ZGa0wxS3JGXzcwSnpHLWZYYlduODZTbldhWGlwa0tLU0xlUnhtYXNXTETSAbQBQVVfeXFMT05WbWM3ZE40V0RzejBMSjdwN2JZVlIzcHJtemZZVHFQS0otRllIanA4MmU5ejhfXzJfWW9Pa3BrdjhvU1lPSHFoMjl3U015ekxpMFZISWZBUGFFRkhTRlViWnFzZXRZcTZrWlFSVXBFblEzcW9BbnJqZkt0dTVwNmdyZkVMQVJDbGtGRmtMMUtyRl83MEp6Ry1mWGJXbjg2U25XYVhpcGtLS1NMZVJ4bWFzV0xE?oc=5",
+        "source": "AEROIN",
+        "published_iso": "2026-09-21T17:59:01Z"
+      },
+      {
+        "title": "Anac marca para 17 de dezembro o leilão do Aeroporto de Brasília com mais dez terminais regionais - Paraíba Business",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURfMXVOUWNQVGJyUzNDZldzR2FCUlVkaWs1bkxnNngyWFNGcHVMV3VGWk4zOFUtRVBGb05Xa2swV3h4QUthbWl4R1hZeUQ5UHhVTXUzTGlhUllRU0NEajM3NWRmRUpTS2VWdFlUZXoxM1RBYmVFLTBXelk3Q0ZmREFXcnp2RUNaYkl4TE50QmxzYi1zQWhxRjFuaVNrc1NMN3IyMHNYMHc5S2dEUFp5b0p6Vy1XUUMxUHA0QWFxYmxRSkw4TlNPTg?oc=5",
-        "source": "paraibabusiness.com.br",
+        "source": "Paraíba Business",
         "published_iso": "2026-09-21T10:32:00Z"
       },
       {
@@ -16,24 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXkwYnl1bVpQSGl5aGxnaURhbTYwS0NKcEdia0xDSFFVZ1BzY1hZS1BHaExHMDR2NW5yYmlYUnI4NURZajcyN2U1NWJfQ250enVmR2prZU5MbW9RUWlBWFhHWDhlR1BYZ1hlUk5zT0ZhQTFtRlpLTXV0OHZUeTVPQWtTa0VDbjBENzVaVFlRME9IOC10cXR1UUgta0FrSlVLSkE?oc=5",
         "source": "Brazil Journal",
         "published_iso": "2026-09-21T09:50:56Z"
-      },
-      {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
-        "source": "Consultor Jurídico",
-        "published_iso": "2026-09-19T18:21:55Z"
-      },
-      {
-        "title": "Anac publica edital para leilão do Aeroporto de Brasília, marcado para 17 de dezembro - Jornal Panorama Minas",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQjI0bTNORkN6bTN3V3VpQ3VJeEtZSExfakZBdW1fT19VaVVscEsxa0tZc2VJUjhZQ280ZHpiZk5sX0FKSTE5TDZrME9lQi1NanBKcFlHNlZFT2VRY0J2SnB4MzFJSVNPakxqeDA4QTlPZVlGaVZ3ZGpwT0dfV192TmFUTUdpYVdaNkNVUEUtRU1CR0RxSkZtV2NYczdTb2N2a3ZDNW1OaXgzMGRXZnhiZWVpZVdRaWx6UnRvMw?oc=5",
-        "source": "Jornal Panorama Minas",
-        "published_iso": "2026-09-19T17:14:51Z"
-      },
-      {
-        "title": "Três aeroportos de Mato Grosso serão incluídos na concessão de Brasília - Portal BE News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmladmVnQzM0bl91YWd3dVJHUF9zc1VQeHJ3TGYtM1REc0ctMWhSaEY3NVY3dlh4VXF0aGtlTlBoXzROZ196MWhXT0NyVUtSc1BoYXNEV19WR2lZWUFiekk3c0NQMjZCcGdZa010MDc2b3EwcVdpMThjb0xVbWd6aE5md09JeFlzWVowMUZBR25mRjJISEFtcWUxcXMxNHViaGc?oc=5",
-        "source": "Portal BE News",
-        "published_iso": "2026-09-14T19:04:00Z"
       }
     ],
     "aa2000": [
@@ -44,10 +44,10 @@
         "published_iso": "2026-09-19T13:38:00Z"
       },
       {
-        "title": "La Auditoría General de la Nación detectó irregularidades y peligra la prórroga de Aeropuertos Argentina: el contrato debe vencer en 2028 - Radio y Televisión Riojana",
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPcEtpZWNQN1ZXRXRZaUNMTjF0QjYxdWZ4LTdSb0ZLU01zbUozemJPaE9GTVhEV0hDd21PX0RwaEFwU0kxLUxZNW5URmgxNWlGbF9RUE1xbFJwbUhhQ0tRdGRtSkZSc1RwcnNVVVY1a1lCX2phMUhOOTNJT2Zfam5pWkxtazRzeTlKeW03UjZkRzZOdFlPVUNpalZGSFhOdnV6SU9xUjVpdkhUblM2X054RnVhXzEwcFpodnZLRXlHb1A2ZzFtd0NWU0JQa0p4c0R0ZGxvSG1aZy0ta2xyUkp1TF9ZemFDVUFPZ1hJc1o4eGlHLTgybXFoYXJqdC1HT2NqdEl5NTBhVFE0N0t6RTBLelJFYWJQUmM?oc=5",
-        "source": "Radio y Televisión Riojana",
-        "published_iso": "2026-09-18T06:38:10Z"
+        "title": "Aeropuertos Argentina 2000 presentó a Gyula Kosice en arteBA - Panorama Directo",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BWFBlZHZST0tLbm5ZUGJiVEdWWlZZS2xDTUZwY0ZhcHFaTGNpX2JMNGhLWTJzejZBQW5UU25KWHVRdEN3aU8zYnlLTjBfQWtoTGlNOGlveTNIalRBMzZjb0wwcUZMTFFJV3pzRWhEa3RyZw?oc=5",
+        "source": "Panorama Directo",
+        "published_iso": "2026-09-18T10:00:00Z"
       },
       {
         "title": "La Auditoría General de la Nación cuestiona irregularidades en la concesión de Aeropuertos Argentina - Cuestión Entrerriana",
