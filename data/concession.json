@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T15:24:56Z",
+  "updated_at": "2026-09-23T15:16:48Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Zurich Airport entra na disputa por concessão do Aeroporto de Brasília e de outros 10 terminais - Pontos pra Voar",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHFrTzFkbXpfMjBVWlB3bmk0dkhfVm5MdXlLcHg5VlQ3U3FmQ1laMEttZ3dIRkpNWG9vSkNodGJobGNJbUhFR2JrZHluMlozUi0yUFR4cVpNTzRLLWlkNzFuLU9sQmF6MXBmVnhjeXJIWmd1cW4zQmF2TnlNUlF1dThxaTZqYWRZRDFPM3pNa01IUnh1TEMwQ2g2Wng1T2p5azRBQ25yUUV5Z0hlZVRuOTY1TGpPeGEybFBZaVloMA?oc=5",
+        "source": "Pontos pra Voar",
+        "published_iso": "2026-09-22T19:30:29Z"
+      },
       {
         "title": "Brasília entra na mira da Zurich Airports em disputa pelo aeroporto - Mercado e Eventos",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUllVcU1iaHJFMGpZZnhBcEV2eGJxWjJxWHdJeGZEUnhKWmVjd0hxUVRsYUhUQmt3UUk2LXRILXBIc0FRXzdZeDZuOUV3dnRNdEM3eE15c253ajlBODdnMkpCY19DMU1Tc0ZQS2p6dkFiRE5KbnlWd1FkSDNseWVVN2JoNWZlMThGbGVTNHZGVkZYd1R2aHV2RG9IaGNKaHpicW1abnk0bHl5Vko4bFB5VXpIU18wVDBRV3FVTg?oc=5",
@@ -28,12 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURfMXVOUWNQVGJyUzNDZldzR2FCUlVkaWs1bkxnNngyWFNGcHVMV3VGWk4zOFUtRVBGb05Xa2swV3h4QUthbWl4R1hZeUQ5UHhVTXUzTGlhUllRU0NEajM3NWRmRUpTS2VWdFlUZXoxM1RBYmVFLTBXelk3Q0ZmREFXcnp2RUNaYkl4TE50QmxzYi1zQWhxRjFuaVNrc1NMN3IyMHNYMHc5S2dEUFp5b0p6Vy1XUUMxUHA0QWFxYmxRSkw4TlNPTg?oc=5",
         "source": "Paraíba Business",
         "published_iso": "2026-09-21T10:32:00Z"
-      },
-      {
-        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXkwYnl1bVpQSGl5aGxnaURhbTYwS0NKcEdia0xDSFFVZ1BzY1hZS1BHaExHMDR2NW5yYmlYUnI4NURZajcyN2U1NWJfQ250enVmR2prZU5MbW9RUWlBWFhHWDhlR1BYZ1hlUk5zT0ZhQTFtRlpLTXV0OHZUeTVPQWtTa0VDbjBENzVaVFlRME9IOC10cXR1UUgta0FrSlVLSkE?oc=5",
-        "source": "Brazil Journal",
-        "published_iso": "2026-09-21T09:50:56Z"
       }
     ],
     "aa2000": [
@@ -50,6 +50,12 @@
         "published_iso": "2026-09-18T10:00:00Z"
       },
       {
+        "title": "La Auditoría General de la Nación detectó irregularidades y peligra la prórroga de Aeropuertos Argentina: el contrato debe vencer en 2028 - Radio y Televisión Riojana",
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPcEtpZWNQN1ZXRXRZaUNMTjF0QjYxdWZ4LTdSb0ZLU01zbUozemJPaE9GTVhEV0hDd21PX0RwaEFwU0kxLUxZNW5URmgxNWlGbF9RUE1xbFJwbUhhQ0tRdGRtSkZSc1RwcnNVVVY1a1lCX2phMUhOOTNJT2Zfam5pWkxtazRzeTlKeW03UjZkRzZOdFlPVUNpalZGSFhOdnV6SU9xUjVpdkhUblM2X054RnVhXzEwcFpodnZLRXlHb1A2ZzFtd0NWU0JQa0p4c0R0ZGxvSG1aZy0ta2xyUkp1TF9ZemFDVUFPZ1hJc1o4eGlHLTgybXFoYXJqdC1HT2NqdEl5NTBhVFE0N0t6RTBLelJFYWJQUmM?oc=5",
+        "source": "Radio y Televisión Riojana",
+        "published_iso": "2026-09-18T06:38:10Z"
+      },
+      {
         "title": "La Auditoría General de la Nación cuestiona irregularidades en la concesión de Aeropuertos Argentina - Cuestión Entrerriana",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzh0RDlUMDcxXzJXZWxkRHBFT1hnd2tnTnF5LTZLQmJadTRNTGNXbi1YY2RNSjVlQ1pyeE9rdjNPVExHTURXdmcxWjRKQXNyYzVlOVN2bzdGUF90LUxDVlR4M1pFS19oYTh6MFNHRzNkc3Fqa2NiMmRwQ3JOaWNMWXl4dWhHZ1VDVUNUbDY4bldnbUFydXhDSE5JRzNlX0hsSjFMNk9Ka00td3Z5bGZJS3BxU0pGb29xaHdxd0JKRGx4Tlotdmx3NDBPalFySjlRY3c?oc=5",
         "source": "Cuestión Entrerriana",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUEwtQkRGLVNKMlFpVjdaRFg2Xy0zUGh4ME5EeTZsMDhXTy1CWUNIUlNnV05pQ3BTbHRnSnRLT2xGOVhDbERfUHhzdF9zWXdUNGZCLUwyTFdQMUxRVUh2b09jRk9wWXd0SE1IaVRqR2MydDVWeG1DcEJTanJIV0NweFJERERTSWtVTEd5a0xmZGRPR1hfSl9HUWhqb2R3dVNjS0lKU0ExeC1lUFNJT19JakNPaS16N3FaZVdVU3YyeTVyd3V5RndxTVVTY2VDNHJC0gHWAUFVX3lxTE44M2ZvMWIxdmdVa2RPSjFFNDhXWEVEck9zT3VQcVEweFJaYW5lSTZvZ1pPOVlQb2xCZEsxbkhpWDAyZHpOSGFmRVNuS1lROEl3dEN3UTk1czE5MEhyVHd3Zmh3SXFUWHJGa1RGeDE5czFvLUIwNEsxbWlvVzVUQlVsOTZNVDlMM1MtRDlFVVJWNlFLeEZNbnZ3cFFNa0p0RFhiTlg2MVdZbnJKR25LWTVhV3RkMlR4RWdIUlhLOThuTC1DQ29hV0d4YmhaYm5aSWkxTDQzUmc?oc=5",
         "source": "C5N",
         "published_iso": "2026-09-17T23:26:00Z"
-      },
-      {
-        "title": "Informe lapidario de AGN pone en riesgo la prórroga eterna de Aeropuertos Argentina y desnuda apuro oficial - MinutoUno",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaVVPNWlNY01NMDlyNE9zcTFQRTVaNUxIbVN6di1tYWxJYVo3RmJQeUxCcDNQWThzVVgzNkVlWGQxc0UxbXk0Y0R5U1ZxYUZhcDZycnhGazBQSHhaNXpwTS04UUNhWkdQSTV4Y2QyS2poYkpXSlZpZ1I3U0VHRnl6N01sM24yRjUyUTd4dnlEcVlxNHJwRU1GbXVyWnd3LXk5Mlg4ZEc5WTIwQlR3VC1wT1VNX01lUkZ2ekNsMldsbk9TdmRDa1d3NU9zbTBMbTBOS2N4cHprRzduUdIB2gFBVV95cUxNaVVPNWlNY01NMDlyNE9zcTFQRTVaNUxIbVN6di1tYWxJYVo3RmJQeUxCcDNQWThzVVgzNkVlWGQxc0UxbXk0Y0R5U1ZxYUZhcDZycnhGazBQSHhaNXpwTS04UUNhWkdQSTV4Y2QyS2poYkpXSlZpZ1I3U0VHRnl6N01sM24yRjUyUTd4dnlEcVlxNHJwRU1GbXVyWnd3LXk5Mlg4ZEc5WTIwQlR3VC1wT1VNX01lUkZ2ekNsMldsbk9TdmRDa1d3NU9zbTBMbTBOS2N4cHprRzduUQ?oc=5",
-        "source": "MinutoUno",
-        "published_iso": "2026-09-17T23:00:00Z"
       }
     ]
   }
