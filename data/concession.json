@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T15:42:11Z",
+  "updated_at": "2026-09-25T15:43:32Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Aeroporto de Brasília terá novo terminal após leilão - Revista Asas",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2JRaUxRUTE3SUQ0M2pSdE9rWnQ0aEJBb3d5dHVyLW11Vnc2VGlvVnZ1ZHYtVVp5VUJWUUdLZy01ZkhKUHJPbDYyN1cyRXplY013QnYxQkJ3NVRyQWdkRW4xNGR3MURsaHFoOHNmXzdoVm1rYURLTUl0dVBPUU01N19rT0NkellndXh1UFh2NHg?oc=5",
+        "source": "Revista Asas",
+        "published_iso": "2026-09-25T09:10:17Z"
+      },
       {
         "title": "Zurich Airport entra na disputa por concessão do Aeroporto de Brasília e de outros 10 terminais - Pontos pra Voar",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHFrTzFkbXpfMjBVWlB3bmk0dkhfVm5MdXlLcHg5VlQ3U3FmQ1laMEttZ3dIRkpNWG9vSkNodGJobGNJbUhFR2JrZHluMlozUi0yUFR4cVpNTzRLLWlkNzFuLU9sQmF6MXBmVnhjeXJIWmd1cW4zQmF2TnlNUlF1dThxaTZqYWRZRDFPM3pNa01IUnh1TEMwQ2g2Wng1T2p5azRBQ25yUUV5Z0hlZVRuOTY1TGpPeGEybFBZaVloMA?oc=5",
@@ -12,9 +18,9 @@
         "published_iso": "2026-09-22T19:30:29Z"
       },
       {
-        "title": "Brasília entra na mira da Zurich Airports em disputa pelo aeroporto - Mercado e Eventos",
+        "title": "Brasília entra na mira da Zurich Airports em disputa pelo aeroporto - mercadoeeventos.com.br",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUllVcU1iaHJFMGpZZnhBcEV2eGJxWjJxWHdJeGZEUnhKWmVjd0hxUVRsYUhUQmt3UUk2LXRILXBIc0FRXzdZeDZuOUV3dnRNdEM3eE15c253ajlBODdnMkpCY19DMU1Tc0ZQS2p6dkFiRE5KbnlWd1FkSDNseWVVN2JoNWZlMThGbGVTNHZGVkZYd1R2aHV2RG9IaGNKaHpicW1abnk0bHl5Vko4bFB5VXpIU18wVDBRV3FVTg?oc=5",
-        "source": "Mercado e Eventos",
+        "source": "mercadoeeventos.com.br",
         "published_iso": "2026-09-22T12:43:26Z"
       },
       {
@@ -24,19 +30,19 @@
         "published_iso": "2026-09-22T03:01:00Z"
       },
       {
-        "title": "Zurich Airports deve disputar Aeroporto de Brasília com a atual concessionária argentina - AEROIN",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlZtYzdkTjRXRHN6MExKN3A3YllWUjNwcm16ZllUcVBLSi1GWUhqcDgyZTl6OF9fMl9Zb09rcGt2OG9TWU9IcWgyOXdTTXl6TGkwVkhJZkFQYUVGSFNGVWJacXNldFlxNmtaUVJVcEVuUTNxb0FucmpmS3R1NXA2Z3JmRUxBUkNsa0ZGa0wxS3JGXzcwSnpHLWZYYlduODZTbldhWGlwa0tLU0xlUnhtYXNXTETSAbQBQVVfeXFMT05WbWM3ZE40V0RzejBMSjdwN2JZVlIzcHJtemZZVHFQS0otRllIanA4MmU5ejhfXzJfWW9Pa3BrdjhvU1lPSHFoMjl3U015ekxpMFZISWZBUGFFRkhTRlViWnFzZXRZcTZrWlFSVXBFblEzcW9BbnJqZkt0dTVwNmdyZkVMQVJDbGtGRmtMMUtyRl83MEp6Ry1mWGJXbjg2U25XYVhpcGtLS1NMZVJ4bWFzV0xE?oc=5",
-        "source": "AEROIN",
-        "published_iso": "2026-09-21T17:59:01Z"
-      },
-      {
-        "title": "Anac marca para 17 de dezembro o leilão do Aeroporto de Brasília com mais dez terminais regionais - paraibabusiness.com.br",
+        "title": "Anac marca para 17 de dezembro o leilão do Aeroporto de Brasília com mais dez terminais regionais - Paraíba Business",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURfMXVOUWNQVGJyUzNDZldzR2FCUlVkaWs1bkxnNngyWFNGcHVMV3VGWk4zOFUtRVBGb05Xa2swV3h4QUthbWl4R1hZeUQ5UHhVTXUzTGlhUllRU0NEajM3NWRmRUpTS2VWdFlUZXoxM1RBYmVFLTBXelk3Q0ZmREFXcnp2RUNaYkl4TE50QmxzYi1zQWhxRjFuaVNrc1NMN3IyMHNYMHc5S2dEUFp5b0p6Vy1XUUMxUHA0QWFxYmxRSkw4TlNPTg?oc=5",
-        "source": "paraibabusiness.com.br",
+        "source": "Paraíba Business",
         "published_iso": "2026-09-21T10:32:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Todos los concejales se unieron para reclamarle a Aeropuertos Argentina las inversiones que necesita El Tehuelche - El Chubut",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSkxkcF9EcFVKd2E4NUx5NU0wem95aDZTSWYtMlFRcEtvQjBHUWlZVUFmX0lVZ1BoUXNQSE9hVzEwUXdHNHoyMEl5ZnhxY2ViMmx3QV9KTWFVdEpFSGEzNDJFOXU3SUNlTmxnQS1pMExjOHVuWWR5M0c4aW90NTh5UWF4WFpSWUxjRGhiUWVVa1d6ZkNDZmhvek1fQ0tFbVdkeUlBeU4wcDFrNXBlOEZ3LWhxcTZBQ09MdWYtd3ZhVjUwcHRPdmRVTG5MdUczUU5rVU5yVUg0Tm01SFozVXI5Unc2aTcyQTNrVy1xYXZVM1cxekZpZG4yS083VFEzX3pjOGc?oc=5",
+        "source": "El Chubut",
+        "published_iso": "2026-09-25T13:03:33Z"
+      },
       {
         "title": "Aeropuertos Argentina: la AGN cuestionó la prórroga y pone bajo la lupa una nueva extensión - Aries On Line",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTJnVkRsa1B6cGstLV9pUXZ3YnU4MDJfenhDNE41b2xFSDBKbnR4cXlIWnFwNFRDZlgwWEMxY3lMTWpRZ04tVG83eFBFQm5qdW5qOTNpUVRUWmRtLTdSdkhwZlpvT1M1Zld2b3FsU0lWcm5RRWR6WXdIeTRLR3ZBWHZ1WnA2LUVsQXFxbXcwdG83bFVWd2F4UXFxU3FiMkEwb2k3TFJZbVJodFUxYlBPSUgzNExqak9IcG5GdmZaVWlMQdIBugFBVV95cUxNVWUxMkw1RW1nQmpVZ3ZvMGVCZGtrb3cyR3hFa1BISllGSGtZOTRyVUV3aE9ZTjNXR0xLbmhRbjgxdm9veWVKQkFSRU4zMU15UlNNMTRNOHo1dWhZWGFvTWowS0cwd1Zqa2xRMEpfWnVGNzJGemh5cEdBS19yNlQ2RlRuWnRSX280dFVza1RyQTVqZlM1TFFwNXYybEFTcEtiOVE0NkhWWXkyYmtfbl9lYnlXdi1keWdvWXc?oc=5",
@@ -56,16 +62,10 @@
         "published_iso": "2026-09-18T03:46:34Z"
       },
       {
-        "title": "Peligra la prórroga de Aeropuertos Argentina: un informe de la AGN halló irregularidades en un contrato de 2020 - C5N",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUEwtQkRGLVNKMlFpVjdaRFg2Xy0zUGh4ME5EeTZsMDhXTy1CWUNIUlNnV05pQ3BTbHRnSnRLT2xGOVhDbERfUHhzdF9zWXdUNGZCLUwyTFdQMUxRVUh2b09jRk9wWXd0SE1IaVRqR2MydDVWeG1DcEJTanJIV0NweFJERERTSWtVTEd5a0xmZGRPR1hfSl9HUWhqb2R3dVNjS0lKU0ExeC1lUFNJT19JakNPaS16N3FaZVdVU3YyeTVyd3V5RndxTVVTY2VDNHJC0gHWAUFVX3lxTE44M2ZvMWIxdmdVa2RPSjFFNDhXWEVEck9zT3VQcVEweFJaYW5lSTZvZ1pPOVlQb2xCZEsxbkhpWDAyZHpOSGFmRVNuS1lROEl3dEN3UTk1czE5MEhyVHd3Zmh3SXFUWHJGa1RGeDE5czFvLUIwNEsxbWlvVzVUQlVsOTZNVDlMM1MtRDlFVVJWNlFLeEZNbnZ3cFFNa0p0RFhiTlg2MVdZbnJKR25LWTVhV3RkMlR4RWdIUlhLOThuTC1DQ29hV0d4YmhaYm5aSWkxTDQzUmc?oc=5",
-        "source": "C5N",
-        "published_iso": "2026-09-17T23:26:00Z"
-      },
-      {
-        "title": "Informe lapidario de AGN pone en riesgo la prórroga eterna de Aeropuertos Argentina y desnuda apuro oficial - Minutouno",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaVVPNWlNY01NMDlyNE9zcTFQRTVaNUxIbVN6di1tYWxJYVo3RmJQeUxCcDNQWThzVVgzNkVlWGQxc0UxbXk0Y0R5U1ZxYUZhcDZycnhGazBQSHhaNXpwTS04UUNhWkdQSTV4Y2QyS2poYkpXSlZpZ1I3U0VHRnl6N01sM24yRjUyUTd4dnlEcVlxNHJwRU1GbXVyWnd3LXk5Mlg4ZEc5WTIwQlR3VC1wT1VNX01lUkZ2ekNsMldsbk9TdmRDa1d3NU9zbTBMbTBOS2N4cHprRzduUdIB2gFBVV95cUxNaVVPNWlNY01NMDlyNE9zcTFQRTVaNUxIbVN6di1tYWxJYVo3RmJQeUxCcDNQWThzVVgzNkVlWGQxc0UxbXk0Y0R5U1ZxYUZhcDZycnhGazBQSHhaNXpwTS04UUNhWkdQSTV4Y2QyS2poYkpXSlZpZ1I3U0VHRnl6N01sM24yRjUyUTd4dnlEcVlxNHJwRU1GbXVyWnd3LXk5Mlg4ZEc5WTIwQlR3VC1wT1VNX01lUkZ2ekNsMldsbk9TdmRDa1d3NU9zbTBMbTBOS2N4cHprRzduUQ?oc=5",
-        "source": "Minutouno",
-        "published_iso": "2026-09-17T23:00:00Z"
+        "title": "Duro informe de la AGN complica la prórroga exprés a Aeropuertos Argentina - Punto Biz",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTFkZTRmLU9nMERrTnQ5M0d2S3VHQUlLMnVoOTBZa25rM3BQN052Y0tXUGlxd0FtMnBHS0lQNUxtaXJZY2s2dExOUjVMU1pyWko3LXlOVFhjWmdHRExMS1YtRjZQTThfTEQ2a0FISmhxWFgwcjQzYVEtM2ZtbWthNzRIcUs0VjNGTENZc0RYTnJmM1dhcVZKWGtRcFA5MEQxbm53VThIY0FKOHVJZDhfc1RMTXRoOXVNNGc?oc=5",
+        "source": "Punto Biz",
+        "published_iso": "2026-09-17T17:22:00Z"
       }
     ]
   }
