@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-25T15:43:52Z",
+  "updated_at": "2026-09-26T14:52:44Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "UNGA81: Azerbaijan highlights 'de facto' peace with Armenia - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIQVllbDJCSVZQSlFLc3Z6QndNRVFjcXlHWW12T2dpYk5QR2VDaHRmd2hOZG1ocm5saEF0bG5vTXFqSXZna3FJei1wUVQ3UnFZUXfSAVdBVV95cUxPdjAwR2EzRTFEazhfN1Mta0xMT0RPSlUxYjJDamJPejBMVXJ6aG5lLWVSOW5GeWhVMzRLSmpadkNxVUpSSHBVUEJHSE9rWUtnc0syR21uWm8?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-09-26T08:24:00Z"
+    },
+    {
+      "title": "The Middle Corridor’s Real Winners Aren’t Armenia and Azerbaijan - Modern Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWplY29GNlUwTUJqckx3NHNCSi1jWFV2elVfT3RaWXhmaURVbTFGT1BKMVJwamhtdDl0NnFqQlBMdUVuZlZiWFEweWRBekIyYlVsMml4SlJWOHV2M25UcnJkOVI3LVpZR2o0RHg5aXN4R1hPTnhkRHdubzFQZm1mal91SzZsMUUzWk1PWC1tOFNjUUJHRDBZSUFoTWFZRnRMSWxBMnlsSm1HSVV1MUE0Qw?oc=5",
+      "source": "Modern Diplomacy",
+      "published_iso": "2026-09-26T02:00:24Z"
+    },
+    {
+      "title": "How Azerbaijan Is Erasing Armenian Heritage in Nagorno-Karabakh - The National Interest",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmJKWm9FenBCZ0Z3SlFtNUFzYkt3WjlaOVBlTzFkZGg0cFIzM2d4RkVuRHVPRmhmSWk1a1lTb2haT3pTZ0FXb2VLRzY4SVd4Nm1lbFBsWm5OWGhnaEdzS3RMOElYbldTcWQ5bnY3QmNaSXJhTmN5U1NpRU02emtHS3JYLUxSeThCd3hYY2cyYTNPR0NweU9oVTlUSFZwQ3FZcTN6czFhQ1RxRy1ITXJ6SA?oc=5",
+      "source": "The National Interest",
+      "published_iso": "2026-09-25T22:35:32Z"
+    },
+    {
+      "title": "'Unresolved issues and conflicting narratives remain' — Pashinyan on relations with Azerbaijan - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXB5Q1R3LTJkNjZLMi14WUJWTHhlX1dLM19kSXZTbTRBNzFtTVdja0MydWpZRWNEWWVWb0RSZUFHVzhRb3prbG93RGZSRVFXZlRNVE4ySFppSGhMSjFqMGEySWJNNE83clJiNF9tRmxkTmVxOU9mWWphN1hqVnFpQllfaTNQR2JWd1QzdC1uTExZQ05zX1RsRUdxQkdvc0xoeTM1cVhIQXBmTHg0bDR4eE5n?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-09-25T18:43:12Z"
+    },
     {
       "title": "US Backs TRIPP Trans-Caspian Route With $201M Fund After Armenia-Azerbaijan Peace - News and Statistics - IndexBox",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW5vN1hEaUJJZzBsVDNpb2MzSy1LdHh5UjRibVJxUkJVZEtvOVFWZWRKcXJJMVU1TEU5VDBCRHlLUk1zRUJtUDhwdkc3OEJHdlF0QThGdGF4cXdOVnJLX2RmRnA0N1JfYUItdW5GWnhCZzVmNjdfMDBXdnVuVkFSZzB0MHNUOHNaaW1LX21FeGw3UDlqdHBGSTRKS0ZCZ0N5NEl2SA?oc=5",
@@ -11,34 +35,10 @@
       "published_iso": "2026-09-25T13:13:48Z"
     },
     {
-      "title": "President: Emerging Zangezur Corridor, also known as TRIPP, will further strengthen Azerbaijan's role as regional hub - news.am",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNNGw5NlU4WlhFLXR4Wk9wSWZTLXFqcnhXRUM5R01XNnYwVER4aFpMUkRLMzRlZkdCdm9sWmJmREQycFFqSkE?oc=5",
-      "source": "news.am",
-      "published_iso": "2026-09-25T10:53:59Z"
-    },
-    {
-      "title": "Armenian and Azerbaijan agree to ‘promote positive agenda’ amid tension - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEpkbmowQmJoRHFjblY0RDVnVmRoQldmYnlxX3RVdmYzNDhPMEtlVlBURklIbTFVQnZJYkhKMi1fLVB6UGpvaGFTSkt5U3hZc2hwczZyMkdDaEhFdTczSkRJRmRmbDB5ZHV5VG9vUTZfNjhJSms4akV4aUVlRU1NX1FnVGJYUDBNM2JBNERka2VQSHlBd3c?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-09-25T09:16:10Z"
-    },
-    {
-      "title": "Engineering work on TRIPP has already begun in Armenia - Deputy FM - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1lZXzlrV3VKcXJwLUd0Qml5dW14NUpoSFlfb0dsdm8wd0lyR1pOV0JrSjQzSjhrWGwwcnV4dkJKYjlyVTFWZE92NEZYaHpfckVzdjlEQmdOdWZOVXlfdTFNQTVzSVVDTURYOXFONE1JOURCVlNPck5IQmVkY1ZYTml1SEVZU0taX0Rua2Q1ekdzWmRWTTIxdjV3Z0c2bWNGWGxqZ1VEYw?oc=5",
-      "source": "Apa.az",
-      "published_iso": "2026-09-25T09:12:00Z"
-    },
-    {
-      "title": "Top Azerbaijani, Armenian diplomats meet on sidelines of UN General Assembly - aa.com.tr",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVN6RURWaGRKenZGOWpHUDRRaTlXdHl1OEY2UlRlQ2VGNmxmVm9QZFhzM0g1aC1WeThIWXJhQ25Qd2ZWVEM3U2ZDVTZZUXdpWW5HQWVsNFZZMGtFR2RIY0QzeHh5SnI1cVZxWHVNdE9hVUJXelFjVkFiZDJrNndYWG9nZy1BSXpVREtZcWVsNTNQejkxSnJ2QWgxWWRVTzFOZXhNYVBVYTdOLUtjcVViR2NYQmQ?oc=5",
-      "source": "aa.com.tr",
-      "published_iso": "2026-09-25T08:42:02Z"
-    },
-    {
-      "title": "Pashinyan says Armenia-Azerbaijan peace opens new South Caucasus era - Türkiye Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0d2VzJQWVNkYXpodFdqSnpsRmxZSHMtLTBqbFJVUk9JNlkyNURtYlVMSVFLQWlNM2hDMGtaUklfSTlUVm1lOXprTV8xSF9DY2VOZ0ttcmtWcGlWbXd6NTFWYTlTcTNtOXh5ZmlNYXJJRFFmOUF6U0JmNVFwTzBjM2dyems4WHVtZmlGQjhvYllYTV94Z21ZSWl5V0paTmpwd0ItN3hweUNIYWloX2IzcU5B?oc=5",
-      "source": "Türkiye Today",
-      "published_iso": "2026-09-25T06:24:07Z"
+      "title": "TRIPP Is a Logical Extension of the Middle Corridor - The Times Of Central Asia",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IVExrYzR1RFVFZTFXcGdITE53ZlpPcUpLVmhxSUItN0k2RlFFOHgtN0RQblVvZVpOYUpDSEZnNGd6R1lvbkxDbVk4cG1wWFlSRHJ0VFNPTE03MnlJU2Q5YTBkZDF6SWRYUnlRVkx2My1hVUlYbVRrMFpGeDE?oc=5",
+      "source": "The Times Of Central Asia",
+      "published_iso": "2026-09-25T07:08:22Z"
     }
   ]
 }
