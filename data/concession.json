@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-27T15:31:25Z",
+  "updated_at": "2026-09-28T18:26:48Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Aeroportos de Juína, Cáceres e Tangará da Serra são incluídos no leilão do terminal de Brasília e vão receber melhorias - onortao.com.br",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVhIRDg0Sk1GdW1RMGpweTJiY2o1Z2RFUTNRX2oteGctVzlTa3FwbjF4OEZsaW15WTVKQk9FTk9sOFNkT1MwWHRmMVRnU0lnQXFIaEQ0U1diSUhub1c1REdUMk1ha1c5azdZV2dPZ3FGNGZWQmVBYkpkRFVScnN2bHNDcw?oc=5",
+        "source": "onortao.com.br",
+        "published_iso": "2026-09-28T11:30:00Z"
+      },
       {
         "title": "Aeroporto de Brasília terá novo terminal após leilão - Revista Asas",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2JRaUxRUTE3SUQ0M2pSdE9rWnQ0aEJBb3d5dHVyLW11Vnc2VGlvVnZ1ZHYtVVp5VUJWUUdLZy01ZkhKUHJPbDYyN1cyRXplY013QnYxQkJ3NVRyQWdkRW4xNGR3MURsaHFoOHNmXzdoVm1rYURLTUl0dVBPUU01N19rT0NkellndXh1UFh2NHg?oc=5",
@@ -12,9 +18,9 @@
         "published_iso": "2026-09-25T09:10:17Z"
       },
       {
-        "title": "Zurich Airport entra na disputa por concessão do Aeroporto de Brasília e de outros 10 terminais - pontospravoar.com",
+        "title": "Zurich Airport entra na disputa por concessão do Aeroporto de Brasília e de outros 10 terminais - Pontos pra Voar",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHFrTzFkbXpfMjBVWlB3bmk0dkhfVm5MdXlLcHg5VlQ3U3FmQ1laMEttZ3dIRkpNWG9vSkNodGJobGNJbUhFR2JrZHluMlozUi0yUFR4cVpNTzRLLWlkNzFuLU9sQmF6MXBmVnhjeXJIWmd1cW4zQmF2TnlNUlF1dThxaTZqYWRZRDFPM3pNa01IUnh1TEMwQ2g2Wng1T2p5azRBQ25yUUV5Z0hlZVRuOTY1TGpPeGEybFBZaVloMA?oc=5",
-        "source": "pontospravoar.com",
+        "source": "Pontos pra Voar",
         "published_iso": "2026-09-22T19:30:29Z"
       },
       {
@@ -24,48 +30,42 @@
         "published_iso": "2026-09-22T12:43:26Z"
       },
       {
-        "title": "Gigantes globais miram Aeroporto de Brasília em novo leilão - Portal IN - Pompeu Vasconcelos - Balada IN",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZlNpLXFJckMzeWN1NzJNd1VuNmoxbGx5dGxQMTIxbFp1YkdEWHZpazRKc25IZmRMek1zTUt3RzZMWjZOT0k5LXdUUGJoSDAzV1pHb0syQzM2d21Vd1RmRDlOdHZ5ak5XdkU1Rl9BTGlONEpWMjZYLTRoWTRWbmpPT1c1ejZMS0VFb1JDcW1NQ0l6M3AzQzM1VlNMZTNfQQ?oc=5",
-        "source": "Balada IN",
-        "published_iso": "2026-09-22T03:01:00Z"
-      },
-      {
-        "title": "Zurich Airports deve disputar Aeroporto de Brasília com a atual concessionária argentina - AEROIN",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUZYWDBGZ2wwN0VhRUg1LTB2T2JjSjdCaGZ4aE1tSUVGR0ZTd2tZbmhla25RWktzRnBLcDFEOTBUNjlIVmpVUFlkU0NrRzR4djdleDNfUmtDOTNzeEVZQTExTHcycXQtdmhveG96cEJ6RV85c1pjTXk5cjV3bWlNVEdHOFk4TXl0YjNaWHJNUGtMWHdmT0NBWHo5ODRSRkZnX1V6WTBGZ1BPaEhP0gGsAUFVX3lxTE91RlhYMEZnbDA3RWFFSDUtMHZPYmNKN0JoZnhoTW1JRUZHRlN3a1luaGVrblFaS3NGcEtwMUQ5MFQ2OUhWalVQWWRTQ2tHNHh2N2V4M19Sa0M5M3N4RVlBMTFMdzJxdC12aG94b3pwQnpFXzlzWmNNeTlyNXdtaU1UR0c4WThNeXRiM1pYck1Qa0xYd2ZPQ0FYejk4NFJGRmdfVXpZMEZnUE9oSE8?oc=5",
-        "source": "AEROIN",
-        "published_iso": "2026-09-21T17:59:01Z"
+        "title": "Anac marca para 17 de dezembro o leilão do Aeroporto de Brasília com mais dez terminais regionais - Paraíba Business",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURfMXVOUWNQVGJyUzNDZldzR2FCUlVkaWs1bkxnNngyWFNGcHVMV3VGWk4zOFUtRVBGb05Xa2swV3h4QUthbWl4R1hZeUQ5UHhVTXUzTGlhUllRU0NEajM3NWRmRUpTS2VWdFlUZXoxM1RBYmVFLTBXelk3Q0ZmREFXcnp2RUNaYkl4TE50QmxzYi1zQWhxRjFuaVNrc1NMN3IyMHNYMHc5S2dEUFp5b0p6Vy1XUUMxUHA0QWFxYmxRSkw4TlNPTg?oc=5",
+        "source": "Paraíba Business",
+        "published_iso": "2026-09-21T10:32:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "Todos los concejales se unieron para reclamarle a Aeropuertos Argentina las inversiones que necesita El Tehuelche - El Chubut",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSkxkcF9EcFVKd2E4NUx5NU0wem95aDZTSWYtMlFRcEtvQjBHUWlZVUFmX0lVZ1BoUXNQSE9hVzEwUXdHNHoyMEl5ZnhxY2ViMmx3QV9KTWFVdEpFSGEzNDJFOXU3SUNlTmxnQS1pMExjOHVuWWR5M0c4aW90NTh5UWF4WFpSWUxjRGhiUWVVa1d6ZkNDZmhvek1fQ0tFbVdkeUlBeU4wcDFrNXBlOEZ3LWhxcTZBQ09MdWYtd3ZhVjUwcHRPdmRVTG5MdUczUU5rVU5yVUg0Tm01SFozVXI5Unc2aTcyQTNrVy1xYXZVM1cxekZpZG4yS083VFEzX3pjOGc?oc=5",
-        "source": "El Chubut",
-        "published_iso": "2026-09-25T13:03:33Z"
+        "title": "El Gobierno extendió la concesión de Aeropuertos Argentina y fijó inversiones por US$600 millones - El Litoral",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaTJYV0J6eGYzQU5DVWl2T0ZnU09VbkJWWk5vMFlqY2QxZVE5ZDB3dHlDSjlUazBNdXp6LXE3YnBOczM4dUhEY0xJODNUYWw3QWthVHpsSWllYjF5WktrOHljVW9TU0k0SFBxRDJYVHhyTzh1ZnA5bWVLSXZTZVhQX2gxVlNOeDIxdG90dkZaSUtMVl9YZG1ZQXFtVzFPQ0d4SWpDZWRoRy00Q1hqZ0Jud2diMW1pYmgtQllZLUZZNkVDdkg2ZUl1ZDBUSlZXRV8ydWJxcHdjaEfSAd4BQVVfeXFMTTU4cjhqVFdmX3dsRm5ESDdKdmVmRUxYTlNHYUtWYjZTU2JDUHJuLWx0MGJiNEw0MEdIQmtseEcwd0lvMVNVVFREWUMwWU84Wkl1U0tzNmZBcWp1M21CejkxMkNhYWpJeHNLWXd3Smt6bzlpWFUzcXZkTEJEWFhZVlBVYldVVlR1UXBCdC1mdUg5OXBBZmNDSkZ2Qy1pclFyeHlsZkFleGNMS2tEVVdvRUFCOUhzM0hacmRHN1J4WTlsNnJoQUp3WnpwZlczN2JKd0lDT196eURlUkROUk5B?oc=5",
+        "source": "El Litoral",
+        "published_iso": "2026-09-28T17:59:18Z"
       },
       {
-        "title": "Aeropuertos Argentina 2000 presentó a Gyula Kosice en arteBA - Panorama Directo",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BWFBlZHZST0tLbm5ZUGJiVEdWWlZZS2xDTUZwY0ZhcHFaTGNpX2JMNGhLWTJzejZBQW5UU25KWHVRdEN3aU8zYnlLTjBfQWtoTGlNOGlveTNIalRBMzZjb0wwcUZMTFFJV3pzRWhEa3RyZw?oc=5",
-        "source": "Panorama Directo",
-        "published_iso": "2026-09-18T10:00:00Z"
+        "title": "El Gobierno nacional extendió la concesión de Aeropuertos Argentina 2000 hasta 2049 - Alerta Urbana",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY29lejZuOTdKakdTMi1Hb0tMUnRZemhhcTFKVUFnZ1JmWnVKRUlzRG00blY1U2NkVThtWk01VnZlQmtpT2hidUdhZDc0VEVKZTFYSUhvVVhoc2dKLVE3M3FhaTJlWm85NklnaDhBNktWcDlLZ3BCc1gtS2VFTmUtUXdzazFwYjE5UGI3QW9tS25ZMU95YVFwT3pYaEs1cTFuajctTGpydzBBZG96b0NpekpNeXRaU1dvdnJzXzlBaw?oc=5",
+        "source": "Alerta Urbana",
+        "published_iso": "2026-09-28T17:10:45Z"
       },
       {
-        "title": "Duro informe de la AGN complica la prórroga exprés a Aeropuertos Argentina - Punto Biz",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTFkZTRmLU9nMERrTnQ5M0d2S3VHQUlLMnVoOTBZa25rM3BQN052Y0tXUGlxd0FtMnBHS0lQNUxtaXJZY2s2dExOUjVMU1pyWko3LXlOVFhjWmdHRExMS1YtRjZQTThfTEQ2a0FISmhxWFgwcjQzYVEtM2ZtbWthNzRIcUs0VjNGTENZc0RYTnJmM1dhcVZKWGtRcFA5MEQxbm53VThIY0FKOHVJZDhfc1RMTXRoOXVNNGc?oc=5",
-        "source": "Punto Biz",
-        "published_iso": "2026-09-17T17:22:00Z"
+        "title": "El Gobierno y Aeropuertos Argentina acordaron extender la concesión hasta 2049 con inversiones por USD 600 millones. Se aprobó por decisión administrativa - Aviación en Argentina",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSGxYVkN6MW1POHpCcHBFTUNmVG9lUDJXcE5vdHYxOEFZS2xuQ1Q2d2FxWXFTZ1lrNmItVGE1VjdKSG9odzR1X0ZtbjZLckJvV0tfSUFJajFJbkRLTkcydFI4RWF6RDhfSHY2TTRsN09CQXd3ZWZmbER0THA4dGl4NnRKWEhvdnUxeDlmbmxaX2ctS3NidTVoanE1MUNFRTJieG1FbS1WTWVQbzFSWkx3Z0VHT1VDZkJsYnB6d2hOZmVMeTVaa0xwWDk0TWFfa3NMZElQTXl2WmFQZENNbUsyZ1ZUVVRyeWIteUtfZEpzMGd5cnhaTkVzWld0dU8xczk3NDEzWnhR?oc=5",
+        "source": "Aviación en Argentina",
+        "published_iso": "2026-09-28T16:48:10Z"
       },
       {
-        "title": "La AGN detecta irregularidades y peligra la prórroga de Aeropuertos Argentina: el contrato debe vencer en 2028 - Ambito",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS3BIak9FeDRPcTktQ1RUYXdrOGRSZmZOYkNWVUkyLWU5azhETlBwMVJBenNwcWNucnVOY18xVVhfaUNsRGRwamxPa2M0OVY1UmhiWFo3ZTlNdmItV0xINHNUOGFGaGp2cW9pcGZnQUpFQVpNb05Ma0pYTk5FTS1lNC1DdTRLOE4xV2I3QWp1bGZTOFFaekxBX3BHVXdrNmhkY3BPNzlWdEFoSjFjRmlQU0xQcGxBMUhJZXJGVUgxNEd6a3Yzam5iOUtsZzVlRlhxREV3aGF3aTZaUlQ40gHiAUFVX3lxTFB0R0J3RUFOSlZVUnFsLXIxSTZqYi0yaWJPN2NlYm45LVZWWU9PNEkyanZqNk5ZajlPT0xuS1E1djFlclZUUVFZdDZxSnctUkY5a2M5cXloaEpyaEFFNDdmQ2ZmV0xHa094RXB1SWxtSDZUTkY2ajVWUWw1aVQ1ZDhuRVBFcDhrQld0RFlUR2k4eWRSY2NtU1kwZ1llX1hNTVR4b0UxNWh0dVcydlRSNElTcTVhcERQRDdNelBmbTdtM2Z2bExjQUl1TlZVOHFhWEJyaDE2eERwWXltd0JkSHBJenc?oc=5",
-        "source": "Ambito",
-        "published_iso": "2026-09-17T07:00:00Z"
+        "title": "El Gobierno y Aeropuertos Argentina extendieron la concesión de servicios hasta 2049: los detalles del acuerdo - Forbes Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUVfVFRiVzFFcm5OUU1tZ1VRM1ZkVkdObnUtQTk5LXRGOXhkMTl3NjdvSTN4Um16V1RQUlJHcUJYc2J6aE05OUpZamd6WERyTi0tMkUwakhwSDN2TlNSREVWTWpvWUtxRnZ2VW9UT2hYUjJYeXpJb1dTWWxMNE9QbDJ0SDBqeTdXSmJNbHdLX2NzX1V2SGxiSFNCaG9NX3BHSHVMaFVNZzh0b25CajE3OGRWYlBqUEJjRHFhSzdtU0RodWtkRU5TXzZkWVBRWTlv0gHWAUFVX3lxTE1aUkxQX1I3M2dOdHZMcjFBLWxsdm4xWkhUcjNBNlFSdVczM2loanJ1YnBEN0RINUl0YWFuRG1Ha3pENFc5M3Q1bmM3U081VW5hQ2ZyenFKMlE5aUVvdkc5RkJNUTh6ZjJJNXQ5VkVwdUs4STFheUpMRWY4RWhaS0wwb2dHNmdfTS1NSVdwaGdGdzlSOHYyZXJGUXlnNWNLZk9ZQkpwRTc5cW04SUtXTUVQaVFrY24taVRPZHJ5cDJCYUFSSk1oQ0Q1M3pHVjdHa1VlYkNDMlE?oc=5",
+        "source": "Forbes Argentina",
+        "published_iso": "2026-09-28T15:00:00Z"
       },
       {
-        "title": "La Auditoría General de la Nación cuestiona irregularidades en la concesión de Aeropuertos Argentina - Cuestión Entrerriana",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzh0RDlUMDcxXzJXZWxkRHBFT1hnd2tnTnF5LTZLQmJadTRNTGNXbi1YY2RNSjVlQ1pyeE9rdjNPVExHTURXdmcxWjRKQXNyYzVlOVN2bzdGUF90LUxDVlR4M1pFS19oYTh6MFNHRzNkc3Fqa2NiMmRwQ3JOaWNMWXl4dWhHZ1VDVUNUbDY4bldnbUFydXhDSE5JRzNlX0hsSjFMNk9Ka00td3Z5bGZJS3BxU0pGb29xaHdxd0JKRGx4Tlotdmx3NDBPalFySjlRY3c?oc=5",
-        "source": "Cuestión Entrerriana",
-        "published_iso": "2026-09-17T07:00:00Z"
+        "title": "Aeropuertos Argentina podrá operar hasta 2056 si invierte US$600 millones en Ezeiza - BNamericas",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2ZuMFIxSS12dnlqb2R4elExZDlQQlZFek1sX01PMWdLeUVWLVF6ZmMzcnJRT18wOVdHa0hOZzF6dUFkVnZQd0x2Z2V5VXFMd1oyYUxSQWh6MGdrZG5UQUMwbmEwb1dDbEZncXRwRWEyMzdKSDY1Q0RqWUZYTXN1LUJlbWtqcVJqdmdjYUZPbFVlTE0xOE1kakFNUVpxZVBEbUlFQWdjTDBfamo0c0pUemlrOTEzUHBRRFk1ekxB?oc=5",
+        "source": "BNamericas",
+        "published_iso": "2026-09-28T14:47:06Z"
       }
     ]
   }

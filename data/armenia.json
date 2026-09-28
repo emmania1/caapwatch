@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-09-27T15:31:44Z",
+  "updated_at": "2026-09-28T18:27:07Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Azerbaijan marks its Remembrance Day looking forward to a future of peace - Euronews.com",
+      "title": "PACE report says Armenia’s newly elected authorities received clear mandate – Konjoryan - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd2ZUNzlPQ2lUZ2d5Ql90X0MyWGpnNlhRWk1UbGVKbHUyVHA1T2FqS0pLcERQWnNGeVVTMWxtYjY0dHgtUHp1WC1TdGx2LU51QzJKTmJ1bl8yVXQtVEt5N2xRSENDa3VkNnpfRzR4akRjUTRtNEhrOUxEM1dYT3ZvZWtBQW5YMTNRNFNSUGY3ZUY2ekt2cDFocE5DdDNHWnozNUUxS2lXbzZfZ3AtMDZ4M25jSVF1Nnl3dFdn?oc=5",
+      "source": "Public Radio of Armenia",
+      "published_iso": "2026-09-28T12:40:06Z"
+    },
+    {
+      "title": "PACE: Armenia’s 2026 elections offered genuine choice amid foreign pressure and electoral concerns - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjVCX3BhYmdSdy01UkdGS0J1REN5Q0dVNkpTTFpKbkZDRjF6MzBJbnBFVjBVd3k1WlI5YWYzSWZZVGZfQ1ZRWnNXcWgxbXRDMFMyb2w2RnZMUWFnMFJYeFdpQlZxVWNxU285aDBpSEx6by16Ry1wUEp2Um1MSmlYeV83NHEyUXFnT1lXRmR1cHlkbWw3TTRtamx6V3V6NE9Pb2JhZnBYd3BkNnE0WmROZXRfM3k1M3piVkhwNzF2UERKSm9weF9hT3Y0OA?oc=5",
+      "source": "Public Radio of Armenia",
+      "published_iso": "2026-09-28T12:23:48Z"
+    },
+    {
+      "title": "Azerbaijan marks its Remembrance Day looking forward to a future of peace - euronews.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlIzWTM5RDNyRjRXZ1lERkdRcXN6S0dqVHpsZGdZSEstZE9na0RsQ1FzX2g0Xy0xSm0wTTJDdG1kYjZXZ1R1TnRpeXMzdkJCSUVRTU8wVk9fUFlYQnBiY2JEcjhNMWNMTERHS2NialJfRzhhbTQxbVJoM0RZUkVnWi1PSkVaQ0xabElfZ0xjaGphMl96WGhyeV9pcUctcGtvUVdFYjFBUGQxRDNfaEE?oc=5",
-      "source": "Euronews.com",
+      "source": "euronews.com",
       "published_iso": "2026-09-26T19:48:15Z"
     },
     {
@@ -23,22 +35,10 @@
       "published_iso": "2026-09-26T02:00:24Z"
     },
     {
-      "title": "How Azerbaijan Is Erasing Armenian Heritage in Nagorno-Karabakh - nationalinterest.org",
+      "title": "How Azerbaijan Is Erasing Armenian Heritage in Nagorno-Karabakh - The National Interest",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcmJKWm9FenBCZ0Z3SlFtNUFzYkt3WjlaOVBlTzFkZGg0cFIzM2d4RkVuRHVPRmhmSWk1a1lTb2haT3pTZ0FXb2VLRzY4SVd4Nm1lbFBsWm5OWGhnaEdzS3RMOElYbldTcWQ5bnY3QmNaSXJhTmN5U1NpRU02emtHS3JYLUxSeThCd3hYY2cyYTNPR0NweU9oVTlUSFZwQ3FZcTN6czFhQ1RxRy1ITXJ6SA?oc=5",
-      "source": "nationalinterest.org",
+      "source": "The National Interest",
       "published_iso": "2026-09-25T22:35:32Z"
-    },
-    {
-      "title": "US Backs TRIPP Trans-Caspian Route With $201M Fund After Armenia-Azerbaijan Peace - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW5vN1hEaUJJZzBsVDNpb2MzSy1LdHh5UjRibVJxUkJVZEtvOVFWZWRKcXJJMVU1TEU5VDBCRHlLUk1zRUJtUDhwdkc3OEJHdlF0QThGdGF4cXdOVnJLX2RmRnA0N1JfYUItdW5GWnhCZzVmNjdfMDBXdnVuVkFSZzB0MHNUOHNaaW1LX21FeGw3UDlqdHBGSTRKS0ZCZ0N5NEl2SA?oc=5",
-      "source": "IndexBox",
-      "published_iso": "2026-09-25T13:13:48Z"
-    },
-    {
-      "title": "Armenian and Azerbaijan agree to ‘promote positive agenda’ amid tension - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEpkbmowQmJoRHFjblY0RDVnVmRoQldmYnlxX3RVdmYzNDhPMEtlVlBURklIbTFVQnZJYkhKMi1fLVB6UGpvaGFTSkt5U3hZc2hwczZyMkdDaEhFdTczSkRJRmRmbDB5ZHV5VG9vUTZfNjhJSms4akV4aUVlRU1NX1FnVGJYUDBNM2JBNERka2VQSHlBd3c?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-09-25T09:16:10Z"
     }
   ]
 }
