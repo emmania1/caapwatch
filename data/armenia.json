@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-09-30T16:39:18Z",
+  "updated_at": "2026-10-01T17:18:19Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Azerbaijani soldier detained after crossing into Armenia and shooting local resident - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUZGMHFmOUxWek05YjlJSXdkSGQ5UTVETndTNFlubU83cjgwVERSX2ltWlR6Zm5uQUVCcmx0b2ZBaUFtODZXSDBvR0pLaDlOaFFzeHVTRW1neWRITmtsSkFid1NKX3U1UU1yMVV3N0xVNUExbnM0Yk1XSkxxZjRUNlRwZzl2azRMQkxfeUEwSE1qblB0Q3N2NXZBQnVWaExMVTB1V3ZFaTYtZw?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-10-01T14:03:06Z"
+    },
+    {
+      "title": "Armenian PM Pashinyan sets peace agreement with Azerbaijan as key government priority - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TWGVScFVoWEF6SlJDQkZaaE9yaHBaX09Mam5QSHUxTFFUTlNrZThJWi0xbWIwbUNrc2t2Rk9GNlZseDVmMTBpaDBkRXY4bDk0dEQ1RTU2Yw?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-10-01T12:13:00Z"
+    },
+    {
+      "title": "Armenian Security Chief Sees No Threat From Turkey, as Pashinyan Meets with Erdogan in New York - The Armenian Mirror-Spectator",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlFrdjlKT21LY3VGWjFka2NzUDcxUzJkREt0U09FeHJocmYyU3NrSFZKSUREOUs2M1Q5eEJDYzlMUzBPYnAwQktHdGFDQXhYN0VTTHdfWl84bDFmcHMteWpkWDdhVTBoQ3pmRG1uVUVieUtkT1B6b29SRThPRi1ENTI0elpJMW9ta2ZicGlMQ1M4dm9XeFlsUjNNdmxodnplVDdBR00yeGZIcjJ1WF9ad1FmaE1EdjU5cXZxQWhiMUhhRzU5V0Zsb1RCOGhKem8?oc=5",
+      "source": "The Armenian Mirror-Spectator",
+      "published_iso": "2026-10-01T11:18:47Z"
+    },
+    {
+      "title": "Pashinyan says signing and ratifying initialed peace deal with Azerbaijan is priority - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UXhCN3pWU2RMVUduSDdEX1FlYWVJQmdSVkpBX1kxZEZIQlEtX0lmcmp5eHVaWGxwOFlWSU1RRnQ2YjZ1NlVFZGRsRDgxamJoSWfSAVdBVV95cUxPQ0c1UUx4SEwyYVRGY2taZTVtWFlxeGliWnpnQ1A0YVN5eHpheHBIRHRzNE5KcXBQSWZkWkU2RzR0ZW1PRExYQy1BZEFBNDI0aGpnYmJjS1k?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-10-01T09:03:00Z"
+    },
     {
       "title": "Did Pashinyan come to New York to address the U.N. or split up Armenian university students? - The Armenian Weekly",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0ZKcWZxNzliNnIxQnZKelFtUGJ3bmVUVVl2akRjVTdRSUZyeElIdU1feHo3cVAxdTl4Y1N0eGMwV01GNXE4TlVHOVlwQWpiTFZmR2Exd1lKdEI4M09na3B6ell4MUJqNTI0WUdNbEhaZUk5MnNTQ0tUWE5IcHhfSHpsZVRJNjFQSW1wMjFXRy1BSm9NSE5HRHlVZmxRaFRJcEJ0dFNZTVkwZHd0U2VCN0RtanFNMzcxRFNwUHRhMjduUURhY3FXSg?oc=5",
@@ -11,34 +35,10 @@
       "published_iso": "2026-09-29T16:12:47Z"
     },
     {
-      "title": "Why Is Azerbaijan Increasing Pressure on Armenia? - The Armenian Mirror-Spectator",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUdGT3Q2RV9kZ1p0MzY5QTRRUE9GTjVIcE9CUGdTNkVYU1hlSkZ3NFJfYW9NNFVCS3JRbzlNOGlmOVZ0a20ydEtBbTRPWVBYNm9fOFdNY2pPb1Q2TE05QzZiX0VLRkwwS0k1RmFqY3hyZjJmSTIyRks4MW91bWJQTEhhOXRXZTQ3UlNCOTMxNEloZw?oc=5",
-      "source": "The Armenian Mirror-Spectator",
-      "published_iso": "2026-09-29T15:48:14Z"
-    },
-    {
       "title": "Trump got the Caucasus peace deal. Now Europe is stuck in the past - Washington Examiner",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0xZQXc0TW9WVko5c1djLUVyQXFXaV9aSUtEVUZXcmJqdGdzX2Z6cW5PdlBIa29VOHNDN2NIMDdndU9UYkVseDRPRkFZSm9GVjBHU0loY0xJdEh6aU9RYUN0cG5pb0xvNW9icXBmRXNtOU1jVTlJQTlPdWdhWUMwTEgybjBmVlM0MjlqZy1PZ2cxS2k2MHcyNy1ETHhHMzQ?oc=5",
       "source": "Washington Examiner",
       "published_iso": "2026-09-29T14:00:00Z"
-    },
-    {
-      "title": "June 7 vote demonstrated state's ability to safeguard electoral process despite foreign interference, Armenian delegate says at PACE - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBUW1tT25vTXJKOWtUS2E5RUMyeWw3ZG5Wbnk4Z1pJdVl2aG8zWEVDNnl3S1NsLVBEUXhYeVY4RTdrTDczRXhQRjBROG5GZ1YyeWfSAVdBVV95cUxOTE9JaERsVTdLZG1RNmZyU3NFN1hYTXItUzQ1enBsdDVJdk5ZRW1vaXdjYTFoVGhreGhZMFBEbjd3VE9tQng5bnFVd2FnQjNIZ2FfZ1VHY0E?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-09-29T13:21:00Z"
-    },
-    {
-      "title": "European observers criticise Armenia’s decision to annul results in three polling stations - oc-media.org",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFVfTmkyRWtvQ2haVkl4UUVwd1ZzRE9EX29DalZXRTZGYUVpQzNlRzFMY1lXUjMxU0RUdjZaQXZaX2xNaF83c1NNRUFPTDV5Y0xkU2NkTkEtSEFMc2VRc1ZWS2ZWbXI3U2o3bmh4eGZaRGxZWlJqNUJzWC15Q2tsZXZzSl9PMjFtTVVHNGdOMmxTTjQ1OWszQjZhNnR0bl9OdkN5Z3V6RUQzZDlrdlpNeA?oc=5",
-      "source": "oc-media.org",
-      "published_iso": "2026-09-29T08:18:35Z"
-    },
-    {
-      "title": "Armenia and Azerbaijan at UNGA81: Two Visions of Peace and Regional Order - EVN Report",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbmtwckpyMUdXTUJNa0VVUmVFVW9LLUx6eGI0SHBVNTRJRS0yZnNHVDhQcmU0bFBmNklsMWJUVjk2cnhKMVo3a2ZxbHBtbVZHcGQ3S2pnN0JWbEtGOV9JbHZ4RVk5Yk5OYTB2QlItN29sazQ0NkdYMVp3ZV9halVYTG84bXROeF9aT24wX0xVNjd2SGdJOW40am5VWk9xc3VnbHpNUXFOSQ?oc=5",
-      "source": "EVN Report",
-      "published_iso": "2026-09-28T13:52:37Z"
     }
   ]
 }

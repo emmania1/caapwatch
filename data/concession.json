@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T16:38:58Z",
+  "updated_at": "2026-10-01T17:17:59Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Aeroportos de Juína, Cáceres e Tangará da Serra são incluídos no leilão do terminal de Brasília e vão receber melhorias - onortao.com.br",
+        "title": "Aeroportos de Juína, Cáceres e Tangará da Serra são incluídos no leilão do terminal de Brasília e vão receber melhorias - O NORTÃO",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVhIRDg0Sk1GdW1RMGpweTJiY2o1Z2RFUTNRX2oteGctVzlTa3FwbjF4OEZsaW15WTVKQk9FTk9sOFNkT1MwWHRmMVRnU0lnQXFIaEQ0U1diSUhub1c1REdUMk1ha1c5azdZV2dPZ3FGNGZWQmVBYkpkRFVScnN2bHNDcw?oc=5",
-        "source": "onortao.com.br",
+        "source": "O NORTÃO",
         "published_iso": "2026-09-28T11:30:00Z"
       },
       {
@@ -24,48 +24,48 @@
         "published_iso": "2026-09-21T07:00:00Z"
       },
       {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - conjur.com.br",
+        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
-        "source": "conjur.com.br",
+        "source": "Consultor Jurídico",
         "published_iso": "2026-09-19T07:00:00Z"
       },
       {
-        "title": "Anac publica edital para leilão do Aeroporto de Brasília, marcado para 17 de dezembro - Jornal Panorama Minas",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQjI0bTNORkN6bTN3V3VpQ3VJeEtZSExfakZBdW1fT19VaVVscEsxa0tZc2VJUjhZQ280ZHpiZk5sX0FKSTE5TDZrME9lQi1NanBKcFlHNlZFT2VRY0J2SnB4MzFJSVNPakxqeDA4QTlPZVlGaVZ3ZGpwT0dfV192TmFUTUdpYVdaNkNVUEUtRU1CR0RxSkZtV2NYczdTb2N2a3ZDNW1OaXgzMGRXZnhiZWVpZVdRaWx6UnRvMw?oc=5",
-        "source": "Jornal Panorama Minas",
-        "published_iso": "2026-09-19T07:00:00Z"
+        "title": "Leilão de concessão do Aeroporto de Brasília é marcado para dezembro - correiobraziliense.com.br",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGJ3WVpieGkzUUE3NndwOWtNNjNOSFlpWGdfYXM0TG1Qa3pUdDQ0d29TTzhqUjBVLTQwQXBXMXV1dExqb3RscG9DUVhkVzBuX19PbmtXQ0ZDajNVRXljdXhNazdxOVVTeURia0VyT19JcFE4M2FqVzFnT0ZpZHdsdzFfWTZ6UHBLY0lZZGdwZk1TREFqcHBqUld3WjU3QTZVNkhFMmFoa3RWdWktVUlOVU1hc2doM3NpdHljWGRraF9WOU9mek54T0dDMkdDSGx6WlFfWtIB2gFBVV95cUxNN1pnc1NseEdteUNjc1JOUGpGRllHNzgxci04Z3BlcDF2XzEzYlRrZzJyYVI3OEVKTGMzUGtTdEVsd1M2WjkyUTlRdVg2c1cyeXZBS09fbGZpd2JLNnU5TGRPN1o2TTR2Q0tVZFJvVlp1aDlzaE04c2dBTmNpbWJrOUJqNzBEaGg5OURqTUpXWmZSbVFlQnR1U3JaaDQtdURyY0t3LUpiNGVIaDZQYlVia2Q0Y1UxbC0wQlBKT1ZBc1FuMEp3S3RJTmZVcXJoei1aQnFxOGhWeUNVQQ?oc=5",
+        "source": "correiobraziliense.com.br",
+        "published_iso": "2026-09-10T07:00:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "Aeropuertos Argentina 2000 obtuvo una prórroga hasta 2049 en la concesión del servicio - Somos Pymes",
+        "title": "Aeropuertos Argentina acelerará inversiones por US$ 600 millones para ampliar capacidad aeroportuaria y fortalecer la logística aérea - Dinamicarg",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmtGY0NLT19QOVRKTDQ0VGdneWV1Vk1aVHdrRERWdnItN3NTRG5HaWFTLTB0Sjl3VjNSWjJUMS1xNEJfa29pV3lqVWhIUm1Rd0pvb29jTGxXLThOYW5qU3lqNGQyT1BfYkNNc24tMXBXSFZqQVloaExfdE85Q2VqU3pPaEhJbktzYS03YWFuTC1lcXhFbTFmWnAwMXcxVFRHOVR6YnRUYUNxMjRfQXF1bEFzSmVRb0xXUVlxM3puazhFOFpfWHZwbXVybEhuQUpoQ3BTYUF6QnZIQQ?oc=5",
+        "source": "Dinamicarg",
+        "published_iso": "2026-10-01T11:00:00Z"
+      },
+      {
+        "title": "Aeropuertos Argentina 2000 obtuvo una prórroga hasta 2049 en la concesión del servicio - somospymes.com.ar",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWpfSGFOeFM3SGxSQUNtVVBBWWloNnhCUE1qQlE2MURrSjNxUlMxcUhhMnNjSlVFbkJ1Y3YzbW1SRW50dmZDbkFUWldMQWd0Z2ZQYmQ5V0VLNTFYNWNkcHlZNjNZLUVWVUVBYkRKVFpVV0kwOVNXTDdFWkFnX1IxQ0V6ZFJvYS1qWldnMi1peW5SdXVkd3FjZlo1bjdTaHpmaEVvMGZjMTk0VzdRLXFVNnNienR6LXdEcS1wcmo3OTRtaEZJcERLMDZFLXUxdzRi0gHWAUFVX3lxTE9BT0F1UlpjOVdLNV9zazBOdF9qTy1hbm9ST0FnS1pFZ3J5eXF1eVVHaG9XY2dENF84OEZsZ0Y2MnA3ZzBIZEpobFFzbmItLVFKQUIxZ2hBZWdibGlxNlFpb3c1UnNtbFNDdUV2MHp5LVRTNlJhM0lvQTk5SUtJYkhJMnFnYjQ3MFpsOXAzdUdLb054RTJYN3JXMkg3VmR6eURjM080VGFpbm9IeU5adTFKTW9fTkxmR0hzMmVUeHhMUGlPUWtqeDlNc2s5U1pzTXpNcS1XLWc?oc=5",
-        "source": "Somos Pymes",
+        "source": "somospymes.com.ar",
         "published_iso": "2026-09-28T20:11:15Z"
       },
       {
-        "title": "Aeropuertos Argentina invertirá u$s600 M para transformar Ezeiza - iprofesional.com",
+        "title": "Aeropuertos Argentina invertirá u$s600 M para transformar Ezeiza - iProfesional",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWZ1N3lBbmpDZGtiVThmTlFjWnpyZmhyMlVkR09scjk1aTd4VlVKLV96d0htR18xYXpFalBhRHhXc3Rjc0VUU2ZFOHZPWm5tNlo2RThrYXRFNmRLejFmcEl5c2dXWXRheW12WkNid0FRa1VlZlVHZ0ZfcU1HaW9BS3ZuVUQwc3M2dHlld0MtMndKcnpqV1RGS3VTSnZydHBTLTFOQ0RWU0hCSnF00gGyAUFVX3lxTE1DUzVPRExPbUtpNGV3MUZXYzRrbVo2c3NBbVo3UGlXTzk0V1JGbmJBbWo1LWNTWGliMjktRDNQMXJiZUZzeXdIRzI2dWh4aUc1WWVLTmRDR0hzdC1EX2VnWW05M0hrZG9PZWpFUW9RVzQwcGtseFlkT0UtaG0yR1hJM3VVRjhjdm9nYzZrX3hvd3R0d0ZiS1ZLRVN1Vi1LTHh1dVFKS0pvOTdnTlZOdnJNV0E?oc=5",
-        "source": "iprofesional.com",
+        "source": "iProfesional",
         "published_iso": "2026-09-28T19:35:00Z"
+      },
+      {
+        "title": "El Gobierno y Aeropuertos Argentina acordaron extender la concesión de servicios hasta 2049: se esperan inversiones por USD 600 millones - Infobae",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQX3o4c0ItbjZmUWt6TndRQ2FNRE9FNjgtdmlETTFxSzluYm1BZVdzbjJyZkh3Q3lUcjVmbjdxQTExNlg1OHN1dXJjT1ZVblp3eTM3dkZMWHBwSWYyakhGUm5mWnlzR1dOS3pKNkNNd09GelR3TnNWMFF2eUVoa3RVLWgyZHhxWW5ZeWtrRDIyTlA4c3lpRXBZSWpUaDFmVGhXOVFVX0VVeFROSTM2bVg3RXBZOEM1YkNrQlFNYmZzMGxQMGhkeWJFSlhFeThtZERCeFg2UGJKR0RxajE1UTcxVVBpQWtPcXlibUdHMTBBOGxJdFRLU2FhNXdvWWgxMGlvTURzekFuaWZjSmly0gGnAkFVX3lxTE5iTkRkc2todG94bzlZU0MwWllHT2YzNHFYakRlM0dXSWxPdzNscUtBYlFMV01CVmhOeHlPTXpZZzhfN19vdnlIRVBRSWtvc18zYko1ZTJES2ZlMHNZdlc2dF9IWXB0UFZUalNXM2RNcFVHTUo2VW04TFZpNXNHMU41UFhpbEF2blRFc3dYck5nWmM4cWdPRncyY2FTdEUzalpPWjdJNVlmRWNpdmdjejluY0VZX1VadUIxRUN2ZjNIczZHWXBVeC15OExPSE9kN3gwbkRMcUhreW9UYThjdG5JSU1yelZMdDBHakVmbjlqdlFfZ1JKTk9YaFVZUUwwN1RuMGZuRFRDbGVsRy15ekNxRlJ2WlU3dVNuLXJUVXA1bU1SUWsyNUU?oc=5",
+        "source": "Infobae",
+        "published_iso": "2026-09-28T18:35:00Z"
       },
       {
         "title": "El Gobierno nacional extendió la concesión de Aeropuertos Argentina hasta 2056 y fijó inversiones millonarias - Mirador Provincial",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX2VEVEZsNDQtNHk0Vmtyb3VBblVPZUN2X3Z1UHhHcjJLZlhDRTduVkRFVXhTeWstSmZpQ1RMRXV4WGFfdUtRWDJ3TDA4TEZ3eVJkVmhLR0lpeWY5empianpmZGVSNlZIbnBXSzY5OURyclQ5RXowaGt1WGFzOVVYU2F6SlBmdHFUZmNEa21kVEpTbXBhREdzdjNXczZyTHdCQjBGdGE2UnR2ZUFyQzE0bE1Ra0xYWVFnMUs2Vk94UHhDUzFpVEtZUmRGbjEyWk5rakVBWXQzQjNUa3hxQld6WUVnV1A0ZXpHWUU4?oc=5",
         "source": "Mirador Provincial",
         "published_iso": "2026-09-28T18:30:17Z"
-      },
-      {
-        "title": "El Gobierno extendió la concesión de Aeropuertos Argentina y fijó inversiones por US$600 millones - El Litoral",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaTJYV0J6eGYzQU5DVWl2T0ZnU09VbkJWWk5vMFlqY2QxZVE5ZDB3dHlDSjlUazBNdXp6LXE3YnBOczM4dUhEY0xJODNUYWw3QWthVHpsSWllYjF5WktrOHljVW9TU0k0SFBxRDJYVHhyTzh1ZnA5bWVLSXZTZVhQX2gxVlNOeDIxdG90dkZaSUtMVl9YZG1ZQXFtVzFPQ0d4SWpDZWRoRy00Q1hqZ0Jud2diMW1pYmgtQllZLUZZNkVDdkg2ZUl1ZDBUSlZXRV8ydWJxcHdjaEfSAd4BQVVfeXFMTTU4cjhqVFdmX3dsRm5ESDdKdmVmRUxYTlNHYUtWYjZTU2JDUHJuLWx0MGJiNEw0MEdIQmtseEcwd0lvMVNVVFREWUMwWU84Wkl1U0tzNmZBcWp1M21CejkxMkNhYWpJeHNLWXd3Smt6bzlpWFUzcXZkTEJEWFhZVlBVYldVVlR1UXBCdC1mdUg5OXBBZmNDSkZ2Qy1pclFyeHlsZkFleGNMS2tEVVdvRUFCOUhzM0hacmRHN1J4WTlsNnJoQUp3WnpwZlczN2JKd0lDT196eURlUkROUk5B?oc=5",
-        "source": "El Litoral",
-        "published_iso": "2026-09-28T17:59:18Z"
-      },
-      {
-        "title": "El Gobierno y Aeropuertos Argentina extendieron la concesión de servicios hasta 2049: los detalles del acuerdo - Forbes Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUVfVFRiVzFFcm5OUU1tZ1VRM1ZkVkdObnUtQTk5LXRGOXhkMTl3NjdvSTN4Um16V1RQUlJHcUJYc2J6aE05OUpZamd6WERyTi0tMkUwakhwSDN2TlNSREVWTWpvWUtxRnZ2VW9UT2hYUjJYeXpJb1dTWWxMNE9QbDJ0SDBqeTdXSmJNbHdLX2NzX1V2SGxiSFNCaG9NX3BHSHVMaFVNZzh0b25CajE3OGRWYlBqUEJjRHFhSzdtU0RodWtkRU5TXzZkWVBRWTlv0gHWAUFVX3lxTE1aUkxQX1I3M2dOdHZMcjFBLWxsdm4xWkhUcjNBNlFSdVczM2loanJ1YnBEN0RINUl0YWFuRG1Ha3pENFc5M3Q1bmM3U081VW5hQ2ZyenFKMlE5aUVvdkc5RkJNUTh6ZjJJNXQ5VkVwdUs4STFheUpMRWY4RWhaS0wwb2dHNmdfTS1NSVdwaGdGdzlSOHYyZXJGUXlnNWNLZk9ZQkpwRTc5cW04SUtXTUVQaVFrY24taVRPZHJ5cDJCYUFSSk1oQ0Q1M3pHVjdHa1VlYkNDMlE?oc=5",
-        "source": "Forbes Argentina",
-        "published_iso": "2026-09-28T15:02:39Z"
       }
     ]
   }
