@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-10-01T17:17:59Z",
+  "updated_at": "2026-10-02T16:28:48Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Aeroportos de Juína, Cáceres e Tangará da Serra são incluídos no leilão do terminal de Brasília e vão receber melhorias - O NORTÃO",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVhIRDg0Sk1GdW1RMGpweTJiY2o1Z2RFUTNRX2oteGctVzlTa3FwbjF4OEZsaW15WTVKQk9FTk9sOFNkT1MwWHRmMVRnU0lnQXFIaEQ0U1diSUhub1c1REdUMk1ha1c5azdZV2dPZ3FGNGZWQmVBYkpkRFVScnN2bHNDcw?oc=5",
-        "source": "O NORTÃO",
-        "published_iso": "2026-09-28T11:30:00Z"
-      },
-      {
-        "title": "Aeroporto de Brasília terá novo terminal após leilão - Revista Asas",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2JRaUxRUTE3SUQ0M2pSdE9rWnQ0aEJBb3d5dHVyLW11Vnc2VGlvVnZ1ZHYtVVp5VUJWUUdLZy01ZkhKUHJPbDYyN1cyRXplY013QnYxQkJ3NVRyQWdkRW4xNGR3MURsaHFoOHNmXzdoVm1rYURLTUl0dVBPUU01N19rT0NkellndXh1UFh2NHg?oc=5",
-        "source": "Revista Asas",
-        "published_iso": "2026-09-25T09:10:17Z"
+        "title": "Como uma concessão de infraestrutura pode mudar de controlador sem interromper a operação - Estadão Blue Studio",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0ZIMWI4YU1qVVZJUVdLV2tIb1JwUWV2VDJNSWRDQl9OcFlEbzVxMGNtXzJLR1U2bHJPRTNHZm9WOTctYmxxUk53NHE2MjQyS3RrZ1d0d2V2TGVYSXNWbzlITndyeDlPVmVxNXZSZE1NWFlOQWVNV1ZOVjlUbVhmUHRrR2RtdHV0alotcjNHUGFBQThNd1d6Yi1QUnhUNHVzTlEwdlFzdWhBMFF5ejdzZ1R0QUswaGphYjRWdVkyeUQxbmtOQUJ0YlluY3lhc1doblRETWdKSVJHc01hRGRIT2RNbVE0ajB6M0hMMmtjYk5XRWo5dThoenlHOXd5eEtfV3VjMw?oc=5",
+        "source": "Estadão Blue Studio",
+        "published_iso": "2026-10-02T12:23:54Z"
       },
       {
         "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
@@ -24,19 +18,31 @@
         "published_iso": "2026-09-21T07:00:00Z"
       },
       {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
+        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - conjur.com.br",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
-        "source": "Consultor Jurídico",
+        "source": "conjur.com.br",
         "published_iso": "2026-09-19T07:00:00Z"
       },
       {
-        "title": "Leilão de concessão do Aeroporto de Brasília é marcado para dezembro - correiobraziliense.com.br",
+        "title": "Leilão de concessão do Aeroporto de Brasília é marcado para dezembro - Correio Braziliense",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGJ3WVpieGkzUUE3NndwOWtNNjNOSFlpWGdfYXM0TG1Qa3pUdDQ0d29TTzhqUjBVLTQwQXBXMXV1dExqb3RscG9DUVhkVzBuX19PbmtXQ0ZDajNVRXljdXhNazdxOVVTeURia0VyT19JcFE4M2FqVzFnT0ZpZHdsdzFfWTZ6UHBLY0lZZGdwZk1TREFqcHBqUld3WjU3QTZVNkhFMmFoa3RWdWktVUlOVU1hc2doM3NpdHljWGRraF9WOU9mek54T0dDMkdDSGx6WlFfWtIB2gFBVV95cUxNN1pnc1NseEdteUNjc1JOUGpGRllHNzgxci04Z3BlcDF2XzEzYlRrZzJyYVI3OEVKTGMzUGtTdEVsd1M2WjkyUTlRdVg2c1cyeXZBS09fbGZpd2JLNnU5TGRPN1o2TTR2Q0tVZFJvVlp1aDlzaE04c2dBTmNpbWJrOUJqNzBEaGg5OURqTUpXWmZSbVFlQnR1U3JaaDQtdURyY0t3LUpiNGVIaDZQYlVia2Q0Y1UxbC0wQlBKT1ZBc1FuMEp3S3RJTmZVcXJoei1aQnFxOGhWeUNVQQ?oc=5",
-        "source": "correiobraziliense.com.br",
+        "source": "Correio Braziliense",
+        "published_iso": "2026-09-10T07:00:00Z"
+      },
+      {
+        "title": "Anac aprova edital para concessão do Aeroporto Internacional de Brasília - R7",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUUhmUTE2UFJUXzhRX0pTUWdHSFBHVklDeDFQMzZQa1g5NFlLSTlOMlREWjkxTEw0eXVTVl96RjJNNmg1Y0dpbDRnVEc5b3c4OWNpMzFhU1VSRXIyQlllMjRjR21rY0h3OXllUi1MTHZseFlLRzlFSkdvNDlQRk8wWXY4NkxST29ibWI0clZWMjdhZmhQclcxYWkzODFIYUNTQUNaU3dlZ2RFNEtxR3hTYS1RQ1JZUHNZbFBYT2MyZ29hSzVTeS1EaFZfdw?oc=5",
+        "source": "R7",
         "published_iso": "2026-09-10T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "El Gobierno extendió la concesión de los aeropuertos hasta 2056: qué acordó con Aeropuertos Argentina 2000 - Enterate Noticias",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjBmanV6RS1kcVFya2VBblhXOHdUSFRuT1gwOTAyd1VpMWNMcXZydkxFN0ZBbzBqSU15cjFNYUdWMHIxY1poS0VNaWN4Wm5TWXZLVExTb1NLRnBEejZSY084U2tuNFpZQ2J4d2NNUndqdmZqY0RId2NVbzJDd2xnVml4Y2NZc3oxdG5rd1JaMU5wc0U?oc=5",
+        "source": "Enterate Noticias",
+        "published_iso": "2026-10-01T18:22:33Z"
+      },
       {
         "title": "Aeropuertos Argentina acelerará inversiones por US$ 600 millones para ampliar capacidad aeroportuaria y fortalecer la logística aérea - Dinamicarg",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmtGY0NLT19QOVRKTDQ0VGdneWV1Vk1aVHdrRERWdnItN3NTRG5HaWFTLTB0Sjl3VjNSWjJUMS1xNEJfa29pV3lqVWhIUm1Rd0pvb29jTGxXLThOYW5qU3lqNGQyT1BfYkNNc24tMXBXSFZqQVloaExfdE85Q2VqU3pPaEhJbktzYS03YWFuTC1lcXhFbTFmWnAwMXcxVFRHOVR6YnRUYUNxMjRfQXF1bEFzSmVRb0xXUVlxM3puazhFOFpfWHZwbXVybEhuQUpoQ3BTYUF6QnZIQQ?oc=5",
@@ -44,9 +50,9 @@
         "published_iso": "2026-10-01T11:00:00Z"
       },
       {
-        "title": "Aeropuertos Argentina 2000 obtuvo una prórroga hasta 2049 en la concesión del servicio - somospymes.com.ar",
+        "title": "Aeropuertos Argentina 2000 obtuvo una prórroga hasta 2049 en la concesión del servicio - Somos Pymes",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWpfSGFOeFM3SGxSQUNtVVBBWWloNnhCUE1qQlE2MURrSjNxUlMxcUhhMnNjSlVFbkJ1Y3YzbW1SRW50dmZDbkFUWldMQWd0Z2ZQYmQ5V0VLNTFYNWNkcHlZNjNZLUVWVUVBYkRKVFpVV0kwOVNXTDdFWkFnX1IxQ0V6ZFJvYS1qWldnMi1peW5SdXVkd3FjZlo1bjdTaHpmaEVvMGZjMTk0VzdRLXFVNnNienR6LXdEcS1wcmo3OTRtaEZJcERLMDZFLXUxdzRi0gHWAUFVX3lxTE9BT0F1UlpjOVdLNV9zazBOdF9qTy1hbm9ST0FnS1pFZ3J5eXF1eVVHaG9XY2dENF84OEZsZ0Y2MnA3ZzBIZEpobFFzbmItLVFKQUIxZ2hBZWdibGlxNlFpb3c1UnNtbFNDdUV2MHp5LVRTNlJhM0lvQTk5SUtJYkhJMnFnYjQ3MFpsOXAzdUdLb054RTJYN3JXMkg3VmR6eURjM080VGFpbm9IeU5adTFKTW9fTkxmR0hzMmVUeHhMUGlPUWtqeDlNc2s5U1pzTXpNcS1XLWc?oc=5",
-        "source": "somospymes.com.ar",
+        "source": "Somos Pymes",
         "published_iso": "2026-09-28T20:11:15Z"
       },
       {
@@ -56,15 +62,9 @@
         "published_iso": "2026-09-28T19:35:00Z"
       },
       {
-        "title": "El Gobierno y Aeropuertos Argentina acordaron extender la concesión de servicios hasta 2049: se esperan inversiones por USD 600 millones - Infobae",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQX3o4c0ItbjZmUWt6TndRQ2FNRE9FNjgtdmlETTFxSzluYm1BZVdzbjJyZkh3Q3lUcjVmbjdxQTExNlg1OHN1dXJjT1ZVblp3eTM3dkZMWHBwSWYyakhGUm5mWnlzR1dOS3pKNkNNd09GelR3TnNWMFF2eUVoa3RVLWgyZHhxWW5ZeWtrRDIyTlA4c3lpRXBZSWpUaDFmVGhXOVFVX0VVeFROSTM2bVg3RXBZOEM1YkNrQlFNYmZzMGxQMGhkeWJFSlhFeThtZERCeFg2UGJKR0RxajE1UTcxVVBpQWtPcXlibUdHMTBBOGxJdFRLU2FhNXdvWWgxMGlvTURzekFuaWZjSmly0gGnAkFVX3lxTE5iTkRkc2todG94bzlZU0MwWllHT2YzNHFYakRlM0dXSWxPdzNscUtBYlFMV01CVmhOeHlPTXpZZzhfN19vdnlIRVBRSWtvc18zYko1ZTJES2ZlMHNZdlc2dF9IWXB0UFZUalNXM2RNcFVHTUo2VW04TFZpNXNHMU41UFhpbEF2blRFc3dYck5nWmM4cWdPRncyY2FTdEUzalpPWjdJNVlmRWNpdmdjejluY0VZX1VadUIxRUN2ZjNIczZHWXBVeC15OExPSE9kN3gwbkRMcUhreW9UYThjdG5JSU1yelZMdDBHakVmbjlqdlFfZ1JKTk9YaFVZUUwwN1RuMGZuRFRDbGVsRy15ekNxRlJ2WlU3dVNuLXJUVXA1bU1SUWsyNUU?oc=5",
-        "source": "Infobae",
-        "published_iso": "2026-09-28T18:35:00Z"
-      },
-      {
-        "title": "El Gobierno nacional extendió la concesión de Aeropuertos Argentina hasta 2056 y fijó inversiones millonarias - Mirador Provincial",
+        "title": "El Gobierno nacional extendió la concesión de Aeropuertos Argentina hasta 2056 y fijó inversiones millonarias - miradorprovincial.com",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX2VEVEZsNDQtNHk0Vmtyb3VBblVPZUN2X3Z1UHhHcjJLZlhDRTduVkRFVXhTeWstSmZpQ1RMRXV4WGFfdUtRWDJ3TDA4TEZ3eVJkVmhLR0lpeWY5empianpmZGVSNlZIbnBXSzY5OURyclQ5RXowaGt1WGFzOVVYU2F6SlBmdHFUZmNEa21kVEpTbXBhREdzdjNXczZyTHdCQjBGdGE2UnR2ZUFyQzE0bE1Ra0xYWVFnMUs2Vk94UHhDUzFpVEtZUmRGbjEyWk5rakVBWXQzQjNUa3hxQld6WUVnV1A0ZXpHWUU4?oc=5",
-        "source": "Mirador Provincial",
+        "source": "miradorprovincial.com",
         "published_iso": "2026-09-28T18:30:17Z"
       }
     ]

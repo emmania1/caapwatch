@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-10-01T17:18:19Z",
+  "updated_at": "2026-10-02T16:29:08Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Azerbaijani soldier detained after crossing into Armenia and shooting local resident - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUZGMHFmOUxWek05YjlJSXdkSGQ5UTVETndTNFlubU83cjgwVERSX2ltWlR6Zm5uQUVCcmx0b2ZBaUFtODZXSDBvR0pLaDlOaFFzeHVTRW1neWRITmtsSkFid1NKX3U1UU1yMVV3N0xVNUExbnM0Yk1XSkxxZjRUNlRwZzl2azRMQkxfeUEwSE1qblB0Q3N2NXZBQnVWaExMVTB1V3ZFaTYtZw?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-10-01T14:03:06Z"
+      "title": "Top Azerbaijani official speaks about importance of consolidating peace with Armenia - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xNDhyRk9zX01uNDFTQVI3UG8tcjhEMjhjdDlhMF9KdW9nMVJZa01palpZaHdyVG1lMHcxdDQ4VzNnUFZuc2p2bDdoblU1M1FpeFHSAVdBVV95cUxOQkJ6Vy0zODdOSFRHcjkwNkhLTDlpRjZZdEJJSlZwdkNMejVrSHBHcGlJeHdES3BoVFRwMmkwN3lPa1pCcDJ2ODU4TzYwaDl4QVdaX1FYNTQ?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-10-02T09:00:00Z"
     },
     {
-      "title": "Armenian PM Pashinyan sets peace agreement with Azerbaijan as key government priority - AzerNews",
+      "title": "Azerbaijan says Armenian constitutional change needed for final peace treaty - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkN2VkhNVlgzWm51R1Z1NGhpSzllNlFkRXRSNVphYzBqdDMyRG5xUVFDOHh3UUxmVlliaTlSUHMtdmljOXZCTTJzbjZLVjJ1NGZzWUVaOUJ4Y2h6eTI1dlpfSVExamk3QzhVWGNMWDZIUzNKMnBzcEhlWVN3WkNoR2psblMzYjY2aWktWVc2YzJMakJMbVBkWWV3eUYxdw?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_iso": "2026-10-02T05:48:20Z"
+    },
+    {
+      "title": "Armenian PM Pashinyan sets peace agreement with Azerbaijan as key government priority - azernews.az",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TWGVScFVoWEF6SlJDQkZaaE9yaHBaX09Mam5QSHUxTFFUTlNrZThJWi0xbWIwbUNrc2t2Rk9GNlZseDVmMTBpaDBkRXY4bDk0dEQ1RTU2Yw?oc=5",
-      "source": "AzerNews",
+      "source": "azernews.az",
       "published_iso": "2026-10-01T12:13:00Z"
     },
     {
-      "title": "Armenian Security Chief Sees No Threat From Turkey, as Pashinyan Meets with Erdogan in New York - The Armenian Mirror-Spectator",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQlFrdjlKT21LY3VGWjFka2NzUDcxUzJkREt0U09FeHJocmYyU3NrSFZKSUREOUs2M1Q5eEJDYzlMUzBPYnAwQktHdGFDQXhYN0VTTHdfWl84bDFmcHMteWpkWDdhVTBoQ3pmRG1uVUVieUtkT1B6b29SRThPRi1ENTI0elpJMW9ta2ZicGlMQ1M4dm9XeFlsUjNNdmxodnplVDdBR00yeGZIcjJ1WF9ad1FmaE1EdjU5cXZxQWhiMUhhRzU5V0Zsb1RCOGhKem8?oc=5",
-      "source": "The Armenian Mirror-Spectator",
-      "published_iso": "2026-10-01T11:18:47Z"
+      "title": "Azerbaijani soldier detained after crossing into Armenia and shooting local resident - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeUZGMHFmOUxWek05YjlJSXdkSGQ5UTVETndTNFlubU83cjgwVERSX2ltWlR6Zm5uQUVCcmx0b2ZBaUFtODZXSDBvR0pLaDlOaFFzeHVTRW1neWRITmtsSkFid1NKX3U1UU1yMVV3N0xVNUExbnM0Yk1XSkxxZjRUNlRwZzl2azRMQkxfeUEwSE1qblB0Q3N2NXZBQnVWaExMVTB1V3ZFaTYtZw?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-10-01T09:59:17Z"
     },
     {
-      "title": "Pashinyan says signing and ratifying initialed peace deal with Azerbaijan is priority - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UXhCN3pWU2RMVUduSDdEX1FlYWVJQmdSVkpBX1kxZEZIQlEtX0lmcmp5eHVaWGxwOFlWSU1RRnQ2YjZ1NlVFZGRsRDgxamJoSWfSAVdBVV95cUxPQ0c1UUx4SEwyYVRGY2taZTVtWFlxeGliWnpnQ1A0YVN5eHpheHBIRHRzNE5KcXBQSWZkWkU2RzR0ZW1PRExYQy1BZEFBNDI0aGpnYmJjS1k?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-10-01T09:03:00Z"
+      "title": "Armenian Captives’ Rights Discussed at UN Event in Geneva - Asbarez",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZHN2V3h3dWJuM1RVc2VtbzZVRDdvWUdhUGdwcnNScnZ6ejhSLWlpaU50M3dnZTYwSFlKdGVUcFY1eXJTZS1YU1Y5V1ZsVjVaZHlDZ3g2bEJXcTQtQUNtZjQwODZ4NW9GMk9DWFo0X1pjSHd0YnlhNGFUNkhybHVKbjc3TE02LW1BdlUzcWtLdVU3Qi1zLXM2anloVFc?oc=5",
+      "source": "Asbarez",
+      "published_iso": "2026-09-30T20:54:30Z"
     },
     {
-      "title": "Did Pashinyan come to New York to address the U.N. or split up Armenian university students? - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0ZKcWZxNzliNnIxQnZKelFtUGJ3bmVUVVl2akRjVTdRSUZyeElIdU1feHo3cVAxdTl4Y1N0eGMwV01GNXE4TlVHOVlwQWpiTFZmR2Exd1lKdEI4M09na3B6ell4MUJqNTI0WUdNbEhaZUk5MnNTQ0tUWE5IcHhfSHpsZVRJNjFQSW1wMjFXRy1BSm9NSE5HRHlVZmxRaFRJcEJ0dFNZTVkwZHd0U2VCN0RtanFNMzcxRFNwUHRhMjduUURhY3FXSg?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-09-29T16:12:47Z"
-    },
-    {
-      "title": "Trump got the Caucasus peace deal. Now Europe is stuck in the past - Washington Examiner",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX0xZQXc0TW9WVko5c1djLUVyQXFXaV9aSUtEVUZXcmJqdGdzX2Z6cW5PdlBIa29VOHNDN2NIMDdndU9UYkVseDRPRkFZSm9GVjBHU0loY0xJdEh6aU9RYUN0cG5pb0xvNW9icXBmRXNtOU1jVTlJQTlPdWdhWUMwTEgybjBmVlM0MjlqZy1PZ2cxS2k2MHcyNy1ETHhHMzQ?oc=5",
-      "source": "Washington Examiner",
-      "published_iso": "2026-09-29T14:00:00Z"
+      "title": "Why Is Azerbaijan Increasing Pressure on Armenia? - mirrorspectator.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUdGT3Q2RV9kZ1p0MzY5QTRRUE9GTjVIcE9CUGdTNkVYU1hlSkZ3NFJfYW9NNFVCS3JRbzlNOGlmOVZ0a20ydEtBbTRPWVBYNm9fOFdNY2pPb1Q2TE05QzZiX0VLRkwwS0k1RmFqY3hyZjJmSTIyRks4MW91bWJQTEhhOXRXZTQ3UlNCOTMxNEloZw?oc=5",
+      "source": "mirrorspectator.com",
+      "published_iso": "2026-09-29T15:48:14Z"
     }
   ]
 }
