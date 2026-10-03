@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:28:48Z",
+  "updated_at": "2026-10-03T15:04:29Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -18,9 +18,9 @@
         "published_iso": "2026-09-21T07:00:00Z"
       },
       {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - conjur.com.br",
+        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
-        "source": "conjur.com.br",
+        "source": "Consultor Jurídico",
         "published_iso": "2026-09-19T07:00:00Z"
       },
       {
@@ -37,6 +37,12 @@
       }
     ],
     "aa2000": [
+      {
+        "title": "Aeropuertos Argentina extiende la concesión y compromete US$600 millones en inversiones - La Capital",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ20tZ2ZHY25lc0ZMUlVpejVzUkRJbmZMSkwtam1ZR3NFcS1DX2FOWmlDX0pwTGhMR09zelQ0dVVqbENNVmU0bWdrRHVBbFlRNEh4YVU0elVoMVoxNW9kdDNJblNwWVlGWkc4T0kwallCb3ZOcU9OaWx4TnVOMWx3aTZMVlZZVVJsODZqZjcyMEM1dnZIUXR6dTlUSzR5Q1FyZDNRTHlPNHJVenR3cHNNOUVBQnVqLVVNTFd0b0hFamItc0JMQ3hvWDZjWDJaWkFr0gHWAUFVX3lxTE9qNlBsTVNoMF96cm1VV2M3WnNmVzlib05RRHg1bGNhTVRENlZSMm9CU2ZOVzI5ZkVQOXJPTmYxT3JZay1HZkdQUjZEYmNaYjNIMXhfZlo5RFZJdXM3cXlXYXg5NlRQLWJweEhWdUw4ZmJnQzNFSFRzUDVpQ0JmX1JhVXE2UnVEMEV3SWxKTmhESFFQWE16d2hmWUNzeE1Bek5qaUJEVkUtZ0JXVHdGQU1pMVkyVDJYaG1ZXzJaOEJQQi1qeGRhQ0RjME5POXFrXzJVRjhNWnc?oc=5",
+        "source": "La Capital",
+        "published_iso": "2026-10-03T10:00:00Z"
+      },
       {
         "title": "El Gobierno extendió la concesión de los aeropuertos hasta 2056: qué acordó con Aeropuertos Argentina 2000 - Enterate Noticias",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjBmanV6RS1kcVFya2VBblhXOHdUSFRuT1gwOTAyd1VpMWNMcXZydkxFN0ZBbzBqSU15cjFNYUdWMHIxY1poS0VNaWN4Wm5TWXZLVExTb1NLRnBEejZSY084U2tuNFpZQ2J4d2NNUndqdmZqY0RId2NVbzJDd2xnVml4Y2NZc3oxdG5rd1JaMU5wc0U?oc=5",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcWZ1N3lBbmpDZGtiVThmTlFjWnpyZmhyMlVkR09scjk1aTd4VlVKLV96d0htR18xYXpFalBhRHhXc3Rjc0VUU2ZFOHZPWm5tNlo2RThrYXRFNmRLejFmcEl5c2dXWXRheW12WkNid0FRa1VlZlVHZ0ZfcU1HaW9BS3ZuVUQwc3M2dHlld0MtMndKcnpqV1RGS3VTSnZydHBTLTFOQ0RWU0hCSnF00gGyAUFVX3lxTE1DUzVPRExPbUtpNGV3MUZXYzRrbVo2c3NBbVo3UGlXTzk0V1JGbmJBbWo1LWNTWGliMjktRDNQMXJiZUZzeXdIRzI2dWh4aUc1WWVLTmRDR0hzdC1EX2VnWW05M0hrZG9PZWpFUW9RVzQwcGtseFlkT0UtaG0yR1hJM3VVRjhjdm9nYzZrX3hvd3R0d0ZiS1ZLRVN1Vi1LTHh1dVFKS0pvOTdnTlZOdnJNV0E?oc=5",
         "source": "iProfesional",
         "published_iso": "2026-09-28T19:35:00Z"
-      },
-      {
-        "title": "El Gobierno nacional extendió la concesión de Aeropuertos Argentina hasta 2056 y fijó inversiones millonarias - miradorprovincial.com",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX2VEVEZsNDQtNHk0Vmtyb3VBblVPZUN2X3Z1UHhHcjJLZlhDRTduVkRFVXhTeWstSmZpQ1RMRXV4WGFfdUtRWDJ3TDA4TEZ3eVJkVmhLR0lpeWY5empianpmZGVSNlZIbnBXSzY5OURyclQ5RXowaGt1WGFzOVVYU2F6SlBmdHFUZmNEa21kVEpTbXBhREdzdjNXczZyTHdCQjBGdGE2UnR2ZUFyQzE0bE1Ra0xYWVFnMUs2Vk94UHhDUzFpVEtZUmRGbjEyWk5rakVBWXQzQjNUa3hxQld6WUVnV1A0ZXpHWUU4?oc=5",
-        "source": "miradorprovincial.com",
-        "published_iso": "2026-09-28T18:30:17Z"
       }
     ]
   }
