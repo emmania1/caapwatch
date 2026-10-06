@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-05T19:30:23Z",
+  "updated_at": "2026-10-06T17:02:29Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Como uma concessão de infraestrutura pode mudar de controlador sem interromper a operação - bluestudio.estadao.com.br",
+        "title": "Como uma concessão de infraestrutura pode mudar de controlador sem interromper a operação - Estadão Blue Studio",
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0ZIMWI4YU1qVVZJUVdLV2tIb1JwUWV2VDJNSWRDQl9OcFlEbzVxMGNtXzJLR1U2bHJPRTNHZm9WOTctYmxxUk53NHE2MjQyS3RrZ1d0d2V2TGVYSXNWbzlITndyeDlPVmVxNXZSZE1NWFlOQWVNV1ZOVjlUbVhmUHRrR2RtdHV0alotcjNHUGFBQThNd1d6Yi1QUnhUNHVzTlEwdlFzdWhBMFF5ejdzZ1R0QUswaGphYjRWdVkyeUQxbmtOQUJ0YlluY3lhc1doblRETWdKSVJHc01hRGRIT2RNbVE0ajB6M0hMMmtjYk5XRWo5dThoenlHOXd5eEtfV3VjMw?oc=5",
-        "source": "bluestudio.estadao.com.br",
+        "source": "Estadão Blue Studio",
         "published_iso": "2026-10-02T12:23:54Z"
       },
       {
@@ -18,25 +18,31 @@
         "published_iso": "2026-09-21T07:00:00Z"
       },
       {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - conjur.com.br",
+        "title": "Zurich Airports deve disputar Aeroporto de Brasília com a atual concessionária argentina - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUZYWDBGZ2wwN0VhRUg1LTB2T2JjSjdCaGZ4aE1tSUVGR0ZTd2tZbmhla25RWktzRnBLcDFEOTBUNjlIVmpVUFlkU0NrRzR4djdleDNfUmtDOTNzeEVZQTExTHcycXQtdmhveG96cEJ6RV85c1pjTXk5cjV3bWlNVEdHOFk4TXl0YjNaWHJNUGtMWHdmT0NBWHo5ODRSRkZnX1V6WTBGZ1BPaEhP0gGsAUFVX3lxTE91RlhYMEZnbDA3RWFFSDUtMHZPYmNKN0JoZnhoTW1JRUZHRlN3a1luaGVrblFaS3NGcEtwMUQ5MFQ2OUhWalVQWWRTQ2tHNHh2N2V4M19Sa0M5M3N4RVlBMTFMdzJxdC12aG94b3pwQnpFXzlzWmNNeTlyNXdtaU1UR0c4WThNeXRiM1pYck1Qa0xYd2ZPQ0FYejk4NFJGRmdfVXpZMEZnUE9oSE8?oc=5",
+        "source": "AEROIN",
+        "published_iso": "2026-09-21T07:00:00Z"
+      },
+      {
+        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
-        "source": "conjur.com.br",
+        "source": "Consultor Jurídico",
         "published_iso": "2026-09-19T07:00:00Z"
       },
       {
-        "title": "Leilão de concessão do Aeroporto de Brasília é marcado para dezembro - Correio Braziliense",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGJ3WVpieGkzUUE3NndwOWtNNjNOSFlpWGdfYXM0TG1Qa3pUdDQ0d29TTzhqUjBVLTQwQXBXMXV1dExqb3RscG9DUVhkVzBuX19PbmtXQ0ZDajNVRXljdXhNazdxOVVTeURia0VyT19JcFE4M2FqVzFnT0ZpZHdsdzFfWTZ6UHBLY0lZZGdwZk1TREFqcHBqUld3WjU3QTZVNkhFMmFoa3RWdWktVUlOVU1hc2doM3NpdHljWGRraF9WOU9mek54T0dDMkdDSGx6WlFfWtIB2gFBVV95cUxNN1pnc1NseEdteUNjc1JOUGpGRllHNzgxci04Z3BlcDF2XzEzYlRrZzJyYVI3OEVKTGMzUGtTdEVsd1M2WjkyUTlRdVg2c1cyeXZBS09fbGZpd2JLNnU5TGRPN1o2TTR2Q0tVZFJvVlp1aDlzaE04c2dBTmNpbWJrOUJqNzBEaGg5OURqTUpXWmZSbVFlQnR1U3JaaDQtdURyY0t3LUpiNGVIaDZQYlVia2Q0Y1UxbC0wQlBKT1ZBc1FuMEp3S3RJTmZVcXJoei1aQnFxOGhWeUNVQQ?oc=5",
-        "source": "Correio Braziliense",
-        "published_iso": "2026-09-10T07:00:00Z"
-      },
-      {
-        "title": "Leilão de Aeroporto de Brasília é marcado para dezembro e prevê R$ 1,2 bilhão em investimentos - Mercado e Eventos",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0ItX0JINkRidUw1YzBzcWJLUHk4SjhTWG54MDdRSVAtYW5vTUI5QmVHWV9iaElNMWR3Q05aTXBubUhPQl9ZMVBSN1hfV0tpRXpvNklrMGE2NENxbWNjMlVRMzU1U1E5SVNyQ3NVOUttdnJXZkRTNDY0dlpHREJRVU9VbVZ3czgyckRROHVYa1lrb2JSa1ZqUGZvZlVqSjJXVDM2OWxEZ1JNUmxYQzl4Qy1GcVd1eV9Vc3htQUg5bTZWYW1Hb25BcmtyMzFJRFNzQTBheg?oc=5",
-        "source": "Mercado e Eventos",
-        "published_iso": "2026-09-10T07:00:00Z"
+        "title": "Leilão do Aeroporto de Brasília inclui três terminais de MT - Primeira Página",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNEZSbG91a2QtOGVFTk9CWF9mdXRtU0FOaVNpS0VDT0laYTlDWlYwa0ZHb1dKVWFRbUpYYU5RT3lpSWNyX0VlOWRMUHVZQUpYUXVSNk9scEdWS3VTYzE2dXZTeXNwWEFyNHQ1ZHRDVi1WajI0WWZ2OGxwMkJXRkYweU5sZHhZZGFtTlpoT3hDbXQzal9HV0xyUmpUai0zLW9TLTVha2V3cmJZOU5YWjcyckdPQzhILU9FUmNGOV83QTllMUZ6MzRuQkVWSkk3ZEJ6bWtVU1VfLTM3WmlXZzV4M2ZyOS1QbmZoT2hMQUVnUDJHZm9tWlpF?oc=5",
+        "source": "Primeira Página",
+        "published_iso": "2026-09-14T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Eduardo Eurnekian, el señor de los aeropuertos - Letra P",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMk85MU9IbUl5dFphTkt3ckhKUl93OEFROE1ZQUl6RFBVRWo3YXltUUVTT3RWWkpGazZnUElURXlVaUt0LUlFQ3N2NHdVd1hHU3U2TmxhN3p3TVg1a0VlSlRZTnJIZmtsZERld05EbXJHYmdmeWNjOXl5UTFhSTdneWlDQdIBiAFBVV95cUxQTGVRUFM2VV85VWJrVWYwcXY0V244bmx6Z0g1YkVpU3NKbWY4WFVIeXEyQnE2eUVNUjUteF9yTlFCRlJnN2hxUlNNYUVQRGx6SGxRajQwYk5oVy1qSkh2cXBaSmJDeWVwTnRQTWVrYjAxZXdTMHBSNmtaZ2RLT1UtVnNiVjROcml5?oc=5",
+        "source": "Letra P",
+        "published_iso": "2026-10-06T09:30:00Z"
+      },
       {
         "title": "Eurnekian, la “casta” de los aeropuertos que se llevó el botín de oro de su empleado Milei - Diagonales",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZzVkVWM0Ni1xcXdya25RNG12bGpYdHlaV0dzLVZRYXZZcDhVTGVIYkg2a29KeTAycU9KcFg2U0hjdVVHdGlnMFptcW5FZ0o3dExFTmpfUE14U0ZXLThLd0M3VmxoWHQtcW9tYzh0b1BMdnhuMm1xbG5oN2tqMk43ekRVNlJOSHZwMzFTaGZNcXJIV3lCaWxWNkRNaFJqTUZUUXUxU0ZYTmlOQzBmdnZEbEZwalVGVWRXYUFnT3VzRkgxeVM2UXVQTzVvbW9mMjBBWDdMallaWWxkOUJPYlBCM2pRUVjSAfMBQVVfeXFMT1lzSUR2WTFPZDBMd3RyU2tmeW5oUlpoemVBWHVFenVGNEpSbHY3NmZFVS1QNnRBdjBkN1l2SEV4ZFYwOVZzNzYzWUo3U0RFS05GaFRmVFNEN1BuM3hUVGFpR1dGNlJ3WHRKbDNjaVQ0WnRSWDJIbTVNeVFqY3Z6M0c2bTBqRWM2VmU1MDllMU82cU5hSmZadmtaUjdHN1lsTGNfbS0xcDlxM0p5ZnVUVnllRmVHN2llUG1tLTVfNGpKWFJKdmh4Tkl2NXQtazJRc2hiSDlkTDJjdTF0YUZqbGh3MXNqTzc1Z3RMUVRJc0phRXM0?oc=5",
@@ -47,13 +53,7 @@
         "title": "Aeropuertos Argentina extiende la concesión y compromete US$600 millones en inversiones - La Capital",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ20tZ2ZHY25lc0ZMUlVpejVzUkRJbmZMSkwtam1ZR3NFcS1DX2FOWmlDX0pwTGhMR09zelQ0dVVqbENNVmU0bWdrRHVBbFlRNEh4YVU0elVoMVoxNW9kdDNJblNwWVlGWkc4T0kwallCb3ZOcU9OaWx4TnVOMWx3aTZMVlZZVVJsODZqZjcyMEM1dnZIUXR6dTlUSzR5Q1FyZDNRTHlPNHJVenR3cHNNOUVBQnVqLVVNTFd0b0hFamItc0JMQ3hvWDZjWDJaWkFr0gHWAUFVX3lxTE9qNlBsTVNoMF96cm1VV2M3WnNmVzlib05RRHg1bGNhTVRENlZSMm9CU2ZOVzI5ZkVQOXJPTmYxT3JZay1HZkdQUjZEYmNaYjNIMXhfZlo5RFZJdXM3cXlXYXg5NlRQLWJweEhWdUw4ZmJnQzNFSFRzUDVpQ0JmX1JhVXE2UnVEMEV3SWxKTmhESFFQWE16d2hmWUNzeE1Bek5qaUJEVkUtZ0JXVHdGQU1pMVkyVDJYaG1ZXzJaOEJQQi1qeGRhQ0RjME5POXFrXzJVRjhNWnc?oc=5",
         "source": "La Capital",
-        "published_iso": "2026-10-03T10:06:47Z"
-      },
-      {
-        "title": "El Gobierno extendió la concesión de los aeropuertos hasta 2056: qué acordó con Aeropuertos Argentina 2000 - Enterate Noticias",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjBmanV6RS1kcVFya2VBblhXOHdUSFRuT1gwOTAyd1VpMWNMcXZydkxFN0ZBbzBqSU15cjFNYUdWMHIxY1poS0VNaWN4Wm5TWXZLVExTb1NLRnBEejZSY084U2tuNFpZQ2J4d2NNUndqdmZqY0RId2NVbzJDd2xnVml4Y2NZc3oxdG5rd1JaMU5wc0U?oc=5",
-        "source": "Enterate Noticias",
-        "published_iso": "2026-10-01T18:15:38Z"
+        "published_iso": "2026-10-04T11:13:48Z"
       },
       {
         "title": "Aeropuertos Argentina acelerará inversiones por US$ 600 millones para ampliar capacidad aeroportuaria y fortalecer la logística aérea - Dinamicarg",
@@ -62,10 +62,10 @@
         "published_iso": "2026-10-01T11:00:00Z"
       },
       {
-        "title": "Pese a las irregularidades señaladas por la AGN, el Gobierno extendió la concesión de los aeropuertos a Eurnekian - lt9.com.ar",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXlxOVc1MEJDNTFFUF81TXlqVXp0UC1IaVBMTFVWNTlvMWRiQURXMTFXR3dIS2ZobGVaLWhIX0JaZ21TR0xTY1UyQzFLRkhKaEd6aHR2UlR6ZFRfelNrelgzR0F0Nnk3bVFaczRZNVNFV1dXQjVFaEdmcV9kcTVQbFUyLUtOdGJOU2fSAY8BQVVfeXFMTlZSRzNldXM5STNXOXVPTDhfbnZsejNmbGdVLWF2MlpDaXNQS1NQZGJwd1VreVg1TTNUalozU3NaT09tTXFXbE9wSGRXUnZvNG5qTkl6RlZTamk5VWdkZWNYZHhQckxTN2haaERsTXZXbHB5RGJNdHoxQlNNcFQ3UWdPNnBnbkNaaHVHM1BBSGs?oc=5",
-        "source": "lt9.com.ar",
-        "published_iso": "2026-09-30T16:40:58Z"
+        "title": "Aeropuertos Argentina 2000 obtuvo una prórroga hasta 2049 en la concesión del servicio - Somos Pymes",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWpfSGFOeFM3SGxSQUNtVVBBWWloNnhCUE1qQlE2MURrSjNxUlMxcUhhMnNjSlVFbkJ1Y3YzbW1SRW50dmZDbkFUWldMQWd0Z2ZQYmQ5V0VLNTFYNWNkcHlZNjNZLUVWVUVBYkRKVFpVV0kwOVNXTDdFWkFnX1IxQ0V6ZFJvYS1qWldnMi1peW5SdXVkd3FjZlo1bjdTaHpmaEVvMGZjMTk0VzdRLXFVNnNienR6LXdEcS1wcmo3OTRtaEZJcERLMDZFLXUxdzRi0gHWAUFVX3lxTE9BT0F1UlpjOVdLNV9zazBOdF9qTy1hbm9ST0FnS1pFZ3J5eXF1eVVHaG9XY2dENF84OEZsZ0Y2MnA3ZzBIZEpobFFzbmItLVFKQUIxZ2hBZWdibGlxNlFpb3c1UnNtbFNDdUV2MHp5LVRTNlJhM0lvQTk5SUtJYkhJMnFnYjQ3MFpsOXAzdUdLb054RTJYN3JXMkg3VmR6eURjM080VGFpbm9IeU5adTFKTW9fTkxmR0hzMmVUeHhMUGlPUWtqeDlNc2s5U1pzTXpNcS1XLWc?oc=5",
+        "source": "Somos Pymes",
+        "published_iso": "2026-09-28T20:11:15Z"
       }
     ]
   }
