@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-10-06T17:02:48Z",
+  "updated_at": "2026-10-07T17:52:24Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Pashinyan receives newly appointed French Ambassador to Armenia - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWUyRE0weUxFVzY2WWFTbm8yVzQxRGZBQ05oRHFlSHQtdEh4NU1DTFBZZkJha1Q3SkJ1YmN4YmRRWTJqQkZraDc3MGR2Mk5yeTBibHNGY2g3MGNtNGUtNDBsYXJNdVhHUDBxQmFiVGFEclo3cEtPRlVwX0w4aVItUGxsdVRvWlRienZvLWsxUmhGV0VjOTZ6M1ZxYjNyVzA?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-10-06T12:27:55Z"
+      "title": "Armenia expects Turkey border to reopen as route linking Azerbaijan to Nakhchivan advances - Turkish Minute",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjM0Y3VmbTRqZ3lDeVl4ejlJd0Y3S21tNnlDQ3ZpUDNhcUU1ZEh3cTJUNFpVM0NrM29oa3dIZU10Z1hwcXhWODRiTnk0bkZNa0VPeGVHZUtydTRXYTgtdTBUM1pIT3hTVlBsQ1BGUGxtV21UclpjWm5qVk1uaE9EbTF4RzdQNWl6eHFuZkV1ZWhqRzlFaGZJNXBCWlpGN19WRkdyTEVmXzY4dnc0cFZGSTg0OGhFR1hhMmpzajFkdzAzN051V3pR0gHMAUFVX3lxTE54ZURXRnNoUDUxZ2NiT3RYaDlrSTAwdVpET3ZWU19IcEM4UkY2Y2JaQWJ5eHBDQUpJbExyc0tRcDBMMFp5YjNHTTdQUEhVaVZxbnlqMkJ3MWJXUGFldnFqRzJZVHNDazUxZWdVNEFpWENVSGYxTk1uMUNzYVBxcDZoUkVmd1FsSnoxMzhuOFM3ZVllY1JzeExXV0RvTXNqV3F4VW5yRWlYdk9NX2QyQy1WVi1aWVVSNGtmWnJxbS1zcWk3QVNIMG95b0N3cA?oc=5",
+      "source": "Turkish Minute",
+      "published_iso": "2026-10-07T14:18:40Z"
     },
     {
-      "title": "Armenia-Azerbaijan peace supports positive economic development - Report.az",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUNPbENlemdpaEJvaFpMekpveFIzU1h4VGJPWmVPQWtPS0tWaEpjQXlRTW9zY2hsSWh3N20zaFdTQnhhNE1JUkp5TjhyTENjVVgwYXJGSUVGd05razY2M0NDOXZELVFQZnNtV1BEdzJLNVg3bk1xdmhmbmU4VkJkRG5NZmlPeWQwTFhocDgzaWRNX25aSGVyQkVJWWUyNE5f0gGmAUFVX3lxTFBYa0NfcTFSUHRsUmNFQnJsemJzRG0zdFhra0VuWTdZai1ONmNlUG9YbUNhd0tKLTV1NDNqTVY5RHdkNm9sNXZCRG1kVjd3QTFXcnVCTkcyNmYzbWttWGJWYllMYWk2RUI4VVRyNDM5VDQydnBDSFA5RjJMTS1Tano5TDAtLTVaNVVFcHRlcXpicHhrSEZ6YWNpSmVPc2NWN3lNY1g5c0E?oc=5",
-      "source": "Report.az",
-      "published_iso": "2026-10-06T10:07:46Z"
+      "title": "Pashinyan, Putin discuss Armenia-Russia agenda - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbF9DR3c1OW5PQmlGbHVLMVIwLTJMSHE1WTlWRkFMdGZ4M2ZlalZheER3dkdtWnVsV2lnLUxCdW0xTVN6aml5WmtYc09hTUxuNERZZXlwQVRteWxoWHR0a29MTzcta3piYW5OOXU4T1ZXZHlnSWVJUDktS1NueV9oSENjSy1iTDVZdFg0eUYzNE50eVdr?oc=5",
+      "source": "Public Radio of Armenia",
+      "published_iso": "2026-10-07T13:12:01Z"
     },
     {
-      "title": "TRIPP implementation to be a cornerstone for transforming Armenia’s and region’s economic environment – Pashinyan - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY3Q5dGRodFIyNkVnZXlKTFNnR0FNZ2VsQkZrc0gwaUoySTltaGI1SEhoMzFONlU5U01meTNienZ2ZmpId2JQOWt0OWpCSzFNZWl2amF2WnA1OXN2a2tXNUFBVkNuSHRDajRGdDduZDNibDVQRkpKM3lwdWl0ZFpka1o2SmdBVzI0bzRsOHA2SVFrQTVNNkJrWmFDMm91UXNNeHFzZ3BPVDZDb3I5c1JORElyWWZSRENwUHp0Q1BqME1CYUl0WDlzM2hkTi1KTVdRZ1ZaWDdrX0JTdjNn?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-10-06T08:27:15Z"
+      "title": "PM Pashinyan discusses Armenia-Russia relations with Putin - Apa.az",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzR0aXo2TkFxNmFVbHlvNE1RUWstbTNMSThXVmt3OE5FdEg1ajdSVXJxT2hRd1FBa2tEZWtfQnRyRkMtT2tjVzFqcm5xVTlvZlJpLVJsZVI0dzhUUUg4M3J6U3FUd1F2MTNtaEE2NFRLRVlUeHU0b0pmOEljTU93REEtNFZYS2VqXzNHc2t4WUpna1BMcFVaTDMzb0ZQQQ?oc=5",
+      "source": "Apa.az",
+      "published_iso": "2026-10-07T10:13:00Z"
+    },
+    {
+      "title": "Armenia to vacate Azerbaijan’s village – Panic in Yerevan - TodayPress.tv",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb202eVU4QThhcnYxN0tZbk43a3pheEVrQmhHU0JUcnNWYWdEM0RwM2N4UERBck9qRFJDVktRR3hJbVpCemtWOHB3RGF2RW9WZFViTlZIOW13QVUxNUJQVS1RR2ZDNF9Nc1dQTjRSYVg4S1RmRXNVYVNPMjdNZHBkUk10ZG8zcDdrQ0hMX29nVnZFSFE1N3Ridw?oc=5",
+      "source": "TodayPress.tv",
+      "published_iso": "2026-10-07T08:05:47Z"
     },
     {
       "title": "Scuffle breaks out in Armenian Parliament after speaker turns off opposition MP’s mic - OC Media",
@@ -29,16 +35,10 @@
       "published_iso": "2026-10-06T07:58:19Z"
     },
     {
-      "title": "PM Pashinyan's speech at Armenia-UK Business Forum 2026 - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xTVNPdEFJQ2wzQkEyd0syS21Ra0Flb25XdGdDVm1RWHlhWURtWWRLX0VtQ1FMWW9wNzlfYjk5LXBUSmF2aFZMZjE2WW5ObFk?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-10-06T07:33:00Z"
-    },
-    {
-      "title": "Opinion from Yerevan: Baku steps up pressure on Armenia with new tools - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kUmtIUjNpT29ITWxjYTBCd3pmcVlzcmFYcERNVDFCX1U1Nl9nTWU0eTJYQkdGa2FlRWFBYVVQQTNpT1FJY1NVcmtrNVRTcThvQUdXV0hoTzVHempNS1BTamJkWmpiQQ?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-10-06T06:49:01Z"
+      "title": "Rubio ‘commends Azerbaijan’s ongoing commitment to peace’ in call with Foreign Minister Bayramov - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWG5oc3djTlpuYThFaW90UTgwNTF1R2lzTVVyLURKWDNUYVhrRThzS3huT2RxNTlMYkZYdy14S2IxWkVLZlZZN0R3bzBObjZ2QkFCcmw4QmJLN29DNzIwZ3N6UXE2bXJScnZfdjd0Y3k1OU5Na1FqZV9KbDJmTmp0T2VJNUdMV1E4bVJ0LTZIc3hDUDZ3SEtNZ2RHOVU5VHJXQ09Qa3doeXNMVmpWc1dCdmhvbXljUQ?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-10-06T07:47:35Z"
     }
   ]
 }

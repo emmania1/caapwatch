@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-06T17:02:29Z",
+  "updated_at": "2026-10-07T17:40:05Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Aena assume a gestão do Galeão e chega a 18 aeroportos no Brasil - BPMoney",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaXRoSlQwem5GVUdVanhHX0JxalFnWmY5SmNqaHhGU3lJRU03RW1ERHRfdzdQbTF6TXkxR0NvWmlJZnJubFYzQTdlcUY0Q2xBbEx3Wl95SDVFYnBiM0NaNUUwSDlRU1ZXZkE5RTFBekdIR251Y3FScXJCMA?oc=5",
+        "source": "BPMoney",
+        "published_iso": "2026-10-06T21:30:00Z"
+      },
+      {
+        "title": "Aena Brasil assume gestão do aeroporto do Galeão - AERO Magazine",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEN4RFZGUDFsUnpZMExkMHFNSmhCblBrMzRFa0N0SkpzbUZDdGhMUnhNQ09GTmUzN3VXa2luZ194MEJRZ2R5djI1azZQRFczVnhIVnlENnpoNzBuNmJPZlJsdU9HZ2hTX1NUMnl2a3R2MGF6WElQaGszOHRRQUVudnhGOU1kRk95TVcyQVdPVTFpdUVhWVQwLTFZdk1qdU1OUHo1R25R0gGrAUFVX3lxTE5BUzNfVUJGVnhJc1VDVTlBb00zWTAwYlBoUzF1Ul9Ed2NTMU9oQlhFX04wX0VjdDVKZ2dWeEhGQURFbWxWMHR4MEN6QjUydWZYWXc1NVdoNThqeDRzNVkxWTNqNDJBRmFsMFlrejk3V2FTMFY0ZUZKVm44dk5hbGlrX25NVXNyTW9TNV8tekxqX0cyc1JaLTlQRGFhLVFGa1JreUhhaEtUY3B0VQ?oc=5",
+        "source": "AERO Magazine",
+        "published_iso": "2026-10-06T19:29:00Z"
+      },
       {
         "title": "Como uma concessão de infraestrutura pode mudar de controlador sem interromper a operação - Estadão Blue Studio",
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0ZIMWI4YU1qVVZJUVdLV2tIb1JwUWV2VDJNSWRDQl9OcFlEbzVxMGNtXzJLR1U2bHJPRTNHZm9WOTctYmxxUk53NHE2MjQyS3RrZ1d0d2V2TGVYSXNWbzlITndyeDlPVmVxNXZSZE1NWFlOQWVNV1ZOVjlUbVhmUHRrR2RtdHV0alotcjNHUGFBQThNd1d6Yi1QUnhUNHVzTlEwdlFzdWhBMFF5ejdzZ1R0QUswaGphYjRWdVkyeUQxbmtOQUJ0YlluY3lhc1doblRETWdKSVJHc01hRGRIT2RNbVE0ajB6M0hMMmtjYk5XRWo5dThoenlHOXd5eEtfV3VjMw?oc=5",
@@ -12,31 +24,31 @@
         "published_iso": "2026-10-02T12:23:54Z"
       },
       {
+        "title": "Aeroporto de Brasília terá novo terminal após leilão - Revista Asas",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2JRaUxRUTE3SUQ0M2pSdE9rWnQ0aEJBb3d5dHVyLW11Vnc2VGlvVnZ1ZHYtVVp5VUJWUUdLZy01ZkhKUHJPbDYyN1cyRXplY013QnYxQkJ3NVRyQWdkRW4xNGR3MURsaHFoOHNmXzdoVm1rYURLTUl0dVBPUU01N19rT0NkellndXh1UFh2NHg?oc=5",
+        "source": "Revista Asas",
+        "published_iso": "2026-09-25T09:10:17Z"
+      },
+      {
         "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXkwYnl1bVpQSGl5aGxnaURhbTYwS0NKcEdia0xDSFFVZ1BzY1hZS1BHaExHMDR2NW5yYmlYUnI4NURZajcyN2U1NWJfQ250enVmR2prZU5MbW9RUWlBWFhHWDhlR1BYZ1hlUk5zT0ZhQTFtRlpLTXV0OHZUeTVPQWtTa0VDbjBENzVaVFlRME9IOC10cXR1UUgta0FrSlVLSkE?oc=5",
         "source": "Brazil Journal",
         "published_iso": "2026-09-21T07:00:00Z"
-      },
-      {
-        "title": "Zurich Airports deve disputar Aeroporto de Brasília com a atual concessionária argentina - AEROIN",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUZYWDBGZ2wwN0VhRUg1LTB2T2JjSjdCaGZ4aE1tSUVGR0ZTd2tZbmhla25RWktzRnBLcDFEOTBUNjlIVmpVUFlkU0NrRzR4djdleDNfUmtDOTNzeEVZQTExTHcycXQtdmhveG96cEJ6RV85c1pjTXk5cjV3bWlNVEdHOFk4TXl0YjNaWHJNUGtMWHdmT0NBWHo5ODRSRkZnX1V6WTBGZ1BPaEhP0gGsAUFVX3lxTE91RlhYMEZnbDA3RWFFSDUtMHZPYmNKN0JoZnhoTW1JRUZHRlN3a1luaGVrblFaS3NGcEtwMUQ5MFQ2OUhWalVQWWRTQ2tHNHh2N2V4M19Sa0M5M3N4RVlBMTFMdzJxdC12aG94b3pwQnpFXzlzWmNNeTlyNXdtaU1UR0c4WThNeXRiM1pYck1Qa0xYd2ZPQ0FYejk4NFJGRmdfVXpZMEZnUE9oSE8?oc=5",
-        "source": "AEROIN",
-        "published_iso": "2026-09-21T07:00:00Z"
-      },
-      {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
-        "source": "Consultor Jurídico",
-        "published_iso": "2026-09-19T07:00:00Z"
-      },
-      {
-        "title": "Leilão do Aeroporto de Brasília inclui três terminais de MT - Primeira Página",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNEZSbG91a2QtOGVFTk9CWF9mdXRtU0FOaVNpS0VDT0laYTlDWlYwa0ZHb1dKVWFRbUpYYU5RT3lpSWNyX0VlOWRMUHVZQUpYUXVSNk9scEdWS3VTYzE2dXZTeXNwWEFyNHQ1ZHRDVi1WajI0WWZ2OGxwMkJXRkYweU5sZHhZZGFtTlpoT3hDbXQzal9HV0xyUmpUai0zLW9TLTVha2V3cmJZOU5YWjcyckdPQzhILU9FUmNGOV83QTllMUZ6MzRuQkVWSkk3ZEJ6bWtVU1VfLTM3WmlXZzV4M2ZyOS1QbmZoT2hMQUVnUDJHZm9tWlpF?oc=5",
-        "source": "Primeira Página",
-        "published_iso": "2026-09-14T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Premio Fortuna Mejor Empresa Infraestructura: Aeropuertos Argentina - Radio Hache 97.7",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVp1OXZQV1hpM0NfZnJBVE5CcGFWYnNYQV9ZWUJvQWVsWHhhbjRGM3piN01FMkxQN2hzRDB4UE56M2QyTGxWcXJ4aEw4bUhnOGhLRHNFT01rSExEVS1ld29zR2ZtcnhsN2lxc2tVWTlUWXJ3enpwV3hWVUhEdS1taUNBd1VXM3E3dlRYTjFMRWZlRnU3bDlTME1tOEhOWUZVd1RfZA?oc=5",
+        "source": "Radio Hache 97.7",
+        "published_iso": "2026-10-07T01:00:35Z"
+      },
+      {
+        "title": "Premio Fortuna Mejor Empresa Infraestructura: Aeropuertos Argentina - Perfil",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXFlTHNuM1k0eDVHSDc4M3p3ZXNqZkt4LWJaUGNMXzRCbGpEZWxIYUhjVEU1MnFONTl1TGFaLXF2REhtODIyY2Rfa3RwMm9Qa1Q1cUF4Q2trWkZZbVBmMWNfWWlndUExMHhyRjgtQ2ZITEw2NVdON25ubkpVQkpUT0REZDIxckhvQWViLWczakhJUGNaaElweEhaSktkczhrdERpT3FfUjFEazE3UHZRNGR3eThveGhHeXfSAb8BQVVfeXFMT2dRcE4xTEJTOHg3ank3bDlkMnlkQUlWVjBESXBhbEtOOXRfMXRucmVTbXlWZUVEVmd0cmpBN3g4UlR2aEdmTUJRS0FaSVZIQ1B1V1ZnWGVsMU9HZW0zODhHYURTSnZpUjdncFJ3RndwbHdtYVVVak5fVEJ4UTltQzh2aDAzeW91TWxmUmptOFgwbmdUdDdwZFk1MTVvd3EwWlJsZXBlcWIxTjE2cVRLbFp1SHM3VXNXYTZRbUVvbVk?oc=5",
+        "source": "Perfil",
+        "published_iso": "2026-10-06T23:25:00Z"
+      },
       {
         "title": "Eduardo Eurnekian, el señor de los aeropuertos - Letra P",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMk85MU9IbUl5dFphTkt3ckhKUl93OEFROE1ZQUl6RFBVRWo3YXltUUVTT3RWWkpGazZnUElURXlVaUt0LUlFQ3N2NHdVd1hHU3U2TmxhN3p3TVg1a0VlSlRZTnJIZmtsZERld05EbXJHYmdmeWNjOXl5UTFhSTdneWlDQdIBiAFBVV95cUxQTGVRUFM2VV85VWJrVWYwcXY0V244bmx6Z0g1YkVpU3NKbWY4WFVIeXEyQnE2eUVNUjUteF9yTlFCRlJnN2hxUlNNYUVQRGx6SGxRajQwYk5oVy1qSkh2cXBaSmJDeWVwTnRQTWVrYjAxZXdTMHBSNmtaZ2RLT1UtVnNiVjROcml5?oc=5",
@@ -54,18 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ20tZ2ZHY25lc0ZMUlVpejVzUkRJbmZMSkwtam1ZR3NFcS1DX2FOWmlDX0pwTGhMR09zelQ0dVVqbENNVmU0bWdrRHVBbFlRNEh4YVU0elVoMVoxNW9kdDNJblNwWVlGWkc4T0kwallCb3ZOcU9OaWx4TnVOMWx3aTZMVlZZVVJsODZqZjcyMEM1dnZIUXR6dTlUSzR5Q1FyZDNRTHlPNHJVenR3cHNNOUVBQnVqLVVNTFd0b0hFamItc0JMQ3hvWDZjWDJaWkFr0gHWAUFVX3lxTE9qNlBsTVNoMF96cm1VV2M3WnNmVzlib05RRHg1bGNhTVRENlZSMm9CU2ZOVzI5ZkVQOXJPTmYxT3JZay1HZkdQUjZEYmNaYjNIMXhfZlo5RFZJdXM3cXlXYXg5NlRQLWJweEhWdUw4ZmJnQzNFSFRzUDVpQ0JmX1JhVXE2UnVEMEV3SWxKTmhESFFQWE16d2hmWUNzeE1Bek5qaUJEVkUtZ0JXVHdGQU1pMVkyVDJYaG1ZXzJaOEJQQi1qeGRhQ0RjME5POXFrXzJVRjhNWnc?oc=5",
         "source": "La Capital",
         "published_iso": "2026-10-04T11:13:48Z"
-      },
-      {
-        "title": "Aeropuertos Argentina acelerará inversiones por US$ 600 millones para ampliar capacidad aeroportuaria y fortalecer la logística aérea - Dinamicarg",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmtGY0NLT19QOVRKTDQ0VGdneWV1Vk1aVHdrRERWdnItN3NTRG5HaWFTLTB0Sjl3VjNSWjJUMS1xNEJfa29pV3lqVWhIUm1Rd0pvb29jTGxXLThOYW5qU3lqNGQyT1BfYkNNc24tMXBXSFZqQVloaExfdE85Q2VqU3pPaEhJbktzYS03YWFuTC1lcXhFbTFmWnAwMXcxVFRHOVR6YnRUYUNxMjRfQXF1bEFzSmVRb0xXUVlxM3puazhFOFpfWHZwbXVybEhuQUpoQ3BTYUF6QnZIQQ?oc=5",
-        "source": "Dinamicarg",
-        "published_iso": "2026-10-01T11:00:00Z"
-      },
-      {
-        "title": "Aeropuertos Argentina 2000 obtuvo una prórroga hasta 2049 en la concesión del servicio - Somos Pymes",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWWpfSGFOeFM3SGxSQUNtVVBBWWloNnhCUE1qQlE2MURrSjNxUlMxcUhhMnNjSlVFbkJ1Y3YzbW1SRW50dmZDbkFUWldMQWd0Z2ZQYmQ5V0VLNTFYNWNkcHlZNjNZLUVWVUVBYkRKVFpVV0kwOVNXTDdFWkFnX1IxQ0V6ZFJvYS1qWldnMi1peW5SdXVkd3FjZlo1bjdTaHpmaEVvMGZjMTk0VzdRLXFVNnNienR6LXdEcS1wcmo3OTRtaEZJcERLMDZFLXUxdzRi0gHWAUFVX3lxTE9BT0F1UlpjOVdLNV9zazBOdF9qTy1hbm9ST0FnS1pFZ3J5eXF1eVVHaG9XY2dENF84OEZsZ0Y2MnA3ZzBIZEpobFFzbmItLVFKQUIxZ2hBZWdibGlxNlFpb3c1UnNtbFNDdUV2MHp5LVRTNlJhM0lvQTk5SUtJYkhJMnFnYjQ3MFpsOXAzdUdLb054RTJYN3JXMkg3VmR6eURjM080VGFpbm9IeU5adTFKTW9fTkxmR0hzMmVUeHhMUGlPUWtqeDlNc2s5U1pzTXpNcS1XLWc?oc=5",
-        "source": "Somos Pymes",
-        "published_iso": "2026-09-28T20:11:15Z"
       }
     ]
   }
