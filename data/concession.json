@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T17:40:05Z",
+  "updated_at": "2026-10-08T17:42:49Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -30,19 +30,13 @@
         "published_iso": "2026-09-25T09:10:17Z"
       },
       {
-        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXkwYnl1bVpQSGl5aGxnaURhbTYwS0NKcEdia0xDSFFVZ1BzY1hZS1BHaExHMDR2NW5yYmlYUnI4NURZajcyN2U1NWJfQ250enVmR2prZU5MbW9RUWlBWFhHWDhlR1BYZ1hlUk5zT0ZhQTFtRlpLTXV0OHZUeTVPQWtTa0VDbjBENzVaVFlRME9IOC10cXR1UUgta0FrSlVLSkE?oc=5",
-        "source": "Brazil Journal",
-        "published_iso": "2026-09-21T07:00:00Z"
+        "title": "Brasília entra na mira da Zurich Airports em disputa pelo aeroporto - Mercado e Eventos",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUllVcU1iaHJFMGpZZnhBcEV2eGJxWjJxWHdJeGZEUnhKWmVjd0hxUVRsYUhUQmt3UUk2LXRILXBIc0FRXzdZeDZuOUV3dnRNdEM3eE15c253ajlBODdnMkpCY19DMU1Tc0ZQS2p6dkFiRE5KbnlWd1FkSDNseWVVN2JoNWZlMThGbGVTNHZGVkZYd1R2aHV2RG9IaGNKaHpicW1abnk0bHl5Vko4bFB5VXpIU18wVDBRV3FVTg?oc=5",
+        "source": "Mercado e Eventos",
+        "published_iso": "2026-09-22T07:00:00Z"
       }
     ],
     "aa2000": [
-      {
-        "title": "Premio Fortuna Mejor Empresa Infraestructura: Aeropuertos Argentina - Radio Hache 97.7",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSVp1OXZQV1hpM0NfZnJBVE5CcGFWYnNYQV9ZWUJvQWVsWHhhbjRGM3piN01FMkxQN2hzRDB4UE56M2QyTGxWcXJ4aEw4bUhnOGhLRHNFT01rSExEVS1ld29zR2ZtcnhsN2lxc2tVWTlUWXJ3enpwV3hWVUhEdS1taUNBd1VXM3E3dlRYTjFMRWZlRnU3bDlTME1tOEhOWUZVd1RfZA?oc=5",
-        "source": "Radio Hache 97.7",
-        "published_iso": "2026-10-07T01:00:35Z"
-      },
       {
         "title": "Premio Fortuna Mejor Empresa Infraestructura: Aeropuertos Argentina - Perfil",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXFlTHNuM1k0eDVHSDc4M3p3ZXNqZkt4LWJaUGNMXzRCbGpEZWxIYUhjVEU1MnFONTl1TGFaLXF2REhtODIyY2Rfa3RwMm9Qa1Q1cUF4Q2trWkZZbVBmMWNfWWlndUExMHhyRjgtQ2ZITEw2NVdON25ubkpVQkpUT0REZDIxckhvQWViLWczakhJUGNaaElweEhaSktkczhrdERpT3FfUjFEazE3UHZRNGR3eThveGhHeXfSAb8BQVVfeXFMT2dRcE4xTEJTOHg3ank3bDlkMnlkQUlWVjBESXBhbEtOOXRfMXRucmVTbXlWZUVEVmd0cmpBN3g4UlR2aEdmTUJRS0FaSVZIQ1B1V1ZnWGVsMU9HZW0zODhHYURTSnZpUjdncFJ3RndwbHdtYVVVak5fVEJ4UTltQzh2aDAzeW91TWxmUmptOFgwbmdUdDdwZFk1MTVvd3EwWlJsZXBlcWIxTjE2cVRLbFp1SHM3VXNXYTZRbUVvbVk?oc=5",
@@ -66,6 +60,12 @@
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ20tZ2ZHY25lc0ZMUlVpejVzUkRJbmZMSkwtam1ZR3NFcS1DX2FOWmlDX0pwTGhMR09zelQ0dVVqbENNVmU0bWdrRHVBbFlRNEh4YVU0elVoMVoxNW9kdDNJblNwWVlGWkc4T0kwallCb3ZOcU9OaWx4TnVOMWx3aTZMVlZZVVJsODZqZjcyMEM1dnZIUXR6dTlUSzR5Q1FyZDNRTHlPNHJVenR3cHNNOUVBQnVqLVVNTFd0b0hFamItc0JMQ3hvWDZjWDJaWkFr0gHWAUFVX3lxTE9qNlBsTVNoMF96cm1VV2M3WnNmVzlib05RRHg1bGNhTVRENlZSMm9CU2ZOVzI5ZkVQOXJPTmYxT3JZay1HZkdQUjZEYmNaYjNIMXhfZlo5RFZJdXM3cXlXYXg5NlRQLWJweEhWdUw4ZmJnQzNFSFRzUDVpQ0JmX1JhVXE2UnVEMEV3SWxKTmhESFFQWE16d2hmWUNzeE1Bek5qaUJEVkUtZ0JXVHdGQU1pMVkyVDJYaG1ZXzJaOEJQQi1qeGRhQ0RjME5POXFrXzJVRjhNWnc?oc=5",
         "source": "La Capital",
         "published_iso": "2026-10-04T11:13:48Z"
+      },
+      {
+        "title": "El Gobierno extendió la concesión de los aeropuertos hasta 2056: qué acordó con Aeropuertos Argentina 2000 - Enterate Noticias",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjBmanV6RS1kcVFya2VBblhXOHdUSFRuT1gwOTAyd1VpMWNMcXZydkxFN0ZBbzBqSU15cjFNYUdWMHIxY1poS0VNaWN4Wm5TWXZLVExTb1NLRnBEejZSY084U2tuNFpZQ2J4d2NNUndqdmZqY0RId2NVbzJDd2xnVml4Y2NZc3oxdG5rd1JaMU5wc0U?oc=5",
+        "source": "Enterate Noticias",
+        "published_iso": "2026-10-01T18:15:38Z"
       }
     ]
   }
