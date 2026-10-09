@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-10-08T17:43:10Z",
+  "updated_at": "2026-10-09T17:19:00Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenia, Azerbaijan discuss stepping up search for war missing - The Mighty 790 KFGO",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSkozZjF3VDRZbXBOblhPOEgtV2pveW0tTnpLS0xrSG1jNGw4SFZnbEl6ZE0xLTR4SE5mVF9vYkxOVGRsWDZqbVdCb0hRTlVrbkJIZ1hSejRNUDJoV0ZzdTVwUE9femVzV1FPS3RQbVhNYTJHcXc1dUxLUC1UdUVmREs2ejVnS0RFcjB5QzRfcjRFOURK?oc=5",
-      "source": "The Mighty 790 KFGO",
-      "published_iso": "2026-10-08T16:25:30Z"
+      "title": "Why TRIPP is stalled: Iran, Russia, and the geopolitics of the Middle Corridor - Eurasianet",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2hoZFBsZUVNV2RvQmZZUzJZTlAzQnRRQWFMYW5zRXJ4YUpidmJSRk5uZGVpV012M0I5RmRiX282ODFGSW5KcWREZ2tKcnRNNFYxcm92X2E5YW5udTlMMlB4VkZJREFpdF9LZzRUbXdEaUx1b0VLZlNPSDZ0NE1mRjBtYnpxYi1jSHNfTW1nbHFjdzA1bXFXbU1DOGx4T0E?oc=5",
+      "source": "Eurasianet",
+      "published_iso": "2026-10-09T15:08:52Z"
     },
     {
-      "title": "Armenia, Azerbaijan discuss stepping up search for war missing - Internazionale",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXRTajZEVjBFeTVUR09XT09GUE1kN05fWEFKMGs3M3V6dzB2Zk9pMzNhVVZORzR5dUxOeDJUSHczOUJVRFBkWXFsdlhUbEREZHZIR0pmQTFjTGNKV3lyMUdXdzZhS2lEbTZzRktKbXRIRHhmR1Q3VDBzaXljazU3NnRaeFFrd01NX010b3NUN01FdkF2MVlzWkNNVXpMd1JnRTZFSFFseXkxMkNmOVVCcm1XRnZXb0lMS2IwOWJhNlVIWVU?oc=5",
-      "source": "Internazionale",
-      "published_iso": "2026-10-08T15:43:23Z"
-    },
-    {
-      "title": "Israel Barouk: Azerbaijan, Armenia demonstrating alternative to protracted conflicts - Report.az",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd0Y0eUJIRXVwVG1WMjdzdkpuZnRPd3Bnci1aWU1jcUpaSnRNNERYZkRGemN4SHlwRXZlQ2lGRWJvNUJWNFVMaGl5UjVxcFNpMnQ2VzM5eHNYdTZIMzZkZTZuT0kzdWhGMnhVQ252Q0xNcFdYa01LUWxOMG56UlBhREotVEYxeGpIZVEtSktham1rbU8zQlJOMTBGczVla2gtVmFlclZQMzBvODJsSTJ0Tm1fQUpRTDJscm9GcNIBwgFBVV95cUxQeWpkU0NLM2tVUEVLT2tmSzg0TnlLR3FMQ3IwREZPSDgxSTMwbkl0SnBHOFBBZWRrVUpLdFVQc1VmVWVGQXByM2UtU2pNMXZhNHBFRmRUSXNYbkRObEI0b1FKdTVYMWRYT3dRX3ZEOHd2YzVuMDdEUTU2NjYxdm44R2F4YzFQTENuejNidHZoRUNzcmxzV0p5UE5yb0ZrdVIxOXhGTENTekhCU3B2VEVuQ1RaeEpIMWVlXzliMkZQRUZlUQ?oc=5",
-      "source": "Report.az",
-      "published_iso": "2026-10-08T13:53:02Z"
-    },
-    {
-      "title": "When Peace Becomes Possible: A Lesson from the South Caucasus - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRjJ3NFVJN21ETTVzdjdURmtBMXF1Y2dENkZtVHhxVUFxRmt5anc1Ul9hMlVCV05acDlsdUlKaEt4VTBuWkdTa1V1ZERNS1Uxb0oya0p0RXBTYXhGMXljbXhZYndoMUl2V0N3Q2J0cFBvckp0eHgtek9jd1dCV0hSTFYtQWhtY0N3WWY0YW1pT0kyLU85NWt0bHB1OA?oc=5",
-      "source": "Caspian Post",
-      "published_iso": "2026-10-08T13:22:00Z"
-    },
-    {
-      "title": "Pashinyan, Berdimuhamedov discuss Armenia-Turkmenistan relations - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVl9iQTh0RVRYLUhjclUyX0phU0lKVW9POFRHSG1sMjB3SzY4bzQyOE4wY3BvaGlZTDRDTS1FbDdGQU1UVmVOd0R1aThJUW1NNmxRazd1ZGRvb3NoOEZVVmFkX1djNWx4WVdNZXJGR0RvX182bEhjTnhmY0dJQVRBLXN4WHpnSnFVZ0ZqZ1c2MXY4djBTZjl0c0xybmdKMlU?oc=5",
+      "title": "Armenia and Azerbaijan have achieved peace, which must be preserved every day – Pashinyan - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdW5hQ0lUX2F5OFlYRmZsMTVuMS1rRFd3eWowWEdGbk9ZRVdxSnFtazhOUFpYa3ZNSktMN1lvcVlocnpaMFA3dWJzM1AzUkFrMTlfVTMxc05kX0xzRnE0dGFWczdlSXpQV0JVU3dLOUExY2UyTXZKeV9VeDNvNm96dWlIQWVhU3VyZ0NacENhemR3MXc0Yi1Zd3FxQWhwcXctLWtfMVNRajhWSlpZakhuU3ZCbG5OUmpiTGFvRzNn?oc=5",
       "source": "Public Radio of Armenia",
-      "published_iso": "2026-10-08T13:12:00Z"
+      "published_iso": "2026-10-09T09:40:59Z"
     },
     {
-      "title": "Pashinyan: Civil Contract’s mission is signing, ratifying peace agreement with Azerbaijan - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDQkFtVl9admJ5Yks3cWtCZFRPRmxjTEZldGtrd0VvazlRYWxuZ2QwVGowcUhSdm9ndmRhNWs4OURpVmJabmR1LURQM2NyUExEbkHSAVdBVV95cUxOQmtVR1VpMnRHNzExTTN5NHhVY3FRcG0xU0wya3BNd3BkWE9IZXAyTnNrWUR5NUY5d29sLTAtMXllcjdEbFQwLUxfTlVYM2c4ZDN3QzFqNVE?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-10-08T08:07:00Z"
+      "title": "Türkiye advances Kars–Iğdır–Aralık railway to strengthen Zangezur Corridor connectivity - Azernews.az",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DZWg3UlozdDktb1E3SFBSV1VkVG0zbDl1UzMxbjFmdUhSVEM5WEhZdjhRSEZoUWxOSFlhQWRxU3cySV9PXzBFdHNwQ3A2akxNODJwUUEzOA?oc=5",
+      "source": "Azernews.az",
+      "published_iso": "2026-10-09T07:49:00Z"
+    },
+    {
+      "title": "Pashinyan criticises Russia’s suggestion Armenia could become ‘new Ukraine’ - OC Media",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUFFcXVRZ0c0OHZhWUw1MzBtcmQyN1B2cXo2VENRbnBuTDdEUnQ3MHBBM3FjV253RVBpQ05zQ045UjZSVnJxcmNNbGpYMGpTQWwzaTRhREJ4c2hVTndULTFWSy1WeFBWcW9fbXJlSDhxZlNYclktd0pweTkyVW1OTU15ZkQxTWNUem5VVjFEMWhEOHdINWlHaHJB?oc=5",
+      "source": "OC Media",
+      "published_iso": "2026-10-09T07:10:08Z"
+    },
+    {
+      "title": "Pashinyan credits Alma-Ata Declaration with advancing peace between Armenia and Azerbaijan - Azernews.az",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WQWJ3WmFYQ1JTaWRZMm5UX3VJeGJoc21TSGtxVkdNcktLV2FIV0liSlFsZUltTVRXUm1mQXg0cS0tV29hQ3NpNjl5UmhGdEpFOXAyeGVaWQ?oc=5",
+      "source": "Azernews.az",
+      "published_iso": "2026-10-09T07:07:00Z"
+    },
+    {
+      "title": "Pashinyan points to Almaty Declaration as key to Armenia-Azerbaijan peace - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNURGRVNieGd4MkFhY0t3TmFpYTY5cmhOV1VYLUZUTUdTb1R4Z3NzZHNBUFhSbUhFOHA4U0hxdGppWGthTEtfUGNVcWJjbDA3UUFhMENaUmQzcWU3emVPM1h4N1N3VFNBa2hjeUJrN1p3YnAyX2U0YWFSVUZzN2RRS1FsanVkTDZleHFMeGhMaldkWENSTUlJQUN3?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_iso": "2026-10-09T06:46:43Z"
     }
   ]
 }

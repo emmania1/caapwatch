@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-08T17:42:49Z",
+  "updated_at": "2026-10-09T17:18:41Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Governo quer solução para concessão de Viracopos ainda em 2026 - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmxNd3hweXdiZDlOUzUteENjZW1ncEhxdjNqWXUxRnFUaE90N3pTdlctVTI0SkIwc2RTekxzRGhpV3h3bXB2c05UUHpfMnBSZF9ja3lYMmg1SU5QcWpzcEEtSG10Znpva2J6MG8zMmNEQloxME1MOGdmUWpkaEJWWUxWTGpGZFpkcGZ0MlRscXl3eTlfaGZQZHNkTWJ3V2M?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-10-08T22:43:03Z"
+      },
       {
         "title": "Aena assume a gestão do Galeão e chega a 18 aeroportos no Brasil - BPMoney",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaXRoSlQwem5GVUdVanhHX0JxalFnWmY5SmNqaHhGU3lJRU03RW1ERHRfdzdQbTF6TXkxR0NvWmlJZnJubFYzQTdlcUY0Q2xBbEx3Wl95SDVFYnBiM0NaNUUwSDlRU1ZXZkE5RTFBekdIR251Y3FScXJCMA?oc=5",
@@ -28,44 +34,38 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV2JRaUxRUTE3SUQ0M2pSdE9rWnQ0aEJBb3d5dHVyLW11Vnc2VGlvVnZ1ZHYtVVp5VUJWUUdLZy01ZkhKUHJPbDYyN1cyRXplY013QnYxQkJ3NVRyQWdkRW4xNGR3MURsaHFoOHNmXzdoVm1rYURLTUl0dVBPUU01N19rT0NkellndXh1UFh2NHg?oc=5",
         "source": "Revista Asas",
         "published_iso": "2026-09-25T09:10:17Z"
-      },
-      {
-        "title": "Brasília entra na mira da Zurich Airports em disputa pelo aeroporto - Mercado e Eventos",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUllVcU1iaHJFMGpZZnhBcEV2eGJxWjJxWHdJeGZEUnhKWmVjd0hxUVRsYUhUQmt3UUk2LXRILXBIc0FRXzdZeDZuOUV3dnRNdEM3eE15c253ajlBODdnMkpCY19DMU1Tc0ZQS2p6dkFiRE5KbnlWd1FkSDNseWVVN2JoNWZlMThGbGVTNHZGVkZYd1R2aHV2RG9IaGNKaHpicW1abnk0bHl5Vko4bFB5VXpIU18wVDBRV3FVTg?oc=5",
-        "source": "Mercado e Eventos",
-        "published_iso": "2026-09-22T07:00:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "Premio Fortuna Mejor Empresa Infraestructura: Aeropuertos Argentina - Perfil",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZXFlTHNuM1k0eDVHSDc4M3p3ZXNqZkt4LWJaUGNMXzRCbGpEZWxIYUhjVEU1MnFONTl1TGFaLXF2REhtODIyY2Rfa3RwMm9Qa1Q1cUF4Q2trWkZZbVBmMWNfWWlndUExMHhyRjgtQ2ZITEw2NVdON25ubkpVQkpUT0REZDIxckhvQWViLWczakhJUGNaaElweEhaSktkczhrdERpT3FfUjFEazE3UHZRNGR3eThveGhHeXfSAb8BQVVfeXFMT2dRcE4xTEJTOHg3ank3bDlkMnlkQUlWVjBESXBhbEtOOXRfMXRucmVTbXlWZUVEVmd0cmpBN3g4UlR2aEdmTUJRS0FaSVZIQ1B1V1ZnWGVsMU9HZW0zODhHYURTSnZpUjdncFJ3RndwbHdtYVVVak5fVEJ4UTltQzh2aDAzeW91TWxmUmptOFgwbmdUdDdwZFk1MTVvd3EwWlJsZXBlcWIxTjE2cVRLbFp1SHM3VXNXYTZRbUVvbVk?oc=5",
-        "source": "Perfil",
-        "published_iso": "2026-10-06T23:25:00Z"
+        "title": "Aeropuertos Argentina invertirá US$1.500 millones hasta 2031 - LA17",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmY5QW1mNFFJZGJQN1AtcTk4N1hHdU9YVjczS2RDYXhVZTNJYktEcUVqdWpJNjNZcVBqeGcwbjRaWFo0ZXNvVURRQlFKbGRKakNRR2ZJLTFZREl2TjJ3UHZORTJGcDg4ZFUyN1Y4RkZoZlNuWVhzT3pxdi1rUkJqUVZKQllfMjFPVVQ1Xy1pV0R4SnVhSjFvY2NTSWJIaDBjbkg1c3JVbUg?oc=5",
+        "source": "LA17",
+        "published_iso": "2026-10-09T16:54:00Z"
       },
       {
-        "title": "Eduardo Eurnekian, el señor de los aeropuertos - Letra P",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMk85MU9IbUl5dFphTkt3ckhKUl93OEFROE1ZQUl6RFBVRWo3YXltUUVTT3RWWkpGazZnUElURXlVaUt0LUlFQ3N2NHdVd1hHU3U2TmxhN3p3TVg1a0VlSlRZTnJIZmtsZERld05EbXJHYmdmeWNjOXl5UTFhSTdneWlDQdIBiAFBVV95cUxQTGVRUFM2VV85VWJrVWYwcXY0V244bmx6Z0g1YkVpU3NKbWY4WFVIeXEyQnE2eUVNUjUteF9yTlFCRlJnN2hxUlNNYUVQRGx6SGxRajQwYk5oVy1qSkh2cXBaSmJDeWVwTnRQTWVrYjAxZXdTMHBSNmtaZ2RLT1UtVnNiVjROcml5?oc=5",
-        "source": "Letra P",
-        "published_iso": "2026-10-06T09:30:00Z"
+        "title": "Aeropuertos Argentina prevé US$ 1.500 millones para Ezeiza y Aeroparque - El Zonda",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmNwTGExOGpGUjF0S3E4U20tcTdFaThZdTV3MU1ncmw5Yzd1WVNNTE56MVFYVDQxYnAtcGVZYlpzSjNpeHN4dXBPQUlXVEItNDVjSEpubVM5aVdIX25qZkFrb1lEVXJVS0Q1Y0QwSF9ZeGNaR0UyUlpVTi1ya2FrT1oyeWZSakg2LWU3YXd5a05IZ0hidWpKWUVWR1hFOUVhbFV1dEY3YTJrZWU5VWlXdFVHVFhEZw?oc=5",
+        "source": "El Zonda",
+        "published_iso": "2026-10-09T16:29:26Z"
       },
       {
-        "title": "Eurnekian, la “casta” de los aeropuertos que se llevó el botín de oro de su empleado Milei - Diagonales",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZzVkVWM0Ni1xcXdya25RNG12bGpYdHlaV0dzLVZRYXZZcDhVTGVIYkg2a29KeTAycU9KcFg2U0hjdVVHdGlnMFptcW5FZ0o3dExFTmpfUE14U0ZXLThLd0M3VmxoWHQtcW9tYzh0b1BMdnhuMm1xbG5oN2tqMk43ekRVNlJOSHZwMzFTaGZNcXJIV3lCaWxWNkRNaFJqTUZUUXUxU0ZYTmlOQzBmdnZEbEZwalVGVWRXYUFnT3VzRkgxeVM2UXVQTzVvbW9mMjBBWDdMallaWWxkOUJPYlBCM2pRUVjSAfMBQVVfeXFMT1lzSUR2WTFPZDBMd3RyU2tmeW5oUlpoemVBWHVFenVGNEpSbHY3NmZFVS1QNnRBdjBkN1l2SEV4ZFYwOVZzNzYzWUo3U0RFS05GaFRmVFNEN1BuM3hUVGFpR1dGNlJ3WHRKbDNjaVQ0WnRSWDJIbTVNeVFqY3Z6M0c2bTBqRWM2VmU1MDllMU82cU5hSmZadmtaUjdHN1lsTGNfbS0xcDlxM0p5ZnVUVnllRmVHN2llUG1tLTVfNGpKWFJKdmh4Tkl2NXQtazJRc2hiSDlkTDJjdTF0YUZqbGh3MXNqTzc1Z3RMUVRJc0phRXM0?oc=5",
-        "source": "Diagonales",
-        "published_iso": "2026-10-05T15:26:57Z"
+        "title": "Aeropuertos Argentina anunció el mayor plan de inversión de su historia: desembolsará USD 1.500 millones en los próximos 5 años - Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdm5QTmpNWVE5d0pwZGI3YlhVWGtWaC13LXdvUnhMQ05LOHdnWUxLb3gzWUlUUzhRdTJiTFFFTWxHdHdzQXpJRWN1Sy1DS2JJWkhfMDNwQWRKdUk4cDBTdHJkOG1LMXZ4M01kUXVXQmZQaXBiaDVTY3c0b05EMXJ2aFFseVBVcTlsTlJpVGJXdnA3QUx6Yk1qWVoyYi1ZbUduOEo5VlkxWUxLZ2pZNVliQjRNY09BelQ1Y0VrWGk5X2hlM3I2cTRYNXl5SlBxYjEzbnZzN3c2Uy1XT0IyNlBsbzVxd3M0RHp3TEpiN3pQT3M0WTdycENoUVJFS2RLZkXSAZoCQVVfeXFMTTlBTWFBZGJtZ2M4MF9mMVBpRTZlZ0VXOS1heUhCMkc1S2RJcTNES2o5YkR5aHJPMFZiR3BLS01wbmgyVThFRkpUNWo5TWhWUmhMN3VvWndPTUNBWVVEdlgydndkMGdUMEhpZEgyanFCdGRKZ1QwU1NyS2ZUNmR5WGVpUHBXdWE0ZUlGRGU3RC1aQ2ZlaV9LZFBMTmw1TmRrWGp1MDl0aUp6Rm45MU53VGg4UlRVbmZlV0wyV0Uzb0JLWHFxaDlJRGQwZ3djbkRrRXNnM2RoWG1hU1E2b3pTbzdGb2FpSzlhMjhVc2VHX0ZSWTl6WXY5VmJUM1I0bkdKR3ZwMXQydEwxdG1FRkxsSmVhN3VIYW9JM0ZR?oc=5",
+        "source": "Infobae",
+        "published_iso": "2026-10-09T16:06:40Z"
       },
       {
-        "title": "Aeropuertos Argentina extiende la concesión y compromete US$600 millones en inversiones - La Capital",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ20tZ2ZHY25lc0ZMUlVpejVzUkRJbmZMSkwtam1ZR3NFcS1DX2FOWmlDX0pwTGhMR09zelQ0dVVqbENNVmU0bWdrRHVBbFlRNEh4YVU0elVoMVoxNW9kdDNJblNwWVlGWkc4T0kwallCb3ZOcU9OaWx4TnVOMWx3aTZMVlZZVVJsODZqZjcyMEM1dnZIUXR6dTlUSzR5Q1FyZDNRTHlPNHJVenR3cHNNOUVBQnVqLVVNTFd0b0hFamItc0JMQ3hvWDZjWDJaWkFr0gHWAUFVX3lxTE9qNlBsTVNoMF96cm1VV2M3WnNmVzlib05RRHg1bGNhTVRENlZSMm9CU2ZOVzI5ZkVQOXJPTmYxT3JZay1HZkdQUjZEYmNaYjNIMXhfZlo5RFZJdXM3cXlXYXg5NlRQLWJweEhWdUw4ZmJnQzNFSFRzUDVpQ0JmX1JhVXE2UnVEMEV3SWxKTmhESFFQWE16d2hmWUNzeE1Bek5qaUJEVkUtZ0JXVHdGQU1pMVkyVDJYaG1ZXzJaOEJQQi1qeGRhQ0RjME5POXFrXzJVRjhNWnc?oc=5",
-        "source": "La Capital",
-        "published_iso": "2026-10-04T11:13:48Z"
+        "title": "Benefician a Aeropuertos Argentina 2000 con una suba y dolarización de la tasa de cabotaje - elDiarioAR.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFQwYkVfc0lBZ1FYa0tmb3hDNzdRclZ1M0gyeUFzOW1BTDUzaF92WGFsdnMwNnB2YTNsaGJNclRTOENfa3VTbXBFandJLUFSajg4TVc4QlA1aUl4RWpyeXh4MlNjTm9BWnd2dWdJTzl2MTZKQ0h1cjhuUFFYWW9ZLW5DQnYwX21pQ3Z3NGYtSXNvSVNqSVV5ZXpYOVhVNGVyekpGMnJjT2U2dTJRNHJVVlhLaHJ5U1dieTVvaUl30gHDAUFVX3lxTE1MRWJmR2cwTDlETHVxZ3p4cDRybzRLaTdyZTBrYWprQnRZeFBVdUg3S1FUTklxclNFMXZVVlVVWmRqdEN2R2IzVlRxazVDTUhqam92RVdnWmVSUWpEQ3BoVUFEcXVvaE5FYTNTeTA5V2VzOHQwSTRkZzhvQmVvZ1JCSHcxNEZDTHZYRnp3SHFRa0NEdU13QTZNeDJRdFk4THAxNW1SR21BUi1xTTJ2TEw0cmJrZU13Q2FuZDN5S3FqOTNzcw?oc=5",
+        "source": "elDiarioAR.com",
+        "published_iso": "2026-10-09T13:39:00Z"
       },
       {
-        "title": "El Gobierno extendió la concesión de los aeropuertos hasta 2056: qué acordó con Aeropuertos Argentina 2000 - Enterate Noticias",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjBmanV6RS1kcVFya2VBblhXOHdUSFRuT1gwOTAyd1VpMWNMcXZydkxFN0ZBbzBqSU15cjFNYUdWMHIxY1poS0VNaWN4Wm5TWXZLVExTb1NLRnBEejZSY084U2tuNFpZQ2J4d2NNUndqdmZqY0RId2NVbzJDd2xnVml4Y2NZc3oxdG5rd1JaMU5wc0U?oc=5",
-        "source": "Enterate Noticias",
-        "published_iso": "2026-10-01T18:15:38Z"
+        "title": "Benefician a AA2000 con una suba y dolarización de la tasa de cabotaje - Agencia Noticias Argentinas",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenc1VHJRU29ndkxEbFJBaERFdkVqbWJLSTlRZHBpaEprb1g3UnZTeWJxbzdpZVBiaUZXUnJsMXRUMVZBb00yYndWRjBZTkxqdGFZUVNJVFpuSXhZTTdXTW9nOTVmMWJHQzZ5VTIwRW1ZVjI0b1JManJhTjRfb0JQTjk2R3BWUGNQX1RleUh3QzN2cWw5VDFkeGRrRlFxSU1wUnBhWXEtRkRFV1hzNVBObzFXT2E2NTh4Z201M0U4OVVwb3A4N3pjZWE1T1J6OVNtbUHSAeABQVVfeXFMT3dJdUc2S0Y1Sk0wQjVrZkh4RFVnU1FZNkQzVmtDaFBjYXdlakRGSXBYbGJTakQ1WXZjSFdyQzdzY25kZlpEbVpSTUNwSW5uWm05NW9IUy1CaFoxWml4UGhkZHltN1FZWVRNOHJkNkdxdHlNZUFpQlJBdHBGbFJRNkdZalFCQkh1MjZ2TldyTV9wdW1IWXowSEZybGc3bm1tVFd0bkRRMXZJVjFGaWJ0MFJ6TTlsMHY0aE0ycWFkQ25QX25wRE9TNngyaXhQT1ViOW4zRlU3UldfY3BLX09ha2w?oc=5",
+        "source": "Agencia Noticias Argentinas",
+        "published_iso": "2026-10-09T11:27:39Z"
       }
     ]
   }
