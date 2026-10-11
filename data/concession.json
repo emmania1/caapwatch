@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-10T16:05:59Z",
+  "updated_at": "2026-10-11T16:34:10Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Neste mês, governo volta a fazer evento para potenciais interessadas na repactuação da concessão do Aeroporto de Brasília - AEROIN",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmlBQW8td2F6SUs3TWdpTHRSQkdCaTU5aUJRZEVyOXljNFBCVFVlRm9xOGpsUng2blQ3WjNxUlBocm5yU2liQTJVX1pkbGFLWE5MQnc5WEZUbEp3ZDVlZGEzX1FCbGNmeThoVmFsbjgxa0lqWldLbWhWRGRwMXBWRmdZSXRhVTlLTzdFTUhtcFFpMGpVRU5qYkdGdzZFTVFONXdwSVVaZXZhZEtZTDFibFVNWDVqbkhPZWpKajFGNGNKcHpDdm5RVnl2YVZBd2Q3eFRBQnpQUdIB1wFBVV95cUxONmlBQW8td2F6SUs3TWdpTHRSQkdCaTU5aUJRZEVyOXljNFBCVFVlRm9xOGpsUng2blQ3WjNxUlBocm5yU2liQTJVX1pkbGFLWE5MQnc5WEZUbEp3ZDVlZGEzX1FCbGNmeThoVmFsbjgxa0lqWldLbWhWRGRwMXBWRmdZSXRhVTlLTzdFTUhtcFFpMGpVRU5qYkdGdzZFTVFONXdwSVVaZXZhZEtZTDFibFVNWDVqbkhPZWpKajFGNGNKcHpDdm5RVnl2YVZBd2Q3eFRBQnpQUQ?oc=5",
+        "source": "AEROIN",
+        "published_iso": "2026-10-10T14:48:11Z"
+      },
       {
         "title": "Governo quer solução para concessão de Viracopos ainda em 2026 - CNN Brasil",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmxNd3hweXdiZDlOUzUteENjZW1ncEhxdjNqWXUxRnFUaE90N3pTdlctVTI0SkIwc2RTekxzRGhpV3h3bXB2c05UUHpfMnBSZF9ja3lYMmg1SU5QcWpzcEEtSG10Znpva2J6MG8zMmNEQloxME1MOGdmUWpkaEJWWUxWTGpGZFpkcGZ0MlRscXl3eTlfaGZQZHNkTWJ3V2M?oc=5",
@@ -28,44 +34,38 @@
         "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0ZIMWI4YU1qVVZJUVdLV2tIb1JwUWV2VDJNSWRDQl9OcFlEbzVxMGNtXzJLR1U2bHJPRTNHZm9WOTctYmxxUk53NHE2MjQyS3RrZ1d0d2V2TGVYSXNWbzlITndyeDlPVmVxNXZSZE1NWFlOQWVNV1ZOVjlUbVhmUHRrR2RtdHV0alotcjNHUGFBQThNd1d6Yi1QUnhUNHVzTlEwdlFzdWhBMFF5ejdzZ1R0QUswaGphYjRWdVkyeUQxbmtOQUJ0YlluY3lhc1doblRETWdKSVJHc01hRGRIT2RNbVE0ajB6M0hMMmtjYk5XRWo5dThoenlHOXd5eEtfV3VjMw?oc=5",
         "source": "Estadão Blue Studio",
         "published_iso": "2026-10-02T12:23:54Z"
-      },
-      {
-        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXkwYnl1bVpQSGl5aGxnaURhbTYwS0NKcEdia0xDSFFVZ1BzY1hZS1BHaExHMDR2NW5yYmlYUnI4NURZajcyN2U1NWJfQ250enVmR2prZU5MbW9RUWlBWFhHWDhlR1BYZ1hlUk5zT0ZhQTFtRlpLTXV0OHZUeTVPQWtTa0VDbjBENzVaVFlRME9IOC10cXR1UUgta0FrSlVLSkE?oc=5",
-        "source": "Brazil Journal",
-        "published_iso": "2026-09-21T07:00:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "Aeropuertos Argentina anunció obras por US$1500 millones en Ezeiza, Aeroparque y 33 aeropuertos de otras provincias - Border Periodismo",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZjdiRVJwNFdHTnRqb2RFMFRBM3lITkw3TUZTQS16dWFtankwRWo1aHZKZ2czaURiM0RVSG12bW15d2VTeUxwNTlqbG9EQXZZZUtITVFYbllQOEJKb3Fqcmlwemp0S2VOOF9lbUhXcjFpUTFnU0JkZXdKSkNkTktXanFCYU1mODMyY2NfYktJUXRFMmY3LV83V3pMd3FVM3BiWmZiUEhjNUxrMGNWY2k1WFF3ZUd5bTlMTlk5M2J1QzExY2VZc0VKUlRvTV9yQ3l5WFdMekN2MklGWlRxcVlQOGRENWxHSDNOUFE?oc=5",
-        "source": "Border Periodismo",
-        "published_iso": "2026-10-10T00:01:25Z"
+        "title": "Aeropuertos Argentina invertirá US$ 1.500 millones y ampliará el aeropuerto de Bariloche - Neuquen Post",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0l4X3BhcVRITE52djIwcS1nTEdDUWZoWTF1aHY2OW5PYmp4c1NFek85ZjJFQjBEeTFWX3JPQTViRm9pX3laU3J2TldOX0RyV3l4MVVBSnFOZVQtRGlUdE1JV1BITUlCUXlWOW5RNnhmaUVFUEREbG03TEZwWk9fVUNHektGUFVsZ2hibElET3lYcEhsTlo0c2o1NzZvbVdBc3pXQ1R5NEJOUVF1WkJrNXd3?oc=5",
+        "source": "Neuquen Post",
+        "published_iso": "2026-10-11T15:10:09Z"
       },
       {
-        "title": "Aeropuertos Argentina anunció obras en 33 aeropuertos del interior hasta 2031 - Diario Huarpe",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaXBuN21jSkd6MmkyVFNvUlBHUjBQMUV1RDVVdDhYS0E3MXg3alQydFk2bGNhc1g1bE5vdDVjdXUtLWNVRHZYcUxDWU5pbEtEZGN0VU5ZckUta0YyY0xBbHByQ0l6YmxJUHM3cnBCSzdXZGZYd29zemdIbE1TQnhBSWlqWkdfQjZBUE92cFN6VFJiWXNHZmVQMWVJQXpiWGp1Q0JpQnJ5d29kOXRid2otRDVqU3BtU2t1ME9RNzJfaUJnd25ka2tSNHg3OWxNS1pOOUNoOWk1Nzk2RXZ2UVQ0ZEZsX3liM2Zi?oc=5",
-        "source": "Diario Huarpe",
-        "published_iso": "2026-10-09T23:39:01Z"
+        "title": "Aeropuertos Argentina anuncia una inversión histórica de US$ 1.500 millones para el período 2027-2031 - Mnews",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTG81TU1pVnlzMEgyLThWb1VzY1FZUmN5ZWs4WG1GRlIxUGtCeEctalBIcHh4V2xLeThNNENQdVQ1bXNoazBRZlI4VENobzhmVF9WZGZkVG1OeFNSVmlPcWQxTkVUMEQ4VXNZbzlFM3VSbGppSzRCeTVWYjVKMTd2bTVla05DWGo5TUJWWWtKc2RTdkRGNVdCS3hkZ1MxMGRXVU1DNmg1ZC04d2tKeENYeDF3b19WTnYyd24zOVpvR2hpYnFHZ1cxeXVaSjBOckh1ckx4VTNHMjBHQkdydzFN?oc=5",
+        "source": "Mnews",
+        "published_iso": "2026-10-11T14:00:17Z"
       },
       {
-        "title": "Aeropuertos Argentina anunció histórica inversión que incluirá modernización de Posadas e Iguazú - Plan B Misiones",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZFV4OGVqbDB5UjdSeEVkbUFrc2VsR0tENWRTN09KMkV3RGRPdnNrS3l1SXRLV0lEdndKalNUZXJNOVN6cF9iYUh5bHZGaFdfTzJSLVgwbjd3UDRRRC11Z3RDaU1Xa3MySE9ULV85djByR0czOVVJQndkZnFMeEV3N0NJbkhJd2FBek9vV2FJZDRKLVM3RHNDanlCSzNtNFBlNTFmc0F4alJNcl9JRWhVYW1MbFJ0djhPTnlZQ0xOaS1xNDhFdkhkR0J4bEVwSlJHUGJwOUJ3?oc=5",
-        "source": "Plan B Misiones",
-        "published_iso": "2026-10-09T21:31:02Z"
+        "title": "Aeropuertos Argentina invertirá US$ 1.500 M - Perfil",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGZtYjQyTWV0djdvbjUzWXdGWllmZFpLNktHVGF3ZEZ2WEwybXFQTTRJeXlFRG9aNU9ueTdjejBzTTNJdk54NWM0RWllYjhwZWN4a3dRSUxITTRZdGEzZjk3VUJvcFV2U0x4WmNDWF9VdXlyMl9HbVZTTGxNal9DVmhWTFVnX1VVWEV0dkpDVXMzMWhwVERn0gGXAUFVX3lxTE5QZm1iNDJNZXR2N29uNTNZd0ZaWWZkWks2S0dUYXdkRnZYTDJtcVBNNEl5eUVEb1o1T255N2N6MHNNM0l2Tng1YzRFaWViOHBlY3hrd1FJTEhNNFl0YTNmOTdVQm9wVXZTTHhaY0NYX1V1eXIyX0dtVlNMbE1qX0NWaFZMVWdfVVVYRXR2SkNVczMxaHBURGc?oc=5",
+        "source": "Perfil",
+        "published_iso": "2026-10-11T06:30:41Z"
       },
       {
-        "title": "Milei le extendió a Eurnekian la concesión de los aeropuertos por tres décadas y dolarizó la tasa de cabotaje - La Política Online",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdjdLV2xtc19PWDF4MWxnb2xucDZZYXlvNE43YVc1R0pCQWoxX0JVRHRZMHIyaTBnUy1RdGxoZ2k0aTl0WUlGTEQ5eUhrNC1Kb1FSZ3IyT3JrZlVJMmQ4T2xMdWsyVEYxcWVWWlA0NHhFMk9nRHdLWWo1ek1SaTZIeHR6aHA3N0ZidVhXSm5rcmRYTUdpSWdtN2szNHZGRU53Zm55a2g1SldMblJEWDdXN0N3NVlkNC16UmxSRlNiSm9IckluR1VvQ3NjSUhXUzdnNXFGc055WW8zdE9JNTBZVFk2NGxmOEXSAeoBQVVfeXFMTmEtWUJFZ3VyN19hMEstWmZrT3ROSGl2X0E4ZzR3dmVnWlNjVzhYNENCQmdXSDR3VHBqLU5taTlQdU5pRlJJU0VoQ3kwU3JVRkRnbkpKTjBDNmk5STh3N0ZKV08tSXFGMWprM0MtaldzR0g5YWZUTnpCdkRPY3dsRlBlNW1fUm9HM2FfZUYyQkN3bVZvLXE2LWFQM21iRnlOeDM5a2VjSnY5ZzAwaF9hckRwbVRZck5OLUVnbzNxdHlDWnExcmVGdFVTaXczeDJlSkVjMS10bm1DdFJvTi1uTXJ1X01hUUFDQVdB?oc=5",
-        "source": "La Política Online",
-        "published_iso": "2026-10-09T21:22:33Z"
+        "title": "Eurnekian anuncia una inversión millonaria en aeropuertos y el Gobierno dolariza la tasa de cabotaje - Identidad Correntina",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV2I0MXhFVmdyd0Vkbk5UeERkbWZWdGc0OWVlTm1YQW1lZnVFNzl3SF9KOU9qN3ZSWkxjVk5NOXdOZGNQajhQcFV6bXR5QjV2TFlwUFBwUllub3pfeWlCWWdwckg2S0NKLXo2bmthYzlxT3lJVUs3OGJmQWVOdXRNTm1qRlRGeXJSODRwd0tjRl9CLWVXTTQwbmdFVUdRMjh5ekVibFN0cW9RQjJ4dnJnUEptb0JMNXpJZmtGOW5pRDNUd0J2VXVwSWJpVWxkdGhQX09yLXZROHVSS3FtdUNZSmVoeGhmX2FCZFZrUA?oc=5",
+        "source": "Identidad Correntina",
+        "published_iso": "2026-10-11T00:05:37Z"
       },
       {
-        "title": "Aeropuertos Argentina invertirá US$1.500 millones hasta 2031: prevé obras en 35 aeropuertos - MDZ Online",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQzBvNS16T3FkSHk4azdXZWNiVWFxYkdZZlF6ano2cG5nSXdiaV9lemx2VTB3dVdqRjdPR05TMlh6SENMNHFYU3lHTS1RdktiWlptVXlhTnF1VFJrQkhrRlhWV0lSTm96UUxaUGZ1VmRwMnpnZktfX25qUWF2WkdkcUJ6VldHWUVnaWdNczdPcmg3cnJPaHJDTUtSRGRGSVhBcTBmWEcxQmhFbFZiSzhnZ3lWR1dSYkdoN2Q1Rkp2UFhtemYzUTU1T1VGS2FqMEM2TmJ6TV9jX0RqRm1DakhDRngxdmhKeFFBaXc?oc=5",
-        "source": "MDZ Online",
-        "published_iso": "2026-10-09T21:01:00Z"
+        "title": "Aeropuertos Argentina seguirá manejando el Taravella hasta 2049 (pero hay presupuesto solo para agrandar Ezeiza) - InfoNegocios",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNzRnYzZyTzlIdkJBbnZlcXFkLTFiMS1adUZ3anVBQ1U2NVluXzdlcVBrcmozQVk3ekl1UHFFNDktUjZ1bUdZcEhOaFNNYjhDYVJLY1E3dTRBa1VOeHJwMVQ4RkFpeG4xQ1AxMmhPODBFWUJncXAwRnV2UHIzOUpzbkhrVkJ2TzhLOERScjh4VmVzTTRsalhCdjRKNkYtVTBUUUZyQkdCN1FwcWtlVHdwME5qU1V5TFY5N051MlQ4ZlBGbDgzTVZ6aXJGdDNUblg1YTJZTEQyN0pBSFdk0gHrAUFVX3lxTE8yVUVjWTNoem12ZHAxOXZxNExUalREeXdQRFpHNDhOdFJRZkZGQUFfZTJ2aDJZejBIcF9fZWJRMlJXMWNhOGJNVWx1bXZQYmJtQTloVlBQYmlxR25LbVBDbGhBZ1lUNWJPOFlNeTlFX2FYeDRLNzFCaG1Oc2dhTTBHLUtMNXhRZmlKWWdfSFBTcVR0OUZCZnpwUFRhVU9TM2FoVVJTUnJvc0x2UG5JNkJSNnhqMnZNNTJCN00wakJ4dE12WG0wY1pkWW1yM19pSy1wTEdOWFFvM2lCTmVaTkxXZXZRd211QmM3YmM?oc=5",
+        "source": "InfoNegocios",
+        "published_iso": "2026-10-10T21:46:32Z"
       }
     ]
   }
