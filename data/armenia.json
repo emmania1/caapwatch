@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-10-14T15:42:14Z",
+  "updated_at": "2026-10-15T15:29:29Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenian FM: Armenia at peace with Azerbaijan, Türkiye border could reopen - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEZSeFBpV1ZVcUR1S0xjZkV5T3BPQU1tZWREbENwYkdyTmVsMDBvOENBa0NzM1lFZHJjZ0hDa3F5dHk2N0ZKQ1J2QU5EVlFkWkZOb1pnUTVHbGlna3QxWXhSQ1lEazFYZk1wVm9PY0d4YThCU2hZVE96cDdDVUtpbGJ6NHVFTTMta0wzZmRvYWdBdkl4VUliSg?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "published_iso": "2026-10-14T08:39:35Z"
+      "title": "Guterres backs Armenia-Azerbaijan peace process as Armenian prisoners remain in Baku - Horizon Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNzVvazBtR1V4NTgtNFlvdzlLcFZrQnJGbjFLWVVBZ2dHNFZ6UGhjeUY2cGlhRGxFTmVlcUZuekVkbWtKMElvRnJrZk9rNzBUV1MtWmtQanAwa215S1c2VGpYT2I3RG56UlFwUkEtc3p1OEd4TE1tVWduRldITE5pcEtBWFJlTWZzNHVNbExsWngtZ2JJb1lXUmtFNVREUHBqNWNEM3k3amVRTDYwZXV4ZS1ZOA?oc=5",
+      "source": "Horizon Weekly",
+      "published_iso": "2026-10-15T14:17:33Z"
     },
     {
-      "title": "Pashinyan outlines vision for Armenia-Azerbaijan peace, says there should be no enclaves or exclaves - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN29qMzdzbmU4S2dZbUR0bXdGOU5iNVh5aWE5R0dnY2JhdUpmVDR6OVk1c1d5bExKRnNRb3UyVFE0LWRSeXY2UzVaLU93TEF2Sl83c0tfMDJKeUpNbjByQS1FRnIwNHk0aGlSTTBpSWhkS3EtcjBMSzE3dm5pVlpwX204SzNmWW10ckZCaWZSUEJlU3U1cXJTRTZSdHdYNkRHSVdVQ3QxdFJtbTAxUUVSVmxHc1ljdVY5X1BjQXV2eVB1OFR4Vi1jRU1KYzg3Skk?oc=5",
+      "title": "Syunik’s Shaki incident exposes border security failures - The Armenian Weekly",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGxXYl9EVmlxMWdsV0dUYlIxOC1vaDk4cGh4ekhIb1RlRlZqVi1teDFfY21BLVZlVWV3V0VXdkxVYndKcGVvaVk0Vm9lTmhtNm85Z1cwS1NHZlFwX2JKQlViSUZyT29JZUtfbFVYSDJHbFF5ZVcydXZyQmpTeVJyMUl4S091Uk1jU25VbU5lbWVZRlkyYnBNWnRn?oc=5",
+      "source": "The Armenian Weekly",
+      "published_iso": "2026-10-15T13:30:00Z"
+    },
+    {
+      "title": "Armenia aims to seal Azerbaijan peace deal before 2031 - Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcUdqdWhvdjBsWU5wUVpTdDlwZVJra2NaN1ZlQmhNQXFNN2dQZm9OYjBtS1E2YnhpT1ZFMWFqbWNHN05SVG5MVV85R1BVdFNGMlBmZkVKdFdlTXVjcFpEQmhMSVBDMUxkMWFDYzVmNm56aXVTVFlXS1JhX2paSEx4akU1cTJHalh0cU4xT2VrNERfSS1mQnl5azJZNA?oc=5",
+      "source": "Daily Sabah",
+      "published_iso": "2026-10-15T12:34:00Z"
+    },
+    {
+      "title": "Pashinyan seeks to secure signing of initialed peace agreement with Azerbaijan by 2031 - Qazinform",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1ppcWRZbjNOUk5HZ2tndFMtU0c0YVBkMmJCVUlWdjJaU2FvOWVTdVVjdnB1alBMOGFFQ21fcGlzOHpzMVZhellqa2NZOERWNU9acE9UeHVVcHFIQk9kd21EVXVxOTA5VE1rcGU4d0htNEd2NHdMQ3VPTWNZaC1lRFZZV2I2a3dkNktUVjBZWkFfdFFzblZweDdmbXVDaFM2NWU4X1F5SGpRMk82dFJYSEV4dWNVSFI5clpVYdIBvAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFOA?oc=5",
+      "source": "Qazinform",
+      "published_iso": "2026-10-15T12:27:25Z"
+    },
+    {
+      "title": "Pashinyan Sets 2031 Target for Armenia-Azerbaijan Peace Agreement - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMWtlcGVCNWtsLXdrYzRJWTVOOENHQzdld3FreWJ0NWNqcFR4YWt1WkdHa05WYzVKT0VXZENBRlA4MDE0dmhUV25aMDhKNEdDRTNsbVVrakJrNF9fdjdJelc1ejBJS1hLZEd1X2ltNXF5MGZ5dEVEY19qY0JNVWtjdW85MW1mNjF6Q0N5blNHUXYzaXFYYmJXT2cxbDNYcktvQmc?oc=5",
+      "source": "Caspian Post",
+      "published_iso": "2026-10-15T10:22:28Z"
+    },
+    {
+      "title": "Pashinyan names Armenia-Azerbaijan peace deal by 2031 a top priority - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlVRdWtnM1laTFJDWjNKY1MxaGZtU1N3bTNMUUp3Y3NZX3BMaVcxWXVKYThWNnhDZGkwanJ4SlpzSkFfWEpRdmEySkNnVGJWWExmZGdhWWxuckhtLW45ZWkwWWVvODR3R0I0dXYwOWk4ZjlMTzlacHFrTjF1VmtnNUJpN2Zha1lXT0tGbDByMVRKT3MyNWZaLWtuTUJhbzBGc0pFNHdNRlY2UQ?oc=5",
       "source": "Public Radio of Armenia",
-      "published_iso": "2026-10-14T08:18:25Z"
-    },
-    {
-      "title": "Pashinyan details his vision for peace with Azerbaijan - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tdHRCNTZtMVNKbmN4YzBFODRFRVJScFpqeFdzZ1ZHSzlSb0hmYWRRQVJnNVdwR1k5YmJLN3dtbThIb1hBUGtad1A5b1hTWldBY3IwSWZQSQ?oc=5",
-      "source": "AzerNews",
-      "published_iso": "2026-10-14T06:35:00Z"
-    },
-    {
-      "title": "Pashinyan outlines vision for resolving enclave-exclave issue between Armenia and Azerbaijan - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjWHN0MExDVThFZzM0WGI1NGducHNNeVp3Y0pKWS1MVkwwcjFVdGRTakVjTWtESTV4MVF3X0UzWWF0R1N3ejZHTnd6aUMtYjEyX1HSAVdBVV95cUxPMnAzal85Y3ZJMXBiNGV3MjV5X2UtNlNVSTJVV2R2QWpoTW5UWmtMWGo2bGRSVDhkOUpwRVBfN1NjMjJpRE1KbXBDMzhjSWY3Nnk1TUxjSzg?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-10-14T05:58:00Z"
-    },
-    {
-      "title": "There should be no enclaves or exclaves between Armenia and Azerbaijan, Pashinyan says - TodayPress.tv",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUjJvTVcwZzBuZXRia0gxUnIxb1UwUGJsZmlnVVdFRUlWU3k1ZXJvZFFkQ3A4LXpjeUo5MmxXc3VCa2ROa2hXMVVXSGtXUFdqQjhuejhlTWpSTmNqZFZHeXZwSXlxdmF2clpueXZQRV8yVHVFRjZfMUNmV1lnc2JydW93Z1FoM1psLWJjam1ybnBGZlVmTUl4QkFqaXZ3al9DWnl5ZVFlNkJtdENNb2kydXdSSXIzQWI3a1gwM3JkSFpLajg?oc=5",
-      "source": "TodayPress.tv",
-      "published_iso": "2026-10-14T05:56:00Z"
-    },
-    {
-      "title": "Pashinyan says Armenia and Azerbaijan should have ‘no enclaves or exclaves’ - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ2Q4SjBKUk5zNnlsU3ZyMGgxM2s1LVNiODRkb2ZBendaRV9nUjNaeDFBRUhPdmx5MDdhWUVsbWl1Um1zWGo2Y3FNdWExRzk3MExrVy1NMjNjcDZMR1N4dG9RbFdUWUVSLVA0WVRNRjhvU3ZVcjZxZHloSkFWRkl3S00zN2oxcFlVdm8wVE9mWFUxNXJwQmVlUC1pQQ?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-10-14T05:18:45Z"
+      "published_iso": "2026-10-15T09:27:37Z"
     }
   ]
 }
