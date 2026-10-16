@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-10-15T15:29:08Z",
+  "updated_at": "2026-10-16T15:12:03Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
+        "title": "Concessão do Aeroporto de Brasília prevê R$ 2 bilhões em investimentos e inclui dez terminais regionais - Jornal Opção",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2Zub09DaVRUUE1DQk9ybnBjdzdoY1NKNFJaTEdjOHE1cGczVkFWTm1faFU5SG94WXp1LU90RndyV0JJRkdGWlJKTGRIYXVxUkdIWXNHVEtNR096ZVBOOHc2N1I1eVg0QmFIRDl2YUhucjREVTZ6dDhjc2ppUzJFQlpsNjZ0YS1LVG8zOFB2d181QVFSeHlGSVp4YnNlNndoVzhpNHlCa2lYRE44aXNPMFJRb0czV0NTNUFGOE1JSXdvNXpPVmdsZTRUVTZJTS1vNHN3dHFlYlFCanJCZUx0ZXBvTDRtWHk3XzR4bjd5MA?oc=5",
+        "source": "Jornal Opção",
+        "published_iso": "2026-10-15T22:00:00Z"
+      },
+      {
+        "title": "MPor e ANAC apresentam concessão do Aeroporto de Brasília e regionais - Agência iNFRA",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBkeUVkTDRWaVVqMjJ2WGNxeFdQdjNuaWJtbVk0M1hpRy1pRVF1NWdFOU9CNjBHdG9BWkljWDh5ek9YRzU5ZU41bF9ON2NjOWgyV1lVdVpYZ3NoaFp1WjUzNGctNUZXOTZ0Q1JaOUlMWDVTU1dYNC1vWmxtaGZMU0tOSHJqNERZNkxEb3YzbTYtSnVKYUYyWVBCQmhIUmpCeWc?oc=5",
+        "source": "Agência iNFRA",
+        "published_iso": "2026-10-15T19:46:31Z"
+      },
+      {
+        "title": "Aeroporto de Três Lagoas entra em processo federal de concessão - Hojemais.com.br",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkttRHdEMmtLcjRQaU5fUGNhTlkxUmUwYzhheWtCMXVHQVZKZTV3SlQ4REtiSUdtV3dWSmM2R0ZXQ3UwSmhVZzBURERIcUNETXhJX2w1YXN6YXZablNvc0tpNmVUeXpzcGZFajV6VmRuNC1BWDRyV2c1aVFESEpoUkxCUzFtLUVldFlrZGRCVEotR014UVg5dDk0VVNEWjVCb0ZTVVd2aFpXTEJYeWRHNmppbVRJT21BRU5RUw?oc=5",
+        "source": "Hojemais.com.br",
+        "published_iso": "2026-10-15T18:57:00Z"
+      },
+      {
+        "title": "Aeroporto de Brasília e 10 regionais vão a roadshow em outubro - Campo Grande News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFo4dTA1akR5NTJpU05VOUVCcHhzMmw1cWdlTG0wT1RrWFNLQkFhb0VNZ3VXelphRTFqdVBWbXhxYW40N1VuZHJ4cUs4SzV5el9uZHJvalVxbzBRdzVDNUFEUFByekZhZFhST1pXdWZmZmtLU0x3dTBTVGstYUdrTWdLR0xpY0dzNmduZWFfS0RxVy1TNXU2T2tyYUJpU2UwMG96dkNBRFZUVHRmQW5HZGxqZ0w5OTJpZ29j0gG7AUFVX3lxTFAtYm4yYmtVMzc2SlRYdWtwMVBHT1hybzkxeGtTY1JVay03UjN3bUJXenJJWTNSQ1ZPckdJWnZzMmJtc2pMNElmYk5zZ1l3eERYZ0dKeDYzajZmd1NpVnVRMlIyS1hacmxUR3gzRktwcFJqTk1mTkQtRzJuVldGbVgwZGJhN2Z3N3FmSzJuX184WUJDa0VyR01QSGZEWFlxaUhwOW5Zb3Rrb3QtTU5Qc2xKRkt0QVBNYVFRdnM?oc=5",
+        "source": "Campo Grande News",
+        "published_iso": "2026-10-15T17:38:00Z"
+      },
+      {
         "title": "Neste mês, governo volta a fazer evento para potenciais interessadas na repactuação da concessão do Aeroporto de Brasília - AEROIN",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmlBQW8td2F6SUs3TWdpTHRSQkdCaTU5aUJRZEVyOXljNFBCVFVlRm9xOGpsUng2blQ3WjNxUlBocm5yU2liQTJVX1pkbGFLWE5MQnc5WEZUbEp3ZDVlZGEzX1FCbGNmeThoVmFsbjgxa0lqWldLbWhWRGRwMXBWRmdZSXRhVTlLTzdFTUhtcFFpMGpVRU5qYkdGdzZFTVFONXdwSVVaZXZhZEtZTDFibFVNWDVqbkhPZWpKajFGNGNKcHpDdm5RVnl2YVZBd2Q3eFRBQnpQUdIB1wFBVV95cUxONmlBQW8td2F6SUs3TWdpTHRSQkdCaTU5aUJRZEVyOXljNFBCVFVlRm9xOGpsUng2blQ3WjNxUlBocm5yU2liQTJVX1pkbGFLWE5MQnc5WEZUbEp3ZDVlZGEzX1FCbGNmeThoVmFsbjgxa0lqWldLbWhWRGRwMXBWRmdZSXRhVTlLTzdFTUhtcFFpMGpVRU5qYkdGdzZFTVFONXdwSVVaZXZhZEtZTDFibFVNWDVqbkhPZWpKajFGNGNKcHpDdm5RVnl2YVZBd2Q3eFRBQnpQUQ?oc=5",
         "source": "AEROIN",
         "published_iso": "2026-10-10T14:48:11Z"
-      },
-      {
-        "title": "Governo quer solução para concessão de Viracopos ainda em 2026 - CNN Brasil",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTmxNd3hweXdiZDlOUzUteENjZW1ncEhxdjNqWXUxRnFUaE90N3pTdlctVTI0SkIwc2RTekxzRGhpV3h3bXB2c05UUHpfMnBSZF9ja3lYMmg1SU5QcWpzcEEtSG10Znpva2J6MG8zMmNEQloxME1MOGdmUWpkaEJWWUxWTGpGZFpkcGZ0MlRscXl3eTlfaGZQZHNkTWJ3V2M?oc=5",
-        "source": "CNN Brasil",
-        "published_iso": "2026-10-08T22:43:03Z"
-      },
-      {
-        "title": "Aena assume a gestão do Galeão e chega a 18 aeroportos no Brasil - BPMoney",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjaXRoSlQwem5GVUdVanhHX0JxalFnWmY5SmNqaHhGU3lJRU03RW1ERHRfdzdQbTF6TXkxR0NvWmlJZnJubFYzQTdlcUY0Q2xBbEx3Wl95SDVFYnBiM0NaNUUwSDlRU1ZXZkE5RTFBekdIR251Y3FScXJCMA?oc=5",
-        "source": "BPMoney",
-        "published_iso": "2026-10-06T21:30:00Z"
-      },
-      {
-        "title": "Aena Brasil assume gestão do aeroporto do Galeão - AERO Magazine",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNEN4RFZGUDFsUnpZMExkMHFNSmhCblBrMzRFa0N0SkpzbUZDdGhMUnhNQ09GTmUzN3VXa2luZ194MEJRZ2R5djI1azZQRFczVnhIVnlENnpoNzBuNmJPZlJsdU9HZ2hTX1NUMnl2a3R2MGF6WElQaGszOHRRQUVudnhGOU1kRk95TVcyQVdPVTFpdUVhWVQwLTFZdk1qdU1OUHo1R25R0gGrAUFVX3lxTE5BUzNfVUJGVnhJc1VDVTlBb00zWTAwYlBoUzF1Ul9Ed2NTMU9oQlhFX04wX0VjdDVKZ2dWeEhGQURFbWxWMHR4MEN6QjUydWZYWXc1NVdoNThqeDRzNVkxWTNqNDJBRmFsMFlrejk3V2FTMFY0ZUZKVm44dk5hbGlrX25NVXNyTW9TNV8tekxqX0cyc1JaLTlQRGFhLVFGa1JreUhhaEtUY3B0VQ?oc=5",
-        "source": "AERO Magazine",
-        "published_iso": "2026-10-06T19:29:00Z"
-      },
-      {
-        "title": "Como uma concessão de infraestrutura pode mudar de controlador sem interromper a operação - Estadão Blue Studio",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM0ZIMWI4YU1qVVZJUVdLV2tIb1JwUWV2VDJNSWRDQl9OcFlEbzVxMGNtXzJLR1U2bHJPRTNHZm9WOTctYmxxUk53NHE2MjQyS3RrZ1d0d2V2TGVYSXNWbzlITndyeDlPVmVxNXZSZE1NWFlOQWVNV1ZOVjlUbVhmUHRrR2RtdHV0alotcjNHUGFBQThNd1d6Yi1QUnhUNHVzTlEwdlFzdWhBMFF5ejdzZ1R0QUswaGphYjRWdVkyeUQxbmtOQUJ0YlluY3lhc1doblRETWdKSVJHc01hRGRIT2RNbVE0ajB6M0hMMmtjYk5XRWo5dThoenlHOXd5eEtfV3VjMw?oc=5",
-        "source": "Estadão Blue Studio",
-        "published_iso": "2026-10-02T07:00:00Z"
       }
     ],
     "aa2000": [
       {
         "title": "Aeropuertos Argentina invertirá u$s1.500 millones en obras hasta 2031 - iProfesional",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLU5tWmdtZFdyMEQ0UHNPSnRoNEItUHZJY3ZzSHBzUDU4RXdSS1VUY2FYcXktd1VNbG11dmdqMkdsZ0x6NVB2RTJrMjJXQm5YTXIyYXNvNXlJdWVtdG9RVE92eTZ5MGpkek5COWd3dDR0WVRSa1V4ekQwNWh3SVNWS2J3NXJRQ1dBdS1MZlloaHNCSVRwWTN0YkVQb0dYVlhNTEVJcnNiWjlsdFV5Wld0MUl5TVNrSlNsLXFv0gG7AUFVX3lxTE4tTm1aZ21kV3IwRDRQc09KdGg0Qi1QdkljdnNIcHNQNThFd1JLVVRjYVhxeS13VU1sbXV2Z2oyR2xnTHo1UHZFMmsyMldCblhNcjJhc281eUl1ZW10b1FUT3Z5NnkwamR6TkI5Z3d0NHRZVFJrVXh6RDA1aHdJU1ZLYnc1clFDV0F1LUxmWWhoc0JJVHBZM3RiRVBvR1hWWE1MRUlyc2JaOWx0VXlaV3QxSXlNU2tKU2wtcW8?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkM2T2NDNTVPQ1N0NWRVMVpwd1J4eWVfNDFkYlBiS21MQzFzeUprcktKa20xLTAzdV9zVmo4WU1BNXRkRVFLcUNiSkhPelhzeE90UVBtMnB3SUJZa1ZhcXo4RW82V2Z5WlFleGMta1Q0XzVGQ0gwU05XWDlrY2ljeE5hSWQwUHlKeDY1SXBUV01ZSTBEZjZrQkdTODBaSFdYc2xENzJlQXBYWDQxNFU3U2FGR2jSAboBQVVfeXFMT1ZFaXhnWWhWMmpiMmQ4SHpSdGlVSW9MVGxaUV9HUjJZZV91NGpFdlp3MU90bU1OUWI2ZzR6T3ZiWEZIcWsxNC1VVnA5NGZpaG1ldXl0X005UGxocnlfb3FwckdIRG50ZlVsc2N3dnJ1dUFGWEdUUFJiRXFVa0paOURYbW1tU2ZLTDBJLVZUOGdfNHNHbEhWdXBxV1lwQ3c5ZXdFYjFtQTlpdUhzRHBUQUJvVW9fa1k2U0VB?oc=5",
         "source": "iProfesional",
         "published_iso": "2026-10-15T12:16:00Z"
       },

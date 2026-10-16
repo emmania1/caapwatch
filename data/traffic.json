@@ -1,126 +1,126 @@
 {
-  "updated_at": "2026-09-16T15:19:09Z",
+  "updated_at": "2026-10-16T15:11:57Z",
   "status": "ok",
   "source": "SEC EDGAR 6-K EX-99.1 (CIK 1717393)",
-  "source_url": "https://www.sec.gov/Archives/edgar/data/1717393/000110465926108115/tm2625493d1_ex99-1.htm",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1717393/000110465926116442/tm2627686d1_ex99-1.htm",
   "period": {
-    "label": "August 2026",
-    "month": 8,
+    "label": "September 2026",
+    "month": 9,
     "year": 2026,
-    "current_col": "Aug'26",
-    "prior_col": "Aug'25",
+    "current_col": "Sep'26",
+    "prior_col": "Sep'25",
     "has_ytd": true
   },
   "units": "thousands",
   "headline": {
     "metric": "International Passengers",
-    "current": 3378.0,
-    "prior": 3231.0,
-    "yoy_pct": 4.5,
-    "ytd_current": 24611.0,
-    "ytd_prior": 22672.0,
-    "ytd_yoy_pct": 8.6
+    "current": 3185.0,
+    "prior": 2971.0,
+    "yoy_pct": 7.2,
+    "ytd_current": 27796.0,
+    "ytd_prior": 25643.0,
+    "ytd_yoy_pct": 8.4
   },
   "secondary": {
     "metric": "Domestic Passengers",
-    "current": 3669.0,
-    "prior": 3963.0,
-    "yoy_pct": -7.4,
-    "ytd_current": 27585.0,
-    "ytd_prior": 29020.0,
-    "ytd_yoy_pct": -4.9
+    "current": 3704.0,
+    "prior": 3743.0,
+    "yoy_pct": -1.0,
+    "ytd_current": 31289.0,
+    "ytd_prior": 32763.0,
+    "ytd_yoy_pct": -4.5
   },
   "total": {
-    "current": 7871.0,
-    "prior": 7940.0,
-    "yoy_pct": -0.9,
-    "ytd_current": 58294.0,
-    "ytd_prior": 56944.0,
-    "ytd_yoy_pct": 2.4
+    "current": 7678.0,
+    "prior": 7424.0,
+    "yoy_pct": 3.4,
+    "ytd_current": 65973.0,
+    "ytd_prior": 64369.0,
+    "ytd_yoy_pct": 2.5
   },
   "by_type": [
     {
       "name": "Domestic",
-      "current": 3669.0,
-      "prior": 3963.0,
-      "yoy_pct": -7.4,
-      "ytd_current": 27585.0,
-      "ytd_prior": 29020.0,
-      "ytd_yoy_pct": -4.9
+      "current": 3704.0,
+      "prior": 3743.0,
+      "yoy_pct": -1.0,
+      "ytd_current": 31289.0,
+      "ytd_prior": 32763.0,
+      "ytd_yoy_pct": -4.5
     },
     {
       "name": "International",
-      "current": 3378.0,
-      "prior": 3231.0,
-      "yoy_pct": 4.5,
-      "ytd_current": 24611.0,
-      "ytd_prior": 22672.0,
-      "ytd_yoy_pct": 8.6
+      "current": 3185.0,
+      "prior": 2971.0,
+      "yoy_pct": 7.2,
+      "ytd_current": 27796.0,
+      "ytd_prior": 25643.0,
+      "ytd_yoy_pct": 8.4
     },
     {
       "name": "Transit",
-      "current": 824.0,
-      "prior": 746.0,
-      "yoy_pct": 10.4,
-      "ytd_current": 6099.0,
-      "ytd_prior": 5253.0,
-      "ytd_yoy_pct": 16.1
+      "current": 789.0,
+      "prior": 710.0,
+      "yoy_pct": 11.1,
+      "ytd_current": 6888.0,
+      "ytd_prior": 5963.0,
+      "ytd_yoy_pct": 15.5
     }
   ],
   "by_country": [
     {
       "name": "Argentina",
-      "current": 3854.0,
-      "prior": 4069.0,
-      "yoy_pct": -5.3,
-      "ytd_current": 30687.0,
-      "ytd_prior": 31063.0,
-      "ytd_yoy_pct": -1.2
+      "current": 3938.0,
+      "prior": 3872.0,
+      "yoy_pct": 1.7,
+      "ytd_current": 34624.0,
+      "ytd_prior": 34935.0,
+      "ytd_yoy_pct": -0.9
     },
     {
       "name": "Brazil",
-      "current": 1514.0,
-      "prior": 1506.0,
-      "yoy_pct": 0.5,
-      "ytd_current": 11490.0,
-      "ytd_prior": 10744.0,
-      "ytd_yoy_pct": 7.0
+      "current": 1441.0,
+      "prior": 1466.0,
+      "yoy_pct": -1.7,
+      "ytd_current": 12931.0,
+      "ytd_prior": 12210.0,
+      "ytd_yoy_pct": 5.9
     },
     {
       "name": "Italy",
-      "current": 1100.0,
-      "prior": 1068.0,
-      "yoy_pct": 3.0,
-      "ytd_current": 7007.0,
-      "ytd_prior": 6654.0,
-      "ytd_yoy_pct": 5.3
+      "current": 1072.0,
+      "prior": 993.0,
+      "yoy_pct": 8.0,
+      "ytd_current": 8079.0,
+      "ytd_prior": 7647.0,
+      "ytd_yoy_pct": 5.7
     },
     {
       "name": "Armenia",
-      "current": 775.0,
-      "prior": 679.0,
-      "yoy_pct": 14.1,
-      "ytd_current": 4258.0,
-      "ytd_prior": 3783.0,
-      "ytd_yoy_pct": 12.6
+      "current": 656.0,
+      "prior": 553.0,
+      "yoy_pct": 18.7,
+      "ytd_current": 4914.0,
+      "ytd_prior": 4336.0,
+      "ytd_yoy_pct": 13.3
     },
     {
       "name": "Ecuador",
-      "current": 453.0,
-      "prior": 450.0,
-      "yoy_pct": 0.6,
-      "ytd_current": 3281.0,
-      "ytd_prior": 3176.0,
-      "ytd_yoy_pct": 3.3
+      "current": 380.0,
+      "prior": 357.0,
+      "yoy_pct": 6.4,
+      "ytd_current": 3662.0,
+      "ytd_prior": 3534.0,
+      "ytd_yoy_pct": 3.6
     },
     {
       "name": "Uruguay",
-      "current": 175.0,
-      "prior": 167.0,
-      "yoy_pct": 4.7,
-      "ytd_current": 1571.0,
-      "ytd_prior": 1524.0,
-      "ytd_yoy_pct": 3.1
+      "current": 191.0,
+      "prior": 184.0,
+      "yoy_pct": 4.3,
+      "ytd_current": 1763.0,
+      "ytd_prior": 1708.0,
+      "ytd_yoy_pct": 3.2
     }
   ],
   "intl_by_market": {
