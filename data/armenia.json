@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-16T15:12:24Z",
+  "updated_at": "2026-10-17T14:03:47Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Pashinyan says that he wants peace treaty with Azerbaijan by 2031 - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNODBOYzhGczNDZVowNWFmUGUzMkowdXg4cjFTT0JFWk1mNmlSZ3c5blJaaW1lMy1rUGZmR3BzdG8xUHFROFZNRXFSWGdmamM4b1F4SVVuQ2hiRzZ2SnRZNUR2QnpORWJpZUVsYWViaXNRX0tpN3pyd1QydXlvd0pGeWZpUVRnMnZTMlN5SA?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-10-17T07:41:17Z"
+    },
+    {
       "title": "ANCA endorses congressional allies for 2026 midterm elections - The Armenian Weekly",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSFZTLV9uZXRrMktRaEhmR2JudkhQODNTdUN2TGhFMXYtUExobU02el9CM1haVl9rUXdXc2wyeGloSjlfNEpJUWt1eDlValRWSGpDLWY4MDF5cFZEVXNLRWFvVEZlX1VKLUlDQjA4dTdySkpIb2xyUWFINndmenpiSllzTm95MW9sSUtlR1lpWVUxLVpNMkFFVjh2eXdtalljeEE?oc=5",
       "source": "The Armenian Weekly",
-      "published_iso": "2026-10-16T14:30:17Z"
-    },
-    {
-      "title": "Pashinyan, Pezeshkian discuss Armenia-Iran cooperation at Yerevan Summit - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGZ5bXFDQjVUbWg2ZGV0dE1URkVzTl9JNzE4SldPUWs0RGRTLWUwSl93ZkRTMzJXSmFjMkhBUU51YVZzdE9HcjVIaHR2V0VWbmp4WEFvQ3luNHBlX2VsdnFEZVBrUXgzcm4zRS1tbi1mQ01zZGtJV19NWk43cDdUd2lZbExwOXRHbjZlaGZ0U3pOTHlBbzFTMXdVUEw5eGd2LTgwbFVUUE44UQ?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-10-16T11:50:12Z"
+      "published_iso": "2026-10-16T14:32:20Z"
     },
     {
       "title": "Pashinyan says he aims to sign peace agreement with Azerbaijan by end of his term in 2031 - OC Media",
@@ -23,22 +23,22 @@
       "published_iso": "2026-10-16T08:17:05Z"
     },
     {
-      "title": "Yerevan says enclave issue will not prevent signing of peace agreement with Baku - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44ckRYa0s4RXlGazl1REVHdnBSX1d6cjY2WkUzbG9zRTBIMU96cHJDMW5nOVdOVTZXZGhmUnhEVFpRS2tManFObkFvek4zYkRMNDhTNHFiRQ?oc=5",
-      "source": "AzerNews",
-      "published_iso": "2026-10-16T07:10:00Z"
+      "title": "Armenia aims to seal Azerbaijan peace deal before 2031 - Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcUdqdWhvdjBsWU5wUVpTdDlwZVJra2NaN1ZlQmhNQXFNN2dQZm9OYjBtS1E2YnhpT1ZFMWFqbWNHN05SVG5MVV85R1BVdFNGMlBmZkVKdFdlTXVjcFpEQmhMSVBDMUxkMWFDYzVmNm56aXVTVFlXS1JhX2paSEx4akU1cTJHalh0cU4xT2VrNERfSS1mQnl5azJZNA?oc=5",
+      "source": "Daily Sabah",
+      "published_iso": "2026-10-15T12:34:00Z"
     },
     {
-      "title": "Armenia-Azerbaijan enclave/exclave issue not an obstacle to signing peace treaty, says FM - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UVElvcVgxNExwdERfVW1MWjBUSUF1NXFqbS1UTVc3OXZ4ZUo5bHc3X1duNUpnbEI3RVNORm41d3F6WWc2b25BZnZNTGlBMXdkNkHSAVdBVV95cUxNdGd0dG9rcWQ5SGt4Yk1ETTR5WTJOcFJYYzBNTG92RzhYSHhCUmZmMGxHb1FoSlJHMVlsZGtiWmJKLXRPY3pONGdOWFc0cnlBVU1fUk9MOWc?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-10-16T06:05:00Z"
+      "title": "Pashinyan seeks to secure signing of initialed peace agreement with Azerbaijan by 2031 - Qazinform",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1ppcWRZbjNOUk5HZ2tndFMtU0c0YVBkMmJCVUlWdjJaU2FvOWVTdVVjdnB1alBMOGFFQ21fcGlzOHpzMVZhellqa2NZOERWNU9acE9UeHVVcHFIQk9kd21EVXVxOTA5VE1rcGU4d0htNEd2NHdMQ3VPTWNZaC1lRFZZV2I2a3dkNktUVjBZWkFfdFFzblZweDdmbXVDaFM2NWU4X1F5SGpRMk82dFJYSEV4dWNVSFI5clpVYdIBvAFBVV95cUxPbW90NTdPMlA2Vl9lOVN1d1JoMmoxdnI4cUw2NFZxR21IUVFCVkUwc2k2S29ORG9MckhkN0czLWhUX0FDTF8xbnV5YXdZVkhjVVh3aGc5Z2lMQjlCUG1kMjkxZ1JFZ2xGWUpSTGlRRmNkMUN2RDNZMlJNQzRkTWhkcGtvcXNnQ19mX3VUQUcxaTFGLUV0ZXZkRTJjZTdwLU9xZ0xKeVVYbkRXNXU5QlZQLURzWl9DWFNmZjdFOA?oc=5",
+      "source": "Qazinform",
+      "published_iso": "2026-10-15T12:27:25Z"
     },
     {
-      "title": "What is behind Pashinyan’s 2031 target? A five-year plan - TodayPress.tv",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDBHOEV6eHpLcHdUWjZBYlF0U0k3dzAzeW5xVFlmbGZqR2Y0aF94UE1LVm1XN0lXY1U4V19KSWNHLXBlUUJEYjJnTjBmQXF1RDhMTXRxbno5SGJEY2NjZXkxaF8yNERRT25YVUhteFhuT19hb00xaGlLN015bHNkNnV5OHhZWU5mZzBRcw?oc=5",
-      "source": "TodayPress.tv",
-      "published_iso": "2026-10-16T05:42:00Z"
+      "title": "Pashinyan Sets 2031 Target for Armenia-Azerbaijan Peace Agreement - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMWtlcGVCNWtsLXdrYzRJWTVOOENHQzdld3FreWJ0NWNqcFR4YWt1WkdHa05WYzVKT0VXZENBRlA4MDE0dmhUV25aMDhKNEdDRTNsbVVrakJrNF9fdjdJelc1ejBJS1hLZEd1X2ltNXF5MGZ5dEVEY19qY0JNVWtjdW85MW1mNjF6Q0N5blNHUXYzaXFYYmJXT2cxbDNYcktvQmc?oc=5",
+      "source": "Caspian Post",
+      "published_iso": "2026-10-15T10:22:28Z"
     }
   ]
 }

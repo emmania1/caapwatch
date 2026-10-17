@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-16T15:12:03Z",
+  "updated_at": "2026-10-17T14:03:26Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Anac cria câmara para negociar conflitos em contratos de concessão de aeroportos - Valor Econômico",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSFBkNXk4RlNnTmpSQUFIVU83SEt4dUtidGpIZ1hJMVQtUC1SbnhvQTdGcEstR1Z6X2Nra21wV25sYnF0ek1VVWFGQ3hkaklmSjJReld0YU1uTlNId1puSl9pbjJLX0J2OEpmUlowdGRUSWpQVzhFT3k2R29zODdxNk8xZkU4SENicnFaSGlTLW56QU1hQ0FfdEFoa2doa1lCTFNDalg2OHdjaXFfZmJiMHAzejA2aXpsSlRnUzRNdHF4Sm1Ea1ZUODkyZlMxNVnSAd4BQVVfeXFMTm1NSjZVMjhkVlpLTk9WQXpRcDdRWVpYa3FGa2s3d2VkWmRNLWw4RXVuejNmZ3FqV3ZtQkhkbzd2ZWJuSGRKak1PWDI1ak9UTUNRQmViZDB3a0VVT2V2MnNpM2xwQWFhdEd0bnQ1SXVSWnIzWlZsODF2cHhWS19TM0FOYjBZLWNwUUl1RVF6VHJ0TGlRY0xzYmozTkVkdEdYLUZ1RVB3V0hIUWk2WHRSS2RvUTFtMjhCSlZYaHF2eXVpRV9sYkg4YnNGZVRFZjJCM09fVEU3eXliS0VNcmdB?oc=5",
+        "source": "Valor Econômico",
+        "published_iso": "2026-10-16T16:26:21Z"
+      },
+      {
+        "title": "Em pacote para concessão, aeroporto de Dourados será apresentado a investidores - Dourados News",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmE1cmQ3dGdWSkhoRGloZlRNZFlZUDNCMEt5RU9xYWhsNVIyZlpSY1FHUUVwNGZrc0YtZHBvNmMzQ2wtN2ppaXJWdGFPMHJoa2ctYmpYZTUwS2ZrLVczdUh0SkZDYnp6WExadU91RDRoVzhSQ0JuRERvek80SkNrdUZ6bHlkaTJqaXduRTA2Vnh5M0lGckdPcHM4dmhFYVRoSVZMNlNQQTFiSEtKSTVfLXp3NVFlNG1CZUHSAb4BQVVfeXFMUFFHYWpSeTZsYld0MGhrd3I0ampxTzJlYlFRRHdvOHBSX2stQ1lITTRBTV8xeER6Tkl6bnJhRVpSMlJxV2tXcDNONVUxVmp4S2ZiS3JfMURNcHUyMm82by1ULVJmZndpbnJPSWllVmN2X0ZXb3dmRWt3LUZtQTgtUTVtVnZoTEVEeXBHSy1KNWRJSmpWUnA0SDZEZVVINWI0ZWhfNnNxV2hvR3ktZ2djMGh0VlJkdjRHcXFjVmU1Zw?oc=5",
+        "source": "Dourados News",
+        "published_iso": "2026-10-16T14:20:00Z"
+      },
       {
         "title": "Concessão do Aeroporto de Brasília prevê R$ 2 bilhões em investimentos e inclui dez terminais regionais - Jornal Opção",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2Zub09DaVRUUE1DQk9ybnBjdzdoY1NKNFJaTEdjOHE1cGczVkFWTm1faFU5SG94WXp1LU90RndyV0JJRkdGWlJKTGRIYXVxUkdIWXNHVEtNR096ZVBOOHc2N1I1eVg0QmFIRDl2YUhucjREVTZ6dDhjc2ppUzJFQlpsNjZ0YS1LVG8zOFB2d181QVFSeHlGSVp4YnNlNndoVzhpNHlCa2lYRE44aXNPMFJRb0czV0NTNUFGOE1JSXdvNXpPVmdsZTRUVTZJTS1vNHN3dHFlYlFCanJCZUx0ZXBvTDRtWHk3XzR4bjd5MA?oc=5",
@@ -22,18 +34,6 @@
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkttRHdEMmtLcjRQaU5fUGNhTlkxUmUwYzhheWtCMXVHQVZKZTV3SlQ4REtiSUdtV3dWSmM2R0ZXQ3UwSmhVZzBURERIcUNETXhJX2w1YXN6YXZablNvc0tpNmVUeXpzcGZFajV6VmRuNC1BWDRyV2c1aVFESEpoUkxCUzFtLUVldFlrZGRCVEotR014UVg5dDk0VVNEWjVCb0ZTVVd2aFpXTEJYeWRHNmppbVRJT21BRU5RUw?oc=5",
         "source": "Hojemais.com.br",
         "published_iso": "2026-10-15T18:57:00Z"
-      },
-      {
-        "title": "Aeroporto de Brasília e 10 regionais vão a roadshow em outubro - Campo Grande News",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFo4dTA1akR5NTJpU05VOUVCcHhzMmw1cWdlTG0wT1RrWFNLQkFhb0VNZ3VXelphRTFqdVBWbXhxYW40N1VuZHJ4cUs4SzV5el9uZHJvalVxbzBRdzVDNUFEUFByekZhZFhST1pXdWZmZmtLU0x3dTBTVGstYUdrTWdLR0xpY0dzNmduZWFfS0RxVy1TNXU2T2tyYUJpU2UwMG96dkNBRFZUVHRmQW5HZGxqZ0w5OTJpZ29j0gG7AUFVX3lxTFAtYm4yYmtVMzc2SlRYdWtwMVBHT1hybzkxeGtTY1JVay03UjN3bUJXenJJWTNSQ1ZPckdJWnZzMmJtc2pMNElmYk5zZ1l3eERYZ0dKeDYzajZmd1NpVnVRMlIyS1hacmxUR3gzRktwcFJqTk1mTkQtRzJuVldGbVgwZGJhN2Z3N3FmSzJuX184WUJDa0VyR01QSGZEWFlxaUhwOW5Zb3Rrb3QtTU5Qc2xKRkt0QVBNYVFRdnM?oc=5",
-        "source": "Campo Grande News",
-        "published_iso": "2026-10-15T17:38:00Z"
-      },
-      {
-        "title": "Neste mês, governo volta a fazer evento para potenciais interessadas na repactuação da concessão do Aeroporto de Brasília - AEROIN",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmlBQW8td2F6SUs3TWdpTHRSQkdCaTU5aUJRZEVyOXljNFBCVFVlRm9xOGpsUng2blQ3WjNxUlBocm5yU2liQTJVX1pkbGFLWE5MQnc5WEZUbEp3ZDVlZGEzX1FCbGNmeThoVmFsbjgxa0lqWldLbWhWRGRwMXBWRmdZSXRhVTlLTzdFTUhtcFFpMGpVRU5qYkdGdzZFTVFONXdwSVVaZXZhZEtZTDFibFVNWDVqbkhPZWpKajFGNGNKcHpDdm5RVnl2YVZBd2Q3eFRBQnpQUdIB1wFBVV95cUxONmlBQW8td2F6SUs3TWdpTHRSQkdCaTU5aUJRZEVyOXljNFBCVFVlRm9xOGpsUng2blQ3WjNxUlBocm5yU2liQTJVX1pkbGFLWE5MQnc5WEZUbEp3ZDVlZGEzX1FCbGNmeThoVmFsbjgxa0lqWldLbWhWRGRwMXBWRmdZSXRhVTlLTzdFTUhtcFFpMGpVRU5qYkdGdzZFTVFONXdwSVVaZXZhZEtZTDFibFVNWDVqbkhPZWpKajFGNGNKcHpDdm5RVnl2YVZBd2Q3eFRBQnpQUQ?oc=5",
-        "source": "AEROIN",
-        "published_iso": "2026-10-10T14:48:11Z"
       }
     ],
     "aa2000": [
