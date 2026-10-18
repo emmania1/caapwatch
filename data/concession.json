@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:03:26Z",
+  "updated_at": "2026-10-18T14:18:11Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -38,6 +38,12 @@
     ],
     "aa2000": [
       {
+        "title": "Eurnekian promete USD 1.500 millones y Milei le extiende la concesión - Identidad Correntina",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUXZlXzBsUEhZZmg4ZDk5dmxCYVljS2k3S1RFc19LYVJjMXV6V1R2YU4tYWhiWDFTb1ljNXg1UXloSzk5S2ZTZmotTFhZc0stQWNlMDdockFmMEFjaHFyQkJDS1Flb0szaUJTNjJBeWxvc2FmVEtQdWhkcjZFTHlLbXFBdnNkNEVqUnhDSmlUQ1lJQ1RpQ0MwZGhTQ1o4dDFQNTUzaXZwaGJSb3dkT2ZPNXBsMmFUanNOSElzT2tPYWVFQQ?oc=5",
+        "source": "Identidad Correntina",
+        "published_iso": "2026-10-17T15:04:45Z"
+      },
+      {
         "title": "Aeropuertos Argentina invertirá u$s1.500 millones en obras hasta 2031 - iProfesional",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTkM2T2NDNTVPQ1N0NWRVMVpwd1J4eWVfNDFkYlBiS21MQzFzeUprcktKa20xLTAzdV9zVmo4WU1BNXRkRVFLcUNiSkhPelhzeE90UVBtMnB3SUJZa1ZhcXo4RW82V2Z5WlFleGMta1Q0XzVGQ0gwU05XWDlrY2ljeE5hSWQwUHlKeDY1SXBUV01ZSTBEZjZrQkdTODBaSFdYc2xENzJlQXBYWDQxNFU3U2FGR2jSAboBQVVfeXFMT1ZFaXhnWWhWMmpiMmQ4SHpSdGlVSW9MVGxaUV9HUjJZZV91NGpFdlp3MU90bU1OUWI2ZzR6T3ZiWEZIcWsxNC1VVnA5NGZpaG1ldXl0X005UGxocnlfb3FwckdIRG50ZlVsc2N3dnJ1dUFGWEdUUFJiRXFVa0paOURYbW1tU2ZLTDBJLVZUOGdfNHNHbEhWdXBxV1lwQ3c5ZXdFYjFtQTlpdUhzRHBUQUJvVW9fa1k2U0VB?oc=5",
         "source": "iProfesional",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzJrckp3T1RMNkZLUmd5YnNwUlJkb2J0aUlrQnhFbkdvRjg5RUdSNTNaM3A0SHJ3WG83THdveGF3NGowTmdRTmtQUWo5NjZvN1BLMVlKbm1uTGxFVl9LVFB1YW5BNG9vY2xfZUg3UmRyLXhtOGVaWWwzeUNUTHRnODlTQ3RwTHZGaUp4Unc4MTEycVR6aEhqRjRIM1lLTG4yYlZ0ek1ZbUtQT2xleUZadVpSY2kwa3lUc2k0M3lWUTM1X0VlWXlLdGh5MNIB5gFBVV95cUxPSFh1akpFMFRlc0pUdmFNZHBaRVJ4MUdMWlU3NkFVbUxJWkZKTG5uV0Q2UV9MRDR0TnltaHg0eXRtWFhmTEV2SWE2bUpkUnhKUjhkSFVaNm9pRU5lLXBSR1h2Q01VbzRhSElXOV9QcUpBODdiTHBhYllfdkprVUZkUnRwNm5mdjlnbm5yOXBVN2dyUWlVZTBSRUk2aXlEQWZtX2t4TEM3d3d3SDZBQVZ6WHNPcV85SjlveUFWdzcwbFhrazRTbU5jZFNPYW5MTG95eWhGSGRZWU5YSkJSci10REFxWU1VZw?oc=5",
         "source": "El Cronista",
         "published_iso": "2026-10-13T19:30:43Z"
-      },
-      {
-        "title": "Aeropuertos Argentina invertirá más de US$ 20 millones en el Taravella - Perfil",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWm82TmE1cmJmM0V4S0ZMUUxsV2g0bUFPeUF5Y3FXQ0dBV3NJTXUtbGs2ZFBRRGpOdmFRenNFamRpZ25Dc3h0Mm4xMXNlYXpaTUEweF9FUUFxd2RXeDBvaHROVk9YNHpmUmI3bWQxaFJyZlduNmhVRDB6U2VRXzBidC05VlN4UWtlZmcteWdZSjRrOGpYZFdXTk91cGh6WDNUM3lPN0hpRWdRWGJpVmNaM1pxUkVkd9IBuwFBVV95cUxORTBHZU01YjJNMlc4Rjl2TzhacUdvOGFRd0ZLN3BJbTF5c1ZkLVBvS1UzYl9hcWpmLUhEeXppN0txajRnSTVNLUhvX2Y2NkFTN29sdXlyYUpLYWNCQjFZakk5T2VicUctaE1DQTRFZDRYNjZVTS1qblMwSjVhOXFSU19TWkx3bWdtZmY4aFRIRElQVU8yNm9ScHBNNUxMaXVPMmJ2djFvbzhyekJLRGFfT0o2ckRLQjdKUHpz?oc=5",
-        "source": "Perfil",
-        "published_iso": "2026-10-13T14:44:23Z"
       }
     ]
   }
