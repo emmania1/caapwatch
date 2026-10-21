@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-10-20T15:33:10Z",
+  "updated_at": "2026-10-21T15:49:48Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Zangezur Corridor puts S Caucasus at centre of global trade and power rivalry - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95UXpsYTFLM1FCTGMycjFNTHZYM2lnM2tiTHJhU1Z2VEZCWmgwNzVwcHcxUkJUZVNYQjdMVFJRS29KZUJjdk1RelFyTFdGcEVmRG03OW4zUQ?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-10-21T13:22:00Z"
+    },
+    {
+      "title": "FM warns against portraying reported border crossing by Azerbaijani shepherd as security threat - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MWmlKcm1ZQnhxcjNmRlY1SjRsLTZpcmNlTEYzTUVuRHNwbm1qZFY1ckdiY05NdmFOSm5xb19rSmVpWVpMR0tod1JzRmE2VkRxUHfSAVdBVV95cUxQOGlkMW44Q05NNVRzM09idVVVUGk1MmswRFllUFFsYy1LQkxHNy1vLWxEUk5wd2R6OVJKaGg5SVlPeFJuTE00UWZlbGg3azBBOGJxWEg5M2M?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-10-21T11:15:00Z"
+    },
+    {
+      "title": "Azerbaijan Exports $23 Million Worth of Goods to Armenia in January-September - caspiannews.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGJhVk9iUTBOd21yQndnTWF4enFwQVZHcXAxVV9uX0tISVVocExlUGxoV2pQWUdvZ29EOU9tem1ETzJQUjFfd1dwdzR6NElVT2NmWWJZNnQwTlV4aFF6T2VvX1cwTzA1RHRtaFNQVVN2MXp5d0JTMzBONThpbnhldzJueTI0WUJLU04xbWdXZnVXdHVxcDFxajdJUXd5SnA4Rk9PZmNnUnN0WHhoZGpGYnpyRllyOWRhZDZKeVZaRzJZVWVl?oc=5",
+      "source": "caspiannews.com",
+      "published_iso": "2026-10-20T21:22:42Z"
+    },
+    {
+      "title": "Yerevan Wants to Swap Territories with Azerbaijan to Resolve Exclave Problem - Substack",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4YzN4QTB2cGVLYkEtNEpBOUI2a3FlUTZSWTItd0xSRGtnby1ZVFhZYzNZOFNNZjhoSGt2ZXZDTC1XS0JoLWZBdXQ5NEJrSV9UWGwtd0VscDFyLVJyYWYzRF9YX0hZc0JxRld1ZnJzU0Q4Q2NF?oc=5",
+      "source": "Substack",
+      "published_iso": "2026-10-20T21:01:46Z"
+    },
+    {
       "title": "Turkish research center repeatedly praises Pashinyan and criticizes the diaspora - The Armenian Weekly",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEUtdkNZZGxHeGtBTEFWT0VyaERtMjlwMU9wZGFKODFmRXhuMmZ6MTF5cERLR2ZPczlsNnZBaDdhSllJZzN3WVJLYVViTm15VmhMNFpHQjVUMkZLQkVXNy1pbndjMXJLdjczSGlYUDZFTFp3WHFnc0xfaEZXejRQRkpFWjRVSkZ3MFdBOHFkcXVSV1AzOVFGZWl6WU9yN2xHNHNMbWxoTFpsR2NraWpEbWZoN0pPUjF3MGZ3?oc=5",
       "source": "The Armenian Weekly",
-      "published_iso": "2026-10-20T15:25:20Z"
+      "published_iso": "2026-10-20T15:28:32Z"
     },
     {
       "title": "Is Türkiye seeking to open its border with Armenia without Azerbaijan’s consent? Tensions exposed - TodayPress.tv",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMURoR3gxYlQwZmVFd3c0alcxUG1ZZWJJbkJnbkZ2a0JEUGh1eXdtQi1QREFRQ3pWZzJzRVZWc2d0bjdIM193dzZLNmFlM3Ntc3VjUEhpWmdMb2hYVTd3cDliQzBKdGhTS3llbkhPUS1ieWpMRGVVcHFBVFR6N0V6NldxWHhNaklkX2xoT0dtOG5wR2xXR0xnMkJTQUpwN0Z3WFlOaUVYVnlNMVYzb3k4WHhwaW5fZWg4RlRGOE1Cck1wNTQ?oc=5",
       "source": "TodayPress.tv",
       "published_iso": "2026-10-19T07:53:59Z"
-    },
-    {
-      "title": "Armenia positions itself as a host of high-level international events, Pashinyan says - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUl0UElXeDhqM190Z0N6ckpRTmJNUGZXLUhUSDg5T3dKRXdadktWZTFNeFhocjAxUVF5NnpFR1l1TE5CLVphNzNFVUhjOFhTajhYV2JzU1FyVnJtSlhXTXZKOWNKNU1HWWQxcEg5ZUF2WGtFejJvcWw3Y05CU3Z4Q3N6WmJqbGJIdVR4YktYTlQ2b0VEdlFmdk0xWWMySnh1SW5GZjBZeEJ2bzdpTktyUVZrckk3Y2F1NVM0?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-10-19T07:03:17Z"
-    },
-    {
-      "title": "Pashinyan says that he wants peace treaty with Azerbaijan by 2031 - commonspace.eu",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNODBOYzhGczNDZVowNWFmUGUzMkowdXg4cjFTT0JFWk1mNmlSZ3c5blJaaW1lMy1rUGZmR3BzdG8xUHFROFZNRXFSWGdmamM4b1F4SVVuQ2hiRzZ2SnRZNUR2QnpORWJpZUVsYWViaXNRX0tpN3pyd1QydXlvd0pGeWZpUVRnMnZTMlN5SA?oc=5",
-      "source": "commonspace.eu",
-      "published_iso": "2026-10-17T07:41:17Z"
-    },
-    {
-      "title": "The people stood up for peace. Nikol Pashinyan - Radar.am",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNRmE1TjZ4Mm5Ec3ZWMDRxWlowTDhKRlZKb2haQXNrLU5QeDJiXzFWeXhjSjBfbmtCancwV3YyTHNNRXowNlVURmJwQ3ZGa0Rmam9FS1dNY0s?oc=5",
-      "source": "Radar.am",
-      "published_iso": "2026-10-17T02:16:42Z"
-    },
-    {
-      "title": "Pashinyan says he aims to sign peace agreement with Azerbaijan by end of his term in 2031 - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazZEaUhkTDU4N1pYVlNpdW5SWkM4akg3VTBGQVRGLVoydmFaRU5qWjRiSnBBa1ZhbFpobWliT18tMGhoejdQWkMzeXhVZlR0bjkyY3NxTnYtTjRBbk1GOFJTOFlzTmE3bDNaZFZ4THlEMDNEQ1B0b05Mc0ZWYTZSR0J6WS1xUW9OU1ZpOFNuT3hBRlRSTmxUeXFGbjZnMjRNdzUxZkh2ZllBeGx0WmRDVw?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-10-16T08:17:05Z"
     }
   ]
 }

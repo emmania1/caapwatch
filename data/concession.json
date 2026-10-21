@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-10-20T15:32:49Z",
+  "updated_at": "2026-10-21T15:49:27Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
-        "title": "Concessão de Brasília e outros 10 aeroportos será apresentada a investidores - Panrotas",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGg2Y19CcE5rY3pyaVVsb1J2YzZ6bUZTeXVWNlVpQUZRbmVPYVp6X24tWDlfX0hpakNHQlU1Sk9vZ0RkQXltcnBLdjFyXzlGUTV0c2VwaW4zeGc0YWE2UXRzZ2RhX3kzZTZJYXREanVabjhYX1VlZmxMTVlwYXhkSTEtT2FrOWRmWmJLbmhCYW5weE41aFhBejV2NTRYN2VodVFHSkJOUTVVOXRTQmlvSzdkZGJhRlBwUVN4LWRHNUE3SXdzcTNENWZOcFBDUmpuZ1RHb0paOVZVMFk?oc=5",
-        "source": "Panrotas",
-        "published_iso": "2026-10-19T14:39:00Z"
-      },
-      {
-        "title": "Anac cria câmara para negociar conflitos em contratos de concessão de aeroportos - Valor Econômico",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSFBkNXk4RlNnTmpSQUFIVU83SEt4dUtidGpIZ1hJMVQtUC1SbnhvQTdGcEstR1Z6X2Nra21wV25sYnF0ek1VVWFGQ3hkaklmSjJReld0YU1uTlNId1puSl9pbjJLX0J2OEpmUlowdGRUSWpQVzhFT3k2R29zODdxNk8xZkU4SENicnFaSGlTLW56QU1hQ0FfdEFoa2doa1lCTFNDalg2OHdjaXFfZmJiMHAzejA2aXpsSlRnUzRNdHF4Sm1Ea1ZUODkyZlMxNVnSAd4BQVVfeXFMTm1NSjZVMjhkVlpLTk9WQXpRcDdRWVpYa3FGa2s3d2VkWmRNLWw4RXVuejNmZ3FqV3ZtQkhkbzd2ZWJuSGRKak1PWDI1ak9UTUNRQmViZDB3a0VVT2V2MnNpM2xwQWFhdEd0bnQ1SXVSWnIzWlZsODF2cHhWS19TM0FOYjBZLWNwUUl1RVF6VHJ0TGlRY0xzYmozTkVkdEdYLUZ1RVB3V0hIUWk2WHRSS2RvUTFtMjhCSlZYaHF2eXVpRV9sYkg4YnNGZVRFZjJCM09fVEU3eXliS0VNcmdB?oc=5",
-        "source": "Valor Econômico",
-        "published_iso": "2026-10-16T16:26:21Z"
-      },
-      {
-        "title": "Em pacote para concessão, aeroporto de Dourados será apresentado a investidores - Dourados News",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmE1cmQ3dGdWSkhoRGloZlRNZFlZUDNCMEt5RU9xYWhsNVIyZlpSY1FHUUVwNGZrc0YtZHBvNmMzQ2wtN2ppaXJWdGFPMHJoa2ctYmpYZTUwS2ZrLVczdUh0SkZDYnp6WExadU91RDRoVzhSQ0JuRERvek80SkNrdUZ6bHlkaTJqaXduRTA2Vnh5M0lGckdPcHM4dmhFYVRoSVZMNlNQQTFiSEtKSTVfLXp3NVFlNG1CZUHSAb4BQVVfeXFMUFFHYWpSeTZsYld0MGhrd3I0ampxTzJlYlFRRHdvOHBSX2stQ1lITTRBTV8xeER6Tkl6bnJhRVpSMlJxV2tXcDNONVUxVmp4S2ZiS3JfMURNcHUyMm82by1ULVJmZndpbnJPSWllVmN2X0ZXb3dmRWt3LUZtQTgtUTVtVnZoTEVEeXBHSy1KNWRJSmpWUnA0SDZEZVVINWI0ZWhfNnNxV2hvR3ktZ2djMGh0VlJkdjRHcXFjVmU1Zw?oc=5",
-        "source": "Dourados News",
-        "published_iso": "2026-10-16T14:20:00Z"
+        "title": "Aeroporto de Brasília pode trocar de dono em novo leilão em dezembro - AIRWAY",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzhHZURzOVE1STluOGhyOXZxY2pYZEJ6TVdjR0htRXpnLTYwN08tMlVDLTg1MGtnVy1fSHJLZW43VkxDUGJyUW1YaGJ0amRXWkU2YU1WaVFQWW9kTUhiX0FrTXFZVEJkT3hOYVROQzExQ2FkczRCbkpSbUkyRmY5cW0xVWd2ODQxajR5TThVN2hQVmVfYThINUpQOA?oc=5",
+        "source": "AIRWAY",
+        "published_iso": "2026-10-20T18:25:10Z"
       },
       {
         "title": "Concessão do Aeroporto de Brasília prevê R$ 2 bilhões em investimentos e inclui dez terminais regionais - Jornal Opção",
@@ -34,9 +22,33 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBkeUVkTDRWaVVqMjJ2WGNxeFdQdjNuaWJtbVk0M1hpRy1pRVF1NWdFOU9CNjBHdG9BWkljWDh5ek9YRzU5ZU41bF9ON2NjOWgyV1lVdVpYZ3NoaFp1WjUzNGctNUZXOTZ0Q1JaOUlMWDVTU1dYNC1vWmxtaGZMU0tOSHJqNERZNkxEb3YzbTYtSnVKYUYyWVBCQmhIUmpCeWc?oc=5",
         "source": "Agência iNFRA",
         "published_iso": "2026-10-15T19:46:31Z"
+      },
+      {
+        "title": "Projeto de concessão do Aeroporto de Brasília e mais dez terminais regionais será apresentado a investidores - www.gov.br",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZjNjdlVhR2hQbkFnZDIzXzNNMy1IMTJkMGg5LWQ0NlhFT3NlajR5LUtzdjJJMGNUNVFfNzA1VFdsdWswWVp0b2hEVmk4V0hPc0RHSW1HNEJQSU9mYzJwZ0dQSFlEc2tKZ0pYVVR4cG9qcndJaGxfM2tZZXhCY1gzdVIxWUJpeWxMajM1ZzVRRW1VUzU4TnhNNHVyTTg0X2hyTDJydDI1ZEV2MmVGeXdLazhrNmlZczFldXM2MW4ySmstT3I0eHp0alV0TjFEWlVHUUFEcDRKZUw0MnA3MkxxVEFwYXVTWFY5NnNUdEhyWFJRVm1Sd25SSjFMdTRUQldvMEFaQ0lMYV9VUms?oc=5",
+        "source": "www.gov.br",
+        "published_iso": "2026-10-15T10:59:00Z"
+      },
+      {
+        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEx4YVpUcjQtblpIY3FVOEJDQXItNzBubXRVc3dfRXBiZXFEbU9ITXhSdUlQV243d19JM3dLTDN3clNFMHJSOEtYMGxUZTR6NDhxRmdESFIyQUdUbWR2VU8tYU9rd0lPTkt3TWtsWl81MVJnWmtqb0RPLXlSbnk4T3BIeWZVVWtqOXZmMmw3RC0yd3RYc1BETmhmMlR6TE9Y?oc=5",
+        "source": "Brazil Journal",
+        "published_iso": "2026-09-21T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Aeropuertos Argentina busca sumar vuelos internacionales: un destino de EEUU como prioridad y negociaciones con tres aerolíneas que no operan en el país - Dinamicarg",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sSXVrUnAtdDJ5WlNzOTVwMFRHcV9OUHA3VWxxZVFFaURCNmZ0c2pjNWtKb3NaNzRKcXR0OHdEaHg3RS1qd0dHeXpIMXFKc2Q5eHd3bVJ5N05PaDRxVHZPNjZWZWNjN0RuYVpnY3k3eFg0dnRhaEgxLTVHa0xsUm8?oc=5",
+        "source": "Dinamicarg",
+        "published_iso": "2026-10-21T14:56:57Z"
+      },
+      {
+        "title": "Aeropuertos Argentina busca hasta u$s500 millones para financiar su nuevo plan de obras - iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcHpzMnBIZnVaY0xJelNOSzRIeG9jQnRyd18tREY0cWFTWWhaZ3JIZ3RVbmlxOHB5bEg1dWNtYlJHTG5SWHFvNU1QRVZuREhDeFRaQkhIS2ZQY2cwN1prYzkzNi16SW0tMEJLQllHUF9oX05VY2JCM19mdVNXbHVkTkpoOU9nVGNUNHVVSjhPQ1BWTzdDUUFQamhha2JqZ3JNeDQzZXk3WXdqa0Mya3JMYzNhSVhRcDU5Q29SQmFleTFhdzR0eEI4UTNUdzhqOUN5Mi1Z0gHYAUFVX3lxTFBwTWllTk9WUkd3MENwbnowQ3hmQUpzSXViRmlQVi1WUkRJcXAzNTI0Sk5HbUU4YzI5c0xOWE16VTFnVDYyYlRfTFVQcTRuTHFPX291clE2MlNxaVN0eS1IUlBSWmdhTkpkYzBESVZ6VEl6NjZ4eG8xd3NYeV95M1d6QUZLWFRMcUxLdTFhY05oUV84U01RSjFjR0VjRWxETF94TlBYeEtXV0tEczg0MmR4NkI2b2xJZ1hiSWN6R2NWZTJrcXRNdWloNlg5d1hCZTNKdWlqMHhYSw?oc=5",
+        "source": "iProfesional",
+        "published_iso": "2026-10-20T20:18:00Z"
+      },
       {
         "title": "Aeropuertos Argentina 2000 busca hasta U$S 600 millones con bonos para refinanciar deuda e invertir - RoadShow",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekd4QU4yT3ZxTGhlUThUZDE5U0hVbUgweGN4MHp3a2RFRGNFRDVHb2pHUnVMTFYzbUNTbHI3T2ZuTnJldW5CTUp0el9ETEJ0RGdleWNia0I0MDk2TWpxd3BEejBKaTc1c3o1ZWFKR1JPR3FvcmxnUWItZXUzRXVOUUhYckVWaXByMzNQZWpwTElIQ3FCRFZOZnl6VkhkN2VMMzlPbE85NzlYNjBuRXJQLU5JU1dHVzFGU0FPMU5nUFdNTzJTelE?oc=5",
@@ -54,18 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZlBQM200SHJfLWFTUkk0Tkx3OUZScVROMUR4dXRhSi1QcTZBM0lvQThwci0zMG5VTWdnanV2VnlkR0dOS1pLOV9nbXcwMUhjdW5pMnd2ZFU4S0pOa08yazZWLVZtYklpT2I1dEFSbXN3UWt2QjhyNG5GcDZVc0MtVmtGZzhQcWEyRXV2dFlzMWtsUF9sUEpGTzBBYkdyejlXbFJCS05Tb3pTMmdYMjk1NlpEMm5IZHh5UTg4SElwaUxIVHRpMzhkT3dhanl2N2Vadmotem5rRURTQ1Q4UmNBRTluRknSAfgBQVVfeXFMTnpuUXBrODJrZjdob24xdzlHeHk0cVlGWDdYTFNNNTAxSmlOc1hxVU9wVTdYUWpoRWdlajk4MVQyNEhmVTRSMXM4QWFOWV8wWk9CdlZOWFpueEktWGNUYkVra1E5U1FSZVR0TG1taDFTODByR1FGa2xKN2Y5SXRSUE9XY2ljSF9FMjRzRVhQa2wxbmFXQ0g1aGdQYUY5OFA0bFhMVlB1Y2ZLVUFocTVKUHFfbGRZYVlnOGQtNkNYVTFNUWhYSXNUSDE3Tm52M2pZQXltT3Jzc3pvZm1LQUpqdjAzWXRlRXJkeUcxdVE5WkZ1aXpNT3V5elg?oc=5",
         "source": "Bloomberg Línea",
         "published_iso": "2026-10-19T19:40:03Z"
-      },
-      {
-        "title": "Aeropuertos Argentina 2000 busca hasta US$600 millones con ON para refinanciar deuda e invertir - Rosario Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUnphRTVTeTJqU0todDFHLXduZ2ZyNDRBeHJ4UUpWQ3EzOU1qZ3lQTy1DbXdTcVFDcFJfd3MtZGdvT0l0aUpuc0JsLXpIM0JZMWo0MU5QczE4WDhraVRqVlhyWW50NkhrYkVUVVpudkg1STJRZTNwZmpSamNocV9obzVRY0RXM2h3XzlGb3NFYlppYXFBd3B5VWlqUVhUVmQwbl85UXBDT2RTdHpwS25uLUhyZDdOaFhSYWtCd2EtSV9NMWg1VEh3ejljNA?oc=5",
-        "source": "Rosario Finanzas",
-        "published_iso": "2026-10-19T19:40:03Z"
-      },
-      {
-        "title": "Aeropuertos Argentina Cargas: trabajos de infraestructura en la pista principal de Ezeiza - Centro Despachantes de Aduana (CDA)",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ZHl1SW1mV3pXRmtfR2dwSHhtc0Mybnh2TlpTLVJDVkVzcGk1TzJoMndrdlZZMnlqXzVWeEVwVkFzUEk4SXJCVlplaUpyMU8tOXhOTXZER3RjZDlGakRj?oc=5",
-        "source": "Centro Despachantes de Aduana (CDA)",
-        "published_iso": "2026-10-19T14:09:05Z"
       }
     ]
   }
