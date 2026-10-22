@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-10-21T15:49:48Z",
+  "updated_at": "2026-10-22T15:47:17Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Zangezur Corridor puts S Caucasus at centre of global trade and power rivalry - AzerNews",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95UXpsYTFLM1FCTGMycjFNTHZYM2lnM2tiTHJhU1Z2VEZCWmgwNzVwcHcxUkJUZVNYQjdMVFJRS29KZUJjdk1RelFyTFdGcEVmRG03OW4zUQ?oc=5",
+      "title": "Pashinyan expects Armenia and Azerbaijan to sign peace treaty in 2027–2028 - azərtac",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkpaUGp5RU16Y2pxX3BWNWpSWG13Wk9UMHhsazVtOUZkalZGcHFZNDRqRjJ6OTE4WENwYlZuZVhqaVpEa20xZElGbGxZUlgzc0F3TTgzM1NsX283R1o0b2dxd3hNODJ5MUdIdmM1ekYxSU90RnZtOFZsdlVMTXpkMWFhYVZJZ0JzNEkwdXlmaEFiR0h4Q3ZjRXhxZkIwbzk2Wjd1cGhmMldNUXlSV21z?oc=5",
+      "source": "azərtac",
+      "published_iso": "2026-10-22T12:46:00Z"
+    },
+    {
+      "title": "Armenia premier: Peace treaty with Azerbaijan may be signed in 2027-2028 - NEWS.am",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SQndwaXlpNnBfREhuY2NHY05RR2VDd1NlNmMzU2NaS2ZULWRrQTA1amdsajAtNDJQSkxLcWtBY2lka3Z3TXc?oc=5",
+      "source": "NEWS.am",
+      "published_iso": "2026-10-22T11:44:57Z"
+    },
+    {
+      "title": "Pashinyan: Armenia, Azerbaijan should sign peace treaty in 2027-2028 - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2NVWVBBN1NfbTdxZmdpMW1qa2ktT0lUUHVoRllhc21Cdkd3RTBlMUN4T3IwNks2MEFuaWpDWHpTdnVVY2lVUWlMN3kxWGRMUjNteGQ0TGI5dHYwenVrZG5YVFF5SG83djlkM05KSWVVeGoxTVdOZnY5RzBHZkpNamdaQWwzb1gxMmtqYXVsNUY?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_iso": "2026-10-22T09:40:11Z"
+    },
+    {
+      "title": "Pashinyan Names 2027–2028 as Target for Azerbaijan Peace Deal - Caspian Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNV9jakRYRFBnNF9TdENSazJ3Tllla0h2aFphZ0pJdnJJR003ak5GaVNUYUc0bG40MDRyRXdlOWhjYk5NZm03RGphbGRmUFFFVjNKMEFFXzdBQ09uWGdEcnZqUHV2dnR1ZDhPcEEwRTFTc3Aza0d4SkNKLXRvNDQzc0N3NmltZ0JXbUdnZmI3WDJMZFZyZXhNZ1hnSmw?oc=5",
+      "source": "Caspian Post",
+      "published_iso": "2026-10-22T09:24:12Z"
+    },
+    {
+      "title": "Pashinyan sees possibility of signing peace deal with Azerbaijan by 2028 - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lUExaZ2laS0hMYlZqY0JHMXRXdUw0OGVpQjdyVUFhUTNTX0R2T09qdXgzR1pjVU84TXVfRkVDb3RNbFBJQ3oxSXQyeUNlRWsxYVRLMWltNA?oc=5",
       "source": "AzerNews",
-      "published_iso": "2026-10-21T13:22:00Z"
+      "published_iso": "2026-10-22T09:24:00Z"
     },
     {
-      "title": "FM warns against portraying reported border crossing by Azerbaijani shepherd as security threat - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MWmlKcm1ZQnhxcjNmRlY1SjRsLTZpcmNlTEYzTUVuRHNwbm1qZFY1ckdiY05NdmFOSm5xb19rSmVpWVpMR0tod1JzRmE2VkRxUHfSAVdBVV95cUxQOGlkMW44Q05NNVRzM09idVVVUGk1MmswRFllUFFsYy1LQkxHNy1vLWxEUk5wd2R6OVJKaGg5SVlPeFJuTE00UWZlbGg3azBBOGJxWEg5M2M?oc=5",
+      "title": "Pashinyan: Peace agreement with Azerbaijan could be signed in 2027–2028 - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiQmM1YkpCS3NVZVJIX0FxZXg3cUx4OXFncjh3eTN4RjBIUUdrZlhpeTV5WmlZUWtMNnJKcHhyZzlDWkFHcjk3bGhMbFhGTDRNMUHSAVdBVV95cUxOOS1seldKeDAtUzkwQlpjTXVnQWZsakRBV1BvN0RQNFBZZ1o4bUJlNXRhVDZKZDJxbWtwbE52WG41S0E2Y29XRkdFMzNLYkpTUmlSZ2x1RDA?oc=5",
       "source": "Armenpress",
-      "published_iso": "2026-10-21T11:15:00Z"
-    },
-    {
-      "title": "Azerbaijan Exports $23 Million Worth of Goods to Armenia in January-September - caspiannews.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGJhVk9iUTBOd21yQndnTWF4enFwQVZHcXAxVV9uX0tISVVocExlUGxoV2pQWUdvZ29EOU9tem1ETzJQUjFfd1dwdzR6NElVT2NmWWJZNnQwTlV4aFF6T2VvX1cwTzA1RHRtaFNQVVN2MXp5d0JTMzBONThpbnhldzJueTI0WUJLU04xbWdXZnVXdHVxcDFxajdJUXd5SnA4Rk9PZmNnUnN0WHhoZGpGYnpyRllyOWRhZDZKeVZaRzJZVWVl?oc=5",
-      "source": "caspiannews.com",
-      "published_iso": "2026-10-20T21:22:42Z"
-    },
-    {
-      "title": "Yerevan Wants to Swap Territories with Azerbaijan to Resolve Exclave Problem - Substack",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4YzN4QTB2cGVLYkEtNEpBOUI2a3FlUTZSWTItd0xSRGtnby1ZVFhZYzNZOFNNZjhoSGt2ZXZDTC1XS0JoLWZBdXQ5NEJrSV9UWGwtd0VscDFyLVJyYWYzRF9YX0hZc0JxRld1ZnJzU0Q4Q2NF?oc=5",
-      "source": "Substack",
-      "published_iso": "2026-10-20T21:01:46Z"
-    },
-    {
-      "title": "Turkish research center repeatedly praises Pashinyan and criticizes the diaspora - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEUtdkNZZGxHeGtBTEFWT0VyaERtMjlwMU9wZGFKODFmRXhuMmZ6MTF5cERLR2ZPczlsNnZBaDdhSllJZzN3WVJLYVViTm15VmhMNFpHQjVUMkZLQkVXNy1pbndjMXJLdjczSGlYUDZFTFp3WHFnc0xfaEZXejRQRkpFWjRVSkZ3MFdBOHFkcXVSV1AzOVFGZWl6WU9yN2xHNHNMbWxoTFpsR2NraWpEbWZoN0pPUjF3MGZ3?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-10-20T15:28:32Z"
-    },
-    {
-      "title": "Is Türkiye seeking to open its border with Armenia without Azerbaijan’s consent? Tensions exposed - TodayPress.tv",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMURoR3gxYlQwZmVFd3c0alcxUG1ZZWJJbkJnbkZ2a0JEUGh1eXdtQi1QREFRQ3pWZzJzRVZWc2d0bjdIM193dzZLNmFlM3Ntc3VjUEhpWmdMb2hYVTd3cDliQzBKdGhTS3llbkhPUS1ieWpMRGVVcHFBVFR6N0V6NldxWHhNaklkX2xoT0dtOG5wR2xXR0xnMkJTQUpwN0Z3WFlOaUVYVnlNMVYzb3k4WHhwaW5fZWg4RlRGOE1Cck1wNTQ?oc=5",
-      "source": "TodayPress.tv",
-      "published_iso": "2026-10-19T07:53:59Z"
+      "published_iso": "2026-10-22T09:12:00Z"
     }
   ]
 }

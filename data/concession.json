@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T15:49:27Z",
+  "updated_at": "2026-10-22T15:46:58Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -10,6 +10,12 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzhHZURzOVE1STluOGhyOXZxY2pYZEJ6TVdjR0htRXpnLTYwN08tMlVDLTg1MGtnVy1fSHJLZW43VkxDUGJyUW1YaGJ0amRXWkU2YU1WaVFQWW9kTUhiX0FrTXFZVEJkT3hOYVROQzExQ2FkczRCbkpSbUkyRmY5cW0xVWd2ODQxajR5TThVN2hQVmVfYThINUpQOA?oc=5",
         "source": "AIRWAY",
         "published_iso": "2026-10-20T18:25:10Z"
+      },
+      {
+        "title": "Concessão de Brasília e outros 10 aeroportos será apresentada a investidores - Panrotas",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGg2Y19CcE5rY3pyaVVsb1J2YzZ6bUZTeXVWNlVpQUZRbmVPYVp6X24tWDlfX0hpakNHQlU1Sk9vZ0RkQXltcnBLdjFyXzlGUTV0c2VwaW4zeGc0YWE2UXRzZ2RhX3kzZTZJYXREanVabjhYX1VlZmxMTVlwYXhkSTEtT2FrOWRmWmJLbmhCYW5weE41aFhBejV2NTRYN2VodVFHSkJOUTVVOXRTQmlvSzdkZGJhRlBwUVN4LWRHNUE3SXdzcTNENWZOcFBDUmpuZ1RHb0paOVZVMFk?oc=5",
+        "source": "Panrotas",
+        "published_iso": "2026-10-19T14:39:00Z"
       },
       {
         "title": "Concessão do Aeroporto de Brasília prevê R$ 2 bilhões em investimentos e inclui dez terminais regionais - Jornal Opção",
@@ -24,19 +30,19 @@
         "published_iso": "2026-10-15T19:46:31Z"
       },
       {
-        "title": "Projeto de concessão do Aeroporto de Brasília e mais dez terminais regionais será apresentado a investidores - www.gov.br",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZjNjdlVhR2hQbkFnZDIzXzNNMy1IMTJkMGg5LWQ0NlhFT3NlajR5LUtzdjJJMGNUNVFfNzA1VFdsdWswWVp0b2hEVmk4V0hPc0RHSW1HNEJQSU9mYzJwZ0dQSFlEc2tKZ0pYVVR4cG9qcndJaGxfM2tZZXhCY1gzdVIxWUJpeWxMajM1ZzVRRW1VUzU4TnhNNHVyTTg0X2hyTDJydDI1ZEV2MmVGeXdLazhrNmlZczFldXM2MW4ySmstT3I0eHp0alV0TjFEWlVHUUFEcDRKZUw0MnA3MkxxVEFwYXVTWFY5NnNUdEhyWFJRVm1Sd25SSjFMdTRUQldvMEFaQ0lMYV9VUms?oc=5",
-        "source": "www.gov.br",
-        "published_iso": "2026-10-15T10:59:00Z"
-      },
-      {
-        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEx4YVpUcjQtblpIY3FVOEJDQXItNzBubXRVc3dfRXBiZXFEbU9ITXhSdUlQV243d19JM3dLTDN3clNFMHJSOEtYMGxUZTR6NDhxRmdESFIyQUdUbWR2VU8tYU9rd0lPTkt3TWtsWl81MVJnWmtqb0RPLXlSbnk4T3BIeWZVVWtqOXZmMmw3RC0yd3RYc1BETmhmMlR6TE9Y?oc=5",
-        "source": "Brazil Journal",
-        "published_iso": "2026-09-21T07:00:00Z"
+        "title": "Aeroporto de Brasília e 10 regionais vão a roadshow em outubro - Campo Grande News",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFo4dTA1akR5NTJpU05VOUVCcHhzMmw1cWdlTG0wT1RrWFNLQkFhb0VNZ3VXelphRTFqdVBWbXhxYW40N1VuZHJ4cUs4SzV5el9uZHJvalVxbzBRdzVDNUFEUFByekZhZFhST1pXdWZmZmtLU0x3dTBTVGstYUdrTWdLR0xpY0dzNmduZWFfS0RxVy1TNXU2T2tyYUJpU2UwMG96dkNBRFZUVHRmQW5HZGxqZ0w5OTJpZ29j0gG7AUFVX3lxTFAtYm4yYmtVMzc2SlRYdWtwMVBHT1hybzkxeGtTY1JVay03UjN3bUJXenJJWTNSQ1ZPckdJWnZzMmJtc2pMNElmYk5zZ1l3eERYZ0dKeDYzajZmd1NpVnVRMlIyS1hacmxUR3gzRktwcFJqTk1mTkQtRzJuVldGbVgwZGJhN2Z3N3FmSzJuX184WUJDa0VyR01QSGZEWFlxaUhwOW5Zb3Rrb3QtTU5Qc2xKRkt0QVBNYVFRdnM?oc=5",
+        "source": "Campo Grande News",
+        "published_iso": "2026-10-15T17:38:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Nueva ON de Aeropuertos Argentina 2000: cómo licitar - iProUP",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXZ2bmlUakpiTG9DeWRCMlZtU09tc0poZTRaVlAyRFRNa1liVWpMZzA2Ylk3ZERCNTJRR2lpVEpfY2wxUDBGVDZESWlFMDIteXlHVmtZVm9EelhKYl80VDdpMUc2Rk5rZ2wxNldZZUVlckRIVlZOZUR1MWRtYWRxbkNjTnJqbnE5Vm1NaDR6eDZnV2PSAZgBQVVfeXFMTnpjVXF0V0lqcW43dVA2MnNHMTRxM2xHUVJIYWNXVU5nMGM5Vi12eW1OMVBqZHZyVUZYTDc0LUZkZmQ0OEJIdjZldlhPdEZ3MU1NVm5qWTlwSkQwQWd0QllpbEU4b1R0NjJScWJ4NndwYV9GZnhwbXBSMUhHWGhkbnFCX09VZHludHlRNi1iaGhldXVHWEJnVTA?oc=5",
+        "source": "iProUP",
+        "published_iso": "2026-10-22T12:16:00Z"
+      },
       {
         "title": "Aeropuertos Argentina busca sumar vuelos internacionales: un destino de EEUU como prioridad y negociaciones con tres aerolíneas que no operan en el país - Dinamicarg",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sSXVrUnAtdDJ5WlNzOTVwMFRHcV9OUHA3VWxxZVFFaURCNmZ0c2pjNWtKb3NaNzRKcXR0OHdEaHg3RS1qd0dHeXpIMXFKc2Q5eHd3bVJ5N05PaDRxVHZPNjZWZWNjN0RuYVpnY3k3eFg0dnRhaEgxLTVHa0xsUm8?oc=5",
@@ -54,12 +60,6 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekd4QU4yT3ZxTGhlUThUZDE5U0hVbUgweGN4MHp3a2RFRGNFRDVHb2pHUnVMTFYzbUNTbHI3T2ZuTnJldW5CTUp0el9ETEJ0RGdleWNia0I0MDk2TWpxd3BEejBKaTc1c3o1ZWFKR1JPR3FvcmxnUWItZXUzRXVOUUhYckVWaXByMzNQZWpwTElIQ3FCRFZOZnl6VkhkN2VMMzlPbE85NzlYNjBuRXJQLU5JU1dHVzFGU0FPMU5nUFdNTzJTelE?oc=5",
         "source": "RoadShow",
         "published_iso": "2026-10-20T03:20:08Z"
-      },
-      {
-        "title": "Rutas, tasas, obras, financiamiento y vertipuertos, lo que viene para Aeropuertos Argentina según su CEO - Aviacionline",
-        "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQQnFEUlFId1BVMHNJVTFLV29CU0pQeVRxQ0ZYeTBhYmdlQ1MxM2dpb3lNaW1OU3R3b3FUQW9oMVdQMDVRN1ZmZHdYM1lJd1luaWhRVnI1blNNZlRwSlRlUXpYMlNWTXdEQTRLWGp6cGhybFMtbWVlSDFZbFlJNEVCS19ReHJQQXV0WGVkcklVZlhhQ05CVnRiQzhvZk5oY1VUdkp5NmpUTHM3NlA2M2h1a2JFcWpveW1EaXppTTVxdHctNmZHSXQ3c2s5LUl1bmtxSGZMOXN4ZFF2X1VsYVA2WUtQc0h2TFZybFROVUtYSVpzdV9jclMtX3hoVEF2ajRNaHNNTlVMTFRvZHhGbWk2TmRGTWlRamJ3d1RhcXNKSlVsNl9YeEV2R2ZGanhRRFEzdVBsMDJzeVExS1pWNm0ya01GYU81TXdvR3VPbHY1anh1ZDdYUU55QkxXMHc3dzB4?oc=5",
-        "source": "Aviacionline",
-        "published_iso": "2026-10-20T01:31:38Z"
       },
       {
         "title": "Aeropuertos Argentina 2000 busca hasta US$600 millones con ON para refinanciar deuda e invertir - Bloomberg Línea",
