@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T15:37:37Z",
+  "updated_at": "2026-10-24T14:14:35Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -38,6 +38,24 @@
     ],
     "aa2000": [
       {
+        "title": "Bariloche entra en el plan de Aeropuertos Argentina con obras de ampliación y renovación de su terminal - ANBariloche",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTmRlXzFZTXZlZ0xBQWtUVUVXU3ViSm5uUkpiY19zU085ZEo5TFA3LUZWWVZ4aHJyWERlOVN0WmJseURpaTdYMWxrMnVtcFRiMVZ2Y051RnZhbFI0ZFhJWjBfdWR1eUx6NkZGYS1BVk00Y0xvUm40QWVHZW0tUWhyZktRMGE2ZGJEVHBnM21TQV9NbGxUUmhpX0FaN2Vncm5VSlBaNWt0SnZiQTdZZ2JzUFdDWDBBUkRob2RCRnhXby1XWFVYa2FpWG01OThkT3JUa1Mwa3dqZmZBWV85R1U5b0FvbXlsX09veFB6S1ctemtaR3RKMXJzQdIB-AFBVV95cUxPTmRlXzFZTXZlZ0xBQWtUVUVXU3ViSm5uUkpiY19zU085ZEo5TFA3LUZWWVZ4aHJyWERlOVN0WmJseURpaTdYMWxrMnVtcFRiMVZ2Y051RnZhbFI0ZFhJWjBfdWR1eUx6NkZGYS1BVk00Y0xvUm40QWVHZW0tUWhyZktRMGE2ZGJEVHBnM21TQV9NbGxUUmhpX0FaN2Vncm5VSlBaNWt0SnZiQTdZZ2JzUFdDWDBBUkRob2RCRnhXby1XWFVYa2FpWG01OThkT3JUa1Mwa3dqZmZBWV85R1U5b0FvbXlsX09veFB6S1ctemtaR3RKMXJzQQ?oc=5",
+        "source": "ANBariloche",
+        "published_iso": "2026-10-24T12:29:48Z"
+      },
+      {
+        "title": "Aeropuertos Argentina emite deuda por u$s 400 millones para financiar su megaplan de obras en 35 terminales - El Cronista",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTVMyRjY0Ull5cWZGQjRHaGlhQWtyMG1Eak1IZF9yeXp6cUIzSlVDV1hVMnRiaS1DR2xVTURwcXVVejFubVhnamFlVUZaYmpaMENwRUxaRUhYdW56QkFQNzRmaW5GUkJZTlRGUnRZQTVpZldldGNNb0M0b1VQSTJSSU0ybklLTHZwa2VPNkVIaDNkeWNFNmNmRG1WclBibTZFZ0J3eEtDTkdJQTNrcDZUUzliS3dfbUxvX2M1ZmxWSXROd0JKQWd2LTl0QWNVQ2I1aFhfTVFaaFfSAfMBQVVfeXFMT2dSd2lULVZfRHZjRXEzVTFDWF9iQXJTeHVCb3BDSnhraGNFbzZwbUpDdTdYYU5uRGRBVi1qeGhQR2xBU1g5bWNndWhfWlFXRUk2azBleExvZmJ5aW9hUEMzZk01RFdBZ0pUMldnazZnWTFxZ2tOZjJHZEZaOVY5Z01rVU9wN3VRdm52ZVMzMF91bHlaTGR4eC00UEZnS0M5dTZ0YWlqdWVwV3V5dG02M3lUcU1jTDg2NUtObU9RSm94d05qVWJIVzlORGt5TmJrSWVIU1p3OEw3NUY4R3UtOEpGY0ZQLXBKT1NpVk50czNaMGNF?oc=5",
+        "source": "El Cronista",
+        "published_iso": "2026-10-23T16:53:59Z"
+      },
+      {
+        "title": "Celebra Aeropuertos Argentina una exitosa emisión de deuda de US$ 400 millones - Urgente24",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1JoQXFaQ3BfZHJpUzdQbWI3cktqeXZVUzh1SUYzemt0Z3dMUDVvTHdqTGZPUFBNaXh4OHVsb0J2NHBPVW9HaTNENE5XUW9EbVJXeWVXNWRTcEhnMXdyc1dKWW9lSUhLZHN6LTBYQVdLU0NsQjZTUUN0YVJwM0t2NEdKOUE3eXpWV3ZEQ0NzWWhRdTFKdDNUMEtwZGtQYWhBaWJqWTcwTEJ2Vk1a0gGyAUFVX3lxTE43MVJWUnpaZTh2OUJHbVdkMEFYSEk0ZS1yNzBuVTZ3U2tUT0JuZmpUTFVzVXlIQUl0bDhSU2VTak9EbmRXelRZTlNLWVFtbXRXRlBnYW9mc2xIZ3RCSDhSWjdzZlI3ODkyLWdiZjMzbGdFWmQ4UjlrbGxISVdKYXV3bFgwdEJWQVl2UzNVZnA1bFlPTHdJMEdFT0h6c0t4bUFvMmtaN29FNXoyTndFanh4WlE?oc=5",
+        "source": "Urgente24",
+        "published_iso": "2026-10-23T15:58:00Z"
+      },
+      {
         "title": "Tras la prórroga de la concesión, Aeropuertos Argentina consiguió US$400 millones para avanzar con su millonario plan de obras - La Nación",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUxIeExIem9YbDNwRkZyaFh1VDU4TVdhNlozTUo1UDYwRnNnaUVvQ2dzSndCOWh1RzY3XzJuUUNTMDVOZWVncHJRcTF0d3d4UXl5LUtVZHRvOUVIUzQyWDRkclk4akdRY25aVk9NUjQ4ek9ZYVNLclpVaFl3SkxSVGlYU2xFY01Gakk0ejNuNi1lNkxYbmJIcEFlbkNyUU9RR0szTU5kcHotQnJZZVlhbnFvODR2MU1HdVd2eURyallKc19KUnMwcV83WndhTURUd28ya3Z4WWRzb3FKNUJfY3FrNA?oc=5",
         "source": "La Nación",
@@ -48,24 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYU5hWkFITjdnS2pYYllVbExGSUFYU0tXdmVONGRHZ2lITll2ejIwSlloWF9jaFBXMEZmZlJzYm8xVDVLVDhqYzRVQ3owOTVQYUE3UHYwVHpOQ1dpc01MTHdENGJoTjkxZFE2LXhTM2hmTU9oNFlkMHVZSFBabUJlRmpSaFlMSS15alRCcXVDcUxycGxDNUVwbGtHYlNsX2xIck1jckp6MDJaQkxHMUphNVBaa25EVmN5V0w1RnNqSVhJVGJuU2dHRnV4V1FVVmVjQ3MzbnYyMU1zd2RhVEd6Ym42WnJaczRSZTVzamE1THd2Z2c1ajY1QVV1Q3JIM1FnWnFCb2N5VmfSAYgCQVVfeXFMUGFOYVpBSE43Z0tqWGJZVWxMRklBWFNLV3ZlTjRkR2dpSE5ZdnoyMEpZaFhfY2hQVzBGZmZSc2JvMVQ1S1Q4amM0VUN6MDk1UGFBN1B2MFR6TkNXaXNNTEx3RDRiaE45MWRRNi14UzNoZk1PaDRZZDB1WUhQWm1CZUZqUmhZTEkteWpUQnF1Q3FMcnBsQzVFcGxrR2JTbF9sSHJNY3JKejAyWkJMRzFKYTVQWmtuRFZjeVdMNUZzaklYSVRiblNnR0Z1eFdRVVZlY0NzM252MjFNc3dkYVRHemJuNlpyWnM0UmU1c2phNUx3dmdnNWo2NUFVdUNySDNRZ1pxQm9jeVZn?oc=5",
         "source": "Infobae",
         "published_iso": "2026-10-23T12:01:32Z"
-      },
-      {
-        "title": "Aeropuertos Argentina emitió obligaciones negociables por US$ 400 millones al 8% - Bloomberg Línea",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZ2lSN3BjcGJTaU5JeUo2LUVVZzBYaE85SnRCT1lORURDV3NIUEQ4M3VOcGRPVHpBeXJGcG8zZUlDc1BJYzN5ODh4UFY3aWxKRFZUWHNjdnJmNlpNSTdKY0k1dVU1eV9MNUplcE04N0tTU3FsYzFrUUQ1MTd3SzIycDNNUGNrcmE2dzV2SVZYYzlNV1V3c245c0pqbEVPbnVwZlJIdGJUUm8tV19fenJPM2JROHJud0t6MzJ0Y0tWaFRmOVZZRUliVklaZTBuaElDWkdaSWJwVmdUZEx4UVAzY0hCMNIB4wFBVV95cUxNZ2lSN3BjcGJTaU5JeUo2LUVVZzBYaE85SnRCT1lORURDV3NIUEQ4M3VOcGRPVHpBeXJGcG8zZUlDc1BJYzN5ODh4UFY3aWxKRFZUWHNjdnJmNlpNSTdKY0k1dVU1eV9MNUplcE04N0tTU3FsYzFrUUQ1MTd3SzIycDNNUGNrcmE2dzV2SVZYYzlNV1V3c245c0pqbEVPbnVwZlJIdGJUUm8tV19fenJPM2JROHJud0t6MzJ0Y0tWaFRmOVZZRUliVklaZTBuaElDWkdaSWJwVmdUZEx4UVAzY0hCMA?oc=5",
-        "source": "Bloomberg Línea",
-        "published_iso": "2026-10-23T09:52:34Z"
-      },
-      {
-        "title": "Aeropuertos Argentina emite US$400M al 8% y refinancia deuda - El Ecosistema Startup",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0FtdG5YaFMxSXlFcjNMYzBSM3o3dHVWZWFlbE9yNHBFVE1zSmVueDdFSjF5al9YNDdyQXJoS3UtYlZmNGFKaTFZeGUxUll6QUMxaFNZeWhWdFdVSEsxaUlBNmJBMmwwcGswb05ublNsMEFjSFJYaUpnNDJ6OW5Hc1R4UnJoOEdBcm9KbThvcGwyQ2c?oc=5",
-        "source": "El Ecosistema Startup",
-        "published_iso": "2026-10-23T09:27:45Z"
-      },
-      {
-        "title": "Aeropuertos Argentina emitió obligaciones negociables por US$400 millones al 8% para refinanciar deuda e invertir - Rosario Finanzas",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWG9rQ0VxNXIwR2h1ZVAzS0NqT3ZEajBhZ2NldlFwUkNlSThMSldEaXRuRmNyLTF1Y3ZraHNJZDVXaGxOWkszUHVOUFZ2aWtXQ1AzeHJHTjdReWpfTnRMenlqSThHMEZ5U29KNmNmRWR4MzlHdmZnRndGbGFJcXpXblhsQjVsZER5amNCZGxlbGJQNjhnUk5MZFZVQUJwM09mU0RmSXJWdHFzWHhFd1hQTTJKTWswbUFQTGlqcXF1RWs1Q0JFbUFIOWthb3piUjhkMjdzMXJ6cW5sZWFCRDl3cjhn?oc=5",
-        "source": "Rosario Finanzas",
-        "published_iso": "2026-10-23T09:00:00Z"
       }
     ]
   }

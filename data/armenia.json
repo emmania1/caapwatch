@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-23T15:37:57Z",
+  "updated_at": "2026-10-24T14:14:56Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Caucasus shows path to Armenia-Azerbaijan normalization through trade, Suleymanov says - Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTV9RUXpwdmt4eFJGczBwN2dncVZzdzRWNXVWYlp4bi1xVldqWVoxZGhkVTBPbU8wdk51S3NGQnktUTl5TjJsNkpleTNCcUd3ejU0d013UTg2aDVBTjB1WHdUdXlVMG0yMDl3MkR3dERCakhVd09Yem1Vd2U3c1NpcHlJZjhrVDlpVEQ4MFdIa1g2cTFBSzR2WDRjQnBtZTFJWWZpNzVGZjRuUQ?oc=5",
+      "source": "Latest news from Azerbaijan",
+      "published_iso": "2026-10-24T10:10:57Z"
+    },
+    {
+      "title": "Armenian Opposition Adamant In Rejecting ‘Aliyev’s Constitution’ - Ազատություն Ռադիոկայան",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yUXpoT093QlVPc2t2eHphUzloakU1d1dDSEkzTXBJZWYzbDhTQzNZRVVoQzZCZ1V2a1RsWmVqQ2FLa0VmY3VSU2xheHIzdDBicmfSAVRBVV95cUxQT2lsRHMwYmtHNy1BUkJCa1VKQWV4TGc1V2JYakQ0MjI2RFV2LWlHVDU0SGNuQWU3dzdPT09GVFRyTF9VU21WRGN2N21tVmtfZHJibjM?oc=5",
+      "source": "Ազատություն Ռադիոկայան",
+      "published_iso": "2026-10-23T17:05:01Z"
+    },
     {
       "title": "ANCA post-election Townhall to map out Armenian American agenda - The Armenian Weekly",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd19WZ0F2clF5ZHdKeC14M29lVEVfY09mc2xmeUl5eFJ0d3ZuQ2tTOU9XNjBXVFY1LWphR1JTenB2dGgwTDZJNmRaTmRIMFNvdWFJWXg5ZmxobXJYblQ5dExmTEs5SWRQdFBYSDZNNVFrUGxQekhQZ18yeEItUTVGbV9tZngwUlQ5SmdFRDNaTWdhVEpmXzAxMjdNaTl0UHl5dXRqaw?oc=5",
@@ -17,13 +29,7 @@
       "published_iso": "2026-10-23T11:36:00Z"
     },
     {
-      "title": "Armenia, Azerbaijan, and Georgia, top stories this morning - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmlmOUpLVXdYWlU0c1RENFVWTXVnVHQ3dWNkNHBFUWpkcVhXT1RjUVF0N0xxV3BKbTZCMFJRNWgzTFU3Z2FZRkJjdkV1V2E2dEJlZ2ZtQ0JodkxydEhRaDlUM3YxWkZmM3FXQlFZQ0tpSExvelh5U19vZlk1cHBCb2FmZw?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-10-23T08:57:36Z"
-    },
-    {
-      "title": "Armenian Constitutional Reform and Regional Peace Deal - SpecialEurasia",
+      "title": "Armenian Constitutional Reform and Yerevan-Baku’s Peace Negotiations - SpecialEurasia",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sa2FTVVVlUlFDUDY2RVR6cVRNZGx1Q2VyZkYxWVl0UFUwdkdTQzVjangxdEpkM0ZRRDE2bTlTdlR2Zzk5TkVkQ1R1bDVIRTVmR19rd1AwR2gyYVFsUml5ZE41aWZFZGlDV3pQZkN5NmxXd3ZPcUtXTE53?oc=5",
       "source": "SpecialEurasia",
       "published_iso": "2026-10-23T07:11:53Z"
@@ -33,12 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92akhtVklQTUQtWEE5OWMwNXp2aGRKdmFBWWlkTGFaNjdaNGdmbTRBcnBVclZWYVZyMl9pX05RLVZDMEJVRzcwcG5DRmJRN005bTlvZXJMZ05rSlRhQlJqUnNyTFZoVU9reWEtMUs2b0dqNGhMV1BB?oc=5",
       "source": "Substack",
       "published_iso": "2026-10-22T21:30:45Z"
-    },
-    {
-      "title": "'Another attempt is being prepared to deprive Armenia of its independence' — Pashinyan - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHRNOEVsOUlGS3pWWnF2azluN3ZwZ3BkWTl0VzlwVUhHMWczblY3MU04QjhWMmpWR3piTW0wNHZOd3I3SG9tcmloYmdtQUxJSXdSTkJHMnZha3ZWQTNZOTlYVGpTMXNsRUVCMGR3SkZEakJuc2V3N21ZWVRPN0VRV09temIxTGZzV0wxbHdIRlluZTVGSUFZb1M4RDhleXA2cS1LWWktQQ?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-10-22T20:07:28Z"
     }
   ]
 }
