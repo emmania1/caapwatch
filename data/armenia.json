@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-10-24T14:14:56Z",
+  "updated_at": "2026-10-25T14:48:44Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Caucasus shows path to Armenia-Azerbaijan normalization through trade, Suleymanov says - Latest news from Azerbaijan",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTV9RUXpwdmt4eFJGczBwN2dncVZzdzRWNXVWYlp4bi1xVldqWVoxZGhkVTBPbU8wdk51S3NGQnktUTl5TjJsNkpleTNCcUd3ejU0d013UTg2aDVBTjB1WHdUdXlVMG0yMDl3MkR3dERCakhVd09Yem1Vd2U3c1NpcHlJZjhrVDlpVEQ4MFdIa1g2cTFBSzR2WDRjQnBtZTFJWWZpNzVGZjRuUQ?oc=5",
-      "source": "Latest news from Azerbaijan",
-      "published_iso": "2026-10-24T10:10:57Z"
+      "title": "Armenia wins Junior Eurovision 2026: Naré takes the crystal microphone with «BOO!» - Esc+Plus",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NT1lzaXk3RVVSSVhFaTZGZkZzeU1PUDBzU2IycVF1MVdibTE5M3IwcVZWeVVvQnpmTlY0V1hNeXVFWHdGbkZEa3hXUE5zRkJ2RzYwQ1EwcVdfbXpxZjNUU1VzcUI2T1VROENsVnpR?oc=5",
+      "source": "Esc+Plus",
+      "published_iso": "2026-10-24T23:23:14Z"
     },
     {
-      "title": "Armenian Opposition Adamant In Rejecting ‘Aliyev’s Constitution’ - Ազատություն Ռադիոկայան",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yUXpoT093QlVPc2t2eHphUzloakU1d1dDSEkzTXBJZWYzbDhTQzNZRVVoQzZCZ1V2a1RsWmVqQ2FLa0VmY3VSU2xheHIzdDBicmfSAVRBVV95cUxQT2lsRHMwYmtHNy1BUkJCa1VKQWV4TGc1V2JYakQ0MjI2RFV2LWlHVDU0SGNuQWU3dzdPT09GVFRyTF9VU21WRGN2N21tVmtfZHJibjM?oc=5",
-      "source": "Ազատություն Ռադիոկայան",
-      "published_iso": "2026-10-23T17:05:01Z"
+      "title": "Naré wins Junior Eurovision 2026 for Armenia - Eurovision.tv",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0U4WUgtRFlCOXczQnA3N1ZVNHlVZnRYUGVVNHJrQVRsNkRyWk45SVRFWjRYMFVVWXJiX1BGeGFyU1hUOU82Mld2cEd2Yzh6TlN6YTRWeTB4UEN2STJtbzFTWkVDdTd1TGxvSXFzaHgyVE1fdFJMWTRZd2M3RXY0SGRvT21uUXM?oc=5",
+      "source": "Eurovision.tv",
+      "published_iso": "2026-10-24T21:31:00Z"
+    },
+    {
+      "title": "Armenia's BOO! wins Junior Eurovision Song Contest 2026 - EBU",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nWHJBeGZZZHZWbmZYRTlUdGY0R2JlZDN0V3ZKRnBReExCNHVuaGY4SEU2bXdjcUkwc1gzclcyTXVoZWc2RVpfWDhtUDlxbXhOMkpDMXlwTGoxUWZPY3RyR3NJUjBCRWx4ekJISG1GQXJ1RHZIbTROSzQzalltR3M?oc=5",
+      "source": "EBU",
+      "published_iso": "2026-10-24T21:24:44Z"
+    },
+    {
+      "title": "Armenia wins the Junior Eurovision Song Contest 2026 - Eurovisionworld",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHVBOXIwdVVONWYzZnFCSjJKWGJNSHdZNTZ0VzA4Y0xDb1ZkaDNHWjVfckZ2ZU40RS0xd2tpYTI4Sko5MUFtLVhIdmpPYlBoVGhxSEpPMXpjdWdlN014ckhzM01OMEQ5aEJBMDBIMFF6M3VDV3FDU01YSnZ3d3NNUTFZZUVlTzRjQXBKLQ?oc=5",
+      "source": "Eurovisionworld",
+      "published_iso": "2026-10-24T21:20:00Z"
     },
     {
       "title": "ANCA post-election Townhall to map out Armenian American agenda - The Armenian Weekly",
@@ -27,18 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KNXY2YlZKeERQbENOOFFnS0dRQXI2NTgyeWtSY0wyTURESm5QaGtBTXVjcm9ZSTVndFN0M0VLU3VsUmxOUnFPTXpvN055b25LamfSAVdBVV95cUxPZnd2MXprc3I2VklHZVdQNmV3MkdYc3JQdkVmXzczS21iYkV2V1c4RUthcFh3UGZhMG91STBXSjlEUUlVTGQtYU9zb0FmdFItVUdqbmxQQ1E?oc=5",
       "source": "Armenpress",
       "published_iso": "2026-10-23T11:36:00Z"
-    },
-    {
-      "title": "Armenian Constitutional Reform and Yerevan-Baku’s Peace Negotiations - SpecialEurasia",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sa2FTVVVlUlFDUDY2RVR6cVRNZGx1Q2VyZkYxWVl0UFUwdkdTQzVjangxdEpkM0ZRRDE2bTlTdlR2Zzk5TkVkQ1R1bDVIRTVmR19rd1AwR2gyYVFsUml5ZE41aWZFZGlDV3pQZkN5NmxXd3ZPcUtXTE53?oc=5",
-      "source": "SpecialEurasia",
-      "published_iso": "2026-10-23T07:11:53Z"
-    },
-    {
-      "title": "Middle Corridor Grows in Volume but Not in Cohesion - Substack",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92akhtVklQTUQtWEE5OWMwNXp2aGRKdmFBWWlkTGFaNjdaNGdmbTRBcnBVclZWYVZyMl9pX05RLVZDMEJVRzcwcG5DRmJRN005bTlvZXJMZ05rSlRhQlJqUnNyTFZoVU9reWEtMUs2b0dqNGhMV1BB?oc=5",
-      "source": "Substack",
-      "published_iso": "2026-10-22T21:30:45Z"
     }
   ]
 }

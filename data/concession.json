@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T14:14:35Z",
+  "updated_at": "2026-10-25T14:48:23Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -30,16 +30,16 @@
         "published_iso": "2026-10-15T22:00:00Z"
       },
       {
-        "title": "MPor e ANAC apresentam concessão do Aeroporto de Brasília e regionais - Agência iNFRA",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBkeUVkTDRWaVVqMjJ2WGNxeFdQdjNuaWJtbVk0M1hpRy1pRVF1NWdFOU9CNjBHdG9BWkljWDh5ek9YRzU5ZU41bF9ON2NjOWgyV1lVdVpYZ3NoaFp1WjUzNGctNUZXOTZ0Q1JaOUlMWDVTU1dYNC1vWmxtaGZMU0tOSHJqNERZNkxEb3YzbTYtSnVKYUYyWVBCQmhIUmpCeWc?oc=5",
-        "source": "Agência iNFRA",
-        "published_iso": "2026-10-15T19:46:31Z"
+        "title": "Aeroporto de Três Lagoas entra em processo federal de concessão - Hojemais.com.br",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkttRHdEMmtLcjRQaU5fUGNhTlkxUmUwYzhheWtCMXVHQVZKZTV3SlQ4REtiSUdtV3dWSmM2R0ZXQ3UwSmhVZzBURERIcUNETXhJX2w1YXN6YXZablNvc0tpNmVUeXpzcGZFajV6VmRuNC1BWDRyV2c1aVFESEpoUkxCUzFtLUVldFlrZGRCVEotR014UVg5dDk0VVNEWjVCb0ZTVVd2aFpXTEJYeWRHNmppbVRJT21BRU5RUw?oc=5",
+        "source": "Hojemais.com.br",
+        "published_iso": "2026-10-15T18:57:00Z"
       }
     ],
     "aa2000": [
       {
         "title": "Bariloche entra en el plan de Aeropuertos Argentina con obras de ampliación y renovación de su terminal - ANBariloche",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTmRlXzFZTXZlZ0xBQWtUVUVXU3ViSm5uUkpiY19zU085ZEo5TFA3LUZWWVZ4aHJyWERlOVN0WmJseURpaTdYMWxrMnVtcFRiMVZ2Y051RnZhbFI0ZFhJWjBfdWR1eUx6NkZGYS1BVk00Y0xvUm40QWVHZW0tUWhyZktRMGE2ZGJEVHBnM21TQV9NbGxUUmhpX0FaN2Vncm5VSlBaNWt0SnZiQTdZZ2JzUFdDWDBBUkRob2RCRnhXby1XWFVYa2FpWG01OThkT3JUa1Mwa3dqZmZBWV85R1U5b0FvbXlsX09veFB6S1ctemtaR3RKMXJzQdIB-AFBVV95cUxPTmRlXzFZTXZlZ0xBQWtUVUVXU3ViSm5uUkpiY19zU085ZEo5TFA3LUZWWVZ4aHJyWERlOVN0WmJseURpaTdYMWxrMnVtcFRiMVZ2Y051RnZhbFI0ZFhJWjBfdWR1eUx6NkZGYS1BVk00Y0xvUm40QWVHZW0tUWhyZktRMGE2ZGJEVHBnM21TQV9NbGxUUmhpX0FaN2Vncm5VSlBaNWt0SnZiQTdZZ2JzUFdDWDBBUkRob2RCRnhXby1XWFVYa2FpWG01OThkT3JUa1Mwa3dqZmZBWV85R1U5b0FvbXlsX09veFB6S1ctemtaR3RKMXJzQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQlgxcndzQVZWM1BnTVNEeHpmNFNsRXV0ajhEOVNFYWZpZ1R2Vlc2YUVhaE9tVEE3eW9mSnk5U1RXdWpWZjJLOW1zakpJeHpLcF9jeklOa0lDZF84Z0ZWc3ZRRTBONWw1amh3a2k4TE82X2ptSzV5ZVpuWjhOVXF3Uk9mMDFvVHlJNEtoWjhwTFBmcnh6XzltTzAyVEs2MHdPdjNnRnVTLU5DQUdzVTd2RmhnR3ZDRlZLUW85Y0VjYXhpemJuRmthaTdWTDJKMDRtRmZ5Z2k0Z3NXOVduWTlLY0M4VG13bVVzc2RRNDQ5TVNqSEnSAfgBQVVfeXFMT05kZV8xWU12ZWdMQUFrVFVFV1N1YkpublJKYmNfc1NPOWRKOUxQNy1GVllWeGhyclhEZTlTdFpibHlEaWk3WDFsazJ1bXBUYjFWdmNOdUZ2YWxSNGRYSVowX3VkdXlMejZGRmEtQVZNNGNMb1JuNEFlR2VtLVFocmZLUTBhNmRiRFRwZzNtU0FfTWxsVFJoaV9BWjdlZ3JuVUpQWjVrdEp2YkE3WWdic1BXQ1gwQVJEaG9kQkZ4V28tV1hVWGthaVhtNTk4ZE9yVGtTMGt3amZmQVlfOUdVOW9Bb215bF9Pb3hQektXLXprWkd0SjFyc0E?oc=5",
         "source": "ANBariloche",
         "published_iso": "2026-10-24T12:29:48Z"
       },
