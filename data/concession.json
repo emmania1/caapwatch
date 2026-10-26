@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-10-25T14:48:23Z",
+  "updated_at": "2026-10-26T17:09:11Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Leilão do Aeroporto de Brasília e mais dez aeroportos regionais - Pontos pra Voar",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ2M5S3dCcnhfM0NwUGhWektzYzFQTTA4R2wyOG9RZHRxODB2SEo4ejVTWFp2dmZ2RGFJQk9WbjFpNkktTUdHT0tOZjlFVFEzZ05BQTZGTEhaUVhoeDdiUWZ0UE8tWHFEVU9SRTVPcDE3bDVqaWNTV0hZa1pqSUZvMEFCNXhzTEpvemd6SWFPUlR1SU00?oc=5",
+        "source": "Pontos pra Voar",
+        "published_iso": "2026-10-25T20:00:26Z"
+      },
       {
         "title": "Projeto de repactuação do Aeroporto de Brasília e de dez terminais regionais é apresentado a investidores - AEROIN",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDZRTFdGcjRpbnRaWWdrRlNEbl9neVQ3ZFVGUlpGOEtvVl9qcjdpLWZOdjI0d0pIa1FsTTNha3h6UVZYSTluZU1VMG93ZlR3eTlmMjFFX2o5ZUxvUjh6UEtpS2VrZkxFdTdWSWhDUzBxMUZsMk12NjNicnhfdkhRSjBhVkhKR2ZBTFdwOFVPRzQ3eWNCeWVRTFVJd1oyZ0laTk0tUDRQdExNcHo2MThBMzA2VnY2VllUdFpYb21KbnFWUkHSAcMBQVVfeXFMTTQ2UUxXRnI0aW50Wllna0ZTRG5fZ3lUN2RVRlJaRjhLb1ZfanI3aS1mTnYyNHdKSGtRbE0zYWt4elFWWEk5bmVNVTBvd2ZUd3k5ZjIxRV9qOWVMb1I4elBLaUtla2ZMRXU3VkloQ1MwcTFGbDJNdjYzYnJ4X3ZIUUowYVZISkdmQUxXcDhVT0c0N3ljQnllUUxVSXdaMmdJWk5NLVA0UHRMTXB6NjE4QTMwNlZ2NlZZVHRaWG9tSm5xVlJB?oc=5",
@@ -22,12 +28,6 @@
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGg2Y19CcE5rY3pyaVVsb1J2YzZ6bUZTeXVWNlVpQUZRbmVPYVp6X24tWDlfX0hpakNHQlU1Sk9vZ0RkQXltcnBLdjFyXzlGUTV0c2VwaW4zeGc0YWE2UXRzZ2RhX3kzZTZJYXREanVabjhYX1VlZmxMTVlwYXhkSTEtT2FrOWRmWmJLbmhCYW5weE41aFhBejV2NTRYN2VodVFHSkJOUTVVOXRTQmlvSzdkZGJhRlBwUVN4LWRHNUE3SXdzcTNENWZOcFBDUmpuZ1RHb0paOVZVMFk?oc=5",
         "source": "Panrotas",
         "published_iso": "2026-10-19T14:39:00Z"
-      },
-      {
-        "title": "Concessão do Aeroporto de Brasília prevê R$ 2 bilhões em investimentos e inclui dez terminais regionais - Jornal Opção",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2Zub09DaVRUUE1DQk9ybnBjdzdoY1NKNFJaTEdjOHE1cGczVkFWTm1faFU5SG94WXp1LU90RndyV0JJRkdGWlJKTGRIYXVxUkdIWXNHVEtNR096ZVBOOHc2N1I1eVg0QmFIRDl2YUhucjREVTZ6dDhjc2ppUzJFQlpsNjZ0YS1LVG8zOFB2d181QVFSeHlGSVp4YnNlNndoVzhpNHlCa2lYRE44aXNPMFJRb0czV0NTNUFGOE1JSXdvNXpPVmdsZTRUVTZJTS1vNHN3dHFlYlFCanJCZUx0ZXBvTDRtWHk3XzR4bjd5MA?oc=5",
-        "source": "Jornal Opção",
-        "published_iso": "2026-10-15T22:00:00Z"
       },
       {
         "title": "Aeroporto de Três Lagoas entra em processo federal de concessão - Hojemais.com.br",
@@ -62,10 +62,10 @@
         "published_iso": "2026-10-23T15:33:00Z"
       },
       {
-        "title": "Aeropuertos Argentina emite bonos negociables por 357,3 millones a un interés del 8% y vencimiento en 2036 - Infobae",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYU5hWkFITjdnS2pYYllVbExGSUFYU0tXdmVONGRHZ2lITll2ejIwSlloWF9jaFBXMEZmZlJzYm8xVDVLVDhqYzRVQ3owOTVQYUE3UHYwVHpOQ1dpc01MTHdENGJoTjkxZFE2LXhTM2hmTU9oNFlkMHVZSFBabUJlRmpSaFlMSS15alRCcXVDcUxycGxDNUVwbGtHYlNsX2xIck1jckp6MDJaQkxHMUphNVBaa25EVmN5V0w1RnNqSVhJVGJuU2dHRnV4V1FVVmVjQ3MzbnYyMU1zd2RhVEd6Ym42WnJaczRSZTVzamE1THd2Z2c1ajY1QVV1Q3JIM1FnWnFCb2N5VmfSAYgCQVVfeXFMUGFOYVpBSE43Z0tqWGJZVWxMRklBWFNLV3ZlTjRkR2dpSE5ZdnoyMEpZaFhfY2hQVzBGZmZSc2JvMVQ1S1Q4amM0VUN6MDk1UGFBN1B2MFR6TkNXaXNNTEx3RDRiaE45MWRRNi14UzNoZk1PaDRZZDB1WUhQWm1CZUZqUmhZTEkteWpUQnF1Q3FMcnBsQzVFcGxrR2JTbF9sSHJNY3JKejAyWkJMRzFKYTVQWmtuRFZjeVdMNUZzaklYSVRiblNnR0Z1eFdRVVZlY0NzM252MjFNc3dkYVRHemJuNlpyWnM0UmU1c2phNUx3dmdnNWo2NUFVdUNySDNRZ1pxQm9jeVZn?oc=5",
-        "source": "Infobae",
-        "published_iso": "2026-10-23T12:01:32Z"
+        "title": "Aeropuertos Argentina emite bonos negociables por 357,3 millones a un interés del 8% y vencimiento en 2036 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xcEN2ckd6cFg0XzkxV0hmLXZfVHpQUW5vMVhDZFg0akVpU21wU2RkVjZtaklpV25iNThZU2VPWEtNaHhhcVZyQTRGLWhZQkxsZ0EzNXRsRFM3T0NaZ05QVVFrUzBqWEJvMHhETQ?oc=5",
+        "source": "TradingView",
+        "published_iso": "2026-10-23T11:27:56Z"
       }
     ]
   }

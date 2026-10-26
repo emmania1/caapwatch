@@ -1,44 +1,44 @@
 {
-  "updated_at": "2026-10-25T14:48:44Z",
+  "updated_at": "2026-10-26T17:09:30Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Armenia wins Junior Eurovision 2026: Naré takes the crystal microphone with «BOO!» - Esc+Plus",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NT1lzaXk3RVVSSVhFaTZGZkZzeU1PUDBzU2IycVF1MVdibTE5M3IwcVZWeVVvQnpmTlY0V1hNeXVFWHdGbkZEa3hXUE5zRkJ2RzYwQ1EwcVdfbXpxZjNUU1VzcUI2T1VROENsVnpR?oc=5",
-      "source": "Esc+Plus",
-      "published_iso": "2026-10-24T23:23:14Z"
+      "title": "“Peace treaty must bring tangible benefits to Armenia and Azerbaijan” - Mediamax.am",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04WGk2RVVkUkx3OVNrODFuRmxmWUtxRlo3ZV9HRHdURGdQOEx0U1FsaTlJUzlrOGpTeTRDX2RzVmNLSkpfV2tHZEVkalB1ajdlYWZRVDlwZlQ0N2lW?oc=5",
+      "source": "Mediamax.am",
+      "published_iso": "2026-10-26T12:41:30Z"
     },
     {
-      "title": "Naré wins Junior Eurovision 2026 for Armenia - Eurovision.tv",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0U4WUgtRFlCOXczQnA3N1ZVNHlVZnRYUGVVNHJrQVRsNkRyWk45SVRFWjRYMFVVWXJiX1BGeGFyU1hUOU82Mld2cEd2Yzh6TlN6YTRWeTB4UEN2STJtbzFTWkVDdTd1TGxvSXFzaHgyVE1fdFJMWTRZd2M3RXY0SGRvT21uUXM?oc=5",
-      "source": "Eurovision.tv",
-      "published_iso": "2026-10-24T21:31:00Z"
+      "title": "Azerbaijan reaffirms readiness to conclude peace process with Armenia - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5Q3BmaHkzb2dNMk9oNDNNWmhvRGlxbUU2TGxvaFk0bzlmcHd0RmozM3A2bDdhcEpPVzVyVDB2Rm90RHdwUzZwOE5Lek1wS0t3bFBES0dUZw?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-10-26T12:10:00Z"
     },
     {
-      "title": "Armenia's BOO! wins Junior Eurovision Song Contest 2026 - EBU",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nWHJBeGZZZHZWbmZYRTlUdGY0R2JlZDN0V3ZKRnBReExCNHVuaGY4SEU2bXdjcUkwc1gzclcyTXVoZWc2RVpfWDhtUDlxbXhOMkpDMXlwTGoxUWZPY3RyR3NJUjBCRWx4ekJISG1GQXJ1RHZIbTROSzQzalltR3M?oc=5",
-      "source": "EBU",
-      "published_iso": "2026-10-24T21:24:44Z"
+      "title": "Azerbaijan ready to bring peace agreement process to a conclusion, Bayramov says - TodayPress.tv",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0VQV1dXMzViQlg5MHZ1ZzNYMEJ6Q0R6WEV2UFZpam93NC1wVVlrUW1GRXMtb2EtcVNSWURncnlaZkRRenJEci1JTDFGV3M3V2pyYkhISkNBMWR3ZnFDLVV1dVQ5a19DTWQ4dEdRTG5KQ203ZTZLRVRuZ1dnSENCbVRhNXByaGRiOW8wc1lyT0hBa3lSUThQRXZjX1JIQ2FocDRMdmhvaU1PcnBtVFE?oc=5",
+      "source": "TodayPress.tv",
+      "published_iso": "2026-10-26T10:10:00Z"
     },
     {
-      "title": "Armenia wins the Junior Eurovision Song Contest 2026 - Eurovisionworld",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHVBOXIwdVVONWYzZnFCSjJKWGJNSHdZNTZ0VzA4Y0xDb1ZkaDNHWjVfckZ2ZU40RS0xd2tpYTI4Sko5MUFtLVhIdmpPYlBoVGhxSEpPMXpjdWdlN014ckhzM01OMEQ5aEJBMDBIMFF6M3VDV3FDU01YSnZ3d3NNUTFZZUVlTzRjQXBKLQ?oc=5",
-      "source": "Eurovisionworld",
-      "published_iso": "2026-10-24T21:20:00Z"
-    },
-    {
-      "title": "ANCA post-election Townhall to map out Armenian American agenda - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd19WZ0F2clF5ZHdKeC14M29lVEVfY09mc2xmeUl5eFJ0d3ZuQ2tTOU9XNjBXVFY1LWphR1JTenB2dGgwTDZJNmRaTmRIMFNvdWFJWXg5ZmxobXJYblQ5dExmTEs5SWRQdFBYSDZNNVFrUGxQekhQZ18yeEItUTVGbV9tZngwUlQ5SmdFRDNaTWdhVEpmXzAxMjdNaTl0UHl5dXRqaw?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-10-23T14:57:05Z"
-    },
-    {
-      "title": "India’s Jaishankar welcomes Armenia-Azerbaijan peace process - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KNXY2YlZKeERQbENOOFFnS0dRQXI2NTgyeWtSY0wyTURESm5QaGtBTXVjcm9ZSTVndFN0M0VLU3VsUmxOUnFPTXpvN055b25LamfSAVdBVV95cUxPZnd2MXprc3I2VklHZVdQNmV3MkdYc3JQdkVmXzczS21iYkV2V1c4RUthcFh3UGZhMG91STBXSjlEUUlVTGQtYU9zb0FmdFItVUdqbmxQQ1E?oc=5",
+      "title": "Armenia returns Azerbaijani national who entered country after getting lost - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpTlRBYmxXSGhkR3diN2d6MjZwSWQ2Q00xcHZVYTdKbjBKa01mTDNjZnR6VWgzZ3ZfdTJyY0pJaUlfdE9uTWJnbTZXZm9QWFRuVmfSAVdBVV95cUxNWXBWZTRQMFdQeXJ5V1ZXWlpoRm1hMko4ek1KbnJjVWtyMHkwcGRQamxTOTFIQ0JUbUpNczYwRGlDVHl3M3I3Nm85WGVERl96RXVxMV9mSFE?oc=5",
       "source": "Armenpress",
-      "published_iso": "2026-10-23T11:36:00Z"
+      "published_iso": "2026-10-26T09:19:00Z"
+    },
+    {
+      "title": "Armenia, Azerbaijan, and Georgia, top stories this morning - JAMnews",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVXE5TG9VNGtuX1dVd2dUdHU0blRpVDZDUzR4Z2xHZkxnaWNBVnBXb2stOFhUeGJ3OGtadm44UUluSE9LTDcxTVNJWWRJRUFuQWdLM2JoVlJrQ2hIYkU2U0Nsdk0tUnZ4dW1ZeVZXRUtwQlozQUg0ZU9qckJkdVRWcA?oc=5",
+      "source": "JAMnews",
+      "published_iso": "2026-10-26T08:05:07Z"
+    },
+    {
+      "title": "The Zangezur Corridor (TRIPP): From Regional Geopolitics To Global Geoeconomics - Analysis - Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmRHX3dIYThjYV95Q1NCQXB4bUJEcTF1T1U3djN1SHVZbjBiSmlxYmROaDMxUVFmb0FsMEEzY2paWGhhVGFGdUlrRTFTV2NuX2R3TGkyUGdvMmc2dFB3ckRoMDNMbkdKRTJSekNwU1NpRUc5OG84TzNNNWRNSXFxWnhhRnJROUdPbzE1Rmw0NmVJcFY5WXd4dVRUUFVya0RocFNTSGtkVDY1TDZmcUg1VHdlaHR6TUpiZzIwRlA0Z1p5cHc?oc=5",
+      "source": "Eurasia Review",
+      "published_iso": "2026-10-25T23:30:42Z"
     }
   ]
 }
