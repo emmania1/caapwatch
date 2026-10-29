@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:59:08Z",
+  "updated_at": "2026-10-29T17:17:57Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -12,15 +12,15 @@
         "published_iso": "2026-10-19T07:00:00Z"
       },
       {
-        "title": "Projeto de concessão do Aeroporto de Brasília e mais dez terminais regionais será apresentado a investidores - www.gov.br",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZjNjdlVhR2hQbkFnZDIzXzNNMy1IMTJkMGg5LWQ0NlhFT3NlajR5LUtzdjJJMGNUNVFfNzA1VFdsdWswWVp0b2hEVmk4V0hPc0RHSW1HNEJQSU9mYzJwZ0dQSFlEc2tKZ0pYVVR4cG9qcndJaGxfM2tZZXhCY1gzdVIxWUJpeWxMajM1ZzVRRW1VUzU4TnhNNHVyTTg0X2hyTDJydDI1ZEV2MmVGeXdLazhrNmlZczFldXM2MW4ySmstT3I0eHp0alV0TjFEWlVHUUFEcDRKZUw0MnA3MkxxVEFwYXVTWFY5NnNUdEhyWFJRVm1Sd25SSjFMdTRUQldvMEFaQ0lMYV9VUms?oc=5",
-        "source": "www.gov.br",
-        "published_iso": "2026-10-15T07:00:00Z"
-      },
-      {
         "title": "MPor e ANAC apresentam concessão do Aeroporto de Brasília e regionais - Agência iNFRA",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBkeUVkTDRWaVVqMjJ2WGNxeFdQdjNuaWJtbVk0M1hpRy1pRVF1NWdFOU9CNjBHdG9BWkljWDh5ek9YRzU5ZU41bF9ON2NjOWgyV1lVdVpYZ3NoaFp1WjUzNGctNUZXOTZ0Q1JaOUlMWDVTU1dYNC1vWmxtaGZMU0tOSHJqNERZNkxEb3YzbTYtSnVKYUYyWVBCQmhIUmpCeWc?oc=5",
         "source": "Agência iNFRA",
+        "published_iso": "2026-10-15T07:00:00Z"
+      },
+      {
+        "title": "Projeto de concessão do Aeroporto de Brasília e mais dez terminais regionais será apresentado a investidores - www.gov.br",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZjNjdlVhR2hQbkFnZDIzXzNNMy1IMTJkMGg5LWQ0NlhFT3NlajR5LUtzdjJJMGNUNVFfNzA1VFdsdWswWVp0b2hEVmk4V0hPc0RHSW1HNEJQSU9mYzJwZ0dQSFlEc2tKZ0pYVVR4cG9qcndJaGxfM2tZZXhCY1gzdVIxWUJpeWxMajM1ZzVRRW1VUzU4TnhNNHVyTTg0X2hyTDJydDI1ZEV2MmVGeXdLazhrNmlZczFldXM2MW4ySmstT3I0eHp0alV0TjFEWlVHUUFEcDRKZUw0MnA3MkxxVEFwYXVTWFY5NnNUdEhyWFJRVm1Sd25SSjFMdTRUQldvMEFaQ0lMYV9VUms?oc=5",
+        "source": "www.gov.br",
         "published_iso": "2026-10-15T07:00:00Z"
       },
       {
@@ -38,16 +38,16 @@
     ],
     "aa2000": [
       {
+        "title": "Aeropuertos Argentina: US$ 400 millones para obras y deuda - LA17",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemI4ekQ4ZDB5bGhnbWRxd2NSUjJhU0hDOUVvRVhGMjhBNS0wejd3OFhDZ1dfMm9TRHM1d3pqVWs2U29HZklPaVExUlFEUjl5VFFmRVdNRl90Zl9neTNNdEZLWUQzN1dOTUV6U3JjY2RFSmhsZXQwdjFlMGxIbGJySlI3ekpibFZGX05nWHA2SUFUVU0wUFlMVDZIQ1JhWG92MkU2WjU5c0tSeER1M2Q3ODVvTlgyNE5qVlFF?oc=5",
+        "source": "LA17",
+        "published_iso": "2026-10-29T11:20:00Z"
+      },
+      {
         "title": "Renovamos nuestra concesión hasta 2049: seguimos construyendo los aeropuertos del futuro - Aeropuertos Argentina",
         "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSktXVEJUUV8wZEk1Ry1FVl9QdEhhVThVV1ozak9rX1MtRm5RUHdlQ0ZBRXlVVlZGTDZyTGpzYjRiVU1HSU0xcHdfM2N6WHpnSkJreFg3Um1qendoZjRKQmp3NHhXYVMybHp0ZW5mTnM2cEZKNm4wbHZuRjNCbWlFVGlCVmppSmJ6YTJSaXJZVlpSdkV2RXRzYUlZelBYN3ZjTGJUN3Q5bWk0TnYzRWdKbGx3VUxCTlRlNGQ0eG4tdWJzQnM0eEVsQXE4dm9KeFRJNl84UlAxeVIwTC1nVkFJOGZ4NmJhMEpEcUsyakVQNmEzdm1scGsteUFjWHNXb085eW9RTjVEVkktd3YwTmRxMERrTUJFNTlvR2dlX0VJRFY1aURLQ2puTWtEYjVXMi12MjlkYXBHYzNKb2VmTVlR?oc=5",
         "source": "Aeropuertos Argentina",
         "published_iso": "2026-10-28T02:47:01Z"
-      },
-      {
-        "title": "Aeropuertos Argentina salió al mercado y captó US$ 400 millones para sus inversiones - Fortuna web",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM21Gd19wMVY2TERPYmlLWTg3eUMzN2hmQU1UcTZiWmtzUFEzMWt4QUFKTzZnTVdfOENCUDFFSHY4TkNRWjcydnN3cEprZmRheUJHX0gwOHVKUUV4eWdsc2d5akF1amxUUE92TkwtRlA0a3dlUnZoZUlzV29sVzFZVDhBbjdYOC0xeHdYVjRTR1NGSEd3Yi1Gd2d5TVEtNVJZUzRaOGxTdXkxeTFPa3E3ZXJidlpINDhJc21nRnFwWUZPRzNrQXlrSHZlUVZRV0nSAdQBQVVfeXFMTkl0OXItdDhrdWdZRlFjZHVqYV8yVGdEcXkwTm16cFpaQVpjODZjak1yYmFHY3FyMUZ4Qkl3RGJiMmpKbVhfR3dXWVBJU3hWTWcxWU5adTNhSDFsdHpmamRqWGgwNmwydFcwSFBiaktmVDhmcEVGbUFoTGJyYU9fNVpUTFVvbHBDRENjc0NtMzlLRTRiX1lRMFRGdVk2cXVuVG4zWmVZUVQzTkNGSFgzOFJ6WnVEdWNlQzdiSThib0F2dU1SamRXV2laWGdvWkQxVlNKYjQ?oc=5",
-        "source": "Fortuna web",
-        "published_iso": "2026-10-26T20:12:48Z"
       },
       {
         "title": "Bariloche entra en el plan de Aeropuertos Argentina con obras de ampliación y renovación de su terminal - ANBariloche",
@@ -56,16 +56,16 @@
         "published_iso": "2026-10-24T12:29:48Z"
       },
       {
-        "title": "Aeropuertos Argentina emite deuda por u$s 400 millones para financiar su megaplan de obras en 35 terminales - El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTVMyRjY0Ull5cWZGQjRHaGlhQWtyMG1Eak1IZF9yeXp6cUIzSlVDV1hVMnRiaS1DR2xVTURwcXVVejFubVhnamFlVUZaYmpaMENwRUxaRUhYdW56QkFQNzRmaW5GUkJZTlRGUnRZQTVpZldldGNNb0M0b1VQSTJSSU0ybklLTHZwa2VPNkVIaDNkeWNFNmNmRG1WclBibTZFZ0J3eEtDTkdJQTNrcDZUUzliS3dfbUxvX2M1ZmxWSXROd0JKQWd2LTl0QWNVQ2I1aFhfTVFaaFfSAfMBQVVfeXFMT2dSd2lULVZfRHZjRXEzVTFDWF9iQXJTeHVCb3BDSnhraGNFbzZwbUpDdTdYYU5uRGRBVi1qeGhQR2xBU1g5bWNndWhfWlFXRUk2azBleExvZmJ5aW9hUEMzZk01RFdBZ0pUMldnazZnWTFxZ2tOZjJHZEZaOVY5Z01rVU9wN3VRdm52ZVMzMF91bHlaTGR4eC00UEZnS0M5dTZ0YWlqdWVwV3V5dG02M3lUcU1jTDg2NUtObU9RSm94d05qVWJIVzlORGt5TmJrSWVIU1p3OEw3NUY4R3UtOEpGY0ZQLXBKT1NpVk50czNaMGNF?oc=5",
-        "source": "El Cronista",
-        "published_iso": "2026-10-23T16:53:59Z"
-      },
-      {
         "title": "Tras la prórroga de la concesión, Aeropuertos Argentina consiguió US$400 millones para avanzar con su millonario plan de obras - La Nación",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUxIeExIem9YbDNwRkZyaFh1VDU4TVdhNlozTUo1UDYwRnNnaUVvQ2dzSndCOWh1RzY3XzJuUUNTMDVOZWVncHJRcTF0d3d4UXl5LUtVZHRvOUVIUzQyWDRkclk4akdRY25aVk9NUjQ4ek9ZYVNLclpVaFl3SkxSVGlYU2xFY01Gakk0ejNuNi1lNkxYbmJIcEFlbkNyUU9RR0szTU5kcHotQnJZZVlhbnFvODR2MU1HdVd2eURyallKc19KUnMwcV83WndhTURUd28ya3Z4WWRzb3FKNUJfY3FrNA?oc=5",
         "source": "La Nación",
         "published_iso": "2026-10-23T15:33:00Z"
+      },
+      {
+        "title": "Aeropuertos Argentina emite bonos negociables por 357,3 millones a un interés del 8% y vencimiento en 2036 - Diario Estrategia",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbVhaaUZPLXRNU2YzOXlWRVpZRVRIVWpRQzgxUVFqTnJ6QVdWNHp2bGVMT0tuTlVpZ1NXbHl4Vnh3R054MTUyQmtWSVpnWUdYbndrYVA4Rnp4b3Z0Y3RaeGRDcDk1ZnRRZjdmQVg2Y3RORld1ZG5KaGhTNHlkQTluNW15MnNoX3hSWkd1c1hqaExPR3NlNWdLdF9kcndIUTZxcmNtc1liaGd1VzdicnF2eVhqVWEtRjNTVktpbGJseEwtN2NDNV9Jek5GcGI3VEVFZVhzM0c5OVNYXzB1T2EzNA?oc=5",
+        "source": "Diario Estrategia",
+        "published_iso": "2026-10-23T14:56:27Z"
       }
     ]
   }
