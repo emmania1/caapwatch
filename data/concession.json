@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-10-29T17:17:57Z",
+  "updated_at": "2026-10-30T16:56:03Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Leilão do Aeroporto de Brasília e mais dez aeroportos regionais - Pontos pra Voar",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ2M5S3dCcnhfM0NwUGhWektzYzFQTTA4R2wyOG9RZHRxODB2SEo4ejVTWFp2dmZ2RGFJQk9WbjFpNkktTUdHT0tOZjlFVFEzZ05BQTZGTEhaUVhoeDdiUWZ0UE8tWHFEVU9SRTVPcDE3bDVqaWNTV0hZa1pqSUZvMEFCNXhzTEpvemd6SWFPUlR1SU00?oc=5",
+        "source": "Pontos pra Voar",
+        "published_iso": "2026-10-25T17:11:12Z"
+      },
+      {
+        "title": "Aeroporto de Brasília pode trocar de dono em novo leilão em dezembro - AIRWAY",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzhHZURzOVE1STluOGhyOXZxY2pYZEJ6TVdjR0htRXpnLTYwN08tMlVDLTg1MGtnVy1fSHJLZW43VkxDUGJyUW1YaGJ0amRXWkU2YU1WaVFQWW9kTUhiX0FrTXFZVEJkT3hOYVROQzExQ2FkczRCbkpSbUkyRmY5cW0xVWd2ODQxajR5TThVN2hQVmVfYThINUpQOA?oc=5",
+        "source": "AIRWAY",
+        "published_iso": "2026-10-20T07:00:00Z"
+      },
       {
         "title": "Concessão de Brasília e outros 10 aeroportos será apresentada a investidores - Panrotas",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGg2Y19CcE5rY3pyaVVsb1J2YzZ6bUZTeXVWNlVpQUZRbmVPYVp6X24tWDlfX0hpakNHQlU1Sk9vZ0RkQXltcnBLdjFyXzlGUTV0c2VwaW4zeGc0YWE2UXRzZ2RhX3kzZTZJYXREanVabjhYX1VlZmxMTVlwYXhkSTEtT2FrOWRmWmJLbmhCYW5weE41aFhBejV2NTRYN2VodVFHSkJOUTVVOXRTQmlvSzdkZGJhRlBwUVN4LWRHNUE3SXdzcTNENWZOcFBDUmpuZ1RHb0paOVZVMFk?oc=5",
@@ -22,23 +34,17 @@
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZjNjdlVhR2hQbkFnZDIzXzNNMy1IMTJkMGg5LWQ0NlhFT3NlajR5LUtzdjJJMGNUNVFfNzA1VFdsdWswWVp0b2hEVmk4V0hPc0RHSW1HNEJQSU9mYzJwZ0dQSFlEc2tKZ0pYVVR4cG9qcndJaGxfM2tZZXhCY1gzdVIxWUJpeWxMajM1ZzVRRW1VUzU4TnhNNHVyTTg0X2hyTDJydDI1ZEV2MmVGeXdLazhrNmlZczFldXM2MW4ySmstT3I0eHp0alV0TjFEWlVHUUFEcDRKZUw0MnA3MkxxVEFwYXVTWFY5NnNUdEhyWFJRVm1Sd25SSjFMdTRUQldvMEFaQ0lMYV9VUms?oc=5",
         "source": "www.gov.br",
         "published_iso": "2026-10-15T07:00:00Z"
-      },
-      {
-        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEx4YVpUcjQtblpIY3FVOEJDQXItNzBubXRVc3dfRXBiZXFEbU9ITXhSdUlQV243d19JM3dLTDN3clNFMHJSOEtYMGxUZTR6NDhxRmdESFIyQUdUbWR2VU8tYU9rd0lPTkt3TWtsWl81MVJnWmtqb0RPLXlSbnk4T3BIeWZVVWtqOXZmMmw3RC0yd3RYc1BETmhmMlR6TE9Y?oc=5",
-        "source": "Brazil Journal",
-        "published_iso": "2026-09-21T07:00:00Z"
-      },
-      {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
-        "source": "Consultor Jurídico",
-        "published_iso": "2026-09-19T07:00:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "Aeropuertos Argentina: US$ 400 millones para obras y deuda - LA17",
+        "title": "Pérdidas millonarias, Hidrovía y el escandaloso pacto con Eurnekian: la AGN acorrala a la gestión Milei - Minutouno",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT25JTnVocXA4bkNySU9VMlh2UW44Rms3ZHVXMWV1Ti1QeGg5U2d4VXg3SFFLZElyWUpSaWs3YW5OdXpGbUhwQlUyb3NfaUNLRDZYQ2Nnb0stRmU2NExmRV9jRWxMTHBsR0diS0NEajJuOEFJX3FSTThhUjVSUEdUTndZX21xSzBjWUdLSjU3cW53NlR1MFF3cVVpTlBYUS0yMllhdFFOdVhzSS1ITVJHdDNaZ0xmejBfQm55RUxab1RTUldSa0lUWFdqWHJicVpHaTlDa1h30gHWAUFVX3lxTE1PbklOdWhxcDhuQ3JJT1UyWHZRbjhGazdkdVcxZXVOLVB4aDlTZ3hVeDdIUUtkSXJZSlJpazdhbk51ekZtSHBCVTJvc19pQ0tENlhDY2dvSy1GZTY0TGZFX2NFbExMcGxHR2JLQ0RqMm44QUlfcVJNOGFSNVJQR1ROd1lfbXFLMGNZR0tKNTdxbnc2VHUwUXdxVWlOUFhRLTIyWWF0UU51WHNJLUhNUkd0M1pnTGZ6MF9CbnlFTFpvVFNSV1JrSVRYV2pYcmJxWkdpOUNrWHc?oc=5",
+        "source": "Minutouno",
+        "published_iso": "2026-10-30T16:14:00Z"
+      },
+      {
+        "title": "Aeropuertos Argentina obtiene US$ 400 millones para plan de obras de US$ 1.500 millones - LA17",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemI4ekQ4ZDB5bGhnbWRxd2NSUjJhU0hDOUVvRVhGMjhBNS0wejd3OFhDZ1dfMm9TRHM1d3pqVWs2U29HZklPaVExUlFEUjl5VFFmRVdNRl90Zl9neTNNdEZLWUQzN1dOTUV6U3JjY2RFSmhsZXQwdjFlMGxIbGJySlI3ekpibFZGX05nWHA2SUFUVU0wUFlMVDZIQ1JhWG92MkU2WjU5c0tSeER1M2Q3ODVvTlgyNE5qVlFF?oc=5",
         "source": "LA17",
         "published_iso": "2026-10-29T11:20:00Z"
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUxIeExIem9YbDNwRkZyaFh1VDU4TVdhNlozTUo1UDYwRnNnaUVvQ2dzSndCOWh1RzY3XzJuUUNTMDVOZWVncHJRcTF0d3d4UXl5LUtVZHRvOUVIUzQyWDRkclk4akdRY25aVk9NUjQ4ek9ZYVNLclpVaFl3SkxSVGlYU2xFY01Gakk0ejNuNi1lNkxYbmJIcEFlbkNyUU9RR0szTU5kcHotQnJZZVlhbnFvODR2MU1HdVd2eURyallKc19KUnMwcV83WndhTURUd28ya3Z4WWRzb3FKNUJfY3FrNA?oc=5",
         "source": "La Nación",
         "published_iso": "2026-10-23T15:33:00Z"
-      },
-      {
-        "title": "Aeropuertos Argentina emite bonos negociables por 357,3 millones a un interés del 8% y vencimiento en 2036 - Diario Estrategia",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbVhaaUZPLXRNU2YzOXlWRVpZRVRIVWpRQzgxUVFqTnJ6QVdWNHp2bGVMT0tuTlVpZ1NXbHl4Vnh3R054MTUyQmtWSVpnWUdYbndrYVA4Rnp4b3Z0Y3RaeGRDcDk1ZnRRZjdmQVg2Y3RORld1ZG5KaGhTNHlkQTluNW15MnNoX3hSWkd1c1hqaExPR3NlNWdLdF9kcndIUTZxcmNtc1liaGd1VzdicnF2eVhqVWEtRjNTVktpbGJseEwtN2NDNV9Jek5GcGI3VEVFZVhzM0c5OVNYXzB1T2EzNA?oc=5",
-        "source": "Diario Estrategia",
-        "published_iso": "2026-10-23T14:56:27Z"
       }
     ]
   }
