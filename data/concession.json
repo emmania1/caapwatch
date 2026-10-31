@@ -1,22 +1,10 @@
 {
-  "updated_at": "2026-10-30T16:56:03Z",
+  "updated_at": "2026-10-31T15:56:54Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
-      {
-        "title": "Leilão do Aeroporto de Brasília e mais dez aeroportos regionais - Pontos pra Voar",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ2M5S3dCcnhfM0NwUGhWektzYzFQTTA4R2wyOG9RZHRxODB2SEo4ejVTWFp2dmZ2RGFJQk9WbjFpNkktTUdHT0tOZjlFVFEzZ05BQTZGTEhaUVhoeDdiUWZ0UE8tWHFEVU9SRTVPcDE3bDVqaWNTV0hZa1pqSUZvMEFCNXhzTEpvemd6SWFPUlR1SU00?oc=5",
-        "source": "Pontos pra Voar",
-        "published_iso": "2026-10-25T17:11:12Z"
-      },
-      {
-        "title": "Aeroporto de Brasília pode trocar de dono em novo leilão em dezembro - AIRWAY",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbzhHZURzOVE1STluOGhyOXZxY2pYZEJ6TVdjR0htRXpnLTYwN08tMlVDLTg1MGtnVy1fSHJLZW43VkxDUGJyUW1YaGJ0amRXWkU2YU1WaVFQWW9kTUhiX0FrTXFZVEJkT3hOYVROQzExQ2FkczRCbkpSbUkyRmY5cW0xVWd2ODQxajR5TThVN2hQVmVfYThINUpQOA?oc=5",
-        "source": "AIRWAY",
-        "published_iso": "2026-10-20T07:00:00Z"
-      },
       {
         "title": "Concessão de Brasília e outros 10 aeroportos será apresentada a investidores - Panrotas",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGg2Y19CcE5rY3pyaVVsb1J2YzZ6bUZTeXVWNlVpQUZRbmVPYVp6X24tWDlfX0hpakNHQlU1Sk9vZ0RkQXltcnBLdjFyXzlGUTV0c2VwaW4zeGc0YWE2UXRzZ2RhX3kzZTZJYXREanVabjhYX1VlZmxMTVlwYXhkSTEtT2FrOWRmWmJLbmhCYW5weE41aFhBejV2NTRYN2VodVFHSkJOUTVVOXRTQmlvSzdkZGJhRlBwUVN4LWRHNUE3SXdzcTNENWZOcFBDUmpuZ1RHb0paOVZVMFk?oc=5",
@@ -34,14 +22,26 @@
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZjNjdlVhR2hQbkFnZDIzXzNNMy1IMTJkMGg5LWQ0NlhFT3NlajR5LUtzdjJJMGNUNVFfNzA1VFdsdWswWVp0b2hEVmk4V0hPc0RHSW1HNEJQSU9mYzJwZ0dQSFlEc2tKZ0pYVVR4cG9qcndJaGxfM2tZZXhCY1gzdVIxWUJpeWxMajM1ZzVRRW1VUzU4TnhNNHVyTTg0X2hyTDJydDI1ZEV2MmVGeXdLazhrNmlZczFldXM2MW4ySmstT3I0eHp0alV0TjFEWlVHUUFEcDRKZUw0MnA3MkxxVEFwYXVTWFY5NnNUdEhyWFJRVm1Sd25SSjFMdTRUQldvMEFaQ0lMYV9VUms?oc=5",
         "source": "www.gov.br",
         "published_iso": "2026-10-15T07:00:00Z"
+      },
+      {
+        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEx4YVpUcjQtblpIY3FVOEJDQXItNzBubXRVc3dfRXBiZXFEbU9ITXhSdUlQV243d19JM3dLTDN3clNFMHJSOEtYMGxUZTR6NDhxRmdESFIyQUdUbWR2VU8tYU9rd0lPTkt3TWtsWl81MVJnWmtqb0RPLXlSbnk4T3BIeWZVVWtqOXZmMmw3RC0yd3RYc1BETmhmMlR6TE9Y?oc=5",
+        "source": "Brazil Journal",
+        "published_iso": "2026-09-21T07:00:00Z"
+      },
+      {
+        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
+        "source": "Consultor Jurídico",
+        "published_iso": "2026-09-19T07:00:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "Pérdidas millonarias, Hidrovía y el escandaloso pacto con Eurnekian: la AGN acorrala a la gestión Milei - Minutouno",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT25JTnVocXA4bkNySU9VMlh2UW44Rms3ZHVXMWV1Ti1QeGg5U2d4VXg3SFFLZElyWUpSaWs3YW5OdXpGbUhwQlUyb3NfaUNLRDZYQ2Nnb0stRmU2NExmRV9jRWxMTHBsR0diS0NEajJuOEFJX3FSTThhUjVSUEdUTndZX21xSzBjWUdLSjU3cW53NlR1MFF3cVVpTlBYUS0yMllhdFFOdVhzSS1ITVJHdDNaZ0xmejBfQm55RUxab1RTUldSa0lUWFdqWHJicVpHaTlDa1h30gHWAUFVX3lxTE1PbklOdWhxcDhuQ3JJT1UyWHZRbjhGazdkdVcxZXVOLVB4aDlTZ3hVeDdIUUtkSXJZSlJpazdhbk51ekZtSHBCVTJvc19pQ0tENlhDY2dvSy1GZTY0TGZFX2NFbExMcGxHR2JLQ0RqMm44QUlfcVJNOGFSNVJQR1ROd1lfbXFLMGNZR0tKNTdxbnc2VHUwUXdxVWlOUFhRLTIyWWF0UU51WHNJLUhNUkd0M1pnTGZ6MF9CbnlFTFpvVFNSV1JrSVRYV2pYcmJxWkdpOUNrWHc?oc=5",
-        "source": "Minutouno",
-        "published_iso": "2026-10-30T16:14:00Z"
+        "title": "La AGN auditará la Hidrovía y la prórroga de Aeropuertos Argentina: investigan contratos millonarios del Gobierno - Diario Digital Conclusión",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMW9rRktqRjFGekREdGxKRm9PZzNEU2xXUXhkaVh0NURfdjloY212OTVwSk4xUEM0aEV6VGIteXhKOVA5MlJIYVFFdDljbm5rUUpNcHozaS1NWnBzbVpZNWV6SWR2dnlEZkdBX3hmZjlBMjJGYTZxVzhhRTZGamVwSjliLVhBaW1rd2hnUDdoUDRuV1paQS11cWhqaERHTHNjdXFscjF0eF94NFBadHotd2tJYm1nYkU3cDZjLUZESkJiSDJzaVB2ZXNaRVBWZlNMcVZ4R2VsanFCSjZ2ZEtCOE04cmZudkJ5cm9xanFsSUtQZw?oc=5",
+        "source": "Diario Digital Conclusión",
+        "published_iso": "2026-10-30T20:32:16Z"
       },
       {
         "title": "Aeropuertos Argentina obtiene US$ 400 millones para plan de obras de US$ 1.500 millones - LA17",
@@ -51,21 +51,21 @@
       },
       {
         "title": "Renovamos nuestra concesión hasta 2049: seguimos construyendo los aeropuertos del futuro - Aeropuertos Argentina",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSktXVEJUUV8wZEk1Ry1FVl9QdEhhVThVV1ozak9rX1MtRm5RUHdlQ0ZBRXlVVlZGTDZyTGpzYjRiVU1HSU0xcHdfM2N6WHpnSkJreFg3Um1qendoZjRKQmp3NHhXYVMybHp0ZW5mTnM2cEZKNm4wbHZuRjNCbWlFVGlCVmppSmJ6YTJSaXJZVlpSdkV2RXRzYUlZelBYN3ZjTGJUN3Q5bWk0TnYzRWdKbGx3VUxCTlRlNGQ0eG4tdWJzQnM0eEVsQXE4dm9KeFRJNl84UlAxeVIwTC1nVkFJOGZ4NmJhMEpEcUsyakVQNmEzdm1scGsteUFjWHNXb085eW9RTjVEVkktd3YwTmRxMERrTUJFNTlvR2dlX0VJRFY1aURLQ2puTWtEYjVXMi12MjlkYXBHYzNKb2VmTVlR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNZFpBZFhYbXItX1dFekdZM3dCUnJXc2xfa2x0cW0wOEQwY3FsZDVnR2tsVXFGOWNIT3VuUDl1dE5IdUhqQmFzcEZteUI4WnFxTzZFT1JkNmFIQko1eTcyRU5sMzBqM3NLR0VVZEdQcUlUeGRMWmdTUzV6YlV6cWRNV0l4UmVYUVppSHVEVmxudlVGQjd1TnpGQVM0TlQwLW9xUlNEZHRrb0MtaFNISElWYmkweGlEczJ1ak1vWUQ5dHVaN3pxUkxvWVdzWUVzZlY5aGF0Ty1hcDR6WVhsd2IwUmlUeUpVTTNJbVI4UnY1LU5weFZHdWpTNjlRTDI1UmtZSnZocElyRjBlZGd2OUJFcDZxUGt2VmU4QnU1MkVuMm1RQnpMVDAta0thT2t0OGI4b2ZkOFFZNER2Sng3UUhN?oc=5",
         "source": "Aeropuertos Argentina",
-        "published_iso": "2026-10-28T02:47:01Z"
+        "published_iso": "2026-10-28T07:00:00Z"
       },
       {
-        "title": "Bariloche entra en el plan de Aeropuertos Argentina con obras de ampliación y renovación de su terminal - ANBariloche",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQlgxcndzQVZWM1BnTVNEeHpmNFNsRXV0ajhEOVNFYWZpZ1R2Vlc2YUVhaE9tVEE3eW9mSnk5U1RXdWpWZjJLOW1zakpJeHpLcF9jeklOa0lDZF84Z0ZWc3ZRRTBONWw1amh3a2k4TE82X2ptSzV5ZVpuWjhOVXF3Uk9mMDFvVHlJNEtoWjhwTFBmcnh6XzltTzAyVEs2MHdPdjNnRnVTLU5DQUdzVTd2RmhnR3ZDRlZLUW85Y0VjYXhpemJuRmthaTdWTDJKMDRtRmZ5Z2k0Z3NXOVduWTlLY0M4VG13bVVzc2RRNDQ5TVNqSEnSAfgBQVVfeXFMT05kZV8xWU12ZWdMQUFrVFVFV1N1YkpublJKYmNfc1NPOWRKOUxQNy1GVllWeGhyclhEZTlTdFpibHlEaWk3WDFsazJ1bXBUYjFWdmNOdUZ2YWxSNGRYSVowX3VkdXlMejZGRmEtQVZNNGNMb1JuNEFlR2VtLVFocmZLUTBhNmRiRFRwZzNtU0FfTWxsVFJoaV9BWjdlZ3JuVUpQWjVrdEp2YkE3WWdic1BXQ1gwQVJEaG9kQkZ4V28tV1hVWGthaVhtNTk4ZE9yVGtTMGt3amZmQVlfOUdVOW9Bb215bF9Pb3hQektXLXprWkd0SjFyc0E?oc=5",
-        "source": "ANBariloche",
-        "published_iso": "2026-10-24T12:29:48Z"
+        "title": "Aeropuertos Argentina salió al mercado y captó US$ 400 millones para sus inversiones - Fortuna web",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQM21Gd19wMVY2TERPYmlLWTg3eUMzN2hmQU1UcTZiWmtzUFEzMWt4QUFKTzZnTVdfOENCUDFFSHY4TkNRWjcydnN3cEprZmRheUJHX0gwOHVKUUV4eWdsc2d5akF1amxUUE92TkwtRlA0a3dlUnZoZUlzV29sVzFZVDhBbjdYOC0xeHdYVjRTR1NGSEd3Yi1Gd2d5TVEtNVJZUzRaOGxTdXkxeTFPa3E3ZXJidlpINDhJc21nRnFwWUZPRzNrQXlrSHZlUVZRV0nSAdQBQVVfeXFMTkl0OXItdDhrdWdZRlFjZHVqYV8yVGdEcXkwTm16cFpaQVpjODZjak1yYmFHY3FyMUZ4Qkl3RGJiMmpKbVhfR3dXWVBJU3hWTWcxWU5adTNhSDFsdHpmamRqWGgwNmwydFcwSFBiaktmVDhmcEVGbUFoTGJyYU9fNVpUTFVvbHBDRENjc0NtMzlLRTRiX1lRMFRGdVk2cXVuVG4zWmVZUVQzTkNGSFgzOFJ6WnVEdWNlQzdiSThib0F2dU1SamRXV2laWGdvWkQxVlNKYjQ?oc=5",
+        "source": "Fortuna web",
+        "published_iso": "2026-10-26T20:12:48Z"
       },
       {
-        "title": "Tras la prórroga de la concesión, Aeropuertos Argentina consiguió US$400 millones para avanzar con su millonario plan de obras - La Nación",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUxIeExIem9YbDNwRkZyaFh1VDU4TVdhNlozTUo1UDYwRnNnaUVvQ2dzSndCOWh1RzY3XzJuUUNTMDVOZWVncHJRcTF0d3d4UXl5LUtVZHRvOUVIUzQyWDRkclk4akdRY25aVk9NUjQ4ek9ZYVNLclpVaFl3SkxSVGlYU2xFY01Gakk0ejNuNi1lNkxYbmJIcEFlbkNyUU9RR0szTU5kcHotQnJZZVlhbnFvODR2MU1HdVd2eURyallKc19KUnMwcV83WndhTURUd28ya3Z4WWRzb3FKNUJfY3FrNA?oc=5",
-        "source": "La Nación",
-        "published_iso": "2026-10-23T15:33:00Z"
+        "title": "Aeropuertos Argentina colocó deuda por US$ 400 millones a 8% y vencimiento 2036 - mercado.com.ar",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDFrdS1kSUxudWdmQnlSNjFXYWJENl8yLURudXY4SHVabHhJSkxuREVKcEFvLW9BcnZmVmJLN3MtSFF6T3ZqVGVMcTN1TGVFZlJwS2tsSlNRU3czLVVZTDVoWHpscnRyUHpvcWFnZEhkTGFmMUIyMjR2OEhJZmxWMmpCci13ZHN0anQwSTlBOVZldloxWGlmNlVRakNXT1NfVEJrRmUzbFl1Y3B3R3c?oc=5",
+        "source": "mercado.com.ar",
+        "published_iso": "2026-10-26T14:14:50Z"
       }
     ]
   }

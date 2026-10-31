@@ -1,9 +1,21 @@
 {
-  "updated_at": "2026-10-30T16:56:23Z",
+  "updated_at": "2026-10-31T15:57:13Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Armenia’s TRIPP debate exposes contradictions of its regional isolation - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fRzFLOGpiNVBrTDNEM0pzeG1DdGZGZ1RpcFc4SlpaOVpYZF9iUE1UZmotQ09lcXBxOE5JdHlLcGl5OGFVSG54bDJGeDFXQXlMTDVoTVVMQQ?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-10-31T13:15:00Z"
+    },
+    {
+      "title": "CEC assigns ballot numbers to parties contesting local elections - Armenpress",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fdzdoTlVOekxsdzFWc3Rad1hIenlVT0VseWh2NFVDQ0IwTHVkem9Md3lhc0Z0SnhDdVB2eGtJMzN6VEh5a2k1S01BblV3UHpVT2fSAVdBVV95cUxNY2trM18wUmN6SVAzREpBMUlZSGY5Vlh0UGNmeC1NcXVIRHp1SnVORDFoNVdxendXZmNLMkc5QnJIcFlSSEVKLVBBekdpOVUyUHY2Tm9uaVk?oc=5",
+      "source": "Armenpress",
+      "published_iso": "2026-10-31T09:15:00Z"
+    },
     {
       "title": "Michigan Armenian Americans mobilize ahead of 2026 U.S. Senate election - The Armenian Weekly",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdnJuSzU4cC1HNTJnUEF6dHlBd1ZMYmJndk1PTUg0cXBORG42N3YtUmJUWmJodENBNF9RazlSOEJYUEJjSHhCRFpPdmdRcmROdmNkb1ZpdGFEbU5teXRjWmxfcmMtTmNIbHM5ckVwS29fZzR3MVl0a0NDbEtpWTBQUWhGRXNUUWY0U0JOTDFNeF9KVU5weHhkUGc4bkZGTThDdUNyeXZxUVV6ZWoxS0E?oc=5",
@@ -17,28 +29,16 @@
       "published_iso": "2026-10-30T13:02:41Z"
     },
     {
-      "title": "Armenia and Azerbaijan talk peace, but in a border forest, the wounds of war are still raw - Malay Mail",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQendPMFBGSFREZ0FObVhRcDFnNzI0bGd6Qmo3bGJnYU5WRm1OQkVkanJaRkhjamhGV19kX2dPMXAwMHNOaWszcnhMS2RYSzg5Ql83eUt4TzlldkFudEU4S3dMUzk0TTY1QTc5TnFxMTFGTjdRZ1Zldm0tUzBTZ2h2d1hFTHpWMWF6V1ZnQVhRMF9XSzhpQWJpNXRJSGRISmpZN2g4MVM2TUFVai1VRjdVTTZMQk1GVzc5Nm5rUzVzMTdKeTRSeEhfX1lLMWVKM29NRHZmRm5DNF9VMlXSAeABQVVfeXFMUGFwek5IM28xQnZXRGtCaElVQUtlVFlJNS0wMG12cS1kTHlLZ091YXVQRF9zclU2el9TMWMtNGtBbFk2V1JCeE1TRXpkRDVRWDMwdkF3SjJZYnYtZVdsYUhPZngtSTkyTEowOURES2ZnYlZHcXFvOXJEalZiTHc2Y0dfeU9NVFNNZVNWVlE1NWpWM09INDJ3LTQ4Y1A3eGJva2cweEd3WGlZMHlOMklvcUNsenlzellmM3ZqRzZsM21JRG43Rk1wRllOaW9LaTE1dl95Z1BtYmw1ZU5TeE5jcUc?oc=5",
-      "source": "Malay Mail",
-      "published_iso": "2026-10-30T13:02:08Z"
+      "title": "Middle and “Zangezur” Corridors will increase Azerbaijan’s opportunities, FM says - NEWS.am",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XeXNhVXRmVHFkcE44MGMzTWdicGgtWjRKZG0wZlNOV3Q4OGRPcFNyT01xYkllem1EMml5OWo0TzBqR3JCRHc?oc=5",
+      "source": "NEWS.am",
+      "published_iso": "2026-10-30T12:54:00Z"
     },
     {
       "title": "Explainer | Could Armenia have a snap election as soon as next year? - OC Media",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRWk2ZVAwdEE5M0ZtU21fa2c0Tmo3M0M1bjVmR0tnMTNPNDlKeGx1TmYyVFBiRFhlZHBjSFVQSXBUVVVja2FQNlR1UzE5djNBYzRnQ1U4WlN6STlaUG93WWhFVVBybVo3YTJMbHZnckg5NDZ3cTZIc0ZJVFlLWUhpN3NqZ05mR01Vd1NYQ1ZqT1Y?oc=5",
       "source": "OC Media",
       "published_iso": "2026-10-30T11:27:33Z"
-    },
-    {
-      "title": "Türkiye reiterates support for Armenia-Azerbaijan peace process - Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCa1pMVWYyS0FhVWYxLUdYY0w5Yk1zZGRFZTRMbENzdHRWNFpnZTc0bXYwZ2Q0SFdDeFhac1A0cjFsazNyU1FBck1tbHJ1c2RVT0HSAVdBVV95cUxQV280dk1tWWFzdUE2bEtwXzBCaDZTZkptTUZZUThKeDVza3NySGJuOFlwenFpYXNYdWc2cHVQWEZFVXdmb1BKbTRSZjRnOTlPaWkycUtQLTA?oc=5",
-      "source": "Armenpress",
-      "published_iso": "2026-10-30T10:46:00Z"
-    },
-    {
-      "title": "The Armenia-Azerbaijan Strategic Expert Platform Statement ahead of the 3rd South Caucasus Regional Dialogue Forum - commonspace.eu",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVnRjeUVmSmtSUmJHSHI3R08tX2xKeWdoQklxT0c4b0RodHdjVDJiLWY4U3F2TEl5U04zQUpkc3F0M0V6NENaaTFNZ2VnT3JUTlo1c0pSUDJRWmZJUWJYeFVzbU5FZjZ0WkdoYUd4c1BhNlR3aGZxMExSN01wRlY0d1NDODBhLTNWMUt3MDJweXI0LUVjeVA3Z2RlcTR6VmhjWXJVOVNIc2dzVmVQeHNDU1htX0piS0d3V1lPTmw4U0I?oc=5",
-      "source": "commonspace.eu",
-      "published_iso": "2026-10-30T08:45:52Z"
     }
   ]
 }
