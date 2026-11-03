@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T20:37:47Z",
+  "updated_at": "2026-11-03T18:13:23Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -39,7 +39,7 @@
     "aa2000": [
       {
         "title": "Aeropuertos Argentina se suma al CyberMonday del 2 al 8 de noviembre con beneficios para planificar el viaje - Aviación en Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLVlTSjFSTlNVdHFFVHo0Sms2b2JZQ3EycDVZX3d3OGFyNXNVSWJDTjlaT3BYSkhJNldQcHV4Wm04bHBTeU54dWlmdHhUNkpIbGY4Z0hic1JMb3d3TF9RaGl5eTJJNVl5UGFGS0MyMzhEcnhZSzQ2T29vRHg2cXdLTFBHWGhmZzFYTE9ZVFNjeS1Ma1c1ZnlIYXBjTXZLcmN2MXZ5YTNEWDAwNE5BODdJT2JBZkhvSmJUMWpsblFETmpLcE81NlZPNlFNM0Z1ck1IVHFyeWpiTlZfUGlC?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzJWUThodGRkaW4wUkIxWEVZaElPNjk3blctN2ZLTkhsY1NfSEJTM1FiNWREX2htUWdxdk1UVHY1bXlEOFRNelV4LU9OOVcyZnJNbWFiTFQ1RlBQaW0yY2d6MC1sRmk5enZUbVRXTkd6b1VHREFqSEU3bEdESkI5c1NJTmZ1WWd6X0c0eHNMRmFOOU9mUWcxVTJyZXRiYm9oNzlOWUVLam4zMVNqLVV1bUQwR0lPRzdUWGhWVzEwRE9MTzhqTy00Y1R1TGZyMnZGMXZKeTA1eWt5aU0?oc=5",
         "source": "Aviación en Argentina",
         "published_iso": "2026-11-02T20:17:08Z"
       },
@@ -48,12 +48,6 @@
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMW9rRktqRjFGekREdGxKRm9PZzNEU2xXUXhkaVh0NURfdjloY212OTVwSk4xUEM0aEV6VGIteXhKOVA5MlJIYVFFdDljbm5rUUpNcHozaS1NWnBzbVpZNWV6SWR2dnlEZkdBX3hmZjlBMjJGYTZxVzhhRTZGamVwSjliLVhBaW1rd2hnUDdoUDRuV1paQS11cWhqaERHTHNjdXFscjF0eF94NFBadHotd2tJYm1nYkU3cDZjLUZESkJiSDJzaVB2ZXNaRVBWZlNMcVZ4R2VsanFCSjZ2ZEtCOE04cmZudkJ5cm9xanFsSUtQZw?oc=5",
         "source": "Diario Digital Conclusión",
         "published_iso": "2026-10-30T20:32:16Z"
-      },
-      {
-        "title": "Aeropuertos Argentina obtiene US$ 400 millones para plan de obras de US$ 1.500 millones - LA17",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemI4ekQ4ZDB5bGhnbWRxd2NSUjJhU0hDOUVvRVhGMjhBNS0wejd3OFhDZ1dfMm9TRHM1d3pqVWs2U29HZklPaVExUlFEUjl5VFFmRVdNRl90Zl9neTNNdEZLWUQzN1dOTUV6U3JjY2RFSmhsZXQwdjFlMGxIbGJySlI3ekpibFZGX05nWHA2SUFUVU0wUFlMVDZIQ1JhWG92MkU2WjU5c0tSeER1M2Q3ODVvTlgyNE5qVlFF?oc=5",
-        "source": "LA17",
-        "published_iso": "2026-10-29T11:20:00Z"
       },
       {
         "title": "Renovamos nuestra concesión hasta 2049: seguimos construyendo los aeropuertos del futuro - Aeropuertos Argentina",
@@ -66,6 +60,12 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUxIeExIem9YbDNwRkZyaFh1VDU4TVdhNlozTUo1UDYwRnNnaUVvQ2dzSndCOWh1RzY3XzJuUUNTMDVOZWVncHJRcTF0d3d4UXl5LUtVZHRvOUVIUzQyWDRkclk4akdRY25aVk9NUjQ4ek9ZYVNLclpVaFl3SkxSVGlYU2xFY01Gakk0ejNuNi1lNkxYbmJIcEFlbkNyUU9RR0szTU5kcHotQnJZZVlhbnFvODR2MU1HdVd2eURyallKc19KUnMwcV83WndhTURUd28ya3Z4WWRzb3FKNUJfY3FrNA?oc=5",
         "source": "La Nación",
         "published_iso": "2026-10-23T07:00:00Z"
+      },
+      {
+        "title": "Nueva ON de Aeropuertos Argentina 2000: cómo licitar - iProUP",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXZ2bmlUakpiTG9DeWRCMlZtU09tc0poZTRaVlAyRFRNa1liVWpMZzA2Ylk3ZERCNTJRR2lpVEpfY2wxUDBGVDZESWlFMDIteXlHVmtZVm9EelhKYl80VDdpMUc2Rk5rZ2wxNldZZUVlckRIVlZOZUR1MWRtYWRxbkNjTnJqbnE5Vm1NaDR6eDZnV2PSAZgBQVVfeXFMTnpjVXF0V0lqcW43dVA2MnNHMTRxM2xHUVJIYWNXVU5nMGM5Vi12eW1OMVBqZHZyVUZYTDc0LUZkZmQ0OEJIdjZldlhPdEZ3MU1NVm5qWTlwSkQwQWd0QllpbEU4b1R0NjJScWJ4NndwYV9GZnhwbXBSMUhHWGhkbnFCX09VZHludHlRNi1iaGhldXVHWEJnVTA?oc=5",
+        "source": "iProUP",
+        "published_iso": "2026-10-22T07:00:00Z"
       }
     ]
   }
