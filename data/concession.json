@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-11-04T18:28:25Z",
+  "updated_at": "2026-11-06T17:48:11Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
       {
+        "title": "Contratos comerciais podem gerar impasse no leilão de Brasília - Brasilturis",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWVhPbWZlTmJvbEl3MHRXVm9mbmJlVFF6LW9Bb0MtRnczamJlNXNTSjJfQ3VTejBkRnhMN2w1R0tNRzVEM1NsN0R4bmtvSkFpRlowNGplUGdXZ1p1dFlRRV9OWXU5ZVc0QkpMY2dScE52Vk12ZmthVmJYZWRPRnNON0d2T2xjRUliTVNKWE1kRHVZU3IxN3o5SFpQVXZkNUc5VUUw?oc=5",
+        "source": "Brasilturis",
+        "published_iso": "2026-11-06T16:37:00Z"
+      },
+      {
+        "title": "Denúncia no TCU coloca leilão do Aeroporto de Brasília em risco - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOajV2Ykt3d0JOSjNZWWVjbUZHZnJUcTFVenVPSjhYRmJaalQ3SlVSTG1tRkJQb2hQM3ZNdFg1cVFCRDhtcy1XOGJscHZXbWFnYUtQbDlNRlRJYXpGY29tU0ZMVEFQX2stY2V0SXl1aXA5S0I4RGFVMjYwQVExbkRVZHFhN0FYZXhwTkMtalJKUmJrQmRCcXpLYjU1WVFXa0RPQ2duMldsMkNjSHpyRkxXRnFBWk9ST3NLWkJDeXBn?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-11-06T07:30:56Z"
+      },
+      {
         "title": "Concessão de Brasília e outros 10 aeroportos será apresentada a investidores - Panrotas",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGg2Y19CcE5rY3pyaVVsb1J2YzZ6bUZTeXVWNlVpQUZRbmVPYVp6X24tWDlfX0hpakNHQlU1Sk9vZ0RkQXltcnBLdjFyXzlGUTV0c2VwaW4zeGc0YWE2UXRzZ2RhX3kzZTZJYXREanVabjhYX1VlZmxMTVlwYXhkSTEtT2FrOWRmWmJLbmhCYW5weE41aFhBejV2NTRYN2VodVFHSkJOUTVVOXRTQmlvSzdkZGJhRlBwUVN4LWRHNUE3SXdzcTNENWZOcFBDUmpuZ1RHb0paOVZVMFk?oc=5",
         "source": "Panrotas",
         "published_iso": "2026-10-19T07:00:00Z"
-      },
-      {
-        "title": "MPor e ANAC apresentam concessão do Aeroporto de Brasília e regionais - Agência iNFRA",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBkeUVkTDRWaVVqMjJ2WGNxeFdQdjNuaWJtbVk0M1hpRy1pRVF1NWdFOU9CNjBHdG9BWkljWDh5ek9YRzU5ZU41bF9ON2NjOWgyV1lVdVpYZ3NoaFp1WjUzNGctNUZXOTZ0Q1JaOUlMWDVTU1dYNC1vWmxtaGZMU0tOSHJqNERZNkxEb3YzbTYtSnVKYUYyWVBCQmhIUmpCeWc?oc=5",
-        "source": "Agência iNFRA",
-        "published_iso": "2026-10-15T07:00:00Z"
       },
       {
         "title": "Projeto de concessão do Aeroporto de Brasília e mais dez terminais regionais será apresentado a investidores - www.gov.br",
@@ -24,30 +30,30 @@
         "published_iso": "2026-10-15T07:00:00Z"
       },
       {
-        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEx4YVpUcjQtblpIY3FVOEJDQXItNzBubXRVc3dfRXBiZXFEbU9ITXhSdUlQV243d19JM3dLTDN3clNFMHJSOEtYMGxUZTR6NDhxRmdESFIyQUdUbWR2VU8tYU9rd0lPTkt3TWtsWl81MVJnWmtqb0RPLXlSbnk4T3BIeWZVVWtqOXZmMmw3RC0yd3RYc1BETmhmMlR6TE9Y?oc=5",
-        "source": "Brazil Journal",
-        "published_iso": "2026-09-21T07:00:00Z"
-      },
-      {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
-        "source": "Consultor Jurídico",
-        "published_iso": "2026-09-19T07:00:00Z"
+        "title": "MPor e ANAC apresentam concessão do Aeroporto de Brasília e regionais - Agência iNFRA",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBkeUVkTDRWaVVqMjJ2WGNxeFdQdjNuaWJtbVk0M1hpRy1pRVF1NWdFOU9CNjBHdG9BWkljWDh5ek9YRzU5ZU41bF9ON2NjOWgyV1lVdVpYZ3NoaFp1WjUzNGctNUZXOTZ0Q1JaOUlMWDVTU1dYNC1vWmxtaGZMU0tOSHJqNERZNkxEb3YzbTYtSnVKYUYyWVBCQmhIUmpCeWc?oc=5",
+        "source": "Agência iNFRA",
+        "published_iso": "2026-10-15T07:00:00Z"
       }
     ],
     "aa2000": [
       {
-        "title": "El Aeropuerto de Viedma se integra al plan de inversiones de Aeropuertos Argentina para renovar su infraestructura - ANBariloche",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVFE3cFRuWlV3SzZJZjlKb1lQdjJKNmVnd3pSTHQ2RW5hRTE0SWltb2diVVBXNlJPaVVZSUs5V2hVQm93MkdRZC1KMTJEQ3VHbXVMMHFlNmpKdk5icHBBcXJDamE0RUdPdk8xZlRZZGN1SHlEVzc4dkJIZFVFbU5mbk9neXZLWlVKR3Vqbk41elEwdVhMNHF4U2RDMEdhc3NEdEY4Z0VubmttOEhVdXVHdkQ5MWEzS1V2eUFNZ0FpLXFVNWN6WDNLOHJZNDFhbkRieXdneTFSM0NYZ2tIdnFJYW5raXUyV1diWWZ2Z0VleTYybG4tTDBudjhkQmRqWGtqaUHSAYcCQVVfeXFMTTRqN3NTbzFaVzZtN2d5MGVRQlN4V1dqTW1UenJvckFOM213V09vSnFVTVBocHZlZkFXSGszZ2xxQkhyMUNSUGhqLURZZGNJWnFMZHhtS0Q1S2hFY1o2VTRSMjRCRTBxd1lhWFFrY2M2YldtUTY1VGY3T1lldzlBdVJxb3hTbGw4UFAyTHIxVXFGSWFCb19hM0piNjhHUU93alpEb0xRUG5zblBBNzVxdmRUcGlVZE9GQW5maUI4MGJPS0ptb25LT0RxMjBCNU81dFJYZC1pbE1rZGVwal9OdnVReExVWnlJSXhmSlY5UkJvVTJmNFhzQW0tUmNvTTN2cXBwY0V1bVk?oc=5",
-        "source": "ANBariloche",
-        "published_iso": "2026-11-03T11:31:00Z"
+        "title": "Aeropuertos Argentina invertirá US$25 millones en la nueva terminal del aeropuerto de Esquel - La Nación",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaS1vdEM4bEhNTm15RndPZkNmQlZYeHFpVVBGaFNmSVh3c3EwQzBZTUZBVlhSVGx0aS1zRXFrRDRCVUlKUkZmTlZpM050WGRIWTVwcXRNaHVha2VwOGs3QUJCMXQ1REluSGpENnhRXzFCcGxtZy1fSC1DWjFKdkh2VUtLQjlaaDhKZGRsdWM3WVBmRlpBMmRBaEY3XzY5OUJfalJHYWpqSFlIVlRXTk9mUkxXbW5SYnlTaHFORjNKc3BCbHFVZ1BPNUh5WHdSS0NkM2ExVWxRLU8?oc=5",
+        "source": "La Nación",
+        "published_iso": "2026-11-06T14:09:00Z"
       },
       {
-        "title": "Aeropuertos Argentina se suma al CyberMonday del 2 al 8 de noviembre con beneficios para planificar el viaje - Aviación en Argentina",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbzJWUThodGRkaW4wUkIxWEVZaElPNjk3blctN2ZLTkhsY1NfSEJTM1FiNWREX2htUWdxdk1UVHY1bXlEOFRNelV4LU9OOVcyZnJNbWFiTFQ1RlBQaW0yY2d6MC1sRmk5enZUbVRXTkd6b1VHREFqSEU3bEdESkI5c1NJTmZ1WWd6X0c0eHNMRmFOOU9mUWcxVTJyZXRiYm9oNzlOWUVLam4zMVNqLVV1bUQwR0lPRzdUWGhWVzEwRE9MTzhqTy00Y1R1TGZyMnZGMXZKeTA1eWt5aU0?oc=5",
-        "source": "Aviación en Argentina",
-        "published_iso": "2026-11-02T20:17:08Z"
+        "title": "Aeropuertos Argentina adelanta pagos de deuda y libera fondos - iProfesional",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTZuUl8tRG0yWFR4NXZVYkxRRmZKaWFSM3FpNW5sMFVsZGlVa2dFUm9DWkU5dHNweWRGYVZ5ZlhKRlNVeVdnWm03LU5VazVXQlM0T01vR3dPZlFrYlZYZHFjUVE3QjNfWW0ybWtHSC1qWEZkTEZaV3VyTFRSS1dHdFpyZzlreldLSFRGMGpVRElNendmNlJzUEp1bnZpQmM3Q1pqVXFKOVNvZlN4YXhGWDV2SWJEenhVRF9ZaXcyeDUtSEN4VkZr0gHMAUFVX3lxTE5JVTF3bjdhRW50SWlOOU1XT0lQc1NfTW9NU19NMFY5cU40UXhyV1psSWhGSG16WlJIQ3Awb19xNGw5SGpUeGRwNGNlVjhxYm9Pd01vQnNSazV1Y2VNb2JEenp1eE0xNTlQd0VVZVg1NzhFNlJqMWhxR0o0VVlXTjc0Y1RsZEJ2N08yMTMtZmZNdEJxTzA0ZmY3M29yN2lFc2NORDg3eXpWb2NLcXQ1WkhqUGlzVzZQVzd5SWVWay1PbkxUdDFqendTSE80eg?oc=5",
+        "source": "iProfesional",
+        "published_iso": "2026-11-05T19:18:00Z"
+      },
+      {
+        "title": "Aeropuertos Argentina se suma al CyberMonday - Daily Travelling News",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS29mMHcxZ3h0QXpmbU0zcXZER2VoTG9iVXNfNE1ZNWxXT19Xd3U0NzY4VDg0Y3psSDJxQ2xzcXJtbXV6QU9MY3dXYlkzcUpualpUbVVkdzcxRGRsVGw4d2dIcmNfNEJuXzJoTjBWc29VMFN0OU5kNkZpYjB2RGY0R0QwREp2c0s2STgzV3NscjRpaEhHeGZWLQ?oc=5",
+        "source": "Daily Travelling News",
+        "published_iso": "2026-11-02T14:21:00Z"
       },
       {
         "title": "Renovamos nuestra concesión hasta 2049: seguimos construyendo los aeropuertos del futuro - Aeropuertos Argentina",
@@ -60,12 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUxIeExIem9YbDNwRkZyaFh1VDU4TVdhNlozTUo1UDYwRnNnaUVvQ2dzSndCOWh1RzY3XzJuUUNTMDVOZWVncHJRcTF0d3d4UXl5LUtVZHRvOUVIUzQyWDRkclk4akdRY25aVk9NUjQ4ek9ZYVNLclpVaFl3SkxSVGlYU2xFY01Gakk0ejNuNi1lNkxYbmJIcEFlbkNyUU9RR0szTU5kcHotQnJZZVlhbnFvODR2MU1HdVd2eURyallKc19KUnMwcV83WndhTURUd28ya3Z4WWRzb3FKNUJfY3FrNA?oc=5",
         "source": "La Nación",
         "published_iso": "2026-10-23T07:00:00Z"
-      },
-      {
-        "title": "Nueva ON de Aeropuertos Argentina 2000: cómo licitar - iProUP",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXZ2bmlUakpiTG9DeWRCMlZtU09tc0poZTRaVlAyRFRNa1liVWpMZzA2Ylk3ZERCNTJRR2lpVEpfY2wxUDBGVDZESWlFMDIteXlHVmtZVm9EelhKYl80VDdpMUc2Rk5rZ2wxNldZZUVlckRIVlZOZUR1MWRtYWRxbkNjTnJqbnE5Vm1NaDR6eDZnV2PSAZgBQVVfeXFMTnpjVXF0V0lqcW43dVA2MnNHMTRxM2xHUVJIYWNXVU5nMGM5Vi12eW1OMVBqZHZyVUZYTDc0LUZkZmQ0OEJIdjZldlhPdEZ3MU1NVm5qWTlwSkQwQWd0QllpbEU4b1R0NjJScWJ4NndwYV9GZnhwbXBSMUhHWGhkbnFCX09VZHludHlRNi1iaGhldXVHWEJnVTA?oc=5",
-        "source": "iProUP",
-        "published_iso": "2026-10-22T07:00:00Z"
       }
     ]
   }
