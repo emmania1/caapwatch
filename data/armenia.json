@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-11-06T17:48:31Z",
+  "updated_at": "2026-11-07T16:44:12Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Ruben Vardanyan ‘Denied Access To Azeri Lawyer’ - Ազատություն Ռադիոկայան",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4waEtiQmJtNnpmQlE1MGJSVmdoTFY2UXZ0NU51NExTUUFHbUJiQy1ULTQ3eUktejc4WTdabnVGTnpJRE9Ibl94dktxVkR1U2dwN3fSAVRBVV95cUxOR0E1aGd2bldXUnBZc0NaRmdVQ2lwcHUtNVpjWTgyaWQ3Q3hGWTdTOHkxdEVEbS1zNWZidkZrTTg0MjM1VTJwWjhRRHkxRDM2S1NwV1U?oc=5",
-      "source": "Ազատություն Ռադիոկայան",
-      "published_iso": "2026-11-06T15:00:07Z"
+      "title": "U.S., Azerbaijan and Armenia step up efforts to advance TRIPP - Qazinform",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTy1ETmZPeDg4ZTNROXltNkJJZGZweFdCcUVaNUdIc1RIZVd4YTBtUlhQM3J5N2ZOWVFuWVRud0J3dkFCZDhkSExwZFFrbFVpamV6WnpWYkh0eFFVN05zNkZTNWcwd1BlTjE2X0U2eU1jRm5QWW5aRENOc0FwSnRDclFRTWc5TVA5Z01lTGhVMThlUE5MODM40gGXAUFVX3lxTE5xVTBNcTZlV3RKbzhJTUwteUFubG9CV0VWS2FmTEExQnhKc1hwX2owZFFpZk15QXJlUTg0azFIR0lCWXdNTV9xenJHRzJnYnhVZXpaVkR4eXBFbFVldUU1ZDBYbFdFaXE2bmxMVkdKRGwzVGdGYmZuR2hJV1dtYXBUMDVFN2hJeXhzRnZkNnVZeVd2SkZVaEE?oc=5",
+      "source": "Qazinform",
+      "published_iso": "2026-11-07T15:44:51Z"
     },
     {
-      "title": "Pashinyan expects Armenia and Turkey to establish diplomatic relations soon (PAN.am) - PanARMENIAN Network",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9senNmVUp1SlFMdmJLckRtNnZIcXNmcTdESUZTQ0pLNW1LbnZwcUYwYTRwdUFXb2NaTWs2UG8tWVE3Zw?oc=5",
-      "source": "PanARMENIAN Network",
-      "published_iso": "2026-11-06T14:39:56Z"
+      "title": "Azerbaijan, Armenia and US launch trilateral working groups to advance TRIPP corridor - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vVnVUNm5wYVlNQkhvUDJQNV9nVU4tSmVodDRZWDJDM1drMElJZThxQlVRUmtNTHJxWmdNT3Z3TUpGbFh5Q2VzSTFCSjQwSlBwWlpoaXZsWQ?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-11-07T11:12:00Z"
+    },
+    {
+      "title": "Six Years After Azerbaijan’s Victory: Shaping a New Era of Peace and Cooperation in the South Caucasus - EU Today",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sT3VhUGpLR2tJc1pla1EtT3BmUTAtREpUREVtR2lvcEJ5TWhlUm9aaVlVZHpoYWkzN2lRcFhDeml2eFVJaGJGUVFBN1FfWm1fb0NVT0l3ODlJS0k5VjlERGtPWEszUm8xUlpUS3IwejNvTGhOLTc2OExzVFFIeTA?oc=5",
+      "source": "EU Today",
+      "published_iso": "2026-11-07T07:39:18Z"
     },
     {
       "title": "Who has stepped on Iran’s tail? Armenia could be the next target - TodayPress.tv",
@@ -23,22 +29,16 @@
       "published_iso": "2026-11-06T13:42:31Z"
     },
     {
-      "title": "Pashinyan says Armenia, Türkiye to establish diplomatic relations ‘in the near future’ - A News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVFXdmtMVV91X3FDcXVadnFveDdUUFJ3LUo4Zk9zeGVLcng3WDBhdTMtdjR4N2VvcFRYNlYzM0tzUlBMQlUtVEpqNWpEUFZJeUNoYjFkcktxZ3AxMEwtUG1IMXVpX2VOOUxuQ1ZkUjMwZkpZN2lfTGpQbE95WVE5Nkg5UEtGaTFRYlRmVFpVWDlpcnNwSXNETlkyS0dEMVJaUDJmZEFiV3g3NkQyUlNUek5PVXQwSWdIUkk4STVTam9HUVpnaU9medIBzgFBVV95cUxPVndnNmtjTmstRFhkVGlFQW1mWGlpMkNmNVMzZ0szZXEtMGwwNG02UXRBbVhBNms0RWpkellBZ0JrUGJMUHI0NFFCbGpsSzUtckpkT1JVUTRlV2pGdGZKQW10OXJIVThyOEgxYzJaOGpWVnczSUlFUlZQQ1U1a24tSzNvdHlCeTV1bWFKR3B4QXZ6UzZTTzNjYWt5cVBJcVRfRWtJU2hsXzN2U3FLQzJFNVdmbUlFOXNscWZ5QzVrWjZ6ZjF2VXRXWWM3WmRUdw?oc=5",
-      "source": "A News",
-      "published_iso": "2026-11-06T12:14:59Z"
+      "title": "Pashinyan says Armenia, Türkiye to establish diplomatic relations ‘in the near future’ - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGhWUXJlSjdHbExHZmxOY09Sc3VtT1ZtSzdvZWU2NjBJYmxkUG0tMTd2VkhHRFM2dzNSazluTGk1VkFod2JHZzI5S0gtbnF2RlNxVEhiZUJGaXk4YnJjTjZfOG9CTlItZDUzRmQzT09wQXEtWUMwOU1SenhwRi03dEtrZ3dsbkVJMW1UR1pxbmVzdFNYU19KdGJmc2pMR2NqdGd5T2ZUWmZ4QktxZXJVNGVzUFFTWmNZb002ZkQ5MnVIUFU?oc=5",
+      "source": "Anadolu Ajansı",
+      "published_iso": "2026-11-06T12:48:05Z"
     },
     {
       "title": "Our state is our identity: Pashinyan presents Real Armenia vision at Third Global Armenian Summit - Public Radio of Armenia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbUJ5bzh6QkU1MklZVGxocWJRT01zSmZVbE5DanMxcTh2dWd4YzBLcDJONldRakZ2ZUNZT1h0amV5U2dtbHdEOFZIbFhvS2pDMExkTWo4eVJWTWdVLW0zdnIyOXY1bnZvZ2U4VTM5NVlVUXdFaVFmai1qVGpaS3AyM05yaklXLXNBUlJSdGFDQ1FpLWducmhjSG1rNHZSY0JSVXFkM3J1U2lyOGQ2V0RycmozaXhTenhmcjcyeG9tcU1hVVVZNm5QYnlxWQ?oc=5",
       "source": "Public Radio of Armenia",
       "published_iso": "2026-11-06T09:59:33Z"
-    },
-    {
-      "title": "Pashinyan explained what Armenia can offer the diaspora - ARKA.am",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZmNXdkV3OW1vNkM0aFdDRnA5X1RqVGV6U0I5R1BnWTctQVVUamxsSkxfdGRuTFd6bXhhN3BfLWphRXlxV1JKdy1NeWNFbGNRVEJ0TUJfNS1pS1lRLUpGMEVTVElRLUpLV3o5d1g3THpVX0F2YXJPSE5aR0UtcWVOaEtpQXJMd204VU83U0xHZTBvdw?oc=5",
-      "source": "ARKA.am",
-      "published_iso": "2026-11-06T07:22:00Z"
     }
   ]
 }

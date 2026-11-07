@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-11-06T17:48:11Z",
+  "updated_at": "2026-11-07T16:43:51Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Empresas questionam transparência em leilão que inclui Aeroporto de Dourados no lote - Dourados News",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa2pKeEpyMC1kMmpJR09FWEhobWlNZmRXbW5CcjhGVWlQMnRVY1Q5THUwaUtxVW9zcExyaHJpS05OR2ZoU3JqcE94cFI5WUJMSnJhU0dDdUR2SEtuVk5VbWNTN29aTWhPV3RUY3hXR3NzRTNqbThncnZtRkJtOGE3YS1SdnZhdUxEOTNuZjM2SEFVVm1TZ3JrM0ZWNTBJaTVxN0Fab0ZKVkhDVzI4NU1Xb3dieG5VWVBhdnpNWdIBwAFBVV95cUxPQzNvNzRTTTNwZ0pHck52YUxsRThXSjBkUlliSUtsTnM0bkJxdG9RcDlnUmRJekR4bk1hc3hXNWtLVENFVEZXeDdaWFBzak92eEpFdHRuNF9VMWF2a1RMaXNxWDVtOC1tT3V0SHVRZkh0eW5rT0VZbHRGaWhvay1xdFdlem9vVkV0c1pmR29BQnVGd0dQUy1ibDBnY1U1bE9UaHZibGswOTBWOWs4Q2NXaUUxdzJEd05iTXpKVlluMFU?oc=5",
+        "source": "Dourados News",
+        "published_iso": "2026-11-06T18:36:00Z"
+      },
       {
         "title": "Contratos comerciais podem gerar impasse no leilão de Brasília - Brasilturis",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWVhPbWZlTmJvbEl3MHRXVm9mbmJlVFF6LW9Bb0MtRnczamJlNXNTSjJfQ3VTejBkRnhMN2w1R0tNRzVEM1NsN0R4bmtvSkFpRlowNGplUGdXZ1p1dFlRRV9OWXU5ZVc0QkpMY2dScE52Vk12ZmthVmJYZWRPRnNON0d2T2xjRUliTVNKWE1kRHVZU3IxN3o5SFpQVXZkNUc5VUUw?oc=5",
@@ -24,12 +30,6 @@
         "published_iso": "2026-10-19T07:00:00Z"
       },
       {
-        "title": "Projeto de concessão do Aeroporto de Brasília e mais dez terminais regionais será apresentado a investidores - www.gov.br",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZjNjdlVhR2hQbkFnZDIzXzNNMy1IMTJkMGg5LWQ0NlhFT3NlajR5LUtzdjJJMGNUNVFfNzA1VFdsdWswWVp0b2hEVmk4V0hPc0RHSW1HNEJQSU9mYzJwZ0dQSFlEc2tKZ0pYVVR4cG9qcndJaGxfM2tZZXhCY1gzdVIxWUJpeWxMajM1ZzVRRW1VUzU4TnhNNHVyTTg0X2hyTDJydDI1ZEV2MmVGeXdLazhrNmlZczFldXM2MW4ySmstT3I0eHp0alV0TjFEWlVHUUFEcDRKZUw0MnA3MkxxVEFwYXVTWFY5NnNUdEhyWFJRVm1Sd25SSjFMdTRUQldvMEFaQ0lMYV9VUms?oc=5",
-        "source": "www.gov.br",
-        "published_iso": "2026-10-15T07:00:00Z"
-      },
-      {
         "title": "MPor e ANAC apresentam concessão do Aeroporto de Brasília e regionais - Agência iNFRA",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBkeUVkTDRWaVVqMjJ2WGNxeFdQdjNuaWJtbVk0M1hpRy1pRVF1NWdFOU9CNjBHdG9BWkljWDh5ek9YRzU5ZU41bF9ON2NjOWgyV1lVdVpYZ3NoaFp1WjUzNGctNUZXOTZ0Q1JaOUlMWDVTU1dYNC1vWmxtaGZMU0tOSHJqNERZNkxEb3YzbTYtSnVKYUYyWVBCQmhIUmpCeWc?oc=5",
         "source": "Agência iNFRA",
@@ -37,6 +37,12 @@
       }
     ],
     "aa2000": [
+      {
+        "title": "Aeropuertos Argentina amplía el aeropuerto de Esquel con una inversión de US$ 25 millones - MDZ Online",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYWFNT0gxRzBFY3JDRms2UUkwZjNQRS1OZGRZdlNTeXZFd2dKbWx6WE1vVXU4WkNYeS1rNGxLVXcxUnlVZXQ1RTQxNEtiVmdyS2ZJTkd4UzFtTmpNenpNOGc0MWM4MjlaeHZENVd2aVR0MnZlVjNYcEVYNDdXRnpwZ2Z6Q0t3aVRwX204R3lJUjdqdTNlSTZTSUpCdmVCdTc0WkpNWkN3ZXVuZkx2T2hiVTZwWXhiNGFXa0JJWDRRYmtDc3VTbjRQcDhaQ1FyUjBYajU5SkdhT1czZw?oc=5",
+        "source": "MDZ Online",
+        "published_iso": "2026-11-07T09:59:00Z"
+      },
       {
         "title": "Aeropuertos Argentina invertirá US$25 millones en la nueva terminal del aeropuerto de Esquel - La Nación",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaS1vdEM4bEhNTm15RndPZkNmQlZYeHFpVVBGaFNmSVh3c3EwQzBZTUZBVlhSVGx0aS1zRXFrRDRCVUlKUkZmTlZpM050WGRIWTVwcXRNaHVha2VwOGs3QUJCMXQ1REluSGpENnhRXzFCcGxtZy1fSC1DWjFKdkh2VUtLQjlaaDhKZGRsdWM3WVBmRlpBMmRBaEY3XzY5OUJfalJHYWpqSFlIVlRXTk9mUkxXbW5SYnlTaHFORjNKc3BCbHFVZ1BPNUh5WHdSS0NkM2ExVWxRLU8?oc=5",
@@ -54,12 +60,6 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS29mMHcxZ3h0QXpmbU0zcXZER2VoTG9iVXNfNE1ZNWxXT19Xd3U0NzY4VDg0Y3psSDJxQ2xzcXJtbXV6QU9MY3dXYlkzcUpualpUbVVkdzcxRGRsVGw4d2dIcmNfNEJuXzJoTjBWc29VMFN0OU5kNkZpYjB2RGY0R0QwREp2c0s2STgzV3NscjRpaEhHeGZWLQ?oc=5",
         "source": "Daily Travelling News",
         "published_iso": "2026-11-02T14:21:00Z"
-      },
-      {
-        "title": "Renovamos nuestra concesión hasta 2049: seguimos construyendo los aeropuertos del futuro - Aeropuertos Argentina",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSktXVEJUUV8wZEk1Ry1FVl9QdEhhVThVV1ozak9rX1MtRm5RUHdlQ0ZBRXlVVlZGTDZyTGpzYjRiVU1HSU0xcHdfM2N6WHpnSkJreFg3Um1qendoZjRKQmp3NHhXYVMybHp0ZW5mTnM2cEZKNm4wbHZuRjNCbWlFVGlCVmppSmJ6YTJSaXJZVlpSdkV2RXRzYUlZelBYN3ZjTGJUN3Q5bWk0TnYzRWdKbGx3VUxCTlRlNGQ0eG4tdWJzQnM0eEVsQXE4dm9KeFRJNl84UlAxeVIwTC1nVkFJOGZ4NmJhMEpEcUsyakVQNmEzdm1scGsteUFjWHNXb085eW9RTjVEVkktd3YwTmRxMERrTUJFNTlvR2dlX0VJRFY1aURLQ2puTWtEYjVXMi12MjlkYXBHYzNKb2VmTVlR?oc=5",
-        "source": "Aeropuertos Argentina",
-        "published_iso": "2026-10-28T02:47:01Z"
       },
       {
         "title": "Tras la prórroga de la concesión, Aeropuertos Argentina consiguió US$400 millones para avanzar con su millonario plan de obras - La Nación",
