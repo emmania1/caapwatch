@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-11-07T16:44:12Z",
+  "updated_at": "2026-11-08T16:54:57Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
+    {
+      "title": "Why Armenia Is the Linchpin of the Caucasus - The National Interest",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWFdrSkNHU0VWMm1IZ0RiZ1RibUpCV29SVm9jUHNaYzZ6THlBUi1IcWZ1aUswWm9TRTVidGFyd2FuZ0RFcmNPUVVTWEp6MnlGTllJVU5JTXZJR0FRN3pheFJ3dVlTeXRRUXdOOHpFRTFsd3RtWDlVMXJ4X0x3aldYWnJOTmxOZ21DR3FGUmIxbThTVU1EYmpQanpkV0lNUQ?oc=5",
+      "source": "The National Interest",
+      "published_iso": "2026-11-08T13:59:42Z"
+    },
+    {
+      "title": "President: I hope the normalization process between Armenia and Azerbaijan will yield concrete results - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PeTZudkxNaUk5aTd5VDZoV0U5djFUUEFnM1M4SjU3MlE4Rlo2Y1pNRHc2d0VLZkVCSEtZV2Y3U2pFR3dZUzJVWndQQTFTRnZzdlV0b0ZXUQ?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-11-08T12:23:00Z"
+    },
+    {
+      "title": "Armenia begins designing TRIPP corridor before operator registration — OilPrice - UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjlFLW8wSDBOMGpscHAyV25ia1pjbkJTWVZQZXlTQ2tUdlVrakQtUVJoc1ZoOFlxYVhPTk42VDJ1UTJDX3VNS2x6d09WbnFiRDNOWjBZdlktSXVSM3lUWkJaOGFNM2x2bS1kbG5seHlOMkJDVDBDU1FXTy1WR0ZMQnl4VnZJWWZiZTRYWS15M3FvdHpQVnpEY1dZWDRhVWVVVnpXWDdtQVNKV1MyT1lWZHZYSQ?oc=5",
+      "source": "UA.NEWS",
+      "published_iso": "2026-11-07T18:30:30Z"
+    },
     {
       "title": "U.S., Azerbaijan and Armenia step up efforts to advance TRIPP - Qazinform",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTy1ETmZPeDg4ZTNROXltNkJJZGZweFdCcUVaNUdIc1RIZVd4YTBtUlhQM3J5N2ZOWVFuWVRud0J3dkFCZDhkSExwZFFrbFVpamV6WnpWYkh0eFFVN05zNkZTNWcwd1BlTjE2X0U2eU1jRm5QWW5aRENOc0FwSnRDclFRTWc5TVA5Z01lTGhVMThlUE5MODM40gGXAUFVX3lxTE5xVTBNcTZlV3RKbzhJTUwteUFubG9CV0VWS2FmTEExQnhKc1hwX2owZFFpZk15QXJlUTg0azFIR0lCWXdNTV9xenJHRzJnYnhVZXpaVkR4eXBFbFVldUU1ZDBYbFdFaXE2bmxMVkdKRGwzVGdGYmZuR2hJV1dtYXBUMDVFN2hJeXhzRnZkNnVZeVd2SkZVaEE?oc=5",
@@ -21,24 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sT3VhUGpLR2tJc1pla1EtT3BmUTAtREpUREVtR2lvcEJ5TWhlUm9aaVlVZHpoYWkzN2lRcFhDeml2eFVJaGJGUVFBN1FfWm1fb0NVT0l3ODlJS0k5VjlERGtPWEszUm8xUlpUS3IwejNvTGhOLTc2OExzVFFIeTA?oc=5",
       "source": "EU Today",
       "published_iso": "2026-11-07T07:39:18Z"
-    },
-    {
-      "title": "Who has stepped on Iran’s tail? Armenia could be the next target - TodayPress.tv",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0hpX1BOT1Nic0dTRWdrMHNRWmFlbEh3ZTIyQmd1TDJNaEpJZzdUbkZENXNhZEcwMmQzak4tQUV5QWxTbjA0R3NVaEJvdEZ0S0h4TVhOOXlGaHU1eWxOVHJuZ1VnT0pjRUhYODFFaXVSb2xuYlg2UC1LSEVYY2l6UHBycTZjZXV3WV9VaTZ6WGZqcWdOUWx3ZVFsQ1E?oc=5",
-      "source": "TodayPress.tv",
-      "published_iso": "2026-11-06T13:42:31Z"
-    },
-    {
-      "title": "Pashinyan says Armenia, Türkiye to establish diplomatic relations ‘in the near future’ - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGhWUXJlSjdHbExHZmxOY09Sc3VtT1ZtSzdvZWU2NjBJYmxkUG0tMTd2VkhHRFM2dzNSazluTGk1VkFod2JHZzI5S0gtbnF2RlNxVEhiZUJGaXk4YnJjTjZfOG9CTlItZDUzRmQzT09wQXEtWUMwOU1SenhwRi03dEtrZ3dsbkVJMW1UR1pxbmVzdFNYU19KdGJmc2pMR2NqdGd5T2ZUWmZ4QktxZXJVNGVzUFFTWmNZb002ZkQ5MnVIUFU?oc=5",
-      "source": "Anadolu Ajansı",
-      "published_iso": "2026-11-06T12:48:05Z"
-    },
-    {
-      "title": "Our state is our identity: Pashinyan presents Real Armenia vision at Third Global Armenian Summit - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbUJ5bzh6QkU1MklZVGxocWJRT01zSmZVbE5DanMxcTh2dWd4YzBLcDJONldRakZ2ZUNZT1h0amV5U2dtbHdEOFZIbFhvS2pDMExkTWo4eVJWTWdVLW0zdnIyOXY1bnZvZ2U4VTM5NVlVUXdFaVFmai1qVGpaS3AyM05yaklXLXNBUlJSdGFDQ1FpLWducmhjSG1rNHZSY0JSVXFkM3J1U2lyOGQ2V0RycmozaXhTenhmcjcyeG9tcU1hVVVZNm5QYnlxWQ?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-11-06T09:59:33Z"
     }
   ]
 }
