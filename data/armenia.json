@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-11-09T21:18:12Z",
+  "updated_at": "2026-11-10T18:30:57Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Pashinyan’s pointless speech at the Global Armenian Summit - The Armenian Weekly",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkNBQ2IwNWRCYkJvTmE3dU9pb0g1MzJCTG5uTFVBV2k5dXJxMk5aaFNVUTJjX3NGZWVoVHU0S0Z0RUNiNDJDVW52RUJNSzBkS3hLMklZTFBMNEFlMFFWQWJzVVdEMEhlWmJMb3MzclVzcFNNNWRKLUZ5N2hER05fcnlaeV9TVHl5S09uUnRMM3I1Q003cWVid0Q5WFA?oc=5",
+      "source": "The Armenian Weekly",
+      "published_iso": "2026-11-10T12:19:56Z"
+    },
+    {
+      "title": "Pashinyan, Kurti discuss Armenia-Kosovo relations in Paris - Public Radio of Armenia",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaUJnMEFHcEQtbUdwemhFbVNxV294bkExOVdNYVhqUF91RFE1YjRhRnU3T195TVRFYnJneHRfMXRIYnhENzV1SGwxdlpmaFpwLUpmbU1WWlRZQVRqclA0RndwRlBTOUtXOGxqUXRwZ2pxRHh4US1VN0REN3h4Yk1zNVZRMlUxYnc5RkFRWWJVY3pFTEFoa3Y4?oc=5",
+      "source": "Public Radio of Armenia",
+      "published_iso": "2026-11-10T12:09:39Z"
+    },
+    {
       "title": "'Democrats do not see TRIPP as project exclusive to Trump administration': opinion from Yerevan - JAMnews",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2h1S1g0bHhfNjZwNDlmU3dhUlUxOVg4bXRndXk4TnVPY3F3OGYyZEpHRlhlMF92YTVQX2gtV0JPbGRyTmpkbVFQczVORlVWVmQ1M1pyenJqaFhnMGtKZDdyYjlCYVI3NTRVNWdPRjFRWkFfcEFfVGs0dXgwUy1RdHltVDZKcWdzejRHVkFhYzF3aURORUtyT09FMDdhYkI5WUtTT19wT3RfUHFRc1AxMHhrY28?oc=5",
       "source": "JAMnews",
-      "published_iso": "2026-11-09T19:00:43Z"
-    },
-    {
-      "title": "Armenia, Azerbaijan, and Georgia, top stories this morning - JAMnews",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdXBuUkg1dEpQLUg2VmpxSERJY19qTWVfaENOT2V6XzR6SHBYbEpOb3A2MllNa0w0QTNBYml0VjUyR3VKQjFtd2x4eWQxbTNsaHFjV1o5VkNHZTlxYkUwYmVSVUFZd0ZKTUVScXYzUHczY2NidFFTN3VJeTBRbHJ6MQ?oc=5",
-      "source": "JAMnews",
-      "published_iso": "2026-11-09T10:34:55Z"
+      "published_iso": "2026-11-09T19:05:53Z"
     },
     {
       "title": "Armenian opposition launches campaign against proposed constitutional changes - OC Media",
@@ -33,12 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1US1htMlQtTEZ0NHJ0UjNvSFNDVHFpS3czVTNUOU03c29ZckJoUHh2dENGS2I2ZG9pU2NwZHFWcnhUNno5Vk4zeGNCSQ?oc=5",
       "source": "Kyiv Post",
       "published_iso": "2026-11-09T06:34:53Z"
-    },
-    {
-      "title": "Armenia, Azerbaijan, and US launch technical planning groups to advance Trump Route - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNellyYlZaZndwQl9vc0lRU3FvbDlMMm9KZ0Y0NHpjNXVBRlhFb3oyQVFSMVk0VnljOUtuaDUwZzJtZUYtd3ZfVHVGNDlaMkhPT2I4MTdvbVpTX1NJWVkxZkNGc1BONzctZGcwSzBNdms1WS14bjNpVUE1VzdzNm1VR01Ua2xuMjlUczA4UkJpSGpnOVlEVnY4SGhSWUlBU3I0X1V5clpn?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-11-09T05:04:11Z"
     }
   ]
 }
