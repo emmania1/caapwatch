@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-11-12T18:41:52Z",
+  "updated_at": "2026-11-13T18:22:49Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Georgia and Armenia at an Investment Crossroads - finchannel",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONUZibFRhM0ZxUGw5N0VTWDRtZHBaV1VtaUFRT0hsOUVfTENqWXhETDdKV3o2dkV0U1BiRnlDVmp6T213a1M2ZVZXRUtzSk96OHJEUW1VMnRBTXQwdTJVUDBnV0RCcWFKLXQ5MkhjMjZmaTgyR2FTWENLYU5YNVFMcnVwSGFKYXd4SmRqM1Fick1xWGRXX2RYQm5R?oc=5",
+      "source": "finchannel",
+      "published_iso": "2026-11-13T17:29:35Z"
+    },
+    {
+      "title": "Pashinyan & Aliyev Discuss Trade and Trump Route in Dublin as Peace Treaty Remains Unsigned - The Armenian Report",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM0NjV2gyYS1ndnFKR0VsdFVMdTJfSGdLZkRiN3ZxaUM5aWhmaXVJWTk4TmdvbTJEQ3FxMkFsak84YzVpNUhjQXhYNDJtNlV5OEQ5Nzl3Rm82QVpIZW40WDdxdVhRRGhFX3c4QndLX3pESHZMcjdja3U0azlRWlBWeFhkb1BXNnhVa3ZSVEp1V0t5MjBsaVlzQXktMXp2cHZzbWM2M2ZYaktjZ2VhWDU1bEtfNUQ1MDdLcHM2aUFOZ0lXeTFPcXJF?oc=5",
+      "source": "The Armenian Report",
+      "published_iso": "2026-11-12T23:18:43Z"
+    },
+    {
+      "title": "Aliyev, Pashinyan discuss advancing Azerbaijan-Armenia peace process in Dublin - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXo0ZDZHWnhKRmJsXzM4OXRIOF9NYWZ3RTFtcER6bHJCWDR6LW9MOHpUX1djZ3dKSUlJbjFqTE94UzVKSmV1UEJLb09uQklOU0tKdlY1aG5XMzBpbVpvSnQ4cll3S3k3dnJQYWVXMHBiZEtURDhrMm13WFBZZXE1Z2lfbTNyWnVkSWJDUWdRRnh6bnNLTXU1Tm9XMTBLa2c2NEx3eUxWUDllUnN0NjR0RHpWd3g?oc=5",
+      "source": "Anadolu Ajansı",
+      "published_iso": "2026-11-12T19:50:16Z"
+    },
+    {
       "title": "Armenia-Estonia ties, EU relations on agenda of Pashinyan-Michal meeting - Public Radio of Armenia",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0lxam9CSFd2cm1oZWJJQS1zNzB3akZ2SXVxRUpGRDhuVjczY3N3RVA4Tzl4dU1valdrbWZHWE45aGYwck9hdXNSNGNjN3cwem5KZzhDdUNBaVQ3RFhJcXVXbUkxLVpuOXJwaTBJbW16ODE2cWFtVVdPV3NTMFFZeDlVTGE3SGhBWUQ2dldRd2VXTFQ4R2d5QTFoRzQxcXhCd0J6S09HS3hOZw?oc=5",
       "source": "Public Radio of Armenia",
-      "published_iso": "2026-11-12T13:54:36Z"
+      "published_iso": "2026-11-12T13:58:38Z"
     },
     {
       "title": "Türkiye’s South Caucasus Policy: From Strategic Alliance to Lasting Peace - Caspian Post",
@@ -21,24 +39,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JQ05xTVQxUjdWZFZRY2pZQzJpN29qMEpCczd6czlXbWZvTnotRnRnOUdYbWlVVHB2dU1HVkg2UVk3eXM4R3RsMmdPOHdIcTV6b0Jraw?oc=5",
       "source": "AzerNews",
       "published_iso": "2026-11-12T09:56:00Z"
-    },
-    {
-      "title": "Pashinyan and Erdogan Hold Talks in Turkey on Restoring Ties, Reopening Border - The Armenian Report",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQREVvcktab29kNEhmM0swT0UxdS1mck1aVGxoNDAwT0V3SFFpZHNFVnZXaGQ3VjZ0a1VjQnFzSUZIenNfd1prLUJPUTVhSlJTbVZLSzl3dnFfeVVZLWtnaUszSk1hOWZVbjhRVnFOM0xfRHdXME5RTTZJaE5wMmg4S0RyZ2R2QTV1YV9ScEYzNnFIRVpPU25KSV9zd1p1RE9vajU1YlJtV3doUGgwTndRRzhCc0cxamM?oc=5",
-      "source": "The Armenian Report",
-      "published_iso": "2026-11-11T18:30:07Z"
-    },
-    {
-      "title": "Russia-led military alliance strips Armenia of voting rights - Meduza",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQUpXNFJYODRYWjM2VWlyX1RzSm8tVkdESUMxTk1KVW5VTzlGYjg0Qngxc2pvaEhydWJOZzlpdEhabE9aMndDa2xPUE1QRnkySmQtWC1xcGw5dXYzNF9CWkxJenVKTkVIOWUtcTMyaTRRMmIzNEVkMFkwbjBMQWd0bXVzSnc4eUVGSWlQNjJRamNTTUEzZlBwRktrMVphUdIBowFBVV95cUxNZnNuU3BiS0RmdW5wVHZCUEx4QUV5X2VaU3AyRll1ZWo0RWRHYkJGWkR5QWxQUU1TSFhTN3J0TUNaZ2MwaGFDZ2ExbjBkMjl6amgxNjFWOE41LWVMZFVFX2ZkTFFVQW5TU0R4MnkyZUZMWWxlX2c2Z0JBOXdYSURfM01SZlF4S2E2YVV2YTdFaXI2ZEtfWGg0QzJlNUd2am9QT2Y4?oc=5",
-      "source": "Meduza",
-      "published_iso": "2026-11-11T17:41:00Z"
-    },
-    {
-      "title": "CSTO Strips Armenia of Voting Rights - The Moscow Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUlGdVdoSl8yVDVtZ3NjVGM5QTM3dmp4LXo5ZndqbUtTMUdZTS1qNXdqeWVFWF80cURESF9nOFJzS3pGbHpiMXdGTkFOUmJibGpmZDJsM1RmQ0pTTDVWRUVYZDBuUE1TMl90X3RaaUtkZkpWTURLUjJxUWN3akNNdF9PLVdPN2RrQUpmZVp3?oc=5",
-      "source": "The Moscow Times",
-      "published_iso": "2026-11-11T16:33:38Z"
     }
   ]
 }
