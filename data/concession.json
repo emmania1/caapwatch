@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T18:22:30Z",
+  "updated_at": "2026-11-14T16:50:41Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -24,25 +24,19 @@
         "published_iso": "2026-10-15T07:00:00Z"
       },
       {
-        "title": "Concessão do Aeroporto de Brasília prevê R$ 2 bilhões em investimentos e inclui dez terminais regionais - Jornal Opção",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQ2Zub09DaVRUUE1DQk9ybnBjdzdoY1NKNFJaTEdjOHE1cGczVkFWTm1faFU5SG94WXp1LU90RndyV0JJRkdGWlJKTGRIYXVxUkdIWXNHVEtNR096ZVBOOHc2N1I1eVg0QmFIRDl2YUhucjREVTZ6dDhjc2ppUzJFQlpsNjZ0YS1LVG8zOFB2d181QVFSeHlGSVp4YnNlNndoVzhpNHlCa2lYRE44aXNPMFJRb0czV0NTNUFGOE1JSXdvNXpPVmdsZTRUVTZJTS1vNHN3dHFlYlFCanJCZUx0ZXBvTDRtWHk3XzR4bjd5MA?oc=5",
-        "source": "Jornal Opção",
-        "published_iso": "2026-10-15T07:00:00Z"
+        "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEx4YVpUcjQtblpIY3FVOEJDQXItNzBubXRVc3dfRXBiZXFEbU9ITXhSdUlQV243d19JM3dLTDN3clNFMHJSOEtYMGxUZTR6NDhxRmdESFIyQUdUbWR2VU8tYU9rd0lPTkt3TWtsWl81MVJnWmtqb0RPLXlSbnk4T3BIeWZVVWtqOXZmMmw3RC0yd3RYc1BETmhmMlR6TE9Y?oc=5",
+        "source": "Brazil Journal",
+        "published_iso": "2026-09-21T07:00:00Z"
       },
       {
-        "title": "MPor e ANAC apresentam concessão do Aeroporto de Brasília e regionais - Agência iNFRA",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTHBkeUVkTDRWaVVqMjJ2WGNxeFdQdjNuaWJtbVk0M1hpRy1pRVF1NWdFOU9CNjBHdG9BWkljWDh5ek9YRzU5ZU41bF9ON2NjOWgyV1lVdVpYZ3NoaFp1WjUzNGctNUZXOTZ0Q1JaOUlMWDVTU1dYNC1vWmxtaGZMU0tOSHJqNERZNkxEb3YzbTYtSnVKYUYyWVBCQmhIUmpCeWc?oc=5",
-        "source": "Agência iNFRA",
-        "published_iso": "2026-10-15T07:00:00Z"
+        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
+        "source": "Consultor Jurídico",
+        "published_iso": "2026-09-19T07:00:00Z"
       }
     ],
     "aa2000": [
-      {
-        "title": "Aeropuertos Argentina: el plan para sumar vuelos, atraer aerolíneas y modernizar las terminales - El Cronista",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDlTb2RPVW4tajM5NGlXRnZLYlhpQmtXMlNnUUxyWGhzc1pDTlNBM2RMbWs2UjN4cXh0YmVRamYwVEluMlVid1FEUTRIV2o5eVVHTUw3MDVxRm16YlB0c2hXU2NFYVRPLWw3VU12SUowaG1WQnFOazlyYV9HY1JlSXJhTGV1UkVReXFuS0RCSERtRGRRNUhuZDMxREpKYnllVkdNVU0yVnJPTFJLSFo0d3Y4ZzhsMnBtRXAwVDNhRVFkdUM2eHfSAeABQVVfeXFMTzVlYzQyMGtWY19wNEtiTnFjVWtiRjJ5X25NTmpWSkZYNEZlSTNFVEw1VWZjSFdpLUJPQk5IT2pteXQtUWpxUHZSUnc5VjV5UjlGWGJlT3lSRUN3NUJiZUxscVpuajJ1NjBQY2Fvbk9zY1dSeG9xeXlYc0p6S3ZVQ2N2cU5Za1kwTUhLaXE0MHJYbHBLX1U1X2Nvd1RjbzNIWV9qWEVqdkdPVE1kcHp6Wnl1dlBmS2tFeldnbXVWdGRyT0xELWw2dHZ1YlVGdG45RVpDRjB3WkF1TFlDZTFzZU8?oc=5",
-        "source": "El Cronista",
-        "published_iso": "2026-11-12T13:56:32Z"
-      },
       {
         "title": "El ORSNA recategoriza al aeropuerto de Chapelco y lo sube a la categoría I tarifaria - Aviacionline",
         "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPX0RoY3dyVUZtX3VxZmdTZ25qcjFHLXFGRmQ3MkMwTnFVcF9NSmZtNlNZd0xPQjhtM2NGbnpnTGVRRGNtQjVTcEtxdWRCcU5NMHdWRzBka2xVempTdXVoR21RbUlyMHBRVlg0MW1xZktUSzM0azZVTTE4cDZqTzZzTmN6bWh1TFdNWFJMY1htZnZ0UXhJZnUwMnJMWmJmYUk3akYwVThRcEw5UFo1Q1BUS0JDTGFNRVVTRGlES3JsbEJhY0c1VU10bmJJenhvY2ltUU1ybWRLdjVGQ3NnQklGdHVDd1RzcXdIWGNQc2JWMC0xVkMwSTRLdFV2YVNhVy11dFplZ3RDcmFuVTl6Z1NkdTVrNmEwWHVXQ09sOElTOHJBVnNhR1YxMktpVGRQLWJVLXR3VHJ2cjZtdVEyc1MxSWNFR29SNlhnRjdJ?oc=5",
@@ -57,7 +51,7 @@
       },
       {
         "title": "Renovamos nuestra concesión hasta 2049: seguimos construyendo los aeropuertos del futuro - Aeropuertos Argentina",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNZFpBZFhYbXItX1dFekdZM3dCUnJXc2xfa2x0cW0wOEQwY3FsZDVnR2tsVXFGOWNIT3VuUDl1dE5IdUhqQmFzcEZteUI4WnFxTzZFT1JkNmFIQko1eTcyRU5sMzBqM3NLR0VVZEdQcUlUeGRMWmdTUzV6YlV6cWRNV0l4UmVYUVppSHVEVmxudlVGQjd1TnpGQVM0TlQwLW9xUlNEZHRrb0MtaFNISElWYmkweGlEczJ1ak1vWUQ5dHVaN3pxUkxvWVdzWUVzZlY5aGF0Ty1hcDR6WVhsd2IwUmlUeUpVTTNJbVI4UnY1LU5weFZHdWpTNjlRTDI1UmtZSnZocElyRjBlZGd2OUJFcDZxUGt2VmU4QnU1MkVuMm1RQnpMVDAta0thT2t0OGI4b2ZkOFFZNER2Sng3UUhN?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSktXVEJUUV8wZEk1Ry1FVl9QdEhhVThVV1ozak9rX1MtRm5RUHdlQ0ZBRXlVVlZGTDZyTGpzYjRiVU1HSU0xcHdfM2N6WHpnSkJreFg3Um1qendoZjRKQmp3NHhXYVMybHp0ZW5mTnM2cEZKNm4wbHZuRjNCbWlFVGlCVmppSmJ6YTJSaXJZVlpSdkV2RXRzYUlZelBYN3ZjTGJUN3Q5bWk0TnYzRWdKbGx3VUxCTlRlNGQ0eG4tdWJzQnM0eEVsQXE4dm9KeFRJNl84UlAxeVIwTC1nVkFJOGZ4NmJhMEpEcUsyakVQNmEzdm1scGsteUFjWHNXb085eW9RTjVEVkktd3YwTmRxMERrTUJFNTlvR2dlX0VJRFY1aURLQ2puTWtEYjVXMi12MjlkYXBHYzNKb2VmTVlR?oc=5",
         "source": "Aeropuertos Argentina",
         "published_iso": "2026-10-28T07:00:00Z"
       },
@@ -66,6 +60,12 @@
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMUxIeExIem9YbDNwRkZyaFh1VDU4TVdhNlozTUo1UDYwRnNnaUVvQ2dzSndCOWh1RzY3XzJuUUNTMDVOZWVncHJRcTF0d3d4UXl5LUtVZHRvOUVIUzQyWDRkclk4akdRY25aVk9NUjQ4ek9ZYVNLclpVaFl3SkxSVGlYU2xFY01Gakk0ejNuNi1lNkxYbmJIcEFlbkNyUU9RR0szTU5kcHotQnJZZVlhbnFvODR2MU1HdVd2eURyallKc19KUnMwcV83WndhTURUd28ya3Z4WWRzb3FKNUJfY3FrNA?oc=5",
         "source": "La Nación",
         "published_iso": "2026-10-23T07:00:00Z"
+      },
+      {
+        "title": "Nueva ON de Aeropuertos Argentina 2000: cómo licitar - iProUP",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXZ2bmlUakpiTG9DeWRCMlZtU09tc0poZTRaVlAyRFRNa1liVWpMZzA2Ylk3ZERCNTJRR2lpVEpfY2wxUDBGVDZESWlFMDIteXlHVmtZVm9EelhKYl80VDdpMUc2Rk5rZ2wxNldZZUVlckRIVlZOZUR1MWRtYWRxbkNjTnJqbnE5Vm1NaDR6eDZnV2PSAZgBQVVfeXFMTnpjVXF0V0lqcW43dVA2MnNHMTRxM2xHUVJIYWNXVU5nMGM5Vi12eW1OMVBqZHZyVUZYTDc0LUZkZmQ0OEJIdjZldlhPdEZ3MU1NVm5qWTlwSkQwQWd0QllpbEU4b1R0NjJScWJ4NndwYV9GZnhwbXBSMUhHWGhkbnFCX09VZHludHlRNi1iaGhldXVHWEJnVTA?oc=5",
+        "source": "iProUP",
+        "published_iso": "2026-10-22T07:00:00Z"
       }
     ]
   }
