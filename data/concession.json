@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:50:41Z",
+  "updated_at": "2026-11-15T17:34:54Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -30,7 +30,7 @@
         "published_iso": "2026-09-21T07:00:00Z"
       },
       {
-        "title": "Leilão que o direito administrativo não explica sozinho: disputa no Aeroporto de Brasília - Consultor Jurídico",
+        "title": "O que está em disputa no caso do leilão do Aeroporto de Brasília - Consultor Jurídico",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
         "source": "Consultor Jurídico",
         "published_iso": "2026-09-19T07:00:00Z"
@@ -42,12 +42,6 @@
         "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPX0RoY3dyVUZtX3VxZmdTZ25qcjFHLXFGRmQ3MkMwTnFVcF9NSmZtNlNZd0xPQjhtM2NGbnpnTGVRRGNtQjVTcEtxdWRCcU5NMHdWRzBka2xVempTdXVoR21RbUlyMHBRVlg0MW1xZktUSzM0azZVTTE4cDZqTzZzTmN6bWh1TFdNWFJMY1htZnZ0UXhJZnUwMnJMWmJmYUk3akYwVThRcEw5UFo1Q1BUS0JDTGFNRVVTRGlES3JsbEJhY0c1VU10bmJJenhvY2ltUU1ybWRLdjVGQ3NnQklGdHVDd1RzcXdIWGNQc2JWMC0xVkMwSTRLdFV2YVNhVy11dFplZ3RDcmFuVTl6Z1NkdTVrNmEwWHVXQ09sOElTOHJBVnNhR1YxMktpVGRQLWJVLXR3VHJ2cjZtdVEyc1MxSWNFR29SNlhnRjdJ?oc=5",
         "source": "Aviacionline",
         "published_iso": "2026-11-11T10:44:35Z"
-      },
-      {
-        "title": "Aeropuertos Argentina amplía el aeropuerto de Esquel con una inversión de US$ 25 millones - MDZ Online",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYWFNT0gxRzBFY3JDRms2UUkwZjNQRS1OZGRZdlNTeXZFd2dKbWx6WE1vVXU4WkNYeS1rNGxLVXcxUnlVZXQ1RTQxNEtiVmdyS2ZJTkd4UzFtTmpNenpNOGc0MWM4MjlaeHZENVd2aVR0MnZlVjNYcEVYNDdXRnpwZ2Z6Q0t3aVRwX204R3lJUjdqdTNlSTZTSUpCdmVCdTc0WkpNWkN3ZXVuZkx2T2hiVTZwWXhiNGFXa0JJWDRRYmtDc3VTbjRQcDhaQ1FyUjBYajU5SkdhT1czZw?oc=5",
-        "source": "MDZ Online",
-        "published_iso": "2026-11-07T09:59:00Z"
       },
       {
         "title": "Renovamos nuestra concesión hasta 2049: seguimos construyendo los aeropuertos del futuro - Aeropuertos Argentina",
@@ -66,6 +60,12 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXZ2bmlUakpiTG9DeWRCMlZtU09tc0poZTRaVlAyRFRNa1liVWpMZzA2Ylk3ZERCNTJRR2lpVEpfY2wxUDBGVDZESWlFMDIteXlHVmtZVm9EelhKYl80VDdpMUc2Rk5rZ2wxNldZZUVlckRIVlZOZUR1MWRtYWRxbkNjTnJqbnE5Vm1NaDR6eDZnV2PSAZgBQVVfeXFMTnpjVXF0V0lqcW43dVA2MnNHMTRxM2xHUVJIYWNXVU5nMGM5Vi12eW1OMVBqZHZyVUZYTDc0LUZkZmQ0OEJIdjZldlhPdEZ3MU1NVm5qWTlwSkQwQWd0QllpbEU4b1R0NjJScWJ4NndwYV9GZnhwbXBSMUhHWGhkbnFCX09VZHludHlRNi1iaGhldXVHWEJnVTA?oc=5",
         "source": "iProUP",
         "published_iso": "2026-10-22T07:00:00Z"
+      },
+      {
+        "title": "Aeropuertos Argentina 2000 busca hasta U$S 600 millones con bonos para refinanciar deuda e invertir - RoadShow",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekd4QU4yT3ZxTGhlUThUZDE5U0hVbUgweGN4MHp3a2RFRGNFRDVHb2pHUnVMTFYzbUNTbHI3T2ZuTnJldW5CTUp0el9ETEJ0RGdleWNia0I0MDk2TWpxd3BEejBKaTc1c3o1ZWFKR1JPR3FvcmxnUWItZXUzRXVOUUhYckVWaXByMzNQZWpwTElIQ3FCRFZOZnl6VkhkN2VMMzlPbE85NzlYNjBuRXJQLU5JU1dHVzFGU0FPMU5nUFdNTzJTelE?oc=5",
+        "source": "RoadShow",
+        "published_iso": "2026-10-20T07:00:00Z"
       }
     ]
   }

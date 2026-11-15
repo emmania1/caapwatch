@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:51:07Z",
+  "updated_at": "2026-11-15T17:35:20Z",
   "window_hours": 24,
   "history_days": 120,
   "developing": true,
@@ -13,8 +13,8 @@
       "country": "Argentina",
       "coverage": "medium",
       "latest": {
-        "date": "2026-11-14",
-        "movements": 35
+        "date": "2026-11-15",
+        "movements": 39
       },
       "history": [
         {
@@ -72,6 +72,10 @@
         {
           "date": "2026-11-14",
           "movements": 35
+        },
+        {
+          "date": "2026-11-15",
+          "movements": 39
         }
       ],
       "last_complete": true
@@ -82,8 +86,8 @@
       "country": "Argentina",
       "coverage": "medium",
       "latest": {
-        "date": "2026-11-14",
-        "movements": 80
+        "date": "2026-11-15",
+        "movements": 75
       },
       "history": [
         {
@@ -141,6 +145,10 @@
         {
           "date": "2026-11-14",
           "movements": 80
+        },
+        {
+          "date": "2026-11-15",
+          "movements": 75
         }
       ],
       "last_complete": true
@@ -151,8 +159,8 @@
       "country": "Argentina",
       "coverage": "medium",
       "latest": {
-        "date": "2026-11-14",
-        "movements": 3
+        "date": "2026-11-15",
+        "movements": 4
       },
       "history": [
         {
@@ -210,6 +218,10 @@
         {
           "date": "2026-11-14",
           "movements": 3
+        },
+        {
+          "date": "2026-11-15",
+          "movements": 4
         }
       ],
       "last_complete": true
