@@ -1,26 +1,20 @@
 {
-  "updated_at": "2026-11-19T19:33:52Z",
+  "updated_at": "2026-11-20T18:57:34Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
+      "title": "Peace agreement with Azerbaijan could be signed within days! – Simonyan - TodayPress.tv",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMUU4X1JBNFdOSFFZVE9INEVxdktwdFFxY015QkFPUEVTYU8zRTdxcW9lZTUzODY0VzE1TzhLTzVIV0pIb2ktRDdoYWd3Wi1JdkZ3WVZtMGZWMlAtYXZTTVhWbzRqVENsbkVlZGhSVUY2UVo1cTFONVU5Z0EyTkdVVGYzOVlFbWttWXREUkd1dVZIYkN6bW5jRUlUVTB3eVRJ?oc=5",
+      "source": "TodayPress.tv",
+      "published_iso": "2026-11-19T19:15:37Z"
+    },
+    {
       "title": "Pashinyan pushes for constitutional referendum - Eurasianet",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00c2dfU0ZwZnlhM2JjTHNMREt4d0dPWWppMTV2OEc4bVAzQlVhLTBRV1F0TE51UXhoRnZZN2xwWGZfUGRkMmQ4Uk02cjdlTnpqS3lSaGNMLUxQMF9tdnh5QjF3R3ZDWTk1NGkwbHZLODZWR3FwTHNzUg?oc=5",
       "source": "Eurasianet",
-      "published_iso": "2026-11-19T19:11:30Z"
-    },
-    {
-      "title": "Chairman: Peace treaty with Azerbaijan could be signed within days after Armenia's Constitution is amended - Apa.az",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcm5ySVhVb1JPTFdYdWpXckhDSHhRbG40SDNSZWVtYWJRRTB1U1JyV1BqeXNqbmR6b3pYdk91bGlYUXNmN0wxSVVzdWJkVFMzSXhwTmszOEhKM2FWMFVCSnBDaElCRU50WWNCVGk4MVNNUVJRUnM2czAwcTFYaDJEVExZUGY1STdzamd6R2pUcmtrcXNDMGRUNUdOMmdFUklZNEEzQWNRcGxkRE90Z1ZVSjJQaEpVeE55V0V2VlhHY2FqLXQ4TmpxbDFnaGlCcVpZT0Z2alZBVER2Rnc?oc=5",
-      "source": "Apa.az",
-      "published_iso": "2026-11-19T19:04:00Z"
-    },
-    {
-      "title": "Former government insider criticizes Pashinyan’s peace and EU policies - The Armenian Weekly",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVRFUGtrMGRhVWdxaFVpX1d0Si1qcnVnRHdBNllUV3htRHhfS2w5NXJFWGlZX0V3ajJOa2dLaTl0U0U4Mm1JYmJXUXRSbzQxaXNzRkdWeXRlLUdHMjVqSXItaWxraThra2xDOVNkbTc1SllrTmJ3Smc4a0JyRkwyVWdMZFhKbFdHX2FZMzdTSXd2MTJuZjFnWmRPc0RMRmlHQTZhLXN0N19MZ1I3?oc=5",
-      "source": "The Armenian Weekly",
-      "published_iso": "2026-11-19T17:35:26Z"
+      "published_iso": "2026-11-19T19:11:31Z"
     },
     {
       "title": "Armenia's unfulfilled promises on mass graves cast shadow over peace process - AzerNews",
@@ -29,16 +23,22 @@
       "published_iso": "2026-11-19T16:00:00Z"
     },
     {
-      "title": "Armenian premier vows to resign if new constitution rejected in referendum - A News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWhqVmw5c0ZPR2NfcFcwUENvNTZtU09qSjNmeGZyM0ZKekx2MklxeFJLNzRmU1BtZ3NPbUJNc21BVWN5U0VfLVdpUExoUDNkcHp2eHVjTXlZZThqS21XbEh0VVZnY0ZROERnOWNkMHFqNGVLc3J0RmZqZnNLT3U0X2FsOWZzb3E1eW1YYklWWjdvRkZiV2tFRlpMbkxGdXN6OGNLVmcyWk1fTlM5NU5xTmpxRm4yT2_SAbwBQVVfeXFMUG5ZSVh3TmhfeGFTaVp5Z2hpR1dNX3RJalZqRExoVkpFWmZSUHZFZEtORFk5SU1uaTZWV0ZTdVZqS2dsdkFHT0x6SDZUZEdvc0pqanY1dk5MZW9rd3NIdjhSRENRV2lTcjZLQjVvN3JxQ0R3aEwzVlo3Vk56VTZyS2c0aFFaQUJrel9XVk5KNTJ6elVleXhqM2ZSUnVUbmhVUGtjU1dtSzNoX1p3S1FmZzkwbkhDRW1yMDRFZS0?oc=5",
-      "source": "A News",
-      "published_iso": "2026-11-19T14:09:39Z"
+      "title": "Armenia and Azerbaijan invited to G20 summit in Miami - Horizon Weekly",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnZ1LU5CR211d2YzdTZnajd6Y19oMGY1QTNKWFJDZllZdmNDZHRtVDNwdjNNSUFwRnpJV2NOeTN0S3F3SXdOcHhZMkZ2M3VmYktYbEVjOF81cklmWUlGS1c2WWc0d3lpRnFXdTJVeUVoYzRWX0llSWRUakpNd1JEVWlVcy13RDgyMlE?oc=5",
+      "source": "Horizon Weekly",
+      "published_iso": "2026-11-19T15:48:53Z"
     },
     {
-      "title": "Pashinyan to attend 2026 G20 Summit in Miami - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQczJfSkFxWGJNS0tGWE5uaVd5MmgtUHN1NG5lajIzaHdVcHprSnJ6QlpWUVFpalBZbTVmS0R0aFA2MDloMTJkeGF2Vlp2U3VpbmlnWmJMY2YtMXhPUkszbEkyN3BjQjBsSkZpcFNRNXMxX3ZBcWRtaW9Xb1FqdERGTlNoR3JjZw?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-11-19T09:38:23Z"
+      "title": "Armenian premier vows to resign if new constitution rejected in referendum - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzJKWm5USDBneWdOUXYtZjUtelNuQlpwcDQxdGtkcm9oc2VYTHdfVTlhMjR1dHJBMDRSTnNTdW50MDVOZHAyMUFmNzJSa2x4VkI3VVJLSmx2ZVZORWxlQnZORno1UVpKdUtWWVBYT09qS2JMeFloTkhrdnNickdwalk1Und5Yk10b3pxT2tMTmtWNWFHQVMxRFI4Mm4xM25Jby04T2JaWWFmcTBYV0p0MTZ6OF9Mdw?oc=5",
+      "source": "Anadolu Ajansı",
+      "published_iso": "2026-11-19T14:04:56Z"
+    },
+    {
+      "title": "Pashinyan says he will not seek reelection after Armenia–Azerbaijan peace deal - CIVILNET",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LRWo1VW5ldVdkSDVZbkJnQmpVWXM4dG5ZekY4Y2QydzF0R3hDdmFuWTkxV0RDdFA1bTJ1R3FWT0hvR0tkU25qTm83TQ?oc=5",
+      "source": "CIVILNET",
+      "published_iso": "2026-11-19T11:47:31Z"
     }
   ]
 }
