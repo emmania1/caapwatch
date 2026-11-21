@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T18:57:15Z",
+  "updated_at": "2026-11-21T17:52:44Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
@@ -12,18 +12,6 @@
         "published_iso": "2026-11-19T07:00:24Z"
       },
       {
-        "title": "Aena Brasil capta R$ 1,8 bilhão para financiar concessão do aeroporto do Galeão - AERO Magazine",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlhWRno3dklad3ktb0hKVlpjQWFZMEFORjA4a1J6bkVhNGthcnlPSTcwSjJZZGJUbFNuWTV1a01wd3VHUHgxUmo5b2FvOFhwRzJ6VTg3ZHFaNVF5eENnOFJsQkhqU2FSeGpSOUxuN050VFp3V1ZldnBETTFrNmxpNzRVMng4cnlYYW1kY0FvRmFZdkU0S2tCYzJzRVhhdGw30gGmAUFVX3lxTE1wQ0JfU2FGSHhyX0xhYW51amUwZi1xX0Noak1VT1A4TF9fUHBRU2szYjdMV25DZEZCb2VNX3kzYXA3Q2xpNzhBNGpwZU1YS0RSdnRLX2x4RTZ5SHFuSlFjem5RTVkxMnFFTlBHZ2RQRkQydUNrdVY2UjF6cTVUbUdJMWloZWhnVzM4LWNRYmwxNUcxbWhXelZKSWd1RmIwUjBibFJuekE?oc=5",
-        "source": "AERO Magazine",
-        "published_iso": "2026-11-19T01:24:17Z"
-      },
-      {
-        "title": "Projeto de concessão do Aeroporto de Brasília e mais dez terminais regionais será apresentado a investidores - GOV.BR",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZjNjdlVhR2hQbkFnZDIzXzNNMy1IMTJkMGg5LWQ0NlhFT3NlajR5LUtzdjJJMGNUNVFfNzA1VFdsdWswWVp0b2hEVmk4V0hPc0RHSW1HNEJQSU9mYzJwZ0dQSFlEc2tKZ0pYVVR4cG9qcndJaGxfM2tZZXhCY1gzdVIxWUJpeWxMajM1ZzVRRW1VUzU4TnhNNHVyTTg0X2hyTDJydDI1ZEV2MmVGeXdLazhrNmlZczFldXM2MW4ySmstT3I0eHp0alV0TjFEWlVHUUFEcDRKZUw0MnA3MkxxVEFwYXVTWFY5NnNUdEhyWFJRVm1Sd25SSjFMdTRUQldvMEFaQ0lMYV9VUms?oc=5",
-        "source": "GOV.BR",
-        "published_iso": "2026-10-15T07:00:00Z"
-      },
-      {
         "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEx4YVpUcjQtblpIY3FVOEJDQXItNzBubXRVc3dfRXBiZXFEbU9ITXhSdUlQV243d19JM3dLTDN3clNFMHJSOEtYMGxUZTR6NDhxRmdESFIyQUdUbWR2VU8tYU9rd0lPTkt3TWtsWl81MVJnWmtqb0RPLXlSbnk4T3BIeWZVVWtqOXZmMmw3RC0yd3RYc1BETmhmMlR6TE9Y?oc=5",
         "source": "Brazil Journal",
@@ -34,9 +22,27 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
         "source": "Consultor Jurídico",
         "published_iso": "2026-09-19T07:00:00Z"
+      },
+      {
+        "title": "Leilão marcado! Aeroporto de Brasília pode ganhar novo terminal internacional e edifício-garagem - Melhores Destinos",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tMURkWjk2andyd1JuSi1uNUFrQUpZYWYxVmtrM1RvMERETTY5U2dadmdwMW5Qbk94d19OQzZ4Y3BZMWc3d0tkcnZuX1UteHVkcTlIMWQ0OVRqU0hWdHRJY25LeVdiUTR3T2VCWmVpYXBaS3ItbkhMeQ?oc=5",
+        "source": "Melhores Destinos",
+        "published_iso": "2026-09-10T07:00:00Z"
+      },
+      {
+        "title": "ANAC marca leilão do Aeroporto de Brasília para 17 de dezembro - Agência iNFRA",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeS1keE9IRWdVT01wQkR0NjYyU0NER0hOa0cyZlBrTmZFM1V2aXdjNk5BYW5ndTRUVWRmM0UwYUZMMDRMcEM1a2hNcFB6QlFDRFRLUzRBcENTVkRfbzFYUmE1UlUwVE1IdXBuby0wUGs0RE8tcEpoeDBLZTI3M3V5eFBhWWNYZ3ZqMXF0ckhmNEU2R1ppU1VsZg?oc=5",
+        "source": "Agência iNFRA",
+        "published_iso": "2026-09-09T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Aeropuertos Argentina Cargas inauguró nueva Terminal Única de Courier en Ezeiza - Aviación News",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY01QNV9SaE81amYwUTRDdkFQeTN2UDZGSTVpZGl1akllM2FQLS0xNklidnhpbjRoUUhJSlE2cGRfdDdhMWJTTEpzUVU1ejZTZ2lFY0txVDRuOGRueHhSbjF6emVJRUdKTzFfNFBiRjJrNDV6M3dRaFlDZzdlRTF5bWZ6OU45enJFX1hzeEh0LTBJeXVEVUEzaWVhSVJ4Q2RuamlYTWFXRHh6alEyQ3lhSkg1c0NYUnJ2?oc=5",
+        "source": "Aviación News",
+        "published_iso": "2026-11-20T20:00:35Z"
+      },
       {
         "title": "Aeropuertos Argentina inauguró en Ezeiza una terminal de 10.000 m² para courier - Data Portuaria",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHpfV2Q2SDhlRDFxc1FGRGZIb3RRZ1Z3b0FTaGFYTXo4dDR1R1pULURfdDNjZF9BTDB0NGxwdmN1aG93Q05XRV9kbXhYRWlYd29QMTY0R2NCQkFsSjQ1YnMxTG5wU0RSejlWc2M1UHpwTHdqalRsMFJ4a1k0Y2w5QlZneEFuUk5fVkw5NUdWQzJzU0ZYVkt2MTJ3VVlSVXVFYVBrWmJWZjhFS2FxLWpKUE0xcGpOTDdwMVdHLXVQNmhpSHlGWUE?oc=5",
@@ -44,28 +50,22 @@
         "published_iso": "2026-11-20T15:42:05Z"
       },
       {
-        "title": "Aeropuertos Argentina presentó planes de ampliación y modernización para las terminales de Santiago del Estero y Catamarca - Aviación News",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdm12emkzRUtONzU1S2dlLWlmSzdWMzhFYUNjcm90SHp4NDRndVU3WGctRVVuSUVkdkw5d19LTUJqeHJOSVB3T1RIOWdvTEd3VlF3MkRGa0VpQmtveUtRVUhhSjZETFltYXgxei1TYWwzVVlZOVRzZ3RaUUVNdVJ4b1JyUmNhbWc2?oc=5",
-        "source": "Aviación News",
-        "published_iso": "2026-11-18T20:05:59Z"
+        "title": "Aeropuertos Argentina dio detalles de la ampliación del aeropuerto catamarqueño - Catamarca es Noticia",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVVFhQkJ1bC1XckNDbGE5WUR1SjZ0UVl3em9pRnpuT0F2TlhCQTF2NWlLOV81bU1keVNucFpZVnZLOWxjZUlNU2V5UTJNTUp5ck9SdkZ3R1RURVo1OEdMZlNIWk9NLTNkR2VDMWo5bFhIbHpiVm5zbnJpWDlYVDh3clBxMjZXNUhLVXEyQ1hfWXdEVlZESlVsZDFPVG9DcTg3RExWSDlHZThnSXY5N3BLSTF6MGdJQQ?oc=5",
+        "source": "Catamarca es Noticia",
+        "published_iso": "2026-11-19T20:28:25Z"
       },
       {
-        "title": "Aeropuertos Argentina ampliará y modernizará la terminal del aeropuerto de Catamarca - Aviacionline",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOSTJjdHVsdjNFVDFrR08zbTdxYmR2Z0EtWHlCV2pjdE9FYVlKdldsM0lFU2tpOGZjYURyNnlTTVVpZ0Rnd0k3SDY4U2F1WTNKbGVldzNxN3RiOEhjWUh5R1lKVzluV3JDVHRiOFdnLXpzbGtxMkU3V3hzM1kxR0lhX3hNYl9DVjJUWDhGNmJqajhseXJQa1NBWkdSUDMxWGtid09uNjVrNy1uZDlkdU1qdjB4aHI2Z3BIOGNTX3VTcnpVWHh4Ri1EMVBIOGt2UDd5NXQtSlJDT292YmxlUW93M3pnbUJ3NVcxUmdJREVKLTlNQkZ4WC1hYjlvOGNyNFBTZDN1VEFKOE9TSEVncFNVTnFSNGVwcGZaZnN6M3dMR2pSZEwxclktWVhXWUp5MVlTbjEtWDBvUm95d0JUbl9oN1dmTGFRaERTeGVJ?oc=5",
-        "source": "Aviacionline",
-        "published_iso": "2026-11-18T17:50:06Z"
+        "title": "Aeropuertos Argentina Cargas inauguró una nueva terminal de courier en Ezeiza con una inversión de u$s21 millones - Dinamicarg",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRGFJdTduSW4xU2ZYeVpCVmNKbDMtS2xYbmZGMWFhb1V2ZFFMTEdUdjEtVERUWk5pV0lndHM0SzVpd1VXeFJoRzJyQm1IMW1uQzQ1N3c4cS1OajJRdjNYbzhOTE52NktXMHMzM1lQM2pTVi1uWC1oNWU0aWJsMzFUVGhvT0IzVDZxQWtnWmRLYkVHcHRSbGU3YmtPcGprMDZDNnV0SDlQZDRCWGszUHNxNElVcEI4UQ?oc=5",
+        "source": "Dinamicarg",
+        "published_iso": "2026-11-19T19:57:36Z"
       },
       {
-        "title": "Raúl Jalil y el CEO de Aeropuertos Argentina anunciaron la remodelación total del Felipe Varela - El Esquiu",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNY1h2TmpnRXpiTmJOaFIyVDlReTE4dmh0OGtkVDg1NW5RSkdfMUROR3FzRVlmSy1ScGxuSXE1YUhvTy1KU282NjZMSWgwZi1lakM2WDUxZDh3YWRzdmdZcGJGNTZ1UmZIU2lzQVlvWkhjQi1NbTdYOXhtdDNDbnNhVnM1MTdwWGVwMGlwNklyR0E0QmNmLWlocktoZ0dSZUF6WUNnSWoyTVVpYWVqQmN2R3YyZ0VtOURIc1hZTS04ekNJWGFrdlJFbHVXbW95cmJUQnBNOHp4NXY0YkZCS2RsRFVXUUpoZzQ?oc=5",
-        "source": "El Esquiu",
-        "published_iso": "2026-11-18T17:50:00Z"
-      },
-      {
-        "title": "El ORSNA recategoriza al aeropuerto de Chapelco y lo sube a la categoría I tarifaria - Aviacionline",
-        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPX0RoY3dyVUZtX3VxZmdTZ25qcjFHLXFGRmQ3MkMwTnFVcF9NSmZtNlNZd0xPQjhtM2NGbnpnTGVRRGNtQjVTcEtxdWRCcU5NMHdWRzBka2xVempTdXVoR21RbUlyMHBRVlg0MW1xZktUSzM0azZVTTE4cDZqTzZzTmN6bWh1TFdNWFJMY1htZnZ0UXhJZnUwMnJMWmJmYUk3akYwVThRcEw5UFo1Q1BUS0JDTGFNRVVTRGlES3JsbEJhY0c1VU10bmJJenhvY2ltUU1ybWRLdjVGQ3NnQklGdHVDd1RzcXdIWGNQc2JWMC0xVkMwSTRLdFV2YVNhVy11dFplZ3RDcmFuVTl6Z1NkdTVrNmEwWHVXQ09sOElTOHJBVnNhR1YxMktpVGRQLWJVLXR3VHJ2cjZtdVEyc1MxSWNFR29SNlhnRjdJ?oc=5",
-        "source": "Aviacionline",
-        "published_iso": "2026-11-11T10:44:35Z"
+        "title": "Aeropuertos Argentina Cargas en MODO COURIER fortalece su infraestructura logística con nueva terminal en Ezeiza - Aviación en Argentina",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelk1azVZT1VGZVpoVDFBOWxFemN4THRLTmVxcjRGWWR2THM4WG1Yc1JTdFVyOTZoRmdqUXkwVVRxbW9uaGxjSEtydnZxR3k0Z1JidHI5UG1zMmxwNl90cjlqbWZpV1kzUG5KT2IzQUtFNkVCWkN0Qmo3czNFYkNXQmtsTEpYblFnOWhHY3dnaVZzeDZVWGNHUnc0VnRPQmsza21EanhCQUV0aE1vYVlXcTRmVjZWczFsZXo4dHVxaFlmaTVoZ1BQSzNTS0NuVkUwNU1NelhmT1ktSjhzZ0VxNg?oc=5",
+        "source": "Aviación en Argentina",
+        "published_iso": "2026-11-19T18:00:41Z"
       }
     ]
   }
