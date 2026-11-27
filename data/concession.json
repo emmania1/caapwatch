@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-11-26T19:58:48Z",
+  "updated_at": "2026-11-27T19:47:15Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Bras%C3%ADlia%20aeroporto%20concess%C3%A3o",
   "topics": {
     "brasilia": [
+      {
+        "title": "Inframerica atendeu a pedido para leilão de Brasília, confirma ministério - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSEROQ0lQSnY2Ym5kUkpMRkFtaTlnX0JFd1dIRVJfNTZKS2NJNkpiM2M3dWFfaFJMUVNyRVlKeW5TQ1hYQS0zbWZhYWJmajFIWklBaVFOV0tVaHlwQlQ2SUcweEVlQWlJaktYX1Nvbi0wOWpyV3RJZmFPYnFVZXJCN2ViUXdqZWdZbzZRenByMHRveUVBeTNPZVJtRFROVEpPQ0RIWmZRaFFMNlNxZEplZVpNQkpCUm95Y0k1OG12TS15NUQ1dVFsUmF3?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-11-19T08:00:00Z"
+      },
+      {
+        "title": "Denúncia no TCU coloca leilão do Aeroporto de Brasília em risco - CNN Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOajV2Ykt3d0JOSjNZWWVjbUZHZnJUcTFVenVPSjhYRmJaalQ3SlVSTG1tRkJQb2hQM3ZNdFg1cVFCRDhtcy1XOGJscHZXbWFnYUtQbDlNRlRJYXpGY29tU0ZMVEFQX2stY2V0SXl1aXA5S0I4RGFVMjYwQVExbkRVZHFhN0FYZXhwTkMtalJKUmJrQmRCcXpLYjU1WVFXa0RPQ2duMldsMkNjSHpyRkxXRnFBWk9ST3NLWkJDeXBn?oc=5",
+        "source": "CNN Brasil",
+        "published_iso": "2026-11-06T08:00:00Z"
+      },
+      {
+        "title": "Concessão de Brasília e outros 10 aeroportos será apresentada a investidores - Panrotas",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWGg2Y19CcE5rY3pyaVVsb1J2YzZ6bUZTeXVWNlVpQUZRbmVPYVp6X24tWDlfX0hpakNHQlU1Sk9vZ0RkQXltcnBLdjFyXzlGUTV0c2VwaW4zeGc0YWE2UXRzZ2RhX3kzZTZJYXREanVabjhYX1VlZmxMTVlwYXhkSTEtT2FrOWRmWmJLbmhCYW5weE41aFhBejV2NTRYN2VodVFHSkJOUTVVOXRTQmlvSzdkZGJhRlBwUVN4LWRHNUE3SXdzcTNENWZOcFBDUmpuZ1RHb0paOVZVMFk?oc=5",
+        "source": "Panrotas",
+        "published_iso": "2026-10-19T07:00:00Z"
+      },
       {
         "title": "Leilão do aeroporto de Brasília, o “filé com osso”, atrai suíços e argentinos - Brazil Journal",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEx4YVpUcjQtblpIY3FVOEJDQXItNzBubXRVc3dfRXBiZXFEbU9ITXhSdUlQV243d19JM3dLTDN3clNFMHJSOEtYMGxUZTR6NDhxRmdESFIyQUdUbWR2VU8tYU9rd0lPTkt3TWtsWl81MVJnWmtqb0RPLXlSbnk4T3BIeWZVVWtqOXZmMmw3RC0yd3RYc1BETmhmMlR6TE9Y?oc=5",
@@ -16,27 +34,21 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSnVkTzR0N1dabkI2WmxOVkpBWlhxdlBGdUUzeHRTc2lBRTdHNmlmdDhqWnkzR2tZenBxdl9IZUVuWl9CSnJ1YmdCa1lFQjBpRkM1a0lvSmFZSHI2QUxuQ1JJTFlyNmNwb0g0YklVbXJ0R2NSc0lSbGRzeXg3MEVOdUZzdjBOcTVlNzliQVpJUUl2c1NLWk9kYUpKQ3dyS3NqNkVIdG43a0dqWGJHb1pwRWxXZ1NQbmxHNVlQZkJCYlE?oc=5",
         "source": "Consultor Jurídico",
         "published_iso": "2026-09-19T07:00:00Z"
-      },
-      {
-        "title": "Leilão marcado! Aeroporto de Brasília pode ganhar novo terminal internacional e edifício-garagem - Melhores Destinos",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tMURkWjk2andyd1JuSi1uNUFrQUpZYWYxVmtrM1RvMERETTY5U2dadmdwMW5Qbk94d19OQzZ4Y3BZMWc3d0tkcnZuX1UteHVkcTlIMWQ0OVRqU0hWdHRJY25LeVdiUTR3T2VCWmVpYXBaS3ItbkhMeQ?oc=5",
-        "source": "Melhores Destinos",
-        "published_iso": "2026-09-10T07:00:00Z"
-      },
-      {
-        "title": "Leilão para nova concessão do Aeroporto de Brasília será em dezembro; veja detalhes do edital - G1",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUk9WYVBwSjI5SkdXUTF2bUJGS2xrZF9LSTM4WWtVUktMbzhHeWNQTGlaS0xYY25TQVNwbG40em1SV1MyY0c4cldyS0lSR19Yem5DVlhYakdXcHpZM28tX19LeTRIMHgxS2FkT0lnVWFZOTJJR3pSZF81SGhNdm1qRE0yc29jaFBZaVk1UHZUTldXanJ5cDZzajZ1WkNfQ2xnRkNfYXM0Y1dtSlVPUU1lRU1XOWtCLVZadGtTcDZNc3pJMUh2RmFscnRhUjhBRV9TRTA1bmxGQ2lqbXRDUlg5N0swUGZWWXpXYUpCMGU1Z9IB_gFBVV95cUxQcjI2WWlwUWVDNS1VYmVNREM1NGhoZEFuTFRTU2hoODRTSjJ0T2UwTnZOX1NEOHNxbDl6ZTJuRTRPams2SnNXRndNdHdwamVrNUNZb3Qwb2NkUmJTUFF4bmo0TE96dXpTcFhnY1l5VHo1b1AzM0lWSlpaZWxNbl9DYlVVa0dFU3BGbGNUWjZHampxV3FhM0RUb1V2cWZ0Y1FpS09JRWNhbWtqaGtOS01sZjVuRV94a0FiNjI5bU40SERMSnpuRzJSTGdUay0wNFgwQ3lLLXNCaVpZUkhCTU5xZHBZRTJ6WkdXZ3cwMjl6T1JaeTduQk0wRWIxT3B1UQ?oc=5",
-        "source": "G1",
-        "published_iso": "2026-09-09T07:00:00Z"
-      },
-      {
-        "title": "ANAC marca leilão do Aeroporto de Brasília para 17 de dezembro - Agência iNFRA",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeS1keE9IRWdVT01wQkR0NjYyU0NER0hOa0cyZlBrTmZFM1V2aXdjNk5BYW5ndTRUVWRmM0UwYUZMMDRMcEM1a2hNcFB6QlFDRFRLUzRBcENTVkRfbzFYUmE1UlUwVE1IdXBuby0wUGs0RE8tcEpoeDBLZTI3M3V5eFBhWWNYZ3ZqMXF0ckhmNEU2R1ppU1VsZg?oc=5",
-        "source": "Agência iNFRA",
-        "published_iso": "2026-09-09T07:00:00Z"
       }
     ],
     "aa2000": [
+      {
+        "title": "Efecto Flybondi: Argentina fue el único mercado donde se debilitó el negocio de aeropuertos de Eurnekian - Bloomberg Línea",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcDBidzVWZXUwZVNUSFlxVFhLaUFoSS15NlEzVllDRkJTMm9ZLU5wV1llRGtENVRHdEpCWmZjaFNpM3N1MTVaejdMWVNtMUhNdDR1bXc3T1M2TXNLcGIwa3VUVDlmUUxxY0FyTmhWZ0sxQmlEQ0FwVW1Ic0dCTlZPZ2Z2ODRzQ3d4ekZUeXg2OFBuVFByWTIwRkd3OWQ2RzcxRklBdkNaMnRiVGdGbVR3OVdSaFhaa2lJQnpjdHFsRkstTXV1RTAwZmFEazJxNk1tZlNKd1VMMFlENjgxUzBWSHAyLVJVaWlodTZ3aTZvZXjSAYQCQVVfeXFMTVJvX3FCNTBMMThLVkJ0V29mU3FwVFZOXzFiZFdWYzVlcTE1S0JGVHNPVlZZbUtHaXhvT1ItZ3ZoRzJ0M0otcEZHRkJDdWJ2RDZZQUY4c3BYbmJobHVkT2FIaWZSQ1dIb3dYSlJzNFpidUw3eFcxejQ1QUstdmpRY2ZzTmkyWFFkaHEzOF9rY2NkalJ0Z2g0MnhGR1B3S2w3cklXMGxCbVBDTlRJUDVtazBqVm92SXhQbWs1ZDVyMkhNVzczNE9GT2xrODdQRjRUbXpFV01MRTkwdE9TbGc2RFlzLWZTMGItelNZWVBRdUlyZWRHWTAxUml2ZlRyVkNsZ3BPT24?oc=5",
+        "source": "Bloomberg Línea",
+        "published_iso": "2026-11-27T09:15:00Z"
+      },
+      {
+        "title": "Efecto Flybondi: Argentina, el único mercado donde cayó el negocio aeroportuario de Eurnekian - Rosario Finanzas",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFZ0MF8zQmFUY18xY2ZmU2RsenNaSjBiQjRsZXJMMU05YW5RR1ZJcEh2WURTR2l4LTBYWmRaZzZTSndQOFl4bk13TVFNbzBBZk5rS3kwNTZ1UmpfeTR1SzNwZ01qdW5Ya2ltOEhnWlB2ZTRrT1lKUnQtMG82WDNmNkZxT2ZSLTJWYU5KSFE1cW11cUlQMTFoS25ncDhBT1JCZVdETFVST0RqSnl5Y25JVllQRFNBRnNySTFuUC01OXNaMXhWR0E?oc=5",
+        "source": "Rosario Finanzas",
+        "published_iso": "2026-11-27T09:15:00Z"
+      },
       {
         "title": "Aeropuertos Argentina invertirá USD 1 millón para duplicar la capacidad de embarque en Paraná - Aviacionline",
         "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPZWRReEFXTWFMVjFNcWpoZS1TOFhqWE4yVXJYc2NFWVUwQWRCN0tleW5sRTl2YjRScHJpOWp2aDZ6OGFzaDFKck4yS2JCeTMtVk1uMG5lMHFiZDJKRFpuVkM1emVLZHA2Ql95Tmt6UmpkeXdKSXc4dHptWmpVYk9KUUxINGVBNU52Nzc1bTkxRHV5UWtfU2l0Mml2VHhpcC1rNGJscmktTVcxTWhWenFTSmJ1WlhjM1ZWcnhtY3FwX3h0Nk1BOE5acUdJd2xVS3ZnWnZjVDJWTUl3WEJQSzRHT1BUMGFmN1BKVWVXQmFQczRtMzJGOE1sVUhOcm1NUVVQSk9leTdTR3IyMUthM0ZRWUJiMWlUNWotTVBEcnBXVUVWVWZYRHY3am9yLWgyUnV1SklGLVFuYmsxMjdGemZjR0M2Z2U2N0UzaEE4YnlqV09mWXg0REg4?oc=5",
@@ -54,18 +66,6 @@
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLVRSazRnc0YyQWlHLXo3SEtmbWlrVEduTjlnYVlKV3U5a050N3lwWUV3dFlMUXJxUFZ1MGk3Yl82ZTZWZklRN3JxY24yclVLZEdFQ282UGJLSU1uc2IydlFQNnliYTRTWDBELUFMS01DaExMUkNIWW9jY1ZiOGhfNmxWUUk0c1NZTUEyekJSRkVGRWZvZF9uaVY3NVMyY29RczNKbkJQTER2OHhyLVVrYW9QY082RldQUW9pZHNwMVlIczVwaWhJc29WYVBQM01GQ0HSAewBQVVfeXFMT3ExS2YwczZXRUFaZG5QUFViWHdQODR6aEZKRlVpQTJqUHR1RkF5MjVsQUd2bUI3T1ZGTHdTWlQ2RjFwOGljUm96Y2wteVZaWllFekNxSEZLQmloalkxOW94M1M1b0RDSDI2N25RcnNmRzZETm11M0hOOXY5WWxGN2drdDBXa0RLeE5WMXh4TXFPOUxuQ0pscFRaSlNUc1VuRTQzeW45SU5pLVVKVWQ5WEplX0p0MF92SEl3TFh2MW5JTEZWQWxqUGZyZnVVOFgyN2szQUdINml2QkpGbjluUS02VGJTWFlicHJwaHg?oc=5",
         "source": "El Cronista",
         "published_iso": "2026-11-25T00:05:41Z"
-      },
-      {
-        "title": "Aeropuertos Argentina Cargas fortalece su infraestructura logística con nuevas obras en Ezeiza - Daily Travelling News",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUUdubTBhemR2YVVDbXdOYk9Oang3akJoX19YMHZILTNaQzBqem9POUFZOE00bDRLZGJRLXRDN1loR3lBN082N1ZRQWV3Z2xnYWtpX1FkRGFmTkxVZ2ZFMlFDUlNzUGZPT2lJZ1BrWDVYSVZhZnB6aFFPY0MwcjJLbHJCVzRmajhPTjhYUGUteEVLNWszUnV6dFVmSmU5QzhMLWt6Vmc3Z3Y4WjJVRmp5NmR4VVpKcl9fb2tmTkZvMGNmN2J5VnRHOUZPX2VMaWRJLThLMDVybWVoVWs?oc=5",
-        "source": "Daily Travelling News",
-        "published_iso": "2026-11-23T15:04:00Z"
-      },
-      {
-        "title": "Aeropuertos Argentina Cargas inauguró nueva Terminal Única de Courier en Ezeiza - Aviación News",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY01QNV9SaE81amYwUTRDdkFQeTN2UDZGSTVpZGl1akllM2FQLS0xNklidnhpbjRoUUhJSlE2cGRfdDdhMWJTTEpzUVU1ejZTZ2lFY0txVDRuOGRueHhSbjF6emVJRUdKTzFfNFBiRjJrNDV6M3dRaFlDZzdlRTF5bWZ6OU45enJFX1hzeEh0LTBJeXVEVUEzaWVhSVJ4Q2RuamlYTWFXRHh6alEyQ3lhSkg1c0NYUnJ2?oc=5",
-        "source": "Aviación News",
-        "published_iso": "2026-11-20T20:00:35Z"
       }
     ]
   }
