@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-11-27T19:47:34Z",
+  "updated_at": "2026-11-28T18:43:41Z",
   "status": "ok",
   "source": "Google News RSS",
   "source_url": "https://news.google.com/search?q=Armenia%20Azerbaijan%20peace",
   "headlines": [
     {
-      "title": "Azerbaijan-Armenia Normalization: Emerging Prospects and the Implementation of TRIPP - Caspian Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOczhQazc3TWNzYjhWWWhfaU9fa2FnVHNUVnMxeTN5cjgzZTB5bVJoUFc4cUdONmEza3pfUWFXanlLRDhOSEhOYmlVQ0xTeE5ETHNPWTdrS1MxN09tQWtjckZpaFBwV193SmY5WFU2ZlZVbFlucmZCOFZ4a0lMWGhNc3M2Yjc2SkV6Si0yX0g0azM4YWZXanhDcFRacVRQOWQ0WE9xZW1nTEo3OXU4aEZQWGM2SHpkdzg?oc=5",
-      "source": "Caspian Post",
-      "published_iso": "2026-11-27T19:00:21Z"
+      "title": "Armenia’s peace process faces pressure from an unresolved political legacy - AzerNews",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91WkgwbUJ3U19WWGl5TXVQWFQ3X3hqYnZIVnlza3NiZkg4NHFoQjRXM0NPRWRPZDd1bVFYZmZHcUlETUxtQ2N0WFFvaWZUamg0QVdIZzg4RQ?oc=5",
+      "source": "AzerNews",
+      "published_iso": "2026-11-28T14:24:00Z"
+    },
+    {
+      "title": "Tsarukyan's party appeals to ECHR over Armenian parliamentary election results - Apa.az",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUk8wdlZwZXNoMk0xVlA2Rm5FY2pYZ201UFRiT2g1c1JzMEUzdlI5cmF4UWpjLXdqc3d5TlBOc2k1aXZBUXg4TW8zclFFYi1uMnc2MXExUUlrenZmU2Q0SUkwRnEyVlRBSmYzZFY4S2dPOFY3VzdUdlE3aFJ6cFBkbVNLU3k1STJTRmFoNVJNMXVFU3JVWHNwSWhva25DS0NDMmt0dXdPS0NDWHp5ZGRNSDlwdXQ2ZVE?oc=5",
+      "source": "Apa.az",
+      "published_iso": "2026-11-28T14:00:00Z"
     },
     {
       "title": "Azerbaijani and Armenian civil societies seek 'new history' for region - Euronews.com",
@@ -23,22 +29,16 @@
       "published_iso": "2026-11-27T14:33:00Z"
     },
     {
-      "title": "Pashinyan, Putin to discuss security and Russian military base in Armenia, Kremlin Says - Public Radio of Armenia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWFBb08tWWx2aHl4aEU0ZklwNFZIZWFVRHRNLUt1ZXBfM1lvbXUtbUpzSElvMl9GS0FpTDd1c0lLWmtvbGJ6cEJCZ2xZUGppU3FqRU1ydWZQdHk3VlJFTWJ4NUZUWnFoeXFYMGlzbUhDQWdNU1BWSHR6Nzd2VTk1SVIwMVVYMHZuSENQbFNoT1lJdEZUck9HZ0VlckhGU1gydi1RNl91bVhOaDkwdFBYNVZkdkl6YnEwclgySA?oc=5",
-      "source": "Public Radio of Armenia",
-      "published_iso": "2026-11-27T12:45:15Z"
-    },
-    {
       "title": "Azerbaijan's Zangezur Corridor project enters final stages, MP says - AzerNews",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tQTJFWlNjLW5WcHlOd1FEVkoyZHZPOV9sR0NZQ0x4MkNvUElVR2VTWjkybmlyanhaY2dyLVBrZTI2STE1cEhvemd3ZmtPTEs2MmhlczgwWQ?oc=5",
       "source": "AzerNews",
       "published_iso": "2026-11-27T10:36:00Z"
     },
     {
-      "title": "Pashinyan defends constitution changes that would allow citizenship stripping - OC Media",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ05aWnJCWWd3bXlqa0Y1UjRqS3VkN2xFcHZOUGc2djF2TnpreWVOZDVIUm1TaDdkQXRZWEVZNU9xeGpuSnNKV2xQZXVKLUx0eDJfbkhrbjllM2ExajdnRVVCbGhnWFlTYUw2bFg3cVRqLXJ4OG5UUHVGS0NoRHVxb1RZU195WlRjTUh4LTNtMS1oWTNLUFVScVdzeFk0Z041?oc=5",
-      "source": "OC Media",
-      "published_iso": "2026-11-27T10:17:00Z"
+      "title": "Armenia-Azerbaijan \"Peace Bridge\" back on track - commonspace.eu",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DQ0dETTdjU05PYWU0cl9BSE9wcHN6alNvb0lvcmszTzY2cFhXcUpxelpCTVZVTDg0TVhCZGFSVjJzNXNrMnJPNEJKNXY1QQ?oc=5",
+      "source": "commonspace.eu",
+      "published_iso": "2026-11-27T07:00:53Z"
     }
   ]
 }
